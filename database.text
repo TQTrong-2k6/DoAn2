@@ -1,0 +1,101 @@
+{
+  "pc": {
+      "pcGaming": [
+        
+      ],
+
+      "pcWork2D3D":[
+
+      ],
+      "pcAMDGaming":[
+
+      ],
+
+      "pcMINI":[
+        
+      ],
+
+      "pcOffice":[
+
+      ]
+    },
+
+    "computerComponents": {
+      "CPU":[
+
+      ],
+      "Mainboard": [
+
+      ],
+      "VGA": [
+        
+      ],
+      "source":[
+
+      ],
+      "case": [
+
+      ],
+      "heatDissipation":[
+
+      ],
+      "disk":[
+        
+      ]
+    },
+    
+    "screen": [
+      
+    ],
+    
+    "gaminggear": {
+      "streamDevice":[
+
+      ],
+      "keyBoard":[
+
+      ],
+      "mouse":[
+
+      ],
+      "gamingHeadphones":[
+
+      ],
+      "gamingConsole":[
+
+      ],
+      "gamingChair":[
+
+      ],
+      "micro":[
+
+      ],
+      "accessory":[
+
+      ]
+    },
+    
+    "laptop": {
+      "laptopGaming":[
+
+      ],
+      "laptopOffice":[
+
+      ],
+      "laptopDesign":[
+        
+      ]
+    },
+      
+    "other": {
+      "computerSpeakers":[
+
+      ],
+      "networkCard":[
+
+      ],
+      "software":[
+        
+      ]
+    }
+}
