@@ -143,12 +143,12 @@
                 </div>
             </div>
         </div>
-        <div class="heder-mid">
+        <div class="header-mid">
             <div class="container">
                 <div class="group">
                     <div class="header-main">
                         <a href="./index.html" class="header-logo">
-                            <img src="../Logo/logo_ttgshop-logo-27122025-1.png" width="169" height="60" alt="TTG" srcset="">
+                            <img src="../Logo/LogoWebsite.png" width="169" height="60" alt="TTG" srcset="">
                         </a>
                         <div class="header-search">
                             <form class="search-bar-form" action="">
@@ -532,17 +532,17 @@
                                             <ul class="nav-brand-list">
                                                 <li>
                                                     <a href="./index.html" class="nav-brand-item">
-                                                        <img src="../Logo/Brand-logo/colorful-removebg-preview.png" alt="" style="width: auto; max-height: 38px;">
+                                                        <img src="../Logo/Brand-logo/colorful-removebg-preview.png" alt="Colorful" style="width: auto; max-height: 38px;">
                                                     </a>
                                                 </li>
                                                 <li>
                                                     <a href="./index.html" class="nav-brand-item">
-                                                        <img src="../Logo/Brand-logo/brand_corsair_icon_157989.png" alt="" style="width: auto; max-height: 38px;">
+                                                        <img src="../Logo/Brand-logo/brand_corsair_icon_157989.png" alt="Corsair" style="width: auto; max-height: 38px;">
                                                     </a>
                                                 </li>
                                                 <li>
                                                     <a href="./index.html" class="nav-brand-item">
-                                                        <img src="../Logo/Brand-logo/ADATA-Logo.png" alt="" style="width: auto; max-height: 38px;">
+                                                        <img src="../Logo/Brand-logo/ADATA-Logo.png" alt="ADATA" style="width: auto; max-height: 38px;">
                                                     </a>
                                                 </li>
                                                 <li>
@@ -552,17 +552,17 @@
                                                 </li>
                                                 <li>
                                                     <a href="./index.html" class="nav-brand-item">
-                                                        <img src="../Logo//Brand-logo/brand_amd_icon_158022.png" alt="" style="width: auto; max-height: 38px;">
+                                                        <img src="../Logo//Brand-logo/brand_amd_icon_158022.png" alt="AMD" style="width: auto; max-height: 38px;">
                                                     </a>
                                                 </li>
                                                 <li>
                                                     <a href="./index.html" class="nav-brand-item">
-                                                        <img src="../Logo//Brand-logo/antec.png" alt="" style="width: auto; max-height: 38px;">
+                                                        <img src="../Logo//Brand-logo/antec.png" alt="Antec" style="width: auto; max-height: 38px;">
                                                     </a>
                                                 </li>
                                                 <li>
                                                     <a href="./index.html" class="nav-brand-item">
-                                                        <img src="../Logo//Brand-logo/86-removebg-preview.png" alt="" style="width: auto; max-height: 38px;">
+                                                        <img src="../Logo//Brand-logo/86-removebg-preview.png" alt="Apacer" style="width: auto; max-height: 38px;">
                                                     </a>
                                                 </li>
                                                 <li>
@@ -572,7 +572,7 @@
                                                 </li>
                                                 <li>
                                                     <a href="./index.html" class="nav-brand-item">
-                                                        <img src="../Logo//Brand-logo/asrock-cua-nuoc-nao-2-scaled.png" alt="" style="width: auto; max-height: 38px;">
+                                                        <img src="../Logo//Brand-logo/asrock-cua-nuoc-nao-2-scaled.png" alt="Asrock" style="width: auto; max-height: 38px;">
                                                     </a>
                                                 </li>
                                                 <li>
@@ -592,7 +592,7 @@
                                                 </li>
                                                 <li>
                                                     <a href="./index.html" class="nav-brand-item">
-                                                        <img src="../Logo//Brand-logo/LOGO-COOLER-MASTER_FUJI-1400x700.png" alt="" style="width: auto; max-height: 38px;">
+                                                        <img src="../Logo//Brand-logo/LOGO-COOLER-MASTER_FUJI-1400x700.png" alt="Cooler Master" style="width: auto; max-height: 38px;">
                                                     </a>
                                                 </li>
                                                 <li>
@@ -602,12 +602,12 @@
                                                 </li>
                                                 <li>
                                                     <a href="./index.html" class="nav-brand-item">
-                                                        <img src="../Logo//Brand-logo/darkFlash__1_-removebg-preview.png" alt="" style="width: auto; max-height: 38px;">
+                                                        <img src="../Logo//Brand-logo/darkFlash__1_-removebg-preview.png" alt="DarkFlash" style="width: auto; max-height: 38px;">
                                                     </a>
                                                 </li>
                                                 <li>
                                                     <a href="./index.html" class="nav-brand-item">
-                                                        <img src="../Logo//Brand-logo/DeepCool_Shop_by_Brand_Logo_1.png" alt="" style="width: auto; max-height: 38px;">
+                                                        <img src="../Logo//Brand-logo/DeepCool_Shop_by_Brand_Logo_1.png" alt="DeepCool" style="width: auto; max-height: 38px;">
                                                     </a>
                                                 </li>
                                                 <li>
@@ -627,7 +627,7 @@
                                                 </li>
                                                 <li>
                                                     <a href="./index.html" class="nav-brand-item">
-                                                        <img src="../Logo//Brand-logo/galax.png" alt="" style="width: auto; max-height: 38px;">
+                                                        <img src="../Logo//Brand-logo/galax.png" alt="Galax" style="width: auto; max-height: 38px;">
                                                     </a>
                                                 </li>
                                             </ul>
@@ -768,12 +768,12 @@
                                             <ul class="nav-brand-list">
                                                 <li>
                                                     <a href="./index.html" class="nav-brand-item">
-                                                        <img src="../Logo//Brand-logo/acer-logo-icon.png" alt="" style="width: auto; max-height: 38px;">
+                                                        <img src="../Logo//Brand-logo/acer-logo-icon.png" alt="Acer" style="width: auto; max-height: 38px;">
                                                     </a>
                                                 </li>
                                                 <li>
                                                     <a href="./index.html" class="nav-brand-item">
-                                                        <img src="../Logo/Brand-logo/aoc-logo-png_seeklogo-211542.png" alt="ASUS" style="width: auto; max-height: 38px;">
+                                                        <img src="../Logo/Brand-logo/aoc-logo-png_seeklogo-211542.png" alt="AOC" style="width: auto; max-height: 38px;">
                                                     </a>
                                                 </li>
                                                 <li>
@@ -783,12 +783,12 @@
                                                 </li>
                                                 <li>
                                                     <a href="./index.html" class="nav-brand-item">
-                                                        <img src="../Logo/Brand-logo/benq-removebg-preview.png" alt="ASUS" style="width: auto; max-height: 38px;">
+                                                        <img src="../Logo/Brand-logo/benq-removebg-preview.png" alt="Benq" style="width: auto; max-height: 38px;">
                                                     </a>
                                                 </li>
                                                 <li>
                                                     <a href="./index.html" class="nav-brand-item">
-                                                        <img src="../Logo/Brand-logo/dell-1-logo-png-transparent.png" alt="ASUS" style="width: auto; max-height: 38px;">
+                                                        <img src="../Logo/Brand-logo/dell-1-logo-png-transparent.png" alt="Dell" style="width: auto; max-height: 38px;">
                                                     </a>
                                                 </li>
                                                 <li>
@@ -798,12 +798,12 @@
                                                 </li>
                                                 <li>
                                                     <a href="./index.html" class="nav-brand-item">
-                                                        <img src="../Logo/Brand-logo/e-dra_logo-removebg-preview.png" alt="ASUS" style="width: auto; max-height: 38px;">
+                                                        <img src="../Logo/Brand-logo/e-dra_logo-removebg-preview.png" alt="E-dra" style="width: auto; max-height: 38px;">
                                                     </a>
                                                 </li>
                                                 <li>
                                                     <a href="./index.html" class="nav-brand-item">
-                                                        <img src="../Logo/Brand-logo/gigabyte-logo-png_seeklogo-398170.png" alt="ASUS" style="width: auto; max-height: 38px;">
+                                                        <img src="../Logo/Brand-logo/gigabyte-logo-png_seeklogo-398170.png" alt="Gigabyte" style="width: auto; max-height: 38px;">
                                                     </a>
                                                 </li>
                                                 <li>
@@ -813,17 +813,17 @@
                                                 </li>
                                                 <li>
                                                     <a href="./index.html" class="nav-brand-item">
-                                                        <img src="../Logo/Brand-logo/LG-logo.png" alt="ASUS" style="width: auto; max-height: 38px;">
+                                                        <img src="../Logo/Brand-logo/LG-logo.png" alt="LG" style="width: auto; max-height: 38px;">
                                                     </a>
                                                 </li>
                                                 <li>
                                                     <a href="./index.html" class="nav-brand-item">
-                                                        <img src="../Logo/Brand-logo/msi-logo-removebg-preview.png" alt="ASUS" style="width: auto; max-height: 38px;">
+                                                        <img src="../Logo/Brand-logo/msi-logo-removebg-preview.png" alt="MSI" style="width: auto; max-height: 38px;">
                                                     </a>
                                                 </li>
                                                 <li>
                                                     <a href="./index.html" class="nav-brand-item">
-                                                        <img src="../Logo/Brand-logo/samsung-logo.png" alt="ASUS" style="width: auto; max-height: 38px;">
+                                                        <img src="../Logo/Brand-logo/samsung-logo.png" alt="Samsung" style="width: auto; max-height: 38px;">
                                                     </a>
                                                 </li>
                                                 <li>
@@ -935,12 +935,12 @@
                                                 </li>
                                                 <li>
                                                     <a href="./index.html" class="nav-brand-item">
-                                                        <img src="../Logo/Brand-logo/dareu-Logo.png" alt="ASUS" style="width: auto; max-height: 38px;">
+                                                        <img src="../Logo/Brand-logo/dareu-Logo.png" alt="Dareu" style="width: auto; max-height: 38px;">
                                                     </a>
                                                 </li>
                                                 <li>
                                                     <a href="./index.html" class="nav-brand-item">
-                                                        <img src="../Logo/Brand-logo/e-dra_logo-removebg-preview.png" alt="ASUS" style="width: auto; max-height: 38px;">
+                                                        <img src="../Logo/Brand-logo/e-dra_logo-removebg-preview.png" alt="E-dra" style="width: auto; max-height: 38px;">
                                                     </a>
                                                 </li>
                                                 <li>
@@ -955,7 +955,7 @@
                                                 </li>
                                                 <li>
                                                     <a href="./index.html" class="nav-brand-item">
-                                                        <img src="../Logo/Brand-logo/Logitech-Logo.wine.png" alt="ASUS" style="width: auto; max-height: 38px;">
+                                                        <img src="../Logo/Brand-logo/Logitech-Logo.wine.png" alt="Logitech" style="width: auto; max-height: 38px;">
                                                     </a>
                                                 </li>
                                                 <li>
@@ -1069,7 +1069,7 @@
                                             <ul class="nav-brand-list">
                                                 <li>
                                                     <a href="./index.html" class="nav-brand-item">
-                                                        <img src="../Logo/Brand-logo/acer-logo-icon.png" alt="ASUS" style="width: auto; max-height: 38px;">
+                                                        <img src="../Logo/Brand-logo/acer-logo-icon.png" alt="ACER" style="width: auto; max-height: 38px;">
                                                     </a>
                                                 </li>
                                                 <li>
@@ -1079,7 +1079,7 @@
                                                 </li>
                                                 <li>
                                                     <a href="./index.html" class="nav-brand-item">
-                                                        <img src="../Logo/Brand-logo/gigabyte-logo-png_seeklogo-398170.png" alt="ASUS" style="width: auto; max-height: 38px;">
+                                                        <img src="../Logo/Brand-logo/gigabyte-logo-png_seeklogo-398170.png" alt="Gigabyte" style="width: auto; max-height: 38px;">
                                                     </a>
                                                 </li>
                                                 <li>
@@ -1089,7 +1089,7 @@
                                                 </li>
                                                 <li>
                                                     <a href="./index.html" class="nav-brand-item">
-                                                        <img src="../Logo/Brand-logo/msi-logo-removebg-preview.png" alt="ASUS" style="width: auto; max-height: 38px;">
+                                                        <img src="../Logo/Brand-logo/msi-logo-removebg-preview.png" alt="MSI" style="width: auto; max-height: 38px;">
                                                     </a>
                                                 </li>
                                             </ul>
@@ -1143,4 +1143,941 @@
             </div>
         </div>
     `
-})()
+})();
+
+(function (){
+    document.querySelector('.sticky-header').innerHTML =`
+        <div class="container" style="display:flex; justify-content: space-between; align-items:center; gap:16px; height:100%;">
+            <div class="header-navbar" style="position: relative;">
+                <button class="navbar-btn">
+                    <i class="fa-solid fa-bars"></i>
+                    <span>DANH MỤC SẢN PHẨM</span>
+                </button>
+                <div class="navbar-list">
+                    <div class="navbar-item">
+                        <a class="navbar-link">
+                            <p class="navbar-title">PC GAMING</p>
+                            <i class="fa-solid fa-angle-right"></i>
+                        </a>
+                        <div class="sub-menu">
+                            <div class="flex-1">
+                                <ul class="sub-list">
+                                    <li class="sub-item">
+                                        <div class="sub-item-1">
+                                            <a href="./index.html" class="sub-item-link">
+                                                <span>PC GAMING GIÁ RẺ</span>
+                                            </a>
+                                        </div>
+                                    </li>
+                                    <li class="sub-item">
+                                        <div class="sub-item-1">
+                                            <a href="./index.html" class="sub-item-link">
+                                                <span>PC STREAM GAME</span>
+                                            </a>
+                                        </div>
+                                    </li>
+                                    <li class="sub-item">
+                                        <div class="sub-item-1">
+                                            <a href="./index.html" class="sub-item-link">
+                                                <span>PC GAMING PREMIUM</span>
+                                            </a>
+                                        </div>
+                                    </li>
+                                    <li class="sub-item">
+                                        <div class="sub-item-1">
+                                            <a href="./index.html" class="sub-item-link">
+                                                <span>PC Core Ultra</span>
+                                            </a>
+                                        </div>
+                                    </li>
+                                    <li class="sub-item">
+                                        <div class="sub-item-1">
+                                            <a href="./index.html" class="sub-item-link">
+                                                <span>PC GAMING CAO CẤP</span>
+                                            </a>
+                                        </div>
+                                    </li>
+                                    <li class="sub-item">
+                                        <div class="sub-item-1">
+                                            <a href="./index.html" class="sub-item-link">
+                                                <span>PC ĐẸP</span>
+                                            </a>
+                                        </div>
+                                    </li>
+                                </ul>
+                                <div class="navbar-brand" style="margin-top: auto; float: left; width: 100%;">
+                                    <ul class="nav-brand-list">
+                                        <li>
+                                            <a href="./index.html" class="nav-brand-item">
+                                                <img src="../Logo/Brand-logo/asus_logo_icon_168565.png" alt="ASUS" style="width: auto; max-height: 38px;">
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="./index.html" class="nav-brand-item">
+                                                <span>Khác</span>
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="navbar-banner" style="width: 156px;">
+                                <a href="./index.html" target="_blank">
+                                    <img src="../Image/ttgshop-menu-banner-pc-gaming-09012026-1.jpg" alt="Banner" width="156px" height="506px" style="object-fit: cover;">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="navbar-item">
+                        <a class="navbar-link">
+                            <p class="navbar-title">PC WORKSTATION 2D 3D</p>
+                            <i class="fa-solid fa-angle-right"></i>
+                        </a>
+                        <div class="sub-menu">
+                            <div class="flex-1">
+                                <ul class="sub-list">
+                                    <li class="sub-item">
+                                        <div class="sub-item-1">
+                                            <a href="./index.html" class="sub-item-link">
+                                                <span>PC Machine Learning / AI</span>
+                                            </a>
+                                        </div>
+                                    </li>
+                                    <li class="sub-item">
+                                        <div class="sub-item-1">
+                                            <a href="./index.html" class="sub-item-link">
+                                                <span>PC Architecture - CAD</span>
+                                            </a>
+                                        </div>
+                                    </li>
+                                    <li class="sub-item">
+                                        <div class="sub-item-1">
+                                            <a href="./index.html" class="sub-item-link">
+                                                <span>PC RENDERING</span>
+                                            </a>
+                                        </div>
+                                    </li>
+                                    <li class="sub-item">
+                                        <div class="sub-item-1">
+                                            <a href="./index.html" class="sub-item-link">
+                                                <span>PC 3D DESIGN - Animation</span>
+                                            </a>
+                                        </div>
+                                    </li>
+                                    <li class="sub-item">
+                                        <div class="sub-item-1">
+                                            <a href="./index.html" class="sub-item-link">
+                                                <span>PC PHOTO EDITING</span>
+                                            </a>
+                                        </div>
+                                    </li>
+                                    <li class="sub-item">
+                                        <div class="sub-item-1">
+                                            <a href="./index.html" class="sub-item-link">
+                                                <span>PC VIDEO EDITING</span>
+                                            </a>
+                                        </div>
+                                    </li>
+                                </ul>
+                                <div class="navbar-brand" style="margin-top: auto; float: left; width: 100%;">
+                                    <ul class="nav-brand-list">
+                                        <li>
+                                            <a href="./index.html" class="nav-brand-item">
+                                                <span>Khác</span>
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="navbar-banner" style="width: 156px;">
+                                <a href="./index.html" target="_blank">
+                                    <img src="../Image/ttgshop-menu-banner-pc-wordstation-09012026-1.jpg" alt="Banner" width="156px" height="506px" style="object-fit: cover;">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="navbar-item">
+                        <a class="navbar-link">
+                            <p class="navbar-title">PC AMD GAMING</p>
+                        </a>
+                    </div>
+                    <div class="navbar-item">
+                        <a class="navbar-link">
+                            <p class="navbar-title">PC MINI</p>
+                        </a>
+                    </div>
+                    <div class="navbar-item">
+                        <a class="navbar-link">
+                            <p class="navbar-title">PC VĂN PHÒNG</p>
+                            <i class="fa-solid fa-angle-right"></i>
+                        </a>
+                        <div class="sub-menu">
+                            <div class="flex-1">
+                                <ul class="sub-list">
+                                    <li class="sub-item">
+                                        <div class="sub-item-1">
+                                            <a href="./index.html" class="sub-item-link">
+                                                <span>PC DOANH NGHIỆP WINDOWS BẢN QUYỀN</span>
+                                            </a>
+                                        </div>
+                                    </li>
+                                </ul>
+                                <div class="navbar-brand" style="margin-top: auto; float: left; width: 100%;">
+                                    <ul class="nav-brand-list">
+                                        <li>
+                                            <a href="./index.html" class="nav-brand-item">
+                                                <span>Khác</span>
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="navbar-banner" style="width: 156px;">
+                                <a href="./index.html" target="_blank">
+                                    <img src="../Image/ttgshop-menu-banner-default-09012026-3.jpg" alt="Banner" width="156px" height="506px" style="object-fit: cover;">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="navbar-item">
+                        <a class="navbar-link">
+                            <p class="navbar-title">PC AI - TRÍ TUỆ NHÂN TẠO</p>
+                        </a>
+                    </div>
+                    <div class="navbar-item">
+                        <a class="navbar-link">
+                            <p class="navbar-title">Linh kiện máy tính</p>
+                            <i class="fa-solid fa-angle-right"></i>
+                        </a>
+                        <div class="sub-menu">
+                            <div class="flex-1">
+                                <ul class="sub-list">
+                                    <li class="sub-item">
+                                        <div class="sub-item-1">
+                                            <a href="./index.html" class="sub-item-link">
+                                                CPU
+                                            </a>
+                                        </div>
+                                        <div class="sub-item-2">
+                                            <a href="./index.html" class="sub-item-link">
+                                                CPU AMD
+                                            </a>
+                                        </div>
+                                        <div class="sub-item-2">
+                                            <a href="./index.html" class="sub-item-link">
+                                                CPU INTEL
+                                            </a>
+                                        </div>
+                                    </li>
+                                    <li class="sub-item">
+                                        <div class="sub-item-1">
+                                            <a href="./index.html" class="sub-item-link">
+                                                <span>Mainboard - Bo Mạch Chủ</span>
+                                            </a>
+                                        </div>
+                                        <div class="sub-item-2">
+                                            <a href="./index.html" class="sub-item-link">
+                                                Mainboard cho CPU AMD
+                                            </a>
+                                        </div>
+                                        <div class="sub-item-2">
+                                            <a href="./index.html" class="sub-item-link">
+                                                Mainboard cho CPU INTEL
+                                            </a>
+                                        </div>
+                                    </li>
+                                    <li class="sub-item">
+                                        <div class="sub-item-1">
+                                            <a href="./index.html" class="sub-item-link">
+                                                <span>RAM</span>
+                                            </a>
+                                        </div>
+                                    </li>
+                                    <li class="sub-item">
+                                        <div class="sub-item-1">
+                                            <a href="./index.html" class="sub-item-link">
+                                                <span>VGA - Card Màn Hình</span>
+                                            </a>
+                                        </div>
+                                        <div class="sub-item-2">
+                                            <a href="./index.html" class="sub-item-link">
+                                                VGA Nvidia RTX 5000 Series
+                                            </a>
+                                        </div>
+                                        <div class="sub-item-2">
+                                            <a href="./index.html" class="sub-item-link">
+                                                VGA AMD
+                                            </a>
+                                        </div>
+                                        <div class="sub-item-2">
+                                            <a href="./index.html" class="sub-item-link">
+                                                VGA NVIDIA
+                                            </a>
+                                        </div>
+                                    </li>
+                                    <li class="sub-item">
+                                        <div class="sub-item-1">
+                                            <a href="./index.html" class="sub-item-link">
+                                                <span>Nguồn (PSU)</span>
+                                            </a>
+                                        </div>
+                                    </li>
+                                    <li class="sub-item">
+                                        <div class="sub-item-1">
+                                            <a href="./index.html" class="sub-item-link">
+                                                <span>Vỏ Case</span>
+                                            </a>
+                                        </div>
+                                    </li>
+                                    <li class="sub-item">
+                                        <div class="sub-item-1">
+                                            <a href="./index.html" class="sub-item-link">
+                                                <span>Tản Nhiệt</span>
+                                            </a>
+                                        </div>
+                                        <div class="sub-item-2">
+                                            <a href="./index.html" class="sub-item-link">
+                                                Tản Nhiệt Nước AIO
+                                            </a>
+                                        </div>
+                                        <div class="sub-item-2">
+                                            <a href="./index.html" class="sub-item-link">
+                                                Tản Nhiệt Khí
+                                            </a>
+                                        </div>
+                                        <div class="sub-item-2">
+                                            <a href="./index.html" class="sub-item-link">
+                                                Quạt Tản Nhiệt
+                                            </a>
+                                        </div>
+                                    </li>
+                                    <li class="sub-item">
+                                        <div class="sub-item-1">
+                                            <a href="./index.html" class="sub-item-link">
+                                                <span>Ổ Cứng (SSD, HDD)</span>
+                                            </a>
+                                        </div>
+                                        <div class="sub-item-2">
+                                            <a href="./index.html" class="sub-item-link">
+                                                Ổ Cứng HDD
+                                            </a>
+                                        </div>
+                                        <div class="sub-item-2">
+                                            <a href="./index.html" class="sub-item-link">
+                                                Ổ Cứng SSD
+                                            </a>
+                                        </div>
+                                    </li>
+                                </ul>
+                                <div class="navbar-brand" style="margin-top: auto; float: left; width: 100%;">
+                                    <ul class="nav-brand-list">
+                                        <li>
+                                            <a href="./index.html" class="nav-brand-item">
+                                                <img src="../Logo/Brand-logo/colorful-removebg-preview.png" alt="Colorful" style="width: auto; max-height: 38px;">
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="./index.html" class="nav-brand-item">
+                                                <img src="../Logo/Brand-logo/brand_corsair_icon_157989.png" alt="Corsair" style="width: auto; max-height: 38px;">
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="./index.html" class="nav-brand-item">
+                                                <img src="../Logo/Brand-logo/ADATA-Logo.png" alt="ADATA" style="width: auto; max-height: 38px;">
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="./index.html" class="nav-brand-item">
+                                                <span>AIGO</span>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="./index.html" class="nav-brand-item">
+                                                <img src="../Logo//Brand-logo/brand_amd_icon_158022.png" alt="AMD" style="width: auto; max-height: 38px;">
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="./index.html" class="nav-brand-item">
+                                                <img src="../Logo//Brand-logo/antec.png" alt="Antec" style="width: auto; max-height: 38px;">
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="./index.html" class="nav-brand-item">
+                                                <img src="../Logo//Brand-logo/86-removebg-preview.png" alt="Apacer" style="width: auto; max-height: 38px;">
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="./index.html" class="nav-brand-item">
+                                                <span>ASL</span>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="./index.html" class="nav-brand-item">
+                                                <img src="../Logo//Brand-logo/asrock-cua-nuoc-nao-2-scaled.png" alt="Asrock" style="width: auto; max-height: 38px;">
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="./index.html" class="nav-brand-item">
+                                                <img src="../Logo/Brand-logo/asus_logo_icon_168565.png" alt="ASUS" style="width: auto; max-height: 38px;">
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="./index.html" class="nav-brand-item">
+                                                <span>Centaur</span>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="./index.html" class="nav-brand-item">
+                                                <span>César</span>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="./index.html" class="nav-brand-item">
+                                                <img src="../Logo//Brand-logo/LOGO-COOLER-MASTER_FUJI-1400x700.png" alt="Cooler Master" style="width: auto; max-height: 38px;">
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="./index.html" class="nav-brand-item">
+                                                <span>Crucial</span>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="./index.html" class="nav-brand-item">
+                                                <img src="../Logo//Brand-logo/darkFlash__1_-removebg-preview.png" alt="DarkFlash" style="width: auto; max-height: 38px;">
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="./index.html" class="nav-brand-item">
+                                                <img src="../Logo//Brand-logo/DeepCool_Shop_by_Brand_Logo_1.png" alt="DeepCool" style="width: auto; max-height: 38px;">
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="./index.html" class="nav-brand-item">
+                                                <span>EINAREX</span>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="./index.html" class="nav-brand-item">
+                                                <span>FPS</span>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="./index.html" class="nav-brand-item">
+                                                <span>GAINWARD</span>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="./index.html" class="nav-brand-item">
+                                                <img src="../Logo//Brand-logo/galax.png" alt="Galax" style="width: auto; max-height: 38px;">
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="navbar-banner" style="width: 156px;">
+                                <a href="./index.html" target="_blank">
+                                    <img src="../Image/ttgshop-menu-banner-linh-kien-pc-09012026-1.jpg" alt="Banner" width="156px" height="506px" style="object-fit: cover;">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="navbar-item">
+                        <a class="navbar-link">
+                            <p class="navbar-title">Màn hình máy tính</p>
+                            <i class="fa-solid fa-angle-right"></i>
+                        </a>
+                        <div class="sub-menu">
+                            <div class="flex-1">
+                                <ul class="sub-list">
+                                    <li class="sub-item">
+                                        <div class="sub-item-1">
+                                            <a href="./index.html" class="sub-item-link">
+                                                Màn Hình Theo Nhu Cầu
+                                            </a>
+                                        </div>
+                                        <div class="sub-item-2">
+                                            <a href="./index.html" class="sub-item-link">
+                                                Màn Hình Cong
+                                            </a>
+                                        </div>
+                                        <div class="sub-item-2">
+                                            <a href="./index.html" class="sub-item-link">
+                                                Màn Hình Văn Phòng
+                                            </a>
+                                        </div>
+                                        <div class="sub-item-2">
+                                            <a href="./index.html" class="sub-item-link">
+                                                Màn Hình Đồ Họa
+                                            </a>
+                                        </div>
+                                        <div class="sub-item-2">
+                                            <a href="./index.html" class="sub-item-link">
+                                                MÀN HÌNH GAMING
+                                            </a>
+                                        </div>
+                                    </li>
+                                    <li class="sub-item">
+                                        <div class="sub-item-1">
+                                            <a href="./index.html" class="sub-item-link">
+                                                <span>Màn Hình Theo Kích Thước</span>
+                                            </a>
+                                        </div>
+                                    </li>
+                                    <li class="sub-item">
+                                        <div class="sub-item-1">
+                                            <a href="./index.html" class="sub-item-link">
+                                                <span>Tần Số Quét Màn Hình</span>
+                                            </a>
+                                        </div>
+                                    </li>
+                                    <li class="sub-item">
+                                        <div class="sub-item-1">
+                                            <a href="./index.html" class="sub-item-link">
+                                                <span>Độ Phân Giải Màn Hình</span>
+                                            </a>
+                                        </div>
+                                    </li>
+                                    <li class="sub-item">
+                                        <div class="sub-item-1">
+                                            <a href="./index.html" class="sub-item-link">
+                                                <span>Màn Hình Theo Hãng</span>
+                                            </a>
+                                        </div>
+                                        <div class="sub-item-2">
+                                            <a href="./index.html" class="sub-item-link">
+                                                Màn Hình Dark Flash
+                                            </a>
+                                        </div>
+                                        <div class="sub-item-2">
+                                            <a href="./index.html" class="sub-item-link">
+                                                Màn Hình Acer
+                                            </a>
+                                        </div>
+                                        <div class="sub-item-2">
+                                            <a href="./index.html" class="sub-item-link">
+                                                Màn Hình AOC
+                                            </a>
+                                        </div>
+                                        <div class="sub-item-2">
+                                            <a href="./index.html" class="sub-item-link">
+                                                Màn Hình BenQ
+                                            </a>
+                                        </div>
+                                        <div class="sub-item-2">
+                                            <a href="./index.html" class="sub-item-link">
+                                                Màn Hình Gigabyte
+                                            </a>
+                                        </div>
+                                        <div class="sub-item-2">
+                                            <a href="./index.html" class="sub-item-link">
+                                                Màn Hình Dell
+                                            </a>
+                                        </div>
+                                        <div class="sub-item-2">
+                                            <a href="./index.html" class="sub-item-link">
+                                                Màn Hình Samsung
+                                            </a>
+                                        </div>
+                                        <div class="sub-item-2">
+                                            <a href="./index.html" class="sub-item-link">
+                                                Màn Hình LG
+                                            </a>
+                                        </div>
+                                        <div class="sub-item-2">
+                                            <a href="./index.html" class="sub-item-link">
+                                                Màn Hình Viewsonic
+                                            </a>
+                                        </div>
+                                        <div class="sub-item-2">
+                                            <a href="./index.html" class="sub-item-link">
+                                                Màn Hình MSI
+                                            </a>
+                                        </div>
+                                        <div class="sub-item-2">
+                                            <a href="./index.html" class="sub-item-link">
+                                                Màn Hình ASUS
+                                            </a>
+                                        </div>
+                                        <div class="sub-item-2">
+                                            <a href="./index.html" class="sub-item-link">
+                                                Màn Hình EDRA
+                                            </a>
+                                        </div>
+                                    </li>
+                                </ul>
+                                <div class="navbar-brand" style="margin-top: auto; float: left; width: 100%;">
+                                    <ul class="nav-brand-list">
+                                        <li>
+                                            <a href="./index.html" class="nav-brand-item">
+                                                <img src="../Logo//Brand-logo/acer-logo-icon.png" alt="Acer" style="width: auto; max-height: 38px;">
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="./index.html" class="nav-brand-item">
+                                                <img src="../Logo/Brand-logo/aoc-logo-png_seeklogo-211542.png" alt="AOC" style="width: auto; max-height: 38px;">
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="./index.html" class="nav-brand-item">
+                                                <img src="../Logo/Brand-logo/asus_logo_icon_168565.png" alt="ASUS" style="width: auto; max-height: 38px;">
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="./index.html" class="nav-brand-item">
+                                                <img src="../Logo/Brand-logo/benq-removebg-preview.png" alt="Benq" style="width: auto; max-height: 38px;">
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="./index.html" class="nav-brand-item">
+                                                <img src="../Logo/Brand-logo/dell-1-logo-png-transparent.png" alt="Dell" style="width: auto; max-height: 38px;">
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="./index.html" class="nav-brand-item">
+                                                <span>DUAN</span>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="./index.html" class="nav-brand-item">
+                                                <img src="../Logo/Brand-logo/e-dra_logo-removebg-preview.png" alt="E-dra" style="width: auto; max-height: 38px;">
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="./index.html" class="nav-brand-item">
+                                                <img src="../Logo/Brand-logo/gigabyte-logo-png_seeklogo-398170.png" alt="Gigabyte" style="width: auto; max-height: 38px;">
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="./index.html" class="nav-brand-item">
+                                                <span>Lenovo</span>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="./index.html" class="nav-brand-item">
+                                                <img src="../Logo/Brand-logo/LG-logo.png" alt="LG" style="width: auto; max-height: 38px;">
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="./index.html" class="nav-brand-item">
+                                                <img src="../Logo/Brand-logo/msi-logo-removebg-preview.png" alt="MSI" style="width: auto; max-height: 38px;">
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="./index.html" class="nav-brand-item">
+                                                <img src="../Logo/Brand-logo/samsung-logo.png" alt="Samsung" style="width: auto; max-height: 38px;">
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="./index.html" class="nav-brand-item">
+                                                <span>SSTC</span>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="./index.html" class="nav-brand-item">
+                                                <span>Viewsonic</span>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="./index.html" class="nav-brand-item">
+                                                <span>Khác</span>
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="navbar-banner" style="width: 156px;">
+                                <a href="./index.html" target="_blank">
+                                    <img src="../Image/ttgshop-menu-banner-default-09012026-3.jpg" alt="Banner" width="156px" height="506px" style="object-fit: cover;">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="navbar-item">
+                        <a class="navbar-link">
+                            <p class="navbar-title">Gaming Gear</p>
+                            <i class="fa-solid fa-angle-right"></i>
+                        </a>
+                        <div class="sub-menu">
+                            <div class="flex-1">
+                                <ul class="sub-list">
+                                    <li class="sub-item">
+                                        <div class="sub-item-1">
+                                            <a href="./index.html" class="sub-item-link">
+                                                <span>Thiết Bị Stream</span>
+                                            </a>
+                                        </div>
+                                    </li>
+                                    <li class="sub-item">
+                                        <div class="sub-item-1">
+                                            <a href="./index.html" class="sub-item-link">
+                                                <span>Bàn Phím</span>
+                                            </a>
+                                        </div>
+                                    </li>
+                                    <li class="sub-item">
+                                        <div class="sub-item-1">
+                                            <a href="./index.html" class="sub-item-link">
+                                                <span>Chuột</span>
+                                            </a>
+                                        </div>
+                                    </li>
+                                    <li class="sub-item">
+                                        <div class="sub-item-1">
+                                            <a href="./index.html" class="sub-item-link">
+                                                <span>Tai Nghe Chơi Game</span>
+                                            </a>
+                                        </div>
+                                    </li>
+                                    <li class="sub-item">
+                                        <div class="sub-item-1">
+                                            <a href="./index.html" class="sub-item-link">
+                                                <span>Tay Cầm Chơi Game</span>
+                                            </a>
+                                        </div>
+                                    </li>
+                                    <li class="sub-item">
+                                        <div class="sub-item-1">
+                                            <a href="./index.html" class="sub-item-link">
+                                                <span>GHẾ GAMING</span>
+                                            </a>
+                                        </div>
+                                    </li>
+                                    <li class="sub-item">
+                                        <div class="sub-item-1">
+                                            <a href="./index.html" class="sub-item-link">
+                                                <span>Micro</span>
+                                            </a>
+                                        </div>
+                                    </li>
+                                    <li class="sub-item">
+                                        <div class="sub-item-1">
+                                            <a href="./index.html" class="sub-item-link">
+                                                <span>Phụ Kiện</span>
+                                            </a>
+                                        </div>
+                                    </li>
+                                </ul>
+                                <div class="navbar-brand" style="margin-top: auto; float: left; width: 100%;">
+                                    <ul class="nav-brand-list">
+                                        <li>
+                                            <a href="./index.html" class="nav-brand-item">
+                                                <span>AndaSeat</span>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="./index.html" class="nav-brand-item">
+                                                <img src="../Logo/Brand-logo/asus_logo_icon_168565.png" alt="ASUS" style="width: auto; max-height: 38px;">
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="./index.html" class="nav-brand-item">
+                                                <span>AULA</span>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="./index.html" class="nav-brand-item">
+                                                <img src="../Logo/Brand-logo/dareu-Logo.png" alt="Dareu" style="width: auto; max-height: 38px;">
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="./index.html" class="nav-brand-item">
+                                                <img src="../Logo/Brand-logo/e-dra_logo-removebg-preview.png" alt="E-dra" style="width: auto; max-height: 38px;">
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="./index.html" class="nav-brand-item">
+                                                <span>Elgato</span>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="./index.html" class="nav-brand-item">
+                                                <span>HyperX</span>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="./index.html" class="nav-brand-item">
+                                                <img src="../Logo/Brand-logo/Logitech-Logo.wine.png" alt="Logitech" style="width: auto; max-height: 38px;">
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="./index.html" class="nav-brand-item">
+                                                <span>Razer</span>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="./index.html" class="nav-brand-item">
+                                                <span>Steelseries</span>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="./index.html" class="nav-brand-item">
+                                                <span>VOICSKY</span>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="./index.html" class="nav-brand-item">
+                                                <span>Khác</span>
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="navbar-banner" style="width: 156px;">
+                                <a href="./index.html" target="_blank">
+                                    <img src="../Image/ttgshop-menu-banner-default-09012026-3.jpg" alt="Banner" width="156px" height="506px" style="object-fit: cover;">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="navbar-item">
+                        <a class="navbar-link">
+                            <p class="navbar-title">Loa Máy Tính</p>
+                        </a>
+                    </div>
+                    <div class="navbar-item">
+                        <a class="navbar-link">
+                            <p class="navbar-title">Laptop</p>
+                            <i class="fa-solid fa-angle-right"></i>
+                        </a>
+                        <div class="sub-menu">
+                            <div class="flex-1">
+                                <ul class="sub-list">
+                                    <li class="sub-item">
+                                        <div class="sub-item-1">
+                                            <a href="./index.html" class="sub-item-link">
+                                                <span>LAPTOP GAMING</span>
+                                            </a>
+                                        </div>
+                                    </li>
+                                    <li class="sub-item">
+                                        <div class="sub-item-1">
+                                            <a href="./index.html" class="sub-item-link">
+                                                <span>LAPTOP THEO HÃNG</span>
+                                            </a>
+                                        </div>
+                                        <div class="sub-item-2">
+                                            <a href="./index.html" class="sub-item-link">
+                                                LAPTOP ACER
+                                            </a>
+                                        </div>
+                                        <div class="sub-item-2">
+                                            <a href="./index.html" class="sub-item-link">
+                                                LAPTOP MSI
+                                            </a>
+                                        </div>
+                                        <div class="sub-item-2">
+                                            <a href="./index.html" class="sub-item-link">
+                                                LAPTOP HP
+                                            </a>
+                                        </div>
+                                        <div class="sub-item-2">
+                                            <a href="./index.html" class="sub-item-link">
+                                                LAPTOP ASUS
+                                            </a>
+                                        </div>
+                                        <div class="sub-item-2">
+                                            <a href="./index.html" class="sub-item-link">
+                                                LAPTOP DELL
+                                            </a>
+                                        </div>
+                                        <div class="sub-item-2">
+                                            <a href="./index.html" class="sub-item-link">
+                                                LAPTOP LENOVO
+                                            </a>
+                                        </div>
+                                        <div class="sub-item-2">
+                                            <a href="./index.html" class="sub-item-link">
+                                                LAPTOP GIGABYTE
+                                            </a>
+                                        </div>
+                                    </li>
+                                    <li class="sub-item">
+                                        <div class="sub-item-1">
+                                            <a href="./index.html" class="sub-item-link">
+                                                <span>LAPTOP ĐỒ HỌA</span>
+                                            </a>
+                                        </div>
+                                    </li>
+                                    <li class="sub-item">
+                                        <div class="sub-item-1">
+                                            <a href="./index.html" class="sub-item-link">
+                                                <span>LAPTOP VĂN PHÒNG</span>
+                                            </a>
+                                        </div>
+                                    </li>
+                                </ul>
+                                <div class="navbar-brand" style="margin-top: auto; float: left; width: 100%;">
+                                    <ul class="nav-brand-list">
+                                        <li>
+                                            <a href="./index.html" class="nav-brand-item">
+                                                <img src="../Logo/Brand-logo/acer-logo-icon.png" alt="ACER" style="width: auto; max-height: 38px;">
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="./index.html" class="nav-brand-item">
+                                                <img src="../Logo/Brand-logo/asus_logo_icon_168565.png" alt="ASUS" style="width: auto; max-height: 38px;">
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="./index.html" class="nav-brand-item">
+                                                <img src="../Logo/Brand-logo/gigabyte-logo-png_seeklogo-398170.png" alt="Gigabyte" style="width: auto; max-height: 38px;">
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="./index.html" class="nav-brand-item">
+                                                <span>Lenovo</span>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="./index.html" class="nav-brand-item">
+                                                <img src="../Logo/Brand-logo/msi-logo-removebg-preview.png" alt="MSI" style="width: auto; max-height: 38px;">
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="navbar-banner" style="width: 156px;">
+                                <a href="./index.html" target="_blank">
+                                    <img src="../Image/ttgshop-menu-banner-default-09012026-3.jpg" alt="Banner" width="156px" height="506px" style="object-fit: cover;">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="navbar-item">
+                        <a class="navbar-link">
+                            <p class="navbar-title">OnSale</p>
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="header-search">
+                <form class="search-bar-form" action="">
+                    <input class="search-bar-input" type="text" placeholder="Tìm kiếm sản phẩm...">
+                    <select class="category" aria-label="Danh mục tìm kiếm">
+                        <option value="">Tất cả danh mục</option>
+                    </select>
+                    <button class="search-bar-btn"><i class="fa-solid fa-magnifying-glass"></i></button>
+                </form>
+            </div>
+
+            <div class="header-featured">
+                <a class="link-featured" href="./index.html">
+                    <span class="menu-support"><i class="fa-solid fa-phone"></i></span>
+                    <span class="text-header__support">Hotline mua hàng<br>035.251.8829</span>
+                </a>
+                <a class="link-featured" href="./index.html">
+                    <span class="menu-support"><i class="fa-solid fa-computer"></i></span>
+                    <span class="text-header__support">Xây dựng<br>Cấu hình PC</span>
+                </a>
+                <a class="link-featured" href="./index.html">
+                    <span class="menu-support">
+                        <i class="fa-solid fa-cart-shopping" style="position: relative; font-size: 17px;">
+                            <span class="js-header-cart-amount">2</span>
+                        </i>
+                    </span>
+                    <span class="text-header__support">Giỏ hàng</span>
+                </a>
+            </div>
+        </div>
+    `
+})();
