@@ -340,7 +340,7 @@ a{
     flex: 1 1 0%;
     flex-direction: column;
 }
-.global-header .header-navbar .sub-item{
+.sub-item{
     display: flex;
     flex-direction: column;
     box-sizing: border-box;
