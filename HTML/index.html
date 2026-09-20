@@ -7,23 +7,86 @@
     <link rel="stylesheet" href="../style/header.css">
     <link rel="stylesheet" href="../style/global.css">
     <link rel="stylesheet" href="../style/footer.css">
+    <link rel="stylesheet" href="../style/main.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 </head>
 <body>
     <!--Header-->
-    <header class="global-header">
-        
-    </header>
+    <header class="global-header"></header>
     <!-- Sticky header khi scroll -->
-    <div class="sticky-header" style="display: none; ">
-        
-    </div>
-
-
+    <div class="sticky-header" style="display: none; "></div>
+    <!-- Main content -->
     <main class="content" style="height: 1000px;">
        <div class="container">
-             <!-- Slide show -->
-            <div class="section-hero"></div>
+            <!-- Slide show -->
+            <div class="section-hero">
+                <div class="swiper">
+                    <div class="swiper-wrapper">
+                        <div class="swiper-slide">
+                            <a href="./index.html">
+                                <img src="../slide-show/img1.jpg" alt="" width="1200" height="457" style="border-radius: 12px;">
+                            </a>
+                        </div>
+                        <div class="swiper-slide">
+                            <a href="./index.html">
+                                <img src="../slide-show/img2.jpg" alt="" width="1200" height="457" style="border-radius: 12px;">
+                            </a>
+                        </div>
+                        <div class="swiper-slide">
+                            <a href="./index.html">
+                                <img src="../slide-show/img3.jpg" alt="" width="1200" height="457" style="border-radius: 12px;">
+                            </a>
+                        </div>
+                        <div class="swiper-slide">
+                            <a href="./index.html">
+                                <img src="../slide-show/img4.jpg" alt="" width="1200" height="457" style="border-radius: 12px;">
+                            </a>
+                        </div>
+                        <div class="swiper-slide">
+                            <a href="./index.html">
+                                <img src="../slide-show/img5.jpg" alt="" width="1200" height="457" style="border-radius: 12px;">
+                            </a>
+                        </div>
+                        <div class="swiper-slide">
+                            <a href="./index.html">
+                                <img src="../slide-show/img6.jpg" alt="" width="1200" height="457" style="border-radius: 12px;">
+                            </a>
+                        </div>
+                        <div class="swiper-slide">
+                            <a href="./index.html">
+                                <img src="../slide-show/img7.jpg" alt="" width="1200" height="457" style="border-radius: 12px;">
+                            </a>
+                        </div>
+                        <div class="swiper-slide">
+                            <a href="./index.html">
+                                <img src="../slide-show/img8.jpg" alt="" width="1200" height="457" style="border-radius: 12px;">
+                            </a>
+                        </div>
+                        <div class="swiper-slide">
+                            <a href="./index.html">
+                                <img src="../slide-show/img9.jpg" alt="" width="1200" height="457" style="border-radius: 12px;">
+                            </a>
+                        </div>
+                        <div class="swiper-slide">
+                            <a href="./index.html">
+                                <img src="../slide-show/img10.jpg" alt="" width="1200" height="457" style="border-radius: 12px;">
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="img-support">
+                    <a href="./index.html">
+                        <img src="../slide-show/img-support1.jpg" alt="" width="392" style="border-radius: 12px;">
+                    </a>
+                    <a href="./index.html">
+                        <img src="../slide-show/img-support2.jpg" alt="" width="392" style="border-radius: 12px;">
+                    </a>
+                    <a href="./index.html">
+                        <img src="../slide-show/img-support3.jpg" alt="" width="392" style="border-radius: 12px;">
+                    </a>
+                </div>
+            </div>
             <!-- Sale -->
             <div class="section-collection"></div>
             <!-- Product -->
@@ -45,9 +108,27 @@
         </a>
     </div>
     <!--footer-->
-    <footer class="footer">
-        
-    </footer>
+    <footer class="footer"></footer>
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+    <script>
+        const swiper = new Swiper('.swiper', {
+            rewind: true,                // tới slide cuối thì trượt ngược về slide đầu
+            speed: 600,                 // thời gian chuyển slide (ms)
+            autoplay: {
+                delay: 3000,            // tự chuyển sau 3 giây
+                disableOnInteraction: false,  // vẫn tự chạy sau khi người dùng kéo/bấm
+                pauseOnMouseEnter: true,      // dừng khi rê chuột vào
+            },
+            pagination: {
+                el: '.swiper-pagination',
+                clickable: true,
+            },
+            navigation: {
+                nextEl: '.swiper-button-next',
+                prevEl: '.swiper-button-prev',
+            },
+        });
+    </script>
     <script src="../script/render/footerWeb.js"></script>
     <script type="module" src="../script/main.js"></script>
     <script src="../script/render/headerWeb.js"></script>
