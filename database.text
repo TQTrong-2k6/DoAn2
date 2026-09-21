@@ -1,23 +1,14 @@
 {
   "pc": {
-      "pcGaming": [
-        
-      ],
-
-      "pcWork2D3D":[
-
-      ],
-      "pcAMDGaming":[
-
-      ],
-
-      "pcMINI":[
-        
-      ],
-
-      "pcOffice":[
-
-      ]
+      id
+      tên
+      loại
+      danh sách hình ảnh
+      giá
+      sale
+      danh sách mô tả
+      upgrade
+      sản phẩm mua kèm
     },
 
     "computerComponents": {

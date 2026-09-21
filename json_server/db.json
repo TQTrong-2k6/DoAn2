@@ -1,7 +1,104 @@
 {
   "pc": [
     {
-      
+      "id": 1,
+      "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE",
+      "catalog": "gaming",
+      "imageList": ["../slide-show/img-support1.jpg"],
+      "price": "75.990.000 VNĐ",
+      "sale": 0.06,
+      "upgrade": "",
+      "Add-on_products": ""
+    },
+    {
+      "id": 2,
+      "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE",
+      "catalog": "gaming",
+      "imageList": ["../slide-show/img-support1.jpg"],
+      "price": "75.990.000 VNĐ",
+      "sale": 0.06,
+      "upgrade": "",
+      "Add-on_products": ""
+    },
+    {
+      "id": 3,
+      "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE",
+      "catalog": "gaming",
+      "imageList": ["../slide-show/img-support1.jpg"],
+      "price": "75.990.000 VNĐ",
+      "sale": 0.06,
+      "upgrade": "",
+      "Add-on_products": ""
+    },
+    {
+      "id": 4,
+      "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE",
+      "catalog": "gaming",
+      "imageList": ["../slide-show/img-support1.jpg"],
+      "price": "75.990.000 VNĐ",
+      "sale": 0.06,
+      "upgrade": "",
+      "Add-on_products": ""
+    },
+    {
+      "id": 5,
+      "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE",
+      "catalog": "gaming",
+      "imageList": ["../slide-show/img-support1.jpg"],
+      "price": "75.990.000 VNĐ",
+      "sale": 0.06,
+      "upgrade": "",
+      "Add-on_products": ""
+    },
+    {
+      "id": 6,
+      "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE",
+      "catalog": "gaming",
+      "imageList": ["../slide-show/img-support1.jpg"],
+      "price": "75.990.000 VNĐ",
+      "sale": 0.06,
+      "upgrade": "",
+      "Add-on_products": ""
+    },
+    {
+      "id": 7,
+      "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE",
+      "catalog": "gaming",
+      "imageList": ["../slide-show/img-support1.jpg"],
+      "price": "75.990.000 VNĐ",
+      "sale": 0.06,
+      "upgrade": "",
+      "Add-on_products": ""
+    },
+    {
+      "id": 8,
+      "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE",
+      "catalog": "gaming",
+      "imageList": ["../slide-show/img-support1.jpg"],
+      "price": "75.990.000 VNĐ",
+      "sale": 0.06,
+      "upgrade": "",
+      "Add-on_products": ""
+    },
+    {
+      "id": 9,
+      "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE",
+      "catalog": "gaming",
+      "imageList": ["../slide-show/img-support1.jpg"],
+      "price": "75.990.000 VNĐ",
+      "sale": 0.06,
+      "upgrade": "",
+      "Add-on_products": ""
+    },
+    {
+      "id": 10,
+      "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE",
+      "catalog": "gaming",
+      "imageList": ["../slide-show/img-support1.jpg"],
+      "price": "75.990.000 VNĐ",
+      "sale": 0.06,
+      "upgrade": "",
+      "Add-on_products": ""
     }
   ],
 
@@ -11,7 +108,5 @@
     
   "gaminggear": [],
     
-  "laptop": [],
-      
-  "other": []
+  "laptop": []
 }

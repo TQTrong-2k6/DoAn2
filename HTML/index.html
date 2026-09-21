@@ -102,43 +102,8 @@
 
                     </div>
                 </div>
-                <div class="swiper swiper-collection-product swiper-initialized swiper-horizontal swiper-pointer-events">
-                    <div class="swiper-wrapper">
-                        <div class="swiper-slide product">
-                            <div class="p-item">
-                                <a href="" class="p-image">
-                                    <img src="../slide-show/img-support1.jpg " alt="" width="205" height="138">
-                                </a>
-                                <a href="">
-                                    <h3 class="p-name line-clamp-2">
-                                        PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE
-                                    </h3>
-                                </a>
-                                <div class="p-price">
-                                    <div class="p-price-wrapper">
-                                        <p class="p-price-sale">71.680.000 VNĐ</p>
-                                        <del class="p-price-market">75.990.000 VNĐ</del>
-                                    </div>
-                                    <div class="p-price-off">-6%</div>
-                                </div>
-                                <div class="p-bottom">
-                                    <button class="p-buy">
-                                        <p class="p-buy-inner">
-                                            <span class="p-buy-icon"><i class="fa-solid fa-cart-shopping"></i></span>
-                                            THÊM VÀO GIỎ
-                                        </p>
-                                    </button>
-                                    <p class="p-status">Còn hàng</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="swiper-button-next  swiper-custom-btn">
-
-                    </div>
-                    <div class="swiper-button-prev  swiper-custom-btn">
-
-                    </div>
+                <div class="swiper swiper-collection-product swiper-initialized swiper-horizontal swiper-pointer-events" id="flashSale">
+                    
                 </div>
             </div>
             <!-- Product -->
@@ -161,6 +126,7 @@
     </div>
     <!--footer-->
     <footer class="footer"></footer>
+    <script type="module" src="../script/render/renderMainProducs.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
     <script>
         const swiperHero = new Swiper('.swiper-hero', {
@@ -179,23 +145,6 @@
                 nextEl: '.swiper-button-next',
                 prevEl: '.swiper-button-prev',
             },
-        });
-        const saleSwiper = new Swiper('.swiper-collection-product', {
-            slidesPerView: 5,
-            spaceBetween: 10,
-            rewind: true,                // tới slide cuối thì trượt ngược về slide đầu
-            speed: 600,                 // thời gian chuyển slide (ms)
-            
-            autoplay: {
-                delay: 3000,            // tự chuyển sau 3 giây
-                disableOnInteraction: false,  // vẫn tự chạy sau khi người dùng kéo/bấm
-                pauseOnMouseEnter: true,      // dừng khi rê chuột vào
-            },
-
-            navigation: {
-                nextEl: '.swiper-collection-product .swiper-button-next',
-                prevEl: '.swiper-collection-product .swiper-button-prev',
-            }
         });
     </script>
     <script src="../script/render/footerWeb.js"></script>

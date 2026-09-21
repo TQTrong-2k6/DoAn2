@@ -15,8 +15,8 @@ export function createStore(reducer){
 
     function render(){
         for (const [root, component] of roots){
-            const output = component()
-            root.innerHTML = output
+            const el = typeof root === 'string' ? document.querySelector(root) : root
+            if (el) el.innerHTML = component()
         }
     }
 
@@ -32,9 +32,6 @@ export function createStore(reducer){
         dispatch(action, ...args){
             state = reducer(state, action, args)
             render()
-        },
-        getState(){
-            return state;
         }
     }
 }
