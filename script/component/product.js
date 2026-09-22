@@ -3,10 +3,9 @@ import html from "../core.js"
 const toNumber = str => Number(String(str).replace(/[^\d]/g, ''));
 const fmt = n => Math.round(n).toLocaleString('vi-VN') + ' VNĐ';
 
-function flashSaleProduct(product){
+function product(product){
     const price = toNumber(product.price);
     const salePrice = price * (1 - product.sale);
-    console.log(salePrice)
 
     return html`
         <div class="swiper-slide product" data-id="${product.id}">
@@ -21,8 +20,10 @@ function flashSaleProduct(product){
                 </a>
                 <div class="p-price">
                     <div class="p-price-wrapper">
-                        <p class="p-price-sale">${fmt(salePrice)}</p>
-                        <del class="p-price-market">${fmt(price)}</del>
+                        ${product.sale > 0 ?
+                        `<p class="p-price-sale">${fmt(salePrice)}</p>
+                        <del class="p-price-market">${fmt(price)}</del>`
+                        : `<p class="p-price-sale">${fmt(price)}</p>`}
                     </div>
                     <div class="p-price-off">-${product.sale * 100}%</div>
                 </div>
@@ -39,4 +40,4 @@ function flashSaleProduct(product){
         </div>`
 }
 
-export default flashSaleProduct
+export default product

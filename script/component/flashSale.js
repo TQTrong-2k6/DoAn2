@@ -1,13 +1,13 @@
 import html from "../core.js";
 import { connect } from "../store.js";
-import flashSaleProduct from './flashSaleProduct.js'
+import product from './product.js'
 
-function flashSale(products){
-    console.log(products)
+function flashSale({...products}){
     return html`
     <div class="swiper-wrapper">
-        ${(products.products.pc || []).filter(v => v.sale > 0)
-                    .map((value) => flashSaleProduct(value))}
+        ${(products.pc || []).filter(v => v.sale > 0)
+                    .slice(0, 10)
+                    .map((value) => product(value))}
     </div>
     <div class="swiper-button-next  swiper-custom-btn"></div>
     <div class="swiper-button-prev  swiper-custom-btn"></div>
@@ -15,4 +15,4 @@ function flashSale(products){
     
 }
 
-export default connect()(flashSale)
+export default connect(state => state.products)(flashSale)

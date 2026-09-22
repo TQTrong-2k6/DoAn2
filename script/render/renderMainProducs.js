@@ -1,6 +1,7 @@
 import getData from '../fetch.js'
 import { attach } from '../store.js';
 import flashSale from '../component/flashSale.js';
+import mainProduct from '../component/mainProduct.js';
 
 const api = 'http://localhost:3000/';
 const listApi = ['pc', 'computerComponents', 'screen', 'gaminggear', 'laptop']
@@ -8,7 +9,8 @@ const listApi = ['pc', 'computerComponents', 'screen', 'gaminggear', 'laptop']
 function loadData(data){
     dispatch('addProducts', data);
     attach(flashSale, "#flashSale")
-
+    attach(mainProduct, '.section-category')
+    
     new Swiper('.swiper-collection-product', {
         slidesPerView: 5,
         spaceBetween: 10,

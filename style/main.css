@@ -41,6 +41,48 @@
     font-weight: 700;
     padding: 30px 20px;
 }
+.swiper-collection-product {
+    --swiper-navigation-color: #000;
+    --swiper-navigation-size: 20px;
+    font-weight: 600;
+}
+
+.swiper-collection-product .swiper-button-next,
+.swiper-collection-product .swiper-button-prev {
+    width: 40px;
+    height: 40px;
+    background-color: rgba(255, 255, 255, 0.4);
+    border-radius: 50%;
+    top: 50%;
+    margin-top: -30px;
+    
+}
+.swiper-collection-product .swiper-button-next:hover,
+.swiper-collection-product .swiper-button-prev:hover{
+    background-color: #fff;
+    box-shadow: 0 1px 6px rgba(0, 0, 0, 0.3); 
+}
+
+.swiper-collection-product .swiper-button-prev {
+    left: -15px;
+}
+
+.swiper-collection-product .swiper-button-next {
+    right: -15px;
+}
+
+.swiper-collection-product .swiper-button-next::after,
+.swiper-collection-product .swiper-button-prev::after {
+    font-size: 14px;
+}
+.swiper-collection-product .swiper-button-next::after {
+    position: relative;
+    left: -5px;
+}
+.swiper-collection-product .swiper-button-prev::after{
+    position: relative;
+    right: -5px;
+}
 .sale-support{
     display: block;
     font-size: 10px;
@@ -189,4 +231,77 @@
     font-size: 10px;
     color: #00653b;
     border-radius: 14px;
+}
+.category-box{
+    background-color: #fff;
+    border-radius: 8px;
+    overflow: hidden;
+    margin: 22px 0;
+}
+
+.header-category{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 24px;
+    padding-right: 12px;
+}
+.header-category h2 {
+    position: relative;
+    padding-right: 52px;
+    overflow: hidden;
+}
+.header-category h2 span{
+    display: inline-block;
+    line-height: 27px;
+    font-weight: 700;
+    padding: 14px 12px 13px;
+    background-color: var(--color-primary);
+    font-size: 22px;
+    color: white;
+}
+.header-category h2 span::after{
+    content: "";
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 54px;
+    background-image: url(../Logo/ttgshop-static-icon-category-polygon-1.png);
+}
+
+.header-category ul{
+    display: flex;
+    gap: 8px;
+    padding-top: 4px;
+}
+.header-category ul li a{
+    line-height: 32px;
+    font-size: 13px;
+    padding: 0 8px;
+    background-color: rgb(244 244 244);
+    border-radius: 4px;
+    display: inline-block;
+    font-weight: 500;
+}
+.header-category ul li a:hover{
+    background-color: var(--color-primary);
+    color: white;
+}
+.header-category a{
+    font-size: 13px;
+    font-weight: 600;
+    padding-top: 4px;
+    color: rgb(0 65 71);
+}
+.header-category a i{
+    font-size: 12px;
+}
+.header-category a:hover{
+    color: var(--color-primary);
+}
+.product-category{
+    padding: 12px 12px 15px;
 }
