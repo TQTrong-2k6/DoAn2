@@ -11,8 +11,16 @@ function loadData(data){
     attach(flashSale, "#flashSale")
     attach(mainProduct, '.section-category')
     
+    const width = window.innerWidth;
+    let quantity;
+    if(width >= 1200)
+        quantity = 5;
+    else if(width < 1200 && width > 720)
+        quantity = 3;
+    else
+        quantity = 2;
     new Swiper('.swiper-collection-product', {
-        slidesPerView: 5,
+        slidesPerView: quantity,
         spaceBetween: 10,
         rewind: true,                // tới slide cuối thì trượt ngược về slide đầu
         speed: 600,                 // thời gian chuyển slide (ms)
@@ -28,5 +36,5 @@ function loadData(data){
             prevEl: '.swiper-collection-product .swiper-button-prev',
         }
     });
-}
+};
 getData(api, ...listApi).then(data => loadData(data))

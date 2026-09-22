@@ -90,3 +90,407 @@
       ]
     }
 }
+
+
+
+<div class="nav-mobile">
+                <div class="account-mobile">
+                    <i class="fa-regular fa-circle-user"></i>
+                    <a href="./index.html" class="transition-header-a__hover">Đăng ký</a>
+                    <span>|</span>
+                    <a href="./index.html" class="transition-header-a__hover">Đăng nhập</a>
+                </div>
+                <div class="navbar-item">
+                    <a class="navbar-link">
+                        <p class="navbar-title">Xây dựng cấu hình</p>
+                    </a>
+                </div>
+                <div class="navbar-item">
+                    <a class="navbar-link">
+                        <p class="navbar-title">Danh mục sản phẩm</p>
+                    </a>
+                </div>
+                <div class="navbar-item">
+                    <a class="navbar-link">
+                        <p class="navbar-title">PC GAMING</p>
+                        <i class="fa-solid fa-angle-right"></i>
+                    </a>
+                    <div class="sub-menu">
+                        <div class="flex-1">
+                            <ul class="sub-list">
+                                <li class="sub-item">
+                                    <div class="sub-item-1">
+                                        <a href="./index.html" class="sub-item-link">
+                                            <span>PC GAMING GIÁ RẺ</span>
+                                        </a>
+                                    </div>
+                                </li>
+                                <li class="sub-item">
+                                    <div class="sub-item-1">
+                                        <a href="./index.html" class="sub-item-link">
+                                            <span>PC STREAM GAME</span>
+                                        </a>
+                                    </div>
+                                </li>
+                                <li class="sub-item">
+                                    <div class="sub-item-1">
+                                        <a href="./index.html" class="sub-item-link">
+                                            <span>PC GAMING PREMIUM</span>
+                                        </a>
+                                    </div>
+                                </li>
+                                <li class="sub-item">
+                                    <div class="sub-item-1">
+                                        <a href="./index.html" class="sub-item-link">
+                                            <span>PC Core Ultra</span>
+                                        </a>
+                                    </div>
+                                </li>
+                                <li class="sub-item">
+                                    <div class="sub-item-1">
+                                        <a href="./index.html" class="sub-item-link">
+                                            <span>PC GAMING CAO CẤP</span>
+                                        </a>
+                                    </div>
+                                </li>
+                                <li class="sub-item">
+                                    <div class="sub-item-1">
+                                        <a href="./index.html" class="sub-item-link">
+                                            <span>PC ĐẸP</span>
+                                        </a>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="navbar-item">
+                    <a class="navbar-link">
+                        <p class="navbar-title">PC WORKSTATION 2D 3D</p>
+                        <i class="fa-solid fa-angle-right"></i>
+                    </a>
+                    <div class="sub-menu">
+                        <div class="flex-1">
+                            <ul class="sub-list">
+                                <li class="sub-item">
+                                    <div class="sub-item-1">
+                                        <a href="./index.html" class="sub-item-link">
+                                            <span>PC Machine Learning / AI</span>
+                                        </a>
+                                    </div>
+                                </li>
+                                <li class="sub-item">
+                                    <div class="sub-item-1">
+                                        <a href="./index.html" class="sub-item-link">
+                                            <span>PC Architecture - CAD</span>
+                                        </a>
+                                    </div>
+                                </li>
+                                <li class="sub-item">
+                                    <div class="sub-item-1">
+                                        <a href="./index.html" class="sub-item-link">
+                                            <span>PC RENDERING</span>
+                                        </a>
+                                    </div>
+                                </li>
+                                <li class="sub-item">
+                                    <div class="sub-item-1">
+                                        <a href="./index.html" class="sub-item-link">
+                                            <span>PC 3D DESIGN - Animation</span>
+                                        </a>
+                                    </div>
+                                </li>
+                                <li class="sub-item">
+                                    <div class="sub-item-1">
+                                        <a href="./index.html" class="sub-item-link">
+                                            <span>PC PHOTO EDITING</span>
+                                        </a>
+                                    </div>
+                                </li>
+                                <li class="sub-item">
+                                    <div class="sub-item-1">
+                                        <a href="./index.html" class="sub-item-link">
+                                            <span>PC VIDEO EDITING</span>
+                                        </a>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="navbar-item">
+                    <a class="navbar-link">
+                        <p class="navbar-title">PC AMD GAMING</p>
+                    </a>
+                </div>
+                <div class="navbar-item">
+                    <a class="navbar-link">
+                        <p class="navbar-title">PC MINI</p>
+                    </a>
+                </div>
+                <div class="navbar-item">
+                    <a class="navbar-link">
+                        <p class="navbar-title">PC VĂN PHÒNG</p>
+                        <i class="fa-solid fa-angle-right"></i>
+                    </a>
+                    <div class="sub-menu">
+                        <div class="flex-1">
+                            <ul class="sub-list">
+                                <li class="sub-item">
+                                    <div class="sub-item-1">
+                                        <a href="./index.html" class="sub-item-link">
+                                            <span>PC DOANH NGHIỆP WINDOWS BẢN QUYỀN</span>
+                                        </a>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="navbar-item">
+                    <a class="navbar-link">
+                        <p class="navbar-title">PC AI - TRÍ TUỆ NHÂN TẠO</p>
+                    </a>
+                </div>
+                <div class="navbar-item">
+                    <a class="navbar-link">
+                        <p class="navbar-title">Linh kiện máy tính</p>
+                        <i class="fa-solid fa-angle-right"></i>
+                    </a>
+                    <div class="sub-menu">
+                        <div class="flex-1">
+                            <ul class="sub-list">
+                                <li class="sub-item">
+                                    <div class="sub-item-1">
+                                        <a href="./index.html" class="sub-item-link">
+                                            CPU
+                                        </a>
+                                    </div>
+                                </li>
+                                <li class="sub-item">
+                                    <div class="sub-item-1">
+                                        <a href="./index.html" class="sub-item-link">
+                                            <span>Mainboard - Bo Mạch Chủ</span>
+                                        </a>
+                                    </div>
+                                </li>
+                                <li class="sub-item">
+                                    <div class="sub-item-1">
+                                        <a href="./index.html" class="sub-item-link">
+                                            <span>RAM</span>
+                                        </a>
+                                    </div>
+                                </li>
+                                <li class="sub-item">
+                                    <div class="sub-item-1">
+                                        <a href="./index.html" class="sub-item-link">
+                                            <span>VGA - Card Màn Hình</span>
+                                        </a>
+                                    </div>
+                                </li>
+                                <li class="sub-item">
+                                    <div class="sub-item-1">
+                                        <a href="./index.html" class="sub-item-link">
+                                            <span>Nguồn (PSU)</span>
+                                        </a>
+                                    </div>
+                                </li>
+                                <li class="sub-item">
+                                    <div class="sub-item-1">
+                                        <a href="./index.html" class="sub-item-link">
+                                            <span>Vỏ Case</span>
+                                        </a>
+                                    </div>
+                                </li>
+                                <li class="sub-item">
+                                    <div class="sub-item-1">
+                                        <a href="./index.html" class="sub-item-link">
+                                            <span>Tản Nhiệt</span>
+                                        </a>
+                                    </div>
+                                </li>
+                                <li class="sub-item">
+                                    <div class="sub-item-1">
+                                        <a href="./index.html" class="sub-item-link">
+                                            <span>Ổ Cứng (SSD, HDD)</span>
+                                        </a>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="navbar-item">
+                    <a class="navbar-link">
+                        <p class="navbar-title">Màn hình máy tính</p>
+                        <i class="fa-solid fa-angle-right"></i>
+                    </a>
+                    <div class="sub-menu">
+                        <div class="flex-1">
+                            <ul class="sub-list">
+                                <li class="sub-item">
+                                    <div class="sub-item-1">
+                                        <a href="./index.html" class="sub-item-link">
+                                            Màn Hình Theo Nhu Cầu
+                                        </a>
+                                    </div>
+                                </li>
+                                <li class="sub-item">
+                                    <div class="sub-item-1">
+                                        <a href="./index.html" class="sub-item-link">
+                                            <span>Màn Hình Theo Kích Thước</span>
+                                        </a>
+                                    </div>
+                                </li>
+                                <li class="sub-item">
+                                    <div class="sub-item-1">
+                                        <a href="./index.html" class="sub-item-link">
+                                            <span>Tần Số Quét Màn Hình</span>
+                                        </a>
+                                    </div>
+                                </li>
+                                <li class="sub-item">
+                                    <div class="sub-item-1">
+                                        <a href="./index.html" class="sub-item-link">
+                                            <span>Độ Phân Giải Màn Hình</span>
+                                        </a>
+                                    </div>
+                                </li>
+                                <li class="sub-item">
+                                    <div class="sub-item-1">
+                                        <a href="./index.html" class="sub-item-link">
+                                            <span>Màn Hình Theo Hãng</span>
+                                        </a>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="navbar-item">
+                    <a class="navbar-link">
+                        <p class="navbar-title">Gaming Gear</p>
+                        <i class="fa-solid fa-angle-right"></i>
+                    </a>
+                    <div class="sub-menu">
+                        <div class="flex-1">
+                            <ul class="sub-list">
+                                <li class="sub-item">
+                                    <div class="sub-item-1">
+                                        <a href="./index.html" class="sub-item-link">
+                                            <span>Thiết Bị Stream</span>
+                                        </a>
+                                    </div>
+                                </li>
+                                <li class="sub-item">
+                                    <div class="sub-item-1">
+                                        <a href="./index.html" class="sub-item-link">
+                                            <span>Bàn Phím</span>
+                                        </a>
+                                    </div>
+                                </li>
+                                <li class="sub-item">
+                                    <div class="sub-item-1">
+                                        <a href="./index.html" class="sub-item-link">
+                                            <span>Chuột</span>
+                                        </a>
+                                    </div>
+                                </li>
+                                <li class="sub-item">
+                                    <div class="sub-item-1">
+                                        <a href="./index.html" class="sub-item-link">
+                                            <span>Tai Nghe Chơi Game</span>
+                                        </a>
+                                    </div>
+                                </li>
+                                <li class="sub-item">
+                                    <div class="sub-item-1">
+                                        <a href="./index.html" class="sub-item-link">
+                                            <span>Tay Cầm Chơi Game</span>
+                                        </a>
+                                    </div>
+                                </li>
+                                <li class="sub-item">
+                                    <div class="sub-item-1">
+                                        <a href="./index.html" class="sub-item-link">
+                                            <span>GHẾ GAMING</span>
+                                        </a>
+                                    </div>
+                                </li>
+                                <li class="sub-item">
+                                    <div class="sub-item-1">
+                                        <a href="./index.html" class="sub-item-link">
+                                            <span>Micro</span>
+                                        </a>
+                                    </div>
+                                </li>
+                                <li class="sub-item">
+                                    <div class="sub-item-1">
+                                        <a href="./index.html" class="sub-item-link">
+                                            <span>Phụ Kiện</span>
+                                        </a>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="navbar-item">
+                    <a class="navbar-link">
+                        <p class="navbar-title">Loa Máy Tính</p>
+                    </a>
+                </div>
+                <div class="navbar-item">
+                    <a class="navbar-link">
+                        <p class="navbar-title">Laptop</p>
+                        <i class="fa-solid fa-angle-right"></i>
+                    </a>
+                    <div class="sub-menu">
+                        <div class="flex-1">
+                            <ul class="sub-list">
+                                <li class="sub-item">
+                                    <div class="sub-item-1">
+                                        <a href="./index.html" class="sub-item-link">
+                                            <span>LAPTOP GAMING</span>
+                                        </a>
+                                    </div>
+                                </li>
+                                <li class="sub-item">
+                                    <div class="sub-item-1">
+                                        <a href="./index.html" class="sub-item-link">
+                                            <span>LAPTOP ĐỒ HỌA</span>
+                                        </a>
+                                    </div>
+                                </li>
+                                <li class="sub-item">
+                                    <div class="sub-item-1">
+                                        <a href="./index.html" class="sub-item-link">
+                                            <span>LAPTOP VĂN PHÒNG</span>
+                                        </a>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="navbar-item">
+                    <a class="navbar-link">
+                        <p class="navbar-title">OnSale</p>
+                    </a>
+                </div>
+                <div class="navbar-item">
+                    <a class="navbar-link">
+                        <p class="navbar-title">Hotline: <span style="color: var(--color-primary);">0987654321</span> - <span style="color: var();">0123456789</span></p>
+                    </a>
+                </div>
+                <div class="navbar-item">
+                    <a class="navbar-link">
+                        <p class="navbar-title">OnSale</p>
+                    </a>
+                </div>
+                <div class="navbar-item">
+                    <a class="navbar-link">
+                        <p class="navbar-title">OnSale</p>
+                    </a>
+                </div>
+            </div>

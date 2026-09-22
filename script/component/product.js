@@ -11,7 +11,7 @@ function product(product){
         <div class="swiper-slide product" data-id="${product.id}">
             <div class="p-item">
                 <a href="" class="p-image">
-                    <img src="${product.imageList[0]}" alt="" width="205" height="138">
+                    <img src="${product.imageList[0]}" alt="">
                 </a>
                 <a href="">
                     <h3 class="p-name line-clamp-2">

@@ -1,19 +1,26 @@
-//import {attach, connect} from './store.js'
-//import html from './core.js';
-
-// const withProducts = connect(state => state)
-
-// const productList = withProducts(({ products }) => {
-//     if (!products || products.length === 0) {
-//         return html`<p>Đang tải dữ liệu...</p>`;
-//     }
-// });
-
-//attach(productList, document.querySelector('.content'));
-
 window.addEventListener('scroll', () => {
-    const px = 450;
-    const stickyHeader = document.querySelector('.sticky-header');
+    const width = window.innerWidth;
 
-    window.scrollY > px ? stickyHeader.style.display = 'flex' : stickyHeader.style.display = 'none'
+    if(width >= 1200){
+        const px = 450;
+        const stickyHeader = document.querySelector('.sticky-header');
+
+        window.scrollY > px ? stickyHeader.style.display = 'flex' : stickyHeader.style.display = 'none'
+    }
 })
+function addActive(el){
+    const getElement = document.querySelector(el);
+    getElement.classList.add('active');
+}
+function removeActive(el){
+    const getElement = document.querySelector(el);
+    getElement.classList.remove('active');
+}
+
+document.querySelector('.global-menu').addEventListener('click', (e) => {
+    const trigger = e.target.closest('.js-global-menu-child-click');
+    if (!trigger) return;
+
+    const subItem = trigger.closest('.global-menu__sub-item');
+    subItem.classList.toggle('active');
+});
