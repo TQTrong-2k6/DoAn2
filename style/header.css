@@ -357,7 +357,7 @@
     top: 0;
     z-index: 999;
 }
-.header-mobile-top{
+.container-mobile{
     position: relative;
     padding: 0 10px;
     width: 100%;
@@ -392,19 +392,47 @@
     height: auto;
     background: none;
 }
-.header-mobile__support .mobile-seach{
-    display: none;
+
+.mobile-seach{
+    background: none;
+    border: none;
+    cursor: pointer;
+
+    opacity: 0;
 }
-.header-mobile .header-bottom{
+.mobile-seach.show {
+    opacity: 1;
+}
+.header-mobile .header-mobile-bottom{
     width: 100%;
-    position: relative;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
     padding: 10px;
     background-color: #fff;
     box-sizing: border-box;
     box-shadow: 0 4px 6px -2px rgba(0, 0, 0, 0.15);
-    
+
+    transform: translateY(-100%);
+
+    opacity: 0;
+    visibility: hidden;
+
+    transition:
+        transform .3s ease,
+        opacity .3s ease,
+        visibility .3s ease;
+
+    z-index: -1;
 }
-.header-bottom input{
+.header-mobile.active .header-mobile-bottom {
+    transform: translateY(0);
+    opacity: 1;
+    visibility: visible;
+    z-index: -1;
+}
+.header-mobile-bottom input{
     width: 100%;  
     height: 35px;
     border-radius: 17.5px;
@@ -414,7 +442,9 @@
     border: none;
     border: 1px solid #d9d9d9;
 }
-.header-mobile .header-bottom i{
+
+.header-mobile .header-mobile-bottom button{
+    border: none;
     position: absolute;
     display: flex;
     align-items: center;
@@ -430,9 +460,12 @@
     background: var(--color-primary);
     
 }
-.header-bottom input:focus{
+.header-mobile-bottom input:focus{
     border: 2px solid var(--color-primary);
 }
+
+
+/* navbar mobile */
 .global-menu a:hover {
     color: var(--color-primary);
 }
@@ -533,6 +566,16 @@
 .global-menu__sub-item.active > .global-menu__title .js-global-menu-child-click{
     transform: rotate(90deg);
 }
+.global-menu__support{
+    margin: 4px 0 8px;
+}
+.global-menu__support-item{
+    display: flex;
+    align-items: center;
+    padding: 8px 16px;
+    min-height: 40px;
+}
+
 @media screen and (max-width: 1199px){
     .global-header{
         display: none;

@@ -333,4 +333,10 @@
     .section-hero img{
         border-radius: 0 !important;
     }
+    .header-category ul{
+        display: none;
+    }
+    .header-category h2 span{
+        font-size: 18px;
+    }
 }

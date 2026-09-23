@@ -49,12 +49,14 @@ a{
     position: fixed;
     bottom: 30px;
     right: 30px;
+    z-index: 9999;
     animation: pulse 2s ease-in-out infinite;
 }
 #floating-icon-20{
     position: fixed;
     bottom: 90px;
     right: 30px;
+    z-index: 9999;
     animation: pulse 2s ease-in-out infinite;
 }
 @keyframes pulse{
