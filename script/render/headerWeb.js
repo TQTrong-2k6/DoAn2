@@ -2081,3 +2081,735 @@
         </div>
     `
 })();
+
+(function (){
+    document.querySelector('.header-mobile').innerHTML =`
+        <div class="container-mobile">
+            <div class="header-mobile-top">
+                <button class="menu-bars__mobile" onclick="tooggleActive('.global-menu')">
+                    <i class="fa-solid fa-bars"></i>
+                </button>
+                <a href="./index.html"><img src="../Logo/LogoWebsite.png" alt="Logo" width="170"></a>
+                <div class="header-mobile__support">
+                    <button class="mobile-seach" onclick="tooggleActive('.header-mobile')">
+                        <i class="fa-solid fa-magnifying-glass"></i>
+                    </button>
+                    <a class="link-featured" href="./index.html" title="Giỏ hàng">
+                        <span class="menu-mobile-support">
+                            <i class="fa-solid fa-cart-shopping" style="position: relative; font-size: 17px;">
+                                <span class="js-header-cart-amount">2</span>
+                            </i>
+                        </span>
+                    </a>
+                </div>
+            </div>
+            <div class="header-mobile-bottom">
+                <input type="text" name="" id="" placeholder="Tìm kiếm sản phẩm...">
+                <button><i class="fa-solid fa-magnifying-glass"></i></button>
+            </div>
+        </div>
+    `
+})();
+
+(function (){
+    document.querySelector('.global-menu').innerHTML = `
+        <div class="global-menu__header">
+            <div class="global-menu__header-left">
+                <i class="fa-regular fa-circle-user" style="font-size: 32px;"></i>
+                <a href="./index.html">Đăng ký</a>
+                /
+                <a href="./index.html">Đăng nhập</a>
+            </div>
+            <i class="fa-solid fa-xmark" onclick="tooggleActive('.global-menu')" style="font-size: 24px;padding: 4px 8px;color: red;"></i>
+        </div>
+        <div class="global-menu__content">
+            <div class="global-menu__item">
+                <a href="./index.html" class="global-menu__title" style="color: #205b9e;border-top: 1px solid #e5eaf1;">
+                    <i class="global-menu__icon fa-solid fa-wrench"></i>
+                    <h2 class="global-menu__heading">Xây dựng cấu hình máy tính</h2>
+                </a>
+            </div>
+            <div class="global-menu__item">
+                <div class="global-menu__title" style="color: var(--color-primary);">
+                    <i class="global-menu__icon fa-solid fa-layer-group"></i>
+                    <h2 class="global-menu__heading">Danh mục sản phẩm</h2>
+                </div>
+                <div class="global-menu__sub" style="display: block;">
+                    <div class="global-menu__sub-item">
+                        <div class="global-menu__title">
+                            <a href="./index.html" class="global-menu__sub-title">PC GAMING</a>
+                            <span class="global-menu__sub-icon js-global-menu-child-click">
+                                <i class="fa fa-chevron-right"></i>
+                            </span>
+                        </div>
+                        <div class="global-menu__sub-child">
+                            <div class="global-menu__sub-item">
+                                <div class="global-menu__title">
+                                    <a href="./index.html" class="global-menu__sub-title">
+                                        PC GAMING GIÁ RẺ
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="global-menu__sub-item">
+                                <div class="global-menu__title">
+                                    <a href="./index.html" class="global-menu__sub-title">
+                                        PC STREAM GAME
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="global-menu__sub-item">
+                                <div class="global-menu__title">
+                                    <a href="./index.html" class="global-menu__sub-title">
+                                        PC GAMING PREMIUM
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="global-menu__sub-item">
+                                <div class="global-menu__title">
+                                    <a href="./index.html" class="global-menu__sub-title">
+                                        PC Core Ultra
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="global-menu__sub-item">
+                                <div class="global-menu__title">
+                                    <a href="./index.html" class="global-menu__sub-title">
+                                        PC GAMING GAMING CAO CẤP
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="global-menu__sub-item">
+                                <div class="global-menu__title">
+                                    <a href="./index.html" class="global-menu__sub-title">
+                                        PC ĐẸP
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="global-menu__sub-item">
+                        <div class="global-menu__title">
+                            <a href="./index.html" class="global-menu__sub-title">PC WORKSTATION 2D 3D</a>
+                            <span class="global-menu__sub-icon js-global-menu-child-click">
+                                <i class="fa fa-chevron-right"></i>
+                            </span>
+                        </div>
+                        <div class="global-menu__sub-child">
+                            <div class="global-menu__sub-item">
+                                <div class="global-menu__title">
+                                    <a href="./index.html" class="global-menu__sub-title">
+                                        PC Machine Learning / AI
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="global-menu__sub-item">
+                                <div class="global-menu__title">
+                                    <a href="./index.html" class="global-menu__sub-title">
+                                        PC Architecture - CAD
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="global-menu__sub-item">
+                                <div class="global-menu__title">
+                                    <a href="./index.html" class="global-menu__sub-title">
+                                        PC RENDERING
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="global-menu__sub-item">
+                                <div class="global-menu__title">
+                                    <a href="./index.html" class="global-menu__sub-title">
+                                        PC 3D DESIGN - Animation
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="global-menu__sub-item">
+                                <div class="global-menu__title">
+                                    <a href="./index.html" class="global-menu__sub-title">
+                                        PC PHOTO EDITING
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="global-menu__sub-item">
+                                <div class="global-menu__title">
+                                    <a href="./index.html" class="global-menu__sub-title">
+                                        PC VIDEO EDITING
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="global-menu__sub-item">
+                        <div class="global-menu__title">
+                            <a href="./index.html" class="global-menu__sub-title">PC AMD GAMING</a>
+                        </div>
+                    </div>
+                    <div class="global-menu__sub-item">
+                        <div class="global-menu__title">
+                            <a href="./index.html" class="global-menu__sub-title">PC MINI</a>
+                        </div>
+                    </div>
+                    <div class="global-menu__sub-item">
+                        <div class="global-menu__title">
+                            <a href="./index.html" class="global-menu__sub-title">PC VĂN PHÒNG</a>
+                            <span class="global-menu__sub-icon js-global-menu-child-click">
+                                <i class="fa fa-chevron-right"></i>
+                            </span>
+                        </div>
+                        <div class="global-menu__sub-child">
+                            <div class="global-menu__sub-item">
+                                <div class="global-menu__title">
+                                    <a href="./index.html" class="global-menu__sub-title">
+                                        PC DOANH NGHIỆP WINDOWS BẢN QUYỀN
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="global-menu__sub-item">
+                        <div class="global-menu__title">
+                            <a href="./index.html" class="global-menu__sub-title">PC AI - TRÍ TUỆ NHÂN TẠO</a>
+                        </div>
+                    </div>
+                    <div class="global-menu__sub-item">
+                        <div class="global-menu__title">
+                            <a href="./index.html" class="global-menu__sub-title">Linh kiện máy tính</a>
+                            <span class="global-menu__sub-icon js-global-menu-child-click">
+                                <i class="fa fa-chevron-right"></i>
+                            </span>
+                        </div>
+                        <div class="global-menu__sub-child">
+                            <div class="global-menu__sub-item">
+                                <div class="global-menu__title">
+                                    <a href="./index.html" class="global-menu__sub-title">
+                                        CPU
+                                    </a>
+                                    <span class="global-menu__sub-icon js-global-menu-child-click">
+                                        <i class="fa fa-chevron-right"></i>
+                                    </span>
+                                </div>
+                                <div class="global-menu__sub-child global-menu__sub-child-2">
+                                    <div class="global-menu__sub-item">
+                                        <div class="global-menu__title">
+                                            <a href="./index.html" class="global-menu__sub-title">
+                                                CPU AMD
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="global-menu__sub-item">
+                                        <div class="global-menu__title">
+                                            <a href="./index.html" class="global-menu__sub-title">
+                                                CPU INTEL
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="global-menu__sub-item">
+                                <div class="global-menu__title">
+                                    <a href="./index.html" class="global-menu__sub-title">
+                                        Mainboard - Bo Mạch Chủ
+                                    </a>
+                                    <span class="global-menu__sub-icon js-global-menu-child-click">
+                                        <i class="fa fa-chevron-right"></i>
+                                    </span>
+                                </div>
+                                <div class="global-menu__sub-child global-menu__sub-child-2">
+                                    <div class="global-menu__sub-item">
+                                        <div class="global-menu__title">
+                                            <a href="./index.html" class="global-menu__sub-title">
+                                                Mainboard cho CPU AMD
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="global-menu__sub-item">
+                                        <div class="global-menu__title">
+                                            <a href="./index.html" class="global-menu__sub-title">
+                                                Mainboard cho CPU INTEL
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="global-menu__sub-item">
+                                <div class="global-menu__title">
+                                    <a href="./index.html" class="global-menu__sub-title">
+                                        RAM
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="global-menu__sub-item">
+                                <div class="global-menu__title">
+                                    <a href="./index.html" class="global-menu__sub-title">
+                                        VGA - Card Màn Hình
+                                    </a>
+                                    <span class="global-menu__sub-icon js-global-menu-child-click">
+                                        <i class="fa fa-chevron-right"></i>
+                                    </span>
+                                </div>
+                                <div class="global-menu__sub-child global-menu__sub-child-2">
+                                    <div class="global-menu__sub-item">
+                                        <div class="global-menu__title">
+                                            <a href="./index.html" class="global-menu__sub-title">
+                                                VGA Nvidia RTX 5000 Series
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="global-menu__sub-item">
+                                        <div class="global-menu__title">
+                                            <a href="./index.html" class="global-menu__sub-title">
+                                                VGA AMD
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="global-menu__sub-item">
+                                        <div class="global-menu__title">
+                                            <a href="./index.html" class="global-menu__sub-title">
+                                                VGA NVIDIA
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="global-menu__sub-item">
+                                <div class="global-menu__title">
+                                    <a href="./index.html" class="global-menu__sub-title">
+                                        Nguồn (PSU)
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="global-menu__sub-item">
+                                <div class="global-menu__title">
+                                    <a href="./index.html" class="global-menu__sub-title">
+                                        Vỏ Case
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="global-menu__sub-item">
+                                <div class="global-menu__title">
+                                    <a href="./index.html" class="global-menu__sub-title">
+                                        Tản nhiệt
+                                    </a>
+                                    <span class="global-menu__sub-icon js-global-menu-child-click">
+                                        <i class="fa fa-chevron-right"></i>
+                                    </span>
+                                </div>
+                                <div class="global-menu__sub-child global-menu__sub-child-2">
+                                    <div class="global-menu__sub-item">
+                                        <div class="global-menu__title">
+                                            <a href="./index.html" class="global-menu__sub-title">
+                                                Tản nhiệt nước AIO
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="global-menu__sub-item">
+                                        <div class="global-menu__title">
+                                            <a href="./index.html" class="global-menu__sub-title">
+                                                Tản nhiệt khí
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="global-menu__sub-item">
+                                        <div class="global-menu__title">
+                                            <a href="./index.html" class="global-menu__sub-title">
+                                                Tản nhiệt nhiệt
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="global-menu__sub-item">
+                                <div class="global-menu__title">
+                                    <a href="./index.html" class="global-menu__sub-title">
+                                        Ổ Cứng (SSD, HDD)
+                                    </a>
+                                    <span class="global-menu__sub-icon js-global-menu-child-click">
+                                        <i class="fa fa-chevron-right"></i>
+                                    </span>
+                                </div>
+                                <div class="global-menu__sub-child global-menu__sub-child-2">
+                                    <div class="global-menu__sub-item">
+                                        <div class="global-menu__title">
+                                            <a href="./index.html" class="global-menu__sub-title">
+                                                Ổ cứng HDD
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="global-menu__sub-item">
+                                        <div class="global-menu__title">
+                                            <a href="./index.html" class="global-menu__sub-title">
+                                                Ổ cứng SSD
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="global-menu__sub-item">
+                                <div class="global-menu__title">
+                                    <a href="./index.html" class="global-menu__sub-title">
+                                        GIÁ TREO MÀN HÌNH
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="global-menu__sub-item">
+                        <div class="global-menu__title">
+                            <a href="./index.html" class="global-menu__sub-title">Màn hình máy tính</a>
+                            <span class="global-menu__sub-icon js-global-menu-child-click">
+                                <i class="fa fa-chevron-right"></i>
+                            </span>
+                        </div>
+                        <div class="global-menu__sub-child">
+                            <div class="global-menu__sub-item">
+                                <div class="global-menu__title">
+                                    <a href="./index.html" class="global-menu__sub-title">
+                                        Màn Hình Theo Nhu Cầu
+                                    </a>
+                                    <span class="global-menu__sub-icon js-global-menu-child-click">
+                                        <i class="fa fa-chevron-right"></i>
+                                    </span>
+                                </div>
+                                <div class="global-menu__sub-child global-menu__sub-child-2">
+                                    <div class="global-menu__sub-item">
+                                        <div class="global-menu__title">
+                                            <a href="./index.html" class="global-menu__sub-title">
+                                                Màn Hình Cong
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="global-menu__sub-item">
+                                        <div class="global-menu__title">
+                                            <a href="./index.html" class="global-menu__sub-title">
+                                                Màn Hình Văn Phòng
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="global-menu__sub-item">
+                                        <div class="global-menu__title">
+                                            <a href="./index.html" class="global-menu__sub-title">
+                                                Màn Hình Đồ Họa
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="global-menu__sub-item">
+                                        <div class="global-menu__title">
+                                            <a href="./index.html" class="global-menu__sub-title">
+                                                MÀN HÌNH GAMING
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="global-menu__sub-item">
+                                <div class="global-menu__title">
+                                    <a href="./index.html" class="global-menu__sub-title">
+                                        Màn Hình Theo Kich Thước
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="global-menu__sub-item">
+                                <div class="global-menu__title">
+                                    <a href="./index.html" class="global-menu__sub-title">
+                                        Độ Phân Giải Màn Hình
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="global-menu__sub-item">
+                                <div class="global-menu__title">
+                                    <a href="./index.html" class="global-menu__sub-title">
+                                        Màn Hình Theo Hãng
+                                    </a>
+                                    <span class="global-menu__sub-icon js-global-menu-child-click">
+                                        <i class="fa fa-chevron-right"></i>
+                                    </span>
+                                </div>
+                                <div class="global-menu__sub-child global-menu__sub-child-2">
+                                    <div class="global-menu__sub-item">
+                                        <div class="global-menu__title">
+                                            <a href="./index.html" class="global-menu__sub-title">
+                                                Màn Hình Dark Flash
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="global-menu__sub-item">
+                                        <div class="global-menu__title">
+                                            <a href="./index.html" class="global-menu__sub-title">
+                                                Màn Hình Acer
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="global-menu__sub-item">
+                                        <div class="global-menu__title">
+                                            <a href="./index.html" class="global-menu__sub-title">
+                                                Màn Hình AOC
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="global-menu__sub-item">
+                                        <div class="global-menu__title">
+                                            <a href="./index.html" class="global-menu__sub-title">
+                                                Màn Hình BenQ
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="global-menu__sub-item">
+                                        <div class="global-menu__title">
+                                            <a href="./index.html" class="global-menu__sub-title">
+                                                Màn Hình Gigabyte
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="global-menu__sub-item">
+                                        <div class="global-menu__title">
+                                            <a href="./index.html" class="global-menu__sub-title">
+                                                Màn Hình Dell
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="global-menu__sub-item">
+                                        <div class="global-menu__title">
+                                            <a href="./index.html" class="global-menu__sub-title">
+                                                Màn Hình Samsung
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="global-menu__sub-item">
+                                        <div class="global-menu__title">
+                                            <a href="./index.html" class="global-menu__sub-title">
+                                                Màn Hình LG
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="global-menu__sub-item">
+                                        <div class="global-menu__title">
+                                            <a href="./index.html" class="global-menu__sub-title">
+                                                Màn Hình Viewsonic
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="global-menu__sub-item">
+                                        <div class="global-menu__title">
+                                            <a href="./index.html" class="global-menu__sub-title">
+                                                Màn Hình MSI
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="global-menu__sub-item">
+                                        <div class="global-menu__title">
+                                            <a href="./index.html" class="global-menu__sub-title">
+                                                Màn Hình ASUS
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="global-menu__sub-item">
+                                        <div class="global-menu__title">
+                                            <a href="./index.html" class="global-menu__sub-title">
+                                                Màn Hình EDRA
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="global-menu__sub-item">
+                        <div class="global-menu__title">
+                            <a href="./index.html" class="global-menu__sub-title">Gaming Gear</a>
+                            <span class="global-menu__sub-icon js-global-menu-child-click">
+                                <i class="fa fa-chevron-right"></i>
+                            </span>
+                        </div>
+                        <div class="global-menu__sub-child">
+                            <div class="global-menu__sub-item">
+                                <div class="global-menu__title">
+                                    <a href="./index.html" class="global-menu__sub-title">
+                                        Thiết Bị Stream
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="global-menu__sub-item">
+                                <div class="global-menu__title">
+                                    <a href="./index.html" class="global-menu__sub-title">
+                                        Bàn phím
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="global-menu__sub-item">
+                                <div class="global-menu__title">
+                                    <a href="./index.html" class="global-menu__sub-title">
+                                        Chuột
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="global-menu__sub-item">
+                                <div class="global-menu__title">
+                                    <a href="./index.html" class="global-menu__sub-title">
+                                        Tai nghe Chơi Game
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="global-menu__sub-item">
+                                <div class="global-menu__title">
+                                    <a href="./index.html" class="global-menu__sub-title">
+                                        Tay cầm chơi game
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="global-menu__sub-item">
+                                <div class="global-menu__title">
+                                    <a href="./index.html" class="global-menu__sub-title">
+                                        GHẾ GAMING
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="global-menu__sub-item">
+                                <div class="global-menu__title">
+                                    <a href="./index.html" class="global-menu__sub-title">
+                                        Micro
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="global-menu__sub-item">
+                                <div class="global-menu__title">
+                                    <a href="./index.html" class="global-menu__sub-title">
+                                        Phụ Kiện
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="global-menu__sub-item">
+                        <div class="global-menu__title">
+                            <a href="./index.html" class="global-menu__sub-title">Loa Máy Tính</a>
+                        </div>
+                    </div>
+                    <div class="global-menu__sub-item">
+                        <div class="global-menu__title">
+                            <a href="./index.html" class="global-menu__sub-title">LAPTOP</a>
+                            <span class="global-menu__sub-icon js-global-menu-child-click">
+                                <i class="fa fa-chevron-right"></i>
+                            </span>
+                        </div>
+                        <div class="global-menu__sub-child">
+                            <div class="global-menu__sub-item">
+                                <div class="global-menu__title">
+                                    <a href="./index.html" class="global-menu__sub-title">
+                                        LAPTOP GAMING
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="global-menu__sub-item">
+                                <div class="global-menu__title">
+                                    <a href="./index.html" class="global-menu__sub-title">
+                                        LAPTOP THEO HÃNG
+                                    </a>
+                                    <span class="global-menu__sub-icon js-global-menu-child-click">
+                                        <i class="fa fa-chevron-right"></i>
+                                    </span>
+                                </div>
+                                <div class="global-menu__sub-child global-menu__sub-child-2">
+                                    <div class="global-menu__sub-item">
+                                        <div class="global-menu__title">
+                                            <a href="./index.html" class="global-menu__sub-title">
+                                                LAPTOP ACER
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="global-menu__sub-item">
+                                        <div class="global-menu__title">
+                                            <a href="./index.html" class="global-menu__sub-title">
+                                                LAPTOP MSI
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="global-menu__sub-item">
+                                        <div class="global-menu__title">
+                                            <a href="./index.html" class="global-menu__sub-title">
+                                                LAPTOP HP
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="global-menu__sub-item">
+                                        <div class="global-menu__title">
+                                            <a href="./index.html" class="global-menu__sub-title">
+                                                LAPTOP ASUS
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="global-menu__sub-item">
+                                        <div class="global-menu__title">
+                                            <a href="./index.html" class="global-menu__sub-title">
+                                                LAPTOP DELL
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="global-menu__sub-item">
+                                        <div class="global-menu__title">
+                                            <a href="./index.html" class="global-menu__sub-title">
+                                                LAPTOP LENOVO
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="global-menu__sub-item">
+                                        <div class="global-menu__title">
+                                            <a href="./index.html" class="global-menu__sub-title">
+                                                LAPTOP GIGABYTE
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="global-menu__sub-item">
+                                <div class="global-menu__title">
+                                    <a href="./index.html" class="global-menu__sub-title">
+                                        LAPTOP ĐỒ HỌA
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="global-menu__sub-item">
+                                <div class="global-menu__title">
+                                    <a href="./index.html" class="global-menu__sub-title">
+                                        LAPTOP VĂN PHÒNG
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="global-menu__sub-item">
+                        <div class="global-menu__title">
+                            <a href="./index.html" class="global-menu__sub-title">OnSale</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="global-menu__support">
+            <div class="global-menu__support-item">
+                <i class="global-menu__icon fa-solid fa-square-phone"></i>
+                <span>
+                    Hotline: 
+                    <a href="./index.html">
+                        <b style="color: rgb(220 38 38);">0352518829</b>
+                    </a>
+                    -
+                    <a href="./index.html">
+                        <b style="color: rgb(220 38 38);">0332298573</b>
+                    </a>
+                </span>
+            </div>
+            <a href="./index.html" class="global-menu__support-item">
+                <i class="global-menu__icon fa-regular fa-newspaper"></i>
+                <span>Tin tức</span>
+            </a>
+            <a href="./index.html" class="global-menu__support-item">
+                <i class="global-menu__icon fa-solid fa-briefcase"></i>
+                <span>Liên hệ</span>
+            </a>
+            <a href="./index.html" class="global-menu__support-item">
+                <i class="global-menu__icon fa-solid fa-house-chimney"></i>
+                <span>Trang chủ</span>
+            </a>
+        </div>
+    `
+})();

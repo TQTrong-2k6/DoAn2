@@ -1,15 +1,14 @@
-const headerMobile = document.querySelector('.header-mobile');
-const mobileSearch = document.querySelector('.mobile-seach');
-
-mobileSearch.addEventListener('click', () => {
-    headerMobile.classList.toggle('active');
-});
-
-
+function tooggleActive(el){
+    const element = document.querySelector(el);
+    element.classList.toggle('active');
+}
 
 window.addEventListener('scroll', () => {
     const width = window.innerWidth;
 
+    const mobileSearch = document.querySelector('.mobile-seach')
+    const headerMobile = document.querySelector('.header-mobile')
+    
     if(width >= 1200){
         const px = 450;
         const stickyHeader = document.querySelector('.sticky-header');
