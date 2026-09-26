@@ -70,8 +70,34 @@ a{
         transform: scale(1);
     }
 }
+.section-breadcrumb{
+    margin-top: 20px;
+}
+.routing-link{
+    display: flex;
+    color: rgb(109, 109, 109);
+    font-size: 15px;
+    
+}
+.routing-link li:last-child{
+    color: black;
+    font-weight: 600;
+}
+.routing-link li:hover{
+    color: var(--color-primary);
+}
+.section-breadcrumb .routing-link li:not(:last-child)::after{
+    content: ">";
+    display: inline-block;
+    font-size: 12px;
+    transform: translateY(-1px);
+    padding: 0 4px;
+}
 @media screen and (max-width: 1199px){
     .container{
         max-width: 768px !important;
+    }
+    .section-breadcrumb{
+        margin-top: 125px;
     }
 }

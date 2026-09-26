@@ -136,9 +136,9 @@
                         <a href="./index.html" class="transition-header-a__hover">Phần mềm hay</a>
                     </div>
                     <div>
-                        <a href="./index.html" class="transition-header-a__hover">Đăng ký</a>
+                        <a href="./register.html" class="transition-header-a__hover">Đăng ký</a>
                         <span>|</span>
-                        <a href="./index.html" class="transition-header-a__hover">Đăng nhập</a>
+                        <a href="./login.html" class="transition-header-a__hover">Đăng nhập</a>
                     </div>
                 </div>
             </div>
@@ -2116,9 +2116,9 @@
         <div class="global-menu__header">
             <div class="global-menu__header-left">
                 <i class="fa-regular fa-circle-user" style="font-size: 32px;"></i>
-                <a href="./index.html">Đăng ký</a>
+                <a href="./register.html">Đăng ký</a>
                 /
-                <a href="./index.html">Đăng nhập</a>
+                <a href="./login.html">Đăng nhập</a>
             </div>
             <i class="fa-solid fa-xmark" onclick="tooggleActive('.global-menu')" style="font-size: 24px;padding: 4px 8px;color: red;"></i>
         </div>
