@@ -3,11 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Đăng ký</title>
+    <title>PC</title>
     <link rel="stylesheet" href="../style/header.css">
     <link rel="stylesheet" href="../style/global.css">
     <link rel="stylesheet" href="../style/footer.css">
-    <link rel="stylesheet" href="../style/auth.css">
+    <link rel="stylesheet" href="../style/mainDetail.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 </head>
 <body>
@@ -21,37 +21,41 @@
     <section class="section-breadcrumb">
         <div class="container">
             <ol class="routing-link">
-                <li><a href="./index.html">Trang chủ</a></li>
-                <li><a href="./login.html">Đăng nhập tài khoản</a></li>
+                
             </ol>
         </div>
     </section>
     <!-- Main content -->
     <main class="content">
        <div class="container">
-            <form action="" method="POST" class="form" id="register-form" style="margin: 20px auto 48px;">
-                <h3 class="heading">Đăng nhập</h3>
-
-                <div class="spacer"></div>
-
-                <div class="form-group">
-                    <label for="email" class="form-label">Email</label>
-                    <input id="email" name="email" rules="required|email" type="text" placeholder="VD: email@domain.com" class="form-control">
-                    <span class="form-message"></span>
+            <div class="category-main">
+                <div class="category-filter">
+                    <div class="category-filter__heading">
+                        <h2>
+                            LỌC SẢN PHẨM
+                        </h2>
+                    </div>
+                    <div class="category-filter__child">
+                        <h3 class="header-filter">
+                            PC GAMING
+                        </h3>
+                        <ul>
+                            <li><a class="hover-color" href=""><i class="fa-solid fa-angles-right"></i> PC GAMING GIÁ RẺ</a></li>
+                            <li><a class="hover-color" href=""><i class="fa-solid fa-angles-right"></i> PC STREAM GAME</a></li>
+                            <li><a class="hover-color" href=""><i class="fa-solid fa-angles-right"></i> PC GAMING PREMIUM</a></li>
+                            <li><a class="hover-color" href=""><i class="fa-solid fa-angles-right"></i> PC Core Ultra</a></li>
+                            <li><a class="hover-color" href=""><i class="fa-solid fa-angles-right"></i> PC GAMING CAO CẤP</a></li>
+                            <li><a class="hover-color" href=""><i class="fa-solid fa-angles-right"></i> PC ĐẸP</a></li>
+                        </ul>
+                    </div>
+                    <div class="category-filter__price">
+                        <h3 class="header-filter">
+                            KHOẢNG GIÁ
+                        </h3>
+                    </div>
                 </div>
-
-                <div class="form-group">
-                    <label for="password" class="form-label">Mật khẩu</label>
-                    <input id="password" name="password" rules="required|min:6" type="password" placeholder="Nhập mật khẩu" class="form-control">
-                    <span class="form-message"></span>
-                </div>
-
-                <button class="form-submit">Đăng ký</button>
-
-                <div class="default">
-                    <a href="./register.html"><p>ĐĂNG KÝ TÀI KHOẢN</p></a>
-                </div>
-            </form>
+                <div class="category-products"></div>
+            </div>
        </div>
     </main>
     <!-- Support -->
@@ -97,17 +101,9 @@
             <img src="../Logo/messenger-icon.png" alt="Zalo" width="45px" height="45px">
         </a>
     </div>
-   
     <!--footer-->
     <footer class="footer"></footer>
     <script src="../script/validator.js"></script>
-        <script>
-            var form = new Validator('#register-form');
-
-            form.onSubmit = formData => {
-                console.log(formData);
-            }
-        </script>
     <script src="../script/render/footerWeb.js"></script>
     <script src="../script/main.js"></script>
     <script src="../script/render/headerWeb.js"></script>

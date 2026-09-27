@@ -26,16 +26,6 @@ window.addEventListener('scroll', () => {
         }
     }
 });
-
-function addActive(el){
-    const getElement = document.querySelector(el);
-    getElement.classList.add('active');
-}
-function removeActive(el){
-    const getElement = document.querySelector(el);
-    getElement.classList.remove('active');
-}
-
 document.querySelector('.global-menu').addEventListener('click', (e) => {
     const trigger = e.target.closest('.js-global-menu-child-click');
     if (!trigger) return;
