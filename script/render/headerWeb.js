@@ -1,3 +1,7 @@
+import storage from "../util/storage.js";
+
+const login = storage.get('login');
+
 (function(){
     document.querySelector('.global-header').innerHTML = `
         <div class="header-top">
@@ -136,9 +140,16 @@
                         <a href="./index.html" class="transition-header-a__hover">Phần mềm hay</a>
                     </div>
                     <div>
-                        <a href="./register.html" class="transition-header-a__hover">Đăng ký</a>
-                        <span>|</span>
-                        <a href="./login.html" class="transition-header-a__hover">Đăng nhập</a>
+                        ${login
+                            ? (login.isLoggedIn
+                                ? `<p>Xin chào: ${login.user} <span>|</span> <span class="logout">Đăng xuất</span></p>`
+                                : `<a href="./register.html" class="transition-header-a__hover">Đăng ký</a>
+                                    <span>|</span>
+                                    <a href="./login.html" class="transition-header-a__hover">Đăng nhập</a>`)
+                            : `<a href="./register.html" class="transition-header-a__hover">Đăng ký</a>
+                            <span>|</span>
+                            <a href="./login.html" class="transition-header-a__hover">Đăng nhập</a>`
+                        }
                     </div>
                 </div>
             </div>

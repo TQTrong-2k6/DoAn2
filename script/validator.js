@@ -38,6 +38,16 @@ function Validator(formSelector){
             return value => {
                 return value.length <= max ? undefined : `Vui lòng nhập tối đa ${max} ký tự`
             }
+        },
+        checkPassword: value => {
+            var re =re = /^(?=.*[a-zA-Z])(?=.*\d).{6,}$/;
+            return re.test(value) ? undefined : 'Mật khẩu phải chứa ít nhất 1 chữ cái và 1 chữ số';
+        },
+        isConfirmed: selector => {
+            return value => {
+                const otherValue = $(selector).value;
+                return value === otherValue ? undefined : 'Mật khẩu không trùng khớp';
+            }
         }
     };
 
@@ -139,7 +149,7 @@ function Validator(formSelector){
         //Khi không có lỗi thì submit form
         if(isValid){
             if(typeof _this.onSubmit === 'function'){
-                const enableInputs = formElement.querySelectorAll('[name]:not([disabled])');
+                const enableInputs = formElement.querySelectorAll('[name]:not([disabled]):not([data-ignore])');
 
                 const formValues = Array.from(enableInputs).reduce((values, input) => {
                     switch(input.type){
@@ -162,10 +172,8 @@ function Validator(formSelector){
                         default:
                             values[input.name] = input.value;
                     }
-                        
                     return values; 
                 }, {});
-
                 _this.onSubmit(formValues)
             }else{
                 formElement.submit();
