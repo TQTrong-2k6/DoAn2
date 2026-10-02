@@ -142,7 +142,7 @@ const login = storage.get('login');
                     <div>
                         ${login
                             ? (login.isLoggedIn
-                                ? `<p>Xin chào: ${login.user} <span>|</span> <span class="logout">Đăng xuất</span></p>`
+                                ? `<p>Xin chào: ${login.user} <span>|</span> <span class="logout" onclick="logout()">Đăng xuất</span></p>`
                                 : `<a href="./register.html" class="transition-header-a__hover">Đăng ký</a>
                                     <span>|</span>
                                     <a href="./login.html" class="transition-header-a__hover">Đăng nhập</a>`)
@@ -2126,10 +2126,18 @@ const login = storage.get('login');
     document.querySelector('.global-menu').innerHTML = `
         <div class="global-menu__header">
             <div class="global-menu__header-left">
-                <i class="fa-regular fa-circle-user" style="font-size: 32px;"></i>
-                <a href="./register.html">Đăng ký</a>
-                /
-                <a href="./login.html">Đăng nhập</a>
+                ${login
+                    ? (login.isLoggedIn
+                        ? `<p>Xin chào: ${login.user}`
+                        : `<i class="fa-regular fa-circle-user" style="font-size: 32px;"></i>
+                            <a href="./register.html">Đăng ký</a>
+                            /
+                            <a href="./login.html">Đăng nhập</a>`)
+                    : `<i class="fa-regular fa-circle-user" style="font-size: 32px;"></i>
+                        <a href="./register.html">Đăng ký</a>
+                        /
+                        <a href="./login.html">Đăng nhập</a>`
+                }
             </div>
             <i class="fa-solid fa-xmark" onclick="tooggleActive('.global-menu')" style="font-size: 24px;padding: 4px 8px;color: red;"></i>
         </div>
@@ -2821,6 +2829,22 @@ const login = storage.get('login');
                 <i class="global-menu__icon fa-solid fa-house-chimney"></i>
                 <span>Trang chủ</span>
             </a>
+            ${login
+                ? (login.isLoggedIn
+                    ? `<span class="logout global-menu__support-item" onclick="logout()">
+                            <i class="global-menu__icon fa-solid fa-right-from-bracket"></i>
+                            Đăng xuất
+                        </span>`
+                    : '')
+                : ''
+            }
+            
         </div>
     `
 })();
+
+function logout(){
+    storage.remove('login')
+    window.location.reload();
+}
+window.logout = logout;
