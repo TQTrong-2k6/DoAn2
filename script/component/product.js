@@ -1,10 +1,9 @@
 import html from "../core.js"
 
-const toNumber = str => Number(String(str).replace(/[^\d]/g, ''));
 const fmt = n => Math.round(n).toLocaleString('vi-VN') + ' VNĐ';
 
 function product(product){
-    const price = toNumber(product.price);
+    const price = product.price;              // không cần toNumber nữa
     const salePrice = price * (1 - product.sale);
 
     return html`
