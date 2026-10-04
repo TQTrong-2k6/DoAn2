@@ -59,7 +59,7 @@
 .hover-color:hover{
     color: var(--color-primary);
 }
-.category-products, .price-products{
+.filter-products, .price-products{
     line-height: 16px;
     font-weight: 500;
     font-size: 13px;
@@ -119,6 +119,14 @@
     display: grid;
     grid-template-columns: repeat(4, minmax(0, 1fr));
     gap: 12px;
+}
+.category-products__list .no-products-available{
+    text-align: center;
+    color: rgb(220 38 38);
+    font-weight: 700;
+    font-size: 18px;
+    padding: 70px 0;
+    grid-column: 1/-1;
 }
 .category-products__paging{
     text-align: center;

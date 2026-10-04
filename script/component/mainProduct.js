@@ -15,14 +15,12 @@ function mainProduct(products){
                 <li><a href="./index.html">PC Core Ultra</a></li>
                 <li><a href="./index.html">PC GAMING CAO CẤP</a></li>
             </ul>
-            <a href="./productCategories.html?table=pc">Xem tất cả <i class="fa-solid fa-angles-right"></i></a>
+            <a href="./productCategories.html?table=pcGaming">Xem tất cả <i class="fa-solid fa-angles-right"></i></a>
         </div>
         <div class="product-category">
             <div class="swiper swiper-collection-product swiper-initialized swiper-horizontal swiper-pointer-events">
                 <div class="swiper-wrapper">
-                    ${(products.pc || []).filter(value => value.category === 'pcGaming')
-                            .slice(0, 10)
-                            .map(value => product(value))}
+                    ${(products.pcGaming || []).slice(0, 10).map(value => product(value))}
                 </div>
                 <div class="swiper-button-next  swiper-custom-btn"></div>
                 <div class="swiper-button-prev  swiper-custom-btn"></div>
@@ -32,14 +30,12 @@ function mainProduct(products){
     <div class="category-box">
         <div class="header-category">
             <h2><span>PC MINI</span></h2>
-            <a href="./productCategories.html?table=pc">Xem tất cả <i class="fa-solid fa-angles-right"></i></a>
+            <a href="./productCategories.html?table=pcMini">Xem tất cả <i class="fa-solid fa-angles-right"></i></a>
         </div>
         <div class="product-category">
             <div class="swiper swiper-collection-product swiper-initialized swiper-horizontal swiper-pointer-events">
                 <div class="swiper-wrapper">
-                    ${(products.pc || []).filter(value => value.category === 'mini')
-                        .slice(0, 10)
-                        .map(value => product(value))}
+                    ${(products.pcMini || []).slice(0, 10).map(value => product(value))}
                 </div>
                 <div class="swiper-button-next  swiper-custom-btn"></div>
                 <div class="swiper-button-prev  swiper-custom-btn"></div>
@@ -49,14 +45,12 @@ function mainProduct(products){
     <div class="category-box">
         <div class="header-category">
             <h2><span>PC WORKSTATION 2D 3D</span></h2>
-            <a href="./productCategories.html?table=pc">Xem tất cả <i class="fa-solid fa-angles-right"></i></a>
+            <a href="./productCategories.html?table=pcWorkstation">Xem tất cả <i class="fa-solid fa-angles-right"></i></a>
         </div>
         <div class="product-category">
             <div class="swiper swiper-collection-product swiper-initialized swiper-horizontal swiper-pointer-events">
                 <div class="swiper-wrapper">
-                    ${(products.pc || []).filter(value => value.category === 'pcWorkstation')
-                        .slice(0, 10)
-                        .map(value => product(value))}
+                    ${(products.pcWorkstation || []).slice(0, 10).map(value => product(value))}
                 </div>
                 <div class="swiper-button-next  swiper-custom-btn"></div>
                 <div class="swiper-button-prev  swiper-custom-btn"></div>
@@ -66,14 +60,12 @@ function mainProduct(products){
     <div class="category-box">
         <div class="header-category">
             <h2><span>PC VĂN PHÒNG</span></h2>
-            <a href="./productCategories.html?table=pc">Xem tất cả <i class="fa-solid fa-angles-right"></i></a>
+            <a href="./productCategories.html?table=pcOffice">Xem tất cả <i class="fa-solid fa-angles-right"></i></a>
         </div>
         <div class="product-category">
             <div class="swiper swiper-collection-product swiper-initialized swiper-horizontal swiper-pointer-events">
                 <div class="swiper-wrapper">
-                    ${(products.pc || []).filter(value => value.category === 'pcOffice')
-                        .slice(0, 10)
-                        .map(value => product(value))}
+                    ${(products.pcOffice || []).slice(0, 10).map(value => product(value))}
                 </div>
                 <div class="swiper-button-next  swiper-custom-btn"></div>
                 <div class="swiper-button-prev  swiper-custom-btn"></div>
@@ -88,8 +80,7 @@ function mainProduct(products){
         <div class="product-category">
             <div class="swiper swiper-collection-product swiper-initialized swiper-horizontal swiper-pointer-events">
                 <div class="swiper-wrapper">
-                    ${(products.screen || []).slice(0, 10)
-                        .map(value => product(value))}
+                    ${(products.screen || []).slice(0, 10).map(value => product(value))}
                 </div>
                 <div class="swiper-button-next  swiper-custom-btn"></div>
                 <div class="swiper-button-prev  swiper-custom-btn"></div>
@@ -104,8 +95,7 @@ function mainProduct(products){
         <div class="product-category">
             <div class="swiper swiper-collection-product swiper-initialized swiper-horizontal swiper-pointer-events">
                 <div class="swiper-wrapper">
-                    ${(products.computerComponents || []).slice(0, 10)
-                        .map(value => product(value))}
+                    ${(products.computerComponents || []).slice(0, 10).map(value => product(value))}
                 </div>
                 <div class="swiper-button-next  swiper-custom-btn"></div>
                 <div class="swiper-button-prev  swiper-custom-btn"></div>
@@ -120,8 +110,7 @@ function mainProduct(products){
         <div class="product-category">
             <div class="swiper swiper-collection-product swiper-initialized swiper-horizontal swiper-pointer-events">
                 <div class="swiper-wrapper">
-                    ${(products.laptop || []).slice(0, 10)
-                        .map(value => product(value))}
+                    ${(products.laptop || []).slice(0, 10).map(value => product(value))}
                 </div>
                 <div class="swiper-button-next  swiper-custom-btn"></div>
                 <div class="swiper-button-prev  swiper-custom-btn"></div>

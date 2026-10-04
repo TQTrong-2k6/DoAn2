@@ -16,6 +16,12 @@ export function createStore(reducer){
     function render(){
         for (const [root, component] of roots){
             const el = typeof root === 'string' ? document.querySelector(root) : root
+
+            console.log('el:', el);
+        console.log('component:', component);
+        console.log('HTML:', component());
+
+
             if (el) el.innerHTML = component()
         }
     }
