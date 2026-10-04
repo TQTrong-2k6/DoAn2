@@ -104,6 +104,16 @@
     display: flex;
     justify-content: space-between;
     margin-bottom: 12px;
+    align-items: center;
+}
+.sotting-product{
+    font-weight: 500;
+    padding: 0 5px;
+    border-width: 1px;
+    border-color: rgb(225 225 225);
+    border-radius: 4px;
+    height: 32px;
+    font-weight: 500;
 }
 .category-products__list{
     display: grid;
