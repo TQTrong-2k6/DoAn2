@@ -3,7 +3,11 @@ import { connect } from "../store.js";
 import product from "./product.js";
 
 function mainProductCategories(products){
-    const items = Object.values(products)[0] || [];
+    let items = Object.values(products)[0] || [];
+    const params = new URLSearchParams(window.location.search);
+    const table = params.get('category');
+
+    table ? items = items.filter(value => value.category === table) : undefined
     
     if (items.length === 0) {
         return `<div class="category-sort">
@@ -38,7 +42,8 @@ function mainProductCategories(products){
                 <option value="">Tên A<i class="fa-solid fa-arrow-right-long"></i>Z</option>
             </select>
         </div>
-        <div class="category-products__list">${items.map(value => product(value))}</div>
+        <div class="category-products__list">
+        ${table ? items.map(value => product(value)) : items.map(value => product(value))}</div>
         <div class="category-products__paging"></div>
         
     `

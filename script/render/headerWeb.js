@@ -1120,31 +1120,31 @@ const login = storage.get('login');
                             </div>
                         </div>
                     </div>
-                    <a href="./index.html" class="transition-header-a__hover" style="display: flex; align-items: center; gap: 4px;">
+                    <a href="./productCategories.html?table=pcGaming" class="transition-header-a__hover" style="display: flex; align-items: center; gap: 4px;">
                         <span style="display: inline-flex; align-items: center; justify-content: center; width: 32px; height: 32px; background-color: #E8F7FF; border-radius: 50%; color: black;">
                             <i style="display: inline-block; width: 16px; height: 16px; background-size: contain; background-position: center; background-repeat: no-repeat; background-image: url(../Logo/gaming.png);"></i>
                         </span>
                         PC GAMING
                     </a>
-                    <a href="./index.html" class="transition-header-a__hover" style="display: flex; align-items: center; gap: 4px;">
+                    <a href="./productCategories.html?table=pcWorkstation" class="transition-header-a__hover" style="display: flex; align-items: center; gap: 4px;">
                         <span style="display: inline-flex; align-items: center; justify-content: center; width: 32px; height: 32px; background-color: #E8F7FF; border-radius: 50%; color: black;">
                             <i style="display: inline-block; width: 16px; height: 16px; background-size: contain; background-position: center; background-repeat: no-repeat; background-image: url(../Logo/settings.png);"></i>
                         </span>
                         PC WORKSTATION 2D 3D
                     </a>
-                    <a href="./index.html" class="transition-header-a__hover" style="display: flex; align-items: center; gap: 4px;">
+                    <a href="./productCategories.html?table=pcGaming&category=PC AMD Gaming" class="transition-header-a__hover" style="display: flex; align-items: center; gap: 4px;">
                         <span style="display: inline-flex; align-items: center; justify-content: center; width: 32px; height: 32px; background-color: #E8F7FF; border-radius: 50%; color: black;">
                             <i style="display: inline-block; width: 16px; height: 16px; background-size: contain; background-position: center; background-repeat: no-repeat; background-image: url(../Logo/gaming.png);"></i>
                         </span>
                         PC AMD GAMING
                     </a>
-                    <a href="./index.html" class="transition-header-a__hover" style="display: flex; align-items: center; gap: 4px;">
+                    <a href="./productCategories.html?table=pcMini" class="transition-header-a__hover" style="display: flex; align-items: center; gap: 4px;">
                         <span style="display: inline-flex; align-items: center; justify-content: center; width: 32px; height: 32px; background-color: #E8F7FF; border-radius: 50%; color: black;">
                             <i style="display: inline-block; width: 16px; height: 16px; background-size: contain; background-position: center; background-repeat: no-repeat; background-image: url(../Logo/mini.png);"></i>
                         </span>
                         PC MINI
                     </a>
-                    <a href="./index.html" class="transition-header-a__hover" style="display: flex; align-items: center; gap: 4px;">
+                    <a href="./productCategories.html?table=pcOffice" class="transition-header-a__hover" style="display: flex; align-items: center; gap: 4px;">
                         <span style="display: inline-flex; align-items: center; justify-content: center; width: 32px; height: 32px; background-color: #E8F7FF; border-radius: 50%; color: black;">
                             <i style="display: inline-block; width: 16px; height: 16px; background-size: contain; background-position: center; background-repeat: no-repeat; background-image: url(../Logo/pc.png);"></i>
                         </span>
