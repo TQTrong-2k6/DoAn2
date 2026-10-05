@@ -236,4 +236,17 @@ a{
     font-size: 10px;
     color: #00653b;
     border-radius: 14px;
+    display: inline-block;
+    width: fit-content;
+}
+.p-status.p-mobile{
+    display: none;
+}
+@media screen and (max-width: 1199px){
+    .p-status.p-mobile{
+        display: flex;
+    }
+    .p-status.p-pc{
+        display: none;
+    }
 }

@@ -12,6 +12,7 @@ function product(product){
                 <a href="" class="p-image">
                     <img src="${product.imageList[0]}" alt="">
                 </a>
+                <p class="p-status p-mobile">Còn hàng</p>
                 <a href="">
                     <h3 class="p-name line-clamp-2">
                         ${product.name}
@@ -33,7 +34,7 @@ function product(product){
                             THÊM VÀO GIỎ
                         </p>
                     </button>
-                    <p class="p-status">Còn hàng</p>
+                    <p class="p-status p-pc">Còn hàng</p>
                 </div>
             </div>
         </div>`

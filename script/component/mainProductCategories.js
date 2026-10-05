@@ -2,27 +2,47 @@ import html from "../core.js";
 import { connect } from "../store.js";
 import product from "./product.js";
 
-function mainProductCategories(products){
-    let items = Object.values(products)[0] || [];
-    const params = new URLSearchParams(window.location.search);
-    const table = params.get('category');
+function buildSortUrl(sortValue){
+    const url = new URL(window.location.href);
+    if (sortValue) {
+        url.searchParams.set('sort', sortValue);
+    } else {
+        url.searchParams.delete('sort');
+    }
+    return url.toString();
+}
 
-    table ? items = items.filter(value => value.category === table) : undefined
-    
-    if (items.length === 0) {
+function mainProductCategories(data){
+    const products = Object.values(data)[0] || [];
+
+    const currentSort = new URLSearchParams(window.location.search).get('sort') || '';
+
+    const sortOptionsConfig = [
+        { value: '', label: 'Sắp xếp theo' },
+        { value: 'newest', label: 'Mới nhất' },
+        { value: 'price-asc', label: 'Giá tăng dần' },
+        { value: 'price-desc', label: 'Giá giảm dần' },
+        { value: 'name-asc', label: 'Tên A➜Z' }
+    ];
+
+    const sortOptions = `
+        <select class="sotting-product" onchange="location.href = this.value">
+            ${sortOptionsConfig.map(opt => `
+                <option value="${buildSortUrl(opt.value)}" ${opt.value === currentSort ? 'selected' : ''}>
+                    ${opt.label}
+                </option>
+            `).join('')}
+        </select>
+    `;
+
+    if (products.length === 0) {
         return `<div class="category-sort">
                     <div style="font-weight: 600; font-size: 14px;">
                         Tìm thấy
                         <span class="quantity" style="color: rgb(0 144 208);">0</span>
                         sản phẩm
                     </div>
-                    <select class="sotting-product">
-                        <option value="">Sắp xếp theo</option>
-                        <option value="">Mới nhất</option>
-                        <option value="">Giá tăng dần</option>
-                        <option value="">Giá giảm dần</option>
-                        <option value="">Tên A<i class="fa-solid fa-arrow-right-long"></i>Z</option>
-                    </select>
+                    ${sortOptions}
                 </div>
                 <div class="category-products__list"><p class="no-products-available">Sản phẩm đang cập nhật...</p></div>`;
     }
@@ -31,21 +51,14 @@ function mainProductCategories(products){
         <div class="category-sort">
             <div style="font-weight: 600; font-size: 14px;">
                 Tìm thấy
-                <span class="quantity" style="color: rgb(0 144 208);">${items.length}</span>
+                <span class="quantity" style="color: rgb(0 144 208);">${products.length}</span>
                 sản phẩm
             </div>
-            <select class="sotting-product">
-                <option value="">Sắp xếp theo</option>
-                <option value="">Mới nhất</option>
-                <option value="">Giá tăng dần</option>
-                <option value="">Giá giảm dần</option>
-                <option value="">Tên A<i class="fa-solid fa-arrow-right-long"></i>Z</option>
-            </select>
+            ${sortOptions}
         </div>
         <div class="category-products__list">
-        ${table ? items.map(value => product(value)) : items.map(value => product(value))}</div>
+        ${products.map(value => product(value))}</div>
         <div class="category-products__paging"></div>
-        
     `
 }
 

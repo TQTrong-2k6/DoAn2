@@ -132,3 +132,20 @@
     text-align: center;
     margin-top: 16px;
 }
+@media screen and (max-width: 1199px){
+    .category-filter{
+        display: none;
+    }
+    .category-products__list{
+        display: grid;
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+        gap: 12px;
+    }
+}
+@media screen and (max-width: 768px){
+    .category-products__list{
+        display: grid;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 12px;
+    }
+}
