@@ -2,6 +2,7 @@ import getData from "../fetch.js";
 import { attach } from "../store.js";
 import mainProductCategories from "../component/mainProductCategories.js"
 import sectionBreadcrumb from "./sectionBreadcrumb.js";
+import filterProducts from "../component/filterProducts.js";
 
 const api = 'http://localhost:3000/';
 let listApi = [];
@@ -9,12 +10,14 @@ const params = new URLSearchParams(window.location.search);
 const table = params.get('table');
 const category = params.get('category');
 const sort = params.get('sort') || ''; 
+const page = Math.max(1, Number(params.get('page')) || 1);
+const pageSize = 60
 
 const sortting ={
     newest: '?_sort=-id',
-    'price-asc': '/?_sort=price',
-    'price-desc': '/?_sort=-price',
-    'name-asc': '/?_sort=name'
+    'price-asc': '?_sort=price',
+    'price-desc': '?_sort=-price',
+    'name-asc': '?_sort=name'
 }
 
 const CATEGORY_LABELS = { // label danh mục
@@ -61,8 +64,17 @@ function loadData(data){
         items = items.filter(p => p.category === category);
     }
 
-    dispatch('addProducts', { [table]: items });
+    const totalItems = items.length;
+    const totalPages = Math.max(1, Math.ceil(totalItems / pageSize));
+    const safePage = Math.min(page, totalPages);
+
+    const startIndex = (safePage - 1) * pageSize;
+    const pageItems = items.slice(startIndex, startIndex + pageSize);
+
+    dispatch('addProducts', { [table]: pageItems,
+        meta: { totalItems, totalPages, currentPage: safePage }});
     attach(mainProductCategories,'.category-products')//render
+    attach(filterProducts, '.category-filter')
 }
 
 getData(api, ...listApi).then(data => loadData(data))//call api

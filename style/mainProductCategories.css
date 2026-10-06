@@ -132,6 +132,28 @@
     text-align: center;
     margin-top: 16px;
 }
+.paging-link {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 6px 6px 0;
+    color: #000;
+    background-color: #fff;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 16px;
+    text-decoration: none;
+    text-transform: capitalize;
+    width: 32px;
+    height: 32px;
+    border: 1px solid #c8c8c8;
+    border-radius: 2px;
+}
+.paging-link.active{
+    color: white;
+    background-color: var(--color-primary);
+    border: none;
+}
 @media screen and (max-width: 1199px){
     .category-filter{
         display: none;

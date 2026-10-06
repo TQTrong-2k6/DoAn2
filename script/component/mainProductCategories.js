@@ -2,6 +2,12 @@ import html from "../core.js";
 import { connect } from "../store.js";
 import product from "./product.js";
 
+function buildPageUrl(pageNum){
+    const url = new URL(window.location.href);
+    url.searchParams.set('page', pageNum);
+    return url.toString();
+}
+
 function buildSortUrl(sortValue){
     const url = new URL(window.location.href);
     if (sortValue) {
@@ -12,8 +18,26 @@ function buildSortUrl(sortValue){
     return url.toString();
 }
 
+function renderPaging(meta){
+    if (!meta || meta.totalPages <= 1) return '';
+
+    const { currentPage, totalPages } = meta;
+    let buttons = '';
+
+    for (let i = 1; i <= totalPages; i++) {
+        buttons += `
+            <a href="${buildPageUrl(i)}" class="paging-link ${i === currentPage ? 'active' : ''}">
+                ${i}
+            </a>
+        `;
+    }
+
+    return buttons;
+}
+
 function mainProductCategories(data){
-    const products = Object.values(data)[0] || [];
+    const products = Object.values(data).find(v => Array.isArray(v)) || [];
+    const meta = data.meta || {};
 
     const currentSort = new URLSearchParams(window.location.search).get('sort') || '';
 
@@ -51,14 +75,15 @@ function mainProductCategories(data){
         <div class="category-sort">
             <div style="font-weight: 600; font-size: 14px;">
                 Tìm thấy
-                <span class="quantity" style="color: rgb(0 144 208);">${products.length}</span>
+                <span class="quantity" style="color: rgb(0 144 208);">${meta.totalItems}</span>
                 sản phẩm
             </div>
             ${sortOptions}
         </div>
         <div class="category-products__list">
         ${products.map(value => product(value))}</div>
-        <div class="category-products__paging"></div>
+        <div class="category-products__paging">
+        ${renderPaging(meta)}</div>
     `
 }
 

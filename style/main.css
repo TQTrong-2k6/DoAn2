@@ -122,18 +122,7 @@
     margin: 15px 10px;
     padding-bottom: 20px;
 }
-.section-collection .swiper-slide:hover img,
-.section-category .swiper-slide:hover img{
-    animation: moveUp .5s ease forwards;
-}
-@keyframes moveUp{
-    0%{
-        transform: translateY(0);
-    }
-    100%{
-        transform: translateY(-10px);
-    }
-}
+
 .category-box{
     background-color: #fff;
     border-radius: 8px;
