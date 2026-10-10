@@ -15,8 +15,12 @@
       "imageList": ["../slide-show/img-support1.jpg"],
       "price": 1,
       "sale": 0,
-      "upgrade": "",
-      "Add-on_products": ""
+      "attributes": {
+        "Dòng CPU": "AMD Ryzen 7",
+        "Dung lượng RAM": "16GB",
+        "GPU": "AMD RX 9070 XT 16GB"
+      },
+      "upgrade": ""
     },
     {
       "id": "2",
@@ -24,125 +28,129 @@
       "imageList": ["../slide-show/img-support1.jpg"],
       "price": 2,
       "sale": 0.06,
-      "upgrade": "",
-      "Add-on_products": ""
+      "attributes": {
+        "Dòng CPU": "AMD Ryzen 9",
+        "Dung lượng RAM": "32GB",
+        "GPU": "ADM RX 9060 XT 16GB"
+      },
+      "upgrade": ""
     },
-    { "id": "3", "name": "d", "imageList": ["../slide-show/img-support1.jpg"], "price": 3, "sale": 0.06, "upgrade": "", "Add-on_products": "", "category": "PC AMD Gaming" },
-    { "id": "4", "name": "f", "imageList": ["../slide-show/img-support1.jpg"], "price": 4, "sale": 0.06, "upgrade": "", "Add-on_products": "", "category": "PC AMD Gaming" },
-    { "id": "5", "name": "t", "imageList": ["../slide-show/img-support1.jpg"], "price": 5, "sale": 0.06, "upgrade": "", "Add-on_products": "", "category": "PC AMD Gaming" },
-    { "id": "6", "name": "P", "imageList": ["../slide-show/img-support1.jpg"], "price": 6, "sale": 0.06, "upgrade": "", "Add-on_products": "", "category": "PC AMD Gaming" },
-    { "id": "7", "name": "l", "imageList": ["../slide-show/img-support1.jpg"], "price": 7, "sale": 0.06, "upgrade": "", "Add-on_products": "", "category": "PC AMD Gaming" },
-    { "id": "8", "name": "h", "imageList": ["../slide-show/img-support1.jpg"], "price": 8, "sale": 0.06, "upgrade": "", "Add-on_products": "", "category": "PC AMD Gaming" },
-    { "id": "9", "name": "q", "imageList": ["../slide-show/img-support1.jpg"], "price": 9, "sale": 0.06, "upgrade": "", "Add-on_products": "", "category": "PC Core Ultra" },
-    { "id": "10", "name": "v", "imageList": ["../slide-show/img-support1.jpg"], "price": 10, "sale": 0.06, "upgrade": "", "Add-on_products": "" },
-    { "id": "11", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0, "upgrade": "", "Add-on_products": "", "category": "PC STREAM GAME"},
-    { "id": "12", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "", "Add-on_products": "", "category": "PC GAMING PREMIUM" },
-    { "id": "13", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "", "Add-on_products": "", "category": "PC GAMING CAO CẤP" },
-    { "id": "14", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "", "Add-on_products": "", "category": "PC ĐẸP" },
-    { "id": "15", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "", "Add-on_products": "" },
-    { "id": "16", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "", "Add-on_products": "" },
-    { "id": "17", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "", "Add-on_products": "" },
-    { "id": "18", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "", "Add-on_products": "" },
-    { "id": "19", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "", "Add-on_products": "" },
-    { "id": "20", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "", "Add-on_products": "" },
-    { "id": "21", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0, "upgrade": "", "Add-on_products": "" },
-    { "id": "22", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "", "Add-on_products": "" },
-    { "id": "23", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "", "Add-on_products": "" },
-    { "id": "24", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "", "Add-on_products": "" },
-    { "id": "25", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "", "Add-on_products": "" },
-    { "id": "26", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "", "Add-on_products": "" },
-    { "id": "27", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "", "Add-on_products": "" },
-    { "id": "28", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "", "Add-on_products": "" },
-    { "id": "29", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "", "Add-on_products": "" },
-    { "id": "30", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "", "Add-on_products": "" },
-    { "id": "31", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0, "upgrade": "", "Add-on_products": "" },
-    { "id": "32", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "", "Add-on_products": "" },
-    { "id": "33", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "", "Add-on_products": "" },
-    { "id": "34", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "", "Add-on_products": "" },
-    { "id": "35", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "", "Add-on_products": "" },
-    { "id": "36", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "", "Add-on_products": "" },
-    { "id": "37", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "", "Add-on_products": "" },
-    { "id": "38", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "", "Add-on_products": "" },
-    { "id": "39", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "", "Add-on_products": "" },
-    { "id": "40", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "", "Add-on_products": "" },
-    { "id": "41", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0, "upgrade": "", "Add-on_products": "" },
-    { "id": "42", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "", "Add-on_products": "" },
-    { "id": "43", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "", "Add-on_products": "" },
-    { "id": "44", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "", "Add-on_products": "" },
-    { "id": "45", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "", "Add-on_products": "" },
-    { "id": "46", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "", "Add-on_products": "" },
-    { "id": "47", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "", "Add-on_products": "" },
-    { "id": "48", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "", "Add-on_products": "" },
-    { "id": "49", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "", "Add-on_products": "" },
-    { "id": "50", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "", "Add-on_products": "" },
-    { "id": "51", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0, "upgrade": "", "Add-on_products": "" },
-    { "id": "52", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "", "Add-on_products": "" },
-    { "id": "53", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "", "Add-on_products": "" },
-    { "id": "54", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "", "Add-on_products": "" },
-    { "id": "55", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "", "Add-on_products": "" },
-    { "id": "56", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "", "Add-on_products": "" },
-    { "id": "57", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "", "Add-on_products": "" },
-    { "id": "58", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "", "Add-on_products": "" },
-    { "id": "59", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "", "Add-on_products": "" },
-    { "id": "60", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "", "Add-on_products": "" },
-    { "id": "61", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0, "upgrade": "", "Add-on_products": "" },
-    { "id": "62", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "", "Add-on_products": "" },
-    { "id": "63", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "", "Add-on_products": "" },
-    { "id": "64", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "", "Add-on_products": "" },
-    { "id": "65", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "", "Add-on_products": "" },
-    { "id": "66", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "", "Add-on_products": "" },
-    { "id": "67", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "", "Add-on_products": "" },
-    { "id": "68", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "", "Add-on_products": "" },
-    { "id": "69", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "", "Add-on_products": "" },
-    { "id": "70", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "", "Add-on_products": "" }
+    { "id": "3", "name": "d", "imageList": ["../slide-show/img-support1.jpg"], "price": 3, "sale": 0.06, "upgrade": "", "category": "PC AMD Gaming" },
+    { "id": "4", "name": "f", "imageList": ["../slide-show/img-support1.jpg"], "price": 4, "sale": 0.06, "upgrade": "", "category": "PC AMD Gaming" },
+    { "id": "5", "name": "t", "imageList": ["../slide-show/img-support1.jpg"], "price": 5, "sale": 0.06, "upgrade": "", "category": "PC AMD Gaming" },
+    { "id": "6", "name": "P", "imageList": ["../slide-show/img-support1.jpg"], "price": 6, "sale": 0.06, "upgrade": "", "category": "PC AMD Gaming" },
+    { "id": "7", "name": "l", "imageList": ["../slide-show/img-support1.jpg"], "price": 7, "sale": 0.06, "upgrade": "", "category": "PC AMD Gaming" },
+    { "id": "8", "name": "h", "imageList": ["../slide-show/img-support1.jpg"], "price": 8, "sale": 0.06, "upgrade": "", "category": "PC AMD Gaming" },
+    { "id": "9", "name": "q", "imageList": ["../slide-show/img-support1.jpg"], "price": 9, "sale": 0.06, "upgrade": "", "category": "PC Core Ultra" },
+    { "id": "10", "name": "v", "imageList": ["../slide-show/img-support1.jpg"], "price": 10, "sale": 0.06, "upgrade": "" },
+    { "id": "11", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0, "upgrade": "", "category": "PC STREAM GAME", "brand": "ASUS"},
+    { "id": "12", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "", "category": "PC GAMING PREMIUM", "brand": "ASUS" },
+    { "id": "13", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "", "category": "PC GAMING CAO CẤP" },
+    { "id": "14", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "", "category": "PC ĐẸP" },
+    { "id": "15", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "" },
+    { "id": "16", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "" },
+    { "id": "17", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "" },
+    { "id": "18", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "" },
+    { "id": "19", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "" },
+    { "id": "20", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "" },
+    { "id": "21", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0, "upgrade": "" },
+    { "id": "22", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "" },
+    { "id": "23", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "" },
+    { "id": "24", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "" },
+    { "id": "25", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "" },
+    { "id": "26", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "" },
+    { "id": "27", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "" },
+    { "id": "28", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "" },
+    { "id": "29", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "" },
+    { "id": "30", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "" },
+    { "id": "31", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0, "upgrade": "" },
+    { "id": "32", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "" },
+    { "id": "33", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "" },
+    { "id": "34", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "" },
+    { "id": "35", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "" },
+    { "id": "36", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "" },
+    { "id": "37", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "" },
+    { "id": "38", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "" },
+    { "id": "39", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "" },
+    { "id": "40", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "" },
+    { "id": "41", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0, "upgrade": "" },
+    { "id": "42", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "" },
+    { "id": "43", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "" },
+    { "id": "44", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "" },
+    { "id": "45", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "" },
+    { "id": "46", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "" },
+    { "id": "47", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "" },
+    { "id": "48", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "" },
+    { "id": "49", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "" },
+    { "id": "50", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "" },
+    { "id": "51", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0, "upgrade": "" },
+    { "id": "52", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "" },
+    { "id": "53", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "" },
+    { "id": "54", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "" },
+    { "id": "55", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "" },
+    { "id": "56", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "" },
+    { "id": "57", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "" },
+    { "id": "58", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "" },
+    { "id": "59", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "" },
+    { "id": "60", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "" },
+    { "id": "61", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0, "upgrade": "" },
+    { "id": "62", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "" },
+    { "id": "63", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "" },
+    { "id": "64", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "" },
+    { "id": "65", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "" },
+    { "id": "66", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "" },
+    { "id": "67", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "" },
+    { "id": "68", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "" },
+    { "id": "69", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "" },
+    { "id": "70", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "" }
   ],
   "pcMini": [
-    { "id": "11", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0, "upgrade": "", "Add-on_products": "" },
-    { "id": "12", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "", "Add-on_products": "" },
-    { "id": "13", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "", "Add-on_products": "" },
-    { "id": "14", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "", "Add-on_products": "" },
-    { "id": "15", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "", "Add-on_products": "" },
-    { "id": "16", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "", "Add-on_products": "" },
-    { "id": "17", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "", "Add-on_products": "" },
-    { "id": "18", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "", "Add-on_products": "" },
-    { "id": "19", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "", "Add-on_products": "" },
-    { "id": "20", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "", "Add-on_products": "" }
+    { "id": "11", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0, "upgrade": "" },
+    { "id": "12", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "" },
+    { "id": "13", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "" },
+    { "id": "14", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "" },
+    { "id": "15", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "" },
+    { "id": "16", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "" },
+    { "id": "17", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "" },
+    { "id": "18", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "" },
+    { "id": "19", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "" },
+    { "id": "20", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "" }
   ],
   "pcWorkstation": [
-    { "id": "21", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0, "upgrade": "", "Add-on_products": "" },
-    { "id": "22", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "", "Add-on_products": "" },
-    { "id": "23", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "", "Add-on_products": "" },
-    { "id": "24", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "", "Add-on_products": "" },
-    { "id": "25", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "", "Add-on_products": "" },
-    { "id": "26", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "", "Add-on_products": "" },
-    { "id": "27", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "", "Add-on_products": "" },
-    { "id": "28", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "", "Add-on_products": "" },
-    { "id": "29", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "", "Add-on_products": "" },
-    { "id": "30", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "", "Add-on_products": "" }
+    { "id": "21", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0, "upgrade": "" },
+    { "id": "22", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "" },
+    { "id": "23", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "" },
+    { "id": "24", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "" },
+    { "id": "25", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "" },
+    { "id": "26", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "" },
+    { "id": "27", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "" },
+    { "id": "28", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "" },
+    { "id": "29", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "" },
+    { "id": "30", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "" }
   ],
   "pcAI": [
-    { "id": "1", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0, "upgrade": "", "Add-on_products": "" },
-    { "id": "2", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "", "Add-on_products": "" },
-    { "id": "3", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "", "Add-on_products": "" },
-    { "id": "4", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "", "Add-on_products": "" },
-    { "id": "5", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "", "Add-on_products": "" },
-    { "id": "6", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "", "Add-on_products": "" },
-    { "id": "7", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "", "Add-on_products": "" },
-    { "id": "8", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "", "Add-on_products": "" },
-    { "id": "9", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "", "Add-on_products": "" },
-    { "id": "10", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "", "Add-on_products": "" }
+    { "id": "1", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0, "upgrade": "" },
+    { "id": "2", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "" },
+    { "id": "3", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "" },
+    { "id": "4", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "" },
+    { "id": "5", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "" },
+    { "id": "6", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "" },
+    { "id": "7", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "" },
+    { "id": "8", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "" },
+    { "id": "9", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "" },
+    { "id": "10", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "" }
   ],
   "pcOffice": [
-    { "id": "31", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0, "upgrade": "", "Add-on_products": "" },
-    { "id": "32", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "", "Add-on_products": "" },
-    { "id": "33", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "", "Add-on_products": "" },
-    { "id": "34", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "", "Add-on_products": "" },
-    { "id": "35", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "", "Add-on_products": "" },
-    { "id": "36", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "", "Add-on_products": "" },
-    { "id": "37", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "", "Add-on_products": "" },
-    { "id": "38", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "", "Add-on_products": "" },
-    { "id": "39", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "", "Add-on_products": "" },
-    { "id": "40", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "", "Add-on_products": "" }
+    { "id": "31", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0, "upgrade": "" },
+    { "id": "32", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "" },
+    { "id": "33", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "" },
+    { "id": "34", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "" },
+    { "id": "35", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "" },
+    { "id": "36", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "" },
+    { "id": "37", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "" },
+    { "id": "38", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "" },
+    { "id": "39", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "" },
+    { "id": "40", "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE", "imageList": ["../slide-show/img-support1.jpg"], "price": 75990000, "sale": 0.06, "upgrade": "" }
   ],
   "computerComponents": [
     {
@@ -152,9 +160,10 @@
         "../slide-show/img-support1.jpg"
       ],
       "price": 75990000,
+      "category": "CPU",
+      "categoryChild": "CPU INTEL",
       "sale": 0,
-      "upgrade": "",
-      "Add-on_products": ""
+      "upgrade": ""
     },
     {
       "id": "2",
@@ -163,9 +172,10 @@
         "../slide-show/img-support1.jpg"
       ],
       "price": 75990000,
+      "category": "Mainboard - Bo Mạch Chủ",
+      "categoryChild": "Mainboard cho CPU INTEL",
       "sale": 0.06,
-      "upgrade": "",
-      "Add-on_products": ""
+      "upgrade": ""
     },
     {
       "id": "3",
@@ -174,9 +184,9 @@
         "../slide-show/img-support1.jpg"
       ],
       "price": 75990000,
+      "category": "RAM",
       "sale": 0.06,
-      "upgrade": "",
-      "Add-on_products": ""
+      "upgrade": ""
     },
     {
       "id": "4",
@@ -185,9 +195,10 @@
         "../slide-show/img-support1.jpg"
       ],
       "price": 75990000,
+      "category": "VGA - Card Màn Hình",
+      "categoryChild": "VGA NVIDIA",
       "sale": 0.06,
-      "upgrade": "",
-      "Add-on_products": ""
+      "upgrade": ""
     },
     {
       "id": "5",
@@ -196,9 +207,9 @@
         "../slide-show/img-support1.jpg"
       ],
       "price": 75990000,
+      "category": "GIÁ TREO MÀN HÌNH",
       "sale": 0.06,
-      "upgrade": "",
-      "Add-on_products": ""
+      "upgrade": ""
     },
     {
       "id": "6",
@@ -207,9 +218,10 @@
         "../slide-show/img-support1.jpg"
       ],
       "price": 75990000,
+      "category": "Ổ Cứng (SSD, HDD)",
+      "categoryChild": "Ổ cứng SSD",
       "sale": 0.06,
-      "upgrade": "",
-      "Add-on_products": ""
+      "upgrade": ""
     },
     {
       "id": "7",
@@ -218,9 +230,10 @@
         "../slide-show/img-support1.jpg"
       ],
       "price": 75990000,
+      "category": "Tản nhiệt",
+      "categoryChild": "Tản nhiệt khí",
       "sale": 0.06,
-      "upgrade": "",
-      "Add-on_products": ""
+      "upgrade": ""
     },
     {
       "id": "8",
@@ -229,9 +242,9 @@
         "../slide-show/img-support1.jpg"
       ],
       "price": 75990000,
+      "category": "Vỏ Case",
       "sale": 0.06,
-      "upgrade": "",
-      "Add-on_products": ""
+      "upgrade": ""
     },
     {
       "id": "9",
@@ -240,9 +253,9 @@
         "../slide-show/img-support1.jpg"
       ],
       "price": 75990000,
+      "category": "Nguồn (PSU)",
       "sale": 0.06,
-      "upgrade": "",
-      "Add-on_products": ""
+      "upgrade": ""
     },
     {
       "id": "10",
@@ -252,8 +265,144 @@
       ],
       "price": 75990000,
       "sale": 0.06,
-      "upgrade": "",
-      "Add-on_products": ""
+      "upgrade": ""
+    },
+    {
+      "id": "11",
+      "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE",
+      "imageList": [
+        "../slide-show/img-support1.jpg"
+      ],
+      "price": 75990000,
+      "categoryChild": "CPU AMD",
+      "category": "CPU",
+      "sale": 0,
+      "upgrade": ""
+    },
+    {
+      "id": "12",
+      "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE",
+      "imageList": [
+        "../slide-show/img-support1.jpg"
+      ],
+      "price": 75990000,
+      "category": "Mainboard - Bo Mạch Chủ",
+      "categoryChild": "Mainboard cho CPU AMD",
+      "sale": 0.06,
+      "upgrade": ""
+    },
+    {
+      "id": "13",
+      "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE",
+      "imageList": [
+        "../slide-show/img-support1.jpg"
+      ],
+      "price": 75990000,
+      "category": "RAM",
+      "sale": 0.06,
+      "upgrade": ""
+    },
+    {
+      "id": "14",
+      "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE",
+      "imageList": [
+        "../slide-show/img-support1.jpg"
+      ],
+      "price": 75990000,
+      "category": "VGA - Card Màn Hình",
+      "categoryChild": "VGA AMD",
+      "sale": 0.06,
+      "upgrade": ""
+    },
+    {
+      "id": "15",
+      "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE",
+      "imageList": [
+        "../slide-show/img-support1.jpg"
+      ],
+      "price": 75990000,
+      "category": "GIÁ TREO MÀN HÌNH",
+      "sale": 0.06,
+      "upgrade": ""
+    },
+    {
+      "id": "16",
+      "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE",
+      "imageList": [
+        "../slide-show/img-support1.jpg"
+      ],
+      "price": 75990000,
+      "category": "Ổ Cứng (SSD, HDD)",
+      "categoryChild": "Ổ cứng HDD",
+      "sale": 0.06,
+      "upgrade": ""  },
+    {
+      "id": "17",
+      "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE",
+      "imageList": [
+        "../slide-show/img-support1.jpg"
+      ],
+      "price": 75990000,
+      "category": "Tản nhiệt",
+      "categoryChild": "Tản nhiệt nước AIO",
+      "sale": 0.06,
+      "upgrade": ""
+    },
+    {
+      "id": "18",
+      "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE",
+      "imageList": [
+        "../slide-show/img-support1.jpg"
+      ],
+      "price": 75990000,
+      "category": "Vỏ Case",
+      "sale": 0.06,
+      "upgrade": ""
+    },
+    {
+      "id": "19",
+      "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE",
+      "imageList": [
+        "../slide-show/img-support1.jpg"
+      ],
+      "price": 75990000,
+      "category": "Nguồn (PSU)",
+      "sale": 0.06,
+      "upgrade": ""
+    },
+    {
+      "id": "20",
+      "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE",
+      "imageList": [
+        "../slide-show/img-support1.jpg"
+      ],
+      "price": 75990000,
+      "sale": 0.06,
+      "upgrade": ""
+    },
+    {
+      "id": "21",
+      "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE",
+      "imageList": [
+        "../slide-show/img-support1.jpg"
+      ],
+      "price": 75990000,
+      "category": "VGA - Card Màn Hình",
+      "categoryChild": "VGA Nvidia RTX 5000 Series",
+      "sale": 0.06,
+      "upgrade": ""
+    },
+    {
+      "id": "22",
+      "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE",
+      "imageList": [
+        "../slide-show/img-support1.jpg"
+      ],
+      "price": 75990000,
+      "category": "Tản nhiệt",
+      "categoryChild": "Quạt tản nhiệt",
+      "sale": 0.06,
+      "upgrade": ""
     }
   ],
   "screen": [
@@ -265,8 +414,7 @@
       ],
       "price": 75990000,
       "sale": 0,
-      "upgrade": "",
-      "Add-on_products": ""
+      "upgrade": ""
     },
     {
       "id": "2",
@@ -276,8 +424,7 @@
       ],
       "price": 75990000,
       "sale": 0.06,
-      "upgrade": "",
-      "Add-on_products": ""
+      "upgrade": ""
     },
     {
       "id": "3",
@@ -287,8 +434,7 @@
       ],
       "price": 75990000,
       "sale": 0.06,
-      "upgrade": "",
-      "Add-on_products": ""
+      "upgrade": ""
     },
     {
       "id": "4",
@@ -298,8 +444,7 @@
       ],
       "price": 75990000,
       "sale": 0.06,
-      "upgrade": "",
-      "Add-on_products": ""
+      "upgrade": ""
     },
     {
       "id": "5",
@@ -309,8 +454,7 @@
       ],
       "price": 75990000,
       "sale": 0.06,
-      "upgrade": "",
-      "Add-on_products": ""
+      "upgrade": ""
     },
     {
       "id": "6",
@@ -320,8 +464,7 @@
       ],
       "price": 75990000,
       "sale": 0.06,
-      "upgrade": "",
-      "Add-on_products": ""
+      "upgrade": ""
     },
     {
       "id": "7",
@@ -331,8 +474,7 @@
       ],
       "price": 75990000,
       "sale": 0.06,
-      "upgrade": "",
-      "Add-on_products": ""
+      "upgrade": ""
     },
     {
       "id": "8",
@@ -342,8 +484,7 @@
       ],
       "price": 75990000,
       "sale": 0.06,
-      "upgrade": "",
-      "Add-on_products": ""
+      "upgrade": ""
     },
     {
       "id": "9",
@@ -353,8 +494,7 @@
       ],
       "price": 75990000,
       "sale": 0.06,
-      "upgrade": "",
-      "Add-on_products": ""
+      "upgrade": ""
     },
     {
       "id": "10",
@@ -364,8 +504,7 @@
       ],
       "price": 75990000,
       "sale": 0.06,
-      "upgrade": "",
-      "Add-on_products": ""
+      "upgrade": ""
     }
   ],
   "gaminggear": [],
@@ -378,8 +517,7 @@
       ],
       "price": 75990000,
       "sale": 0,
-      "upgrade": "",
-      "Add-on_products": ""
+      "upgrade": ""
     },
     {
       "id": "2",
@@ -389,8 +527,7 @@
       ],
       "price": 75990000,
       "sale": 0.06,
-      "upgrade": "",
-      "Add-on_products": ""
+      "upgrade": ""
     },
     {
       "id": "3",
@@ -400,8 +537,7 @@
       ],
       "price": 75990000,
       "sale": 0.06,
-      "upgrade": "",
-      "Add-on_products": ""
+      "upgrade": ""
     },
     {
       "id": "4",
@@ -411,8 +547,7 @@
       ],
       "price": 75990000,
       "sale": 0.06,
-      "upgrade": "",
-      "Add-on_products": ""
+      "upgrade": ""
     },
     {
       "id": "5",
@@ -422,8 +557,7 @@
       ],
       "price": 75990000,
       "sale": 0.06,
-      "upgrade": "",
-      "Add-on_products": ""
+      "upgrade": ""
     },
     {
       "id": "6",
@@ -433,8 +567,7 @@
       ],
       "price": 75990000,
       "sale": 0.06,
-      "upgrade": "",
-      "Add-on_products": ""
+      "upgrade": ""
     },
     {
       "id": "7",
@@ -444,8 +577,7 @@
       ],
       "price": 75990000,
       "sale": 0.06,
-      "upgrade": "",
-      "Add-on_products": ""
+      "upgrade": ""
     },
     {
       "id": "8",
@@ -455,8 +587,7 @@
       ],
       "price": 75990000,
       "sale": 0.06,
-      "upgrade": "",
-      "Add-on_products": ""
+      "upgrade": ""
     },
     {
       "id": "9",
@@ -466,8 +597,7 @@
       ],
       "price": 75990000,
       "sale": 0.06,
-      "upgrade": "",
-      "Add-on_products": ""
+      "upgrade": ""
     },
     {
       "id": "10",
@@ -477,8 +607,7 @@
       ],
       "price": 75990000,
       "sale": 0.06,
-      "upgrade": "",
-      "Add-on_products": ""
+      "upgrade": ""
     }
   ]
 }

@@ -65,7 +65,7 @@
     font-size: 13px;
     padding: 12px;
 }
-.category-filter li:not(:first-child){
+.category-filter li:not(:first-child):not(.category-filter__child li){
     margin-top: 8px;
 }
 .category-filter li label{

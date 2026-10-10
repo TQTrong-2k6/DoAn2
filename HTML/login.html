@@ -103,13 +103,13 @@
     <script src="../script/validator.js"></script>
         <script type="module">
             import storage from '../script/util/storage.js'
-            
+            import BASE_URL from '../script/config.js'
             var form = new Validator('#register-form');
 
             form.onSubmit = async (formData) => {
                 console.log(formData);
 
-                const res = await fetch(`http://localhost:3000/users?email=${formData.email.trim()}&password=${formData.password.trim()}`);
+                const res = await fetch(`${BASE_URL}users?email=${formData.email.trim()}&password=${formData.password.trim()}`);
                 const users = await res.json();
 
                 if (users.length > 0) {

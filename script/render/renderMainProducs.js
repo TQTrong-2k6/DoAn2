@@ -1,9 +1,9 @@
+import BASE_URL from '../config.js'
 import getData from '../fetch.js'
 import { attach } from '../store.js';
 import flashSale from '../component/flashSale.js';
 import mainProduct from '../component/mainProduct.js';
 
-const api = 'http://localhost:3000/';
 const listApi = ['pcGaming', 'pcMini', 'pcWorkstation', 'pcOffice', 'computerComponents', 'screen', 'laptop'];
 
 function loadData(data){
@@ -37,4 +37,4 @@ function loadData(data){
         }
     });
 };
-getData(api, ...listApi).then(data => loadData(data))
+getData(BASE_URL, ...listApi).then(data => loadData(data))

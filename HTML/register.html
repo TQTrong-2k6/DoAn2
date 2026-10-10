@@ -118,11 +118,13 @@
     <!--footer-->
     <footer class="footer"></footer>
     <script src="../script/validator.js"></script>
-        <script>
+        <script type="module">
+            import BASE_URL from '../script/config.js'
+            
             var form = new Validator('#register-form');
 
             form.onSubmit = async (formData) => {
-                const check = await fetch(`http://localhost:3000/users?email=${formData.email}`);
+                const check = await fetch(`${BASE_URL}users?email=${formData.email}`);
                 const existing = await check.json();
 
                 if (existing.length > 0) {
@@ -130,7 +132,7 @@
                     return;
                 }
 
-                await fetch('http://localhost:3000/users', {
+                await fetch(`${BASE_URL}/users`, {
                     method: 'POST',
                     headers: { 'Content-Type': 'application/json' },
                     body: JSON.stringify(formData)
