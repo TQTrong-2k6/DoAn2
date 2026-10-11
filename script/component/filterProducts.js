@@ -131,12 +131,6 @@ function renderBrandsFilter(products, name, title, brands){
                         </li>
                     `;
                 }).join('')}
-                <li>
-                    <label>
-                        <input type="checkbox" data-filter-name="${name}" value="Khác">
-                        khác
-                    </label>
-                </li>
             </ul>
         </div>
     `;
@@ -180,7 +174,11 @@ function filterProducts(data){
     }
 
     // --- Brand: tự lấy giá trị duy nhất từ products ---
-    const brands = [...new Set(products.filter(p => p.brand).map(p => p.brand))];
+    const allBrands = [...new Set(products.filter(p => p.brand).map(p => p.brand))];
+    const brands = [
+        ...allBrands.filter(v => v !== 'Khác'),
+        ...allBrands.filter(v => v === 'Khác')
+    ];
     const brandBlock = renderBrandsFilter(products, 'brand', 'THƯƠNG HIỆU', brands);
 
     // --- Price: tự tính range theo data thật ---
