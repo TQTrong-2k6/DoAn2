@@ -212,7 +212,7 @@ function filterProducts(data){
                     ${attributeBlocks}
                 </div>
             </div>` : ''}
-    `
+        `
 }
 
 export default connect(state => state.products)(filterProducts)
