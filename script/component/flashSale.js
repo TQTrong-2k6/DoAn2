@@ -11,10 +11,9 @@ function flashSale({...products}){
         .filter(v => v.sale > 0)
         .sort((a, b) => b.sale - a.sale)
         .slice(0, 10);
-
     return html`
     <div class="swiper-wrapper">
-        ${topSale.map(v => product(v))}
+        ${topSale.map(v => product(v, v.table))}
     </div>
     <div class="swiper-button-next  swiper-custom-btn"></div>
     <div class="swiper-button-prev  swiper-custom-btn"></div>

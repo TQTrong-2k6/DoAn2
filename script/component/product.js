@@ -2,18 +2,18 @@ import html from "../core.js"
 
 const fmt = n => Math.round(n).toLocaleString('vi-VN') + ' VNĐ';
 
-function product(product){
+function product(product, table){
     const price = product.price;
     const salePrice = price * (1 - product.sale);
-
+    
     return html`
-        <div class="swiper-slide product" data-id="${product.id}">
+        <div class="swiper-slide product">
             <div class="p-item">
-                <a href="" class="p-image">
+                <a href="./productDetails.html?table=${table}&id=${product.id}" class="p-image">
                     <img src="${product.imageList[0]}" alt="">
                 </a>
                 <p class="p-status p-mobile">Còn hàng</p>
-                <a href="">
+                <a href="./productDetails.html?table=${table}&id=${product.id}">
                     <h3 class="p-name line-clamp-2">
                         ${product.name}
                     </h3>

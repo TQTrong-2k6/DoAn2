@@ -41,6 +41,8 @@ function mainProductCategories(data){
 
     const currentSort = new URLSearchParams(window.location.search).get('sort') || '';
 
+    const table = new URLSearchParams(window.location.search).get('table') || '';
+    
     const sortOptionsConfig = [
         { value: '', label: 'Sắp xếp theo' },
         { value: 'newest', label: 'Mới nhất' },
@@ -81,7 +83,7 @@ function mainProductCategories(data){
             ${sortOptions}
         </div>
         <div class="category-products__list">
-        ${products.map(value => product(value))}</div>
+        ${products.map(value => product(value, table))}</div>
         <div class="category-products__paging">
         ${renderPaging(meta)}</div>
     `

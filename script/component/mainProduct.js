@@ -20,10 +20,10 @@ function mainProduct(products){
         <div class="product-category">
             <div class="swiper swiper-collection-product swiper-initialized swiper-horizontal swiper-pointer-events">
                 <div class="swiper-wrapper">
-                    ${(products.pcGaming || []).slice(0, 10).map(value => product(value))}
+                    ${(products.pcGaming || []).slice(0, 10).map(value => product(value, 'pcGaming'))}
                 </div>
-                <div class="swiper-button-next  swiper-custom-btn"></div>
-                <div class="swiper-button-prev  swiper-custom-btn"></div>
+                <div class="swiper-button-next swiper-custom-btn"></div>
+                <div class="swiper-button-prev swiper-custom-btn"></div>
             </div>
         </div>
     </div>
@@ -35,10 +35,10 @@ function mainProduct(products){
         <div class="product-category">
             <div class="swiper swiper-collection-product swiper-initialized swiper-horizontal swiper-pointer-events">
                 <div class="swiper-wrapper">
-                    ${(products.pcMini || []).slice(0, 10).map(value => product(value))}
+                    ${(products.pcMini || []).slice(0, 10).map(value => product(value, 'pcMini'))}
                 </div>
-                <div class="swiper-button-next  swiper-custom-btn"></div>
-                <div class="swiper-button-prev  swiper-custom-btn"></div>
+                <div class="swiper-button-next swiper-custom-btn"></div>
+                <div class="swiper-button-prev swiper-custom-btn"></div>
             </div>
         </div>
     </div>
@@ -50,10 +50,10 @@ function mainProduct(products){
         <div class="product-category">
             <div class="swiper swiper-collection-product swiper-initialized swiper-horizontal swiper-pointer-events">
                 <div class="swiper-wrapper">
-                    ${(products.pcWorkstation || []).slice(0, 10).map(value => product(value))}
+                    ${(products.pcWorkstation || []).slice(0, 10).map(value => product(value, 'pcWorkstation'))}
                 </div>
-                <div class="swiper-button-next  swiper-custom-btn"></div>
-                <div class="swiper-button-prev  swiper-custom-btn"></div>
+                <div class="swiper-button-next swiper-custom-btn"></div>
+                <div class="swiper-button-prev swiper-custom-btn"></div>
             </div>
         </div>
     </div>
@@ -65,10 +65,10 @@ function mainProduct(products){
         <div class="product-category">
             <div class="swiper swiper-collection-product swiper-initialized swiper-horizontal swiper-pointer-events">
                 <div class="swiper-wrapper">
-                    ${(products.pcOffice || []).slice(0, 10).map(value => product(value))}
+                    ${(products.pcOffice || []).slice(0, 10).map(value => product(value, 'pcOffice'))}
                 </div>
-                <div class="swiper-button-next  swiper-custom-btn"></div>
-                <div class="swiper-button-prev  swiper-custom-btn"></div>
+                <div class="swiper-button-next swiper-custom-btn"></div>
+                <div class="swiper-button-prev swiper-custom-btn"></div>
             </div>
         </div>
     </div>
@@ -80,10 +80,10 @@ function mainProduct(products){
         <div class="product-category">
             <div class="swiper swiper-collection-product swiper-initialized swiper-horizontal swiper-pointer-events">
                 <div class="swiper-wrapper">
-                    ${(products.screen || []).slice(0, 10).map(value => product(value))}
+                    ${(products.screen || []).slice(0, 10).map(value => product(value, 'screen'))}
                 </div>
-                <div class="swiper-button-next  swiper-custom-btn"></div>
-                <div class="swiper-button-prev  swiper-custom-btn"></div>
+                <div class="swiper-button-next swiper-custom-btn"></div>
+                <div class="swiper-button-prev swiper-custom-btn"></div>
             </div>
         </div>
     </div>
@@ -95,10 +95,10 @@ function mainProduct(products){
         <div class="product-category">
             <div class="swiper swiper-collection-product swiper-initialized swiper-horizontal swiper-pointer-events">
                 <div class="swiper-wrapper">
-                    ${(products.computerComponents || []).slice(0, 10).map(value => product(value))}
+                    ${(products.computerComponents || []).slice(0, 10).map(value => product(value, 'computerComponents'))}
                 </div>
-                <div class="swiper-button-next  swiper-custom-btn"></div>
-                <div class="swiper-button-prev  swiper-custom-btn"></div>
+                <div class="swiper-button-next swiper-custom-btn"></div>
+                <div class="swiper-button-prev swiper-custom-btn"></div>
             </div>
         </div>
     </div>
@@ -110,10 +110,10 @@ function mainProduct(products){
         <div class="product-category">
             <div class="swiper swiper-collection-product swiper-initialized swiper-horizontal swiper-pointer-events">
                 <div class="swiper-wrapper">
-                    ${(products.laptop || []).slice(0, 10).map(value => product(value))}
+                    ${(products.laptop || []).slice(0, 10).map(value => product(value, 'laptop'))}
                 </div>
-                <div class="swiper-button-next  swiper-custom-btn"></div>
-                <div class="swiper-button-prev  swiper-custom-btn"></div>
+                <div class="swiper-button-next swiper-custom-btn"></div>
+                <div class="swiper-button-prev swiper-custom-btn"></div>
             </div>
         </div>
     </div>
