@@ -44,6 +44,16 @@ function buildFilterUrl(name, value, isChecked){
     return url.toString();
 }
 
+function buildSortUrl(sortValue){
+    const url = new URL(window.location.href);
+    if (sortValue) {
+        url.searchParams.set('sort', sortValue);
+    } else {
+        url.searchParams.delete('sort');
+    }
+    return url.toString();
+}
+
 function renderCheckboxAttribute(product, name, title, values){
     if (values.length === 0) return '';
     const checked = getCheckedValues(name);
@@ -91,22 +101,27 @@ function renderPriceFilter(products){
 
     return `
         <div class="category-filter__price">
-            <h3 class="header-filter">KHOẢNG GIÁ</h3>
-            <ul class="price-products">
-               ${ranges.map(r => {
-                    const value = `${r.min}-${r.max}`;
-                    const isChecked = checked.includes(value);
-                    return `
-                        <li>
-                            <label>
-                                <input type="checkbox" data-filter-name="price" value="${value}" ${isChecked ? 'checked' : ''}>
-                                ${(r.min / 1000000).toFixed(0)} - ${(r.max / 1000000).toFixed(0)} triệu
-                                ${isChecked ? '(Xóa)' : ` (${r.count})`}
-                            </label>
-                        </li>
-                    `;
-                }).join('')}
-            </ul>
+            <h3 class="header-filter" onclick="tooggleActiveSupport(this)">
+                KHOẢNG GIÁ 
+                <i class="icon-drop fa-solid fa-angle-down"></i>
+            </h3>
+            <div class="nav-filter">
+                <ul class="price-products">
+                    ${ranges.map(r => {
+                        const value = `${r.min}-${r.max}`;
+                        const isChecked = checked.includes(value);
+                        return `
+                            <li>
+                                <label>
+                                    <input type="checkbox" data-filter-name="price" value="${value}" ${isChecked ? 'checked' : ''}>
+                                    ${(r.min / 1000000).toFixed(0)} - ${(r.max / 1000000).toFixed(0)} triệu
+                                    ${isChecked ? '(Xóa)' : ` (${r.count})`}
+                                </label>
+                            </li>
+                        `;
+                    }).join('')}
+                </ul>
+            </div>
         </div>
     `;
 }
@@ -143,6 +158,24 @@ function filterProducts(data){
     const table = params.get('table');
     const category = params.get('category') || '';
     const categoryChild = params.get('categoryChild') || '';
+
+    const currentSort = params.get('sort') || '';
+    const sortOptionsConfig = [
+        { value: '', label: 'Sắp xếp theo' },
+        { value: 'newest', label: 'Mới nhất' },
+        { value: 'price-asc', label: 'Giá tăng dần' },
+        { value: 'price-desc', label: 'Giá giảm dần' },
+        { value: 'name-asc', label: 'Tên A➜Z' }
+    ];
+    const sortOptions = `
+        <select class="sotting-product" onchange="location.href = this.value">
+            ${sortOptionsConfig.map(opt => `
+                <option value="${buildSortUrl(opt.value)}" ${opt.value === currentSort ? 'selected' : ''}>
+                    ${opt.label}
+                </option>
+            `).join('')}
+        </select>
+    `;
 
     let categoryBlock = '';
     if (!categoryChild) {
@@ -201,17 +234,23 @@ function filterProducts(data){
             <h2>LỌC SẢN PHẨM</h2>
         </div>
         ${categoryBlock}
-        ${priceBlock}
-        ${brandBlock}
-        ${attributeBlocks.length > 0 ?  `
-            <div class="category-filter__attribute">
-                <h3 class="header-filter">
-                    LỌC SẢN PHẨM
-                </h3>
-                <div class="parts-categories">
-                    ${attributeBlocks}
-                </div>
-            </div>` : ''}
+        <div class="filter-mobile">
+            ${priceBlock}
+            ${brandBlock}
+            ${attributeBlocks.length > 0 ?  `
+                <div class="category-filter__attribute">
+                    <h3 class="header-filter" onclick="tooggleActiveSupport(this)">
+                        LỌC SẢN PHẨM
+                        <i class="icon-drop fa-solid fa-angle-down"></i>
+                    </h3>
+                    <div class="nav-filter">
+                        <div class="parts-categories">
+                            ${attributeBlocks}
+                        </div>
+                    </div>
+                </div>` : ''}
+            ${sortOptions}
+        </div>
         `
 }
 

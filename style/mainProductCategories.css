@@ -94,6 +94,12 @@
     font-size: 13px;
     margin-bottom: 12px;
 }
+i.icon-drop{
+    display: none;
+}
+.category-filter .sotting-product{
+    display: none;
+}
 .category-products{
     padding: 15px 12px;
     background-color: white;
@@ -154,9 +160,137 @@
     background-color: var(--color-primary);
     border: none;
 }
+
+
 @media screen and (max-width: 1199px){
-    .category-filter{
+    .category-filter__heading,
+    .category-filter__brand, .category-sort, 
+    .category-filter__child .header-filter,
+    .category-filter__child ul li i
+    {
         display: none;
+    }
+    .category-main{
+        display: block;
+    }
+    .category-filter{
+        display: block;
+        width: auto;
+        background: none;
+        overflow: visible;
+    }
+    .nav-filter ul{
+        padding: 0;
+    }
+    .category-filter__child{
+        margin-bottom: 12px;
+    }
+    .category-filter__child ul{
+        text-align: center;
+        line-height: 16px;
+        font-size: 13px;
+        font-weight: 500;
+        gap: 10px;
+        display: grid;
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+    }
+    .category-filter__child ul li{
+        background-color: #fff;
+        margin: 0;
+        border: none !important;
+        border-radius: 4px;
+    }
+    .filter-mobile{
+        display: flex;
+        position: relative;
+        gap: 12px
+    }
+    .category-filter__price .header-filter,
+    .category-filter__attribute .header-filter{
+        font-size: 0;
+        padding: 6px 7px 6px 12px;
+        line-height: 16px;
+        width: fit-content;
+        cursor: pointer;
+    }
+    i.icon-drop{
+        display: flex;
+        font-size: 13px;
+        width: 18px;
+        height: 18px;
+        padding-left: 3px;
+        align-items: center;
+        justify-content: center;
+    }
+    .category-filter__price .header-filter::before{
+        content: "Giá";
+        font-size: 14px;
+    }
+    .category-filter__attribute .header-filter::before{
+        content: "Tính năng";
+        font-size: 14px;
+    }
+    .filter-mobile .header-filter, .sotting-product{
+        display: flex;
+        border: 1px solid black;
+        justify-content: center;
+        align-items: center;
+        border-radius: 3px;
+    }
+    .category-filter .sotting-product{
+        display: block;
+        background: none;
+        outline-color: #000
+    }
+    .category-filter li{
+        margin: 0 !important;
+    }
+    .nav-filter{
+        display: block;
+        position: absolute;
+        top: 34px;
+        right: 0;
+        left: 0;
+        z-index: 9;
+        background-color: #fff;
+        border: 1px solid #000;
+        border-radius: 2px;
+        padding: 10px;
+        max-height: 400px;
+        overflow-y: auto;
+        opacity: 0;
+        visibility: hidden;
+        transform: translateY(-2px);
+        pointer-events: none;
+
+        transition:
+            opacity 0.25s ease,
+            transform 0.25s ease,
+            visibility 0.25s ease;
+    }
+    .category-filter .active{
+        opacity: 1;
+        visibility: visible;
+        transform: translateY(0);
+        pointer-events: auto;
+    }
+    .parts-categories{
+        padding: 0;
+    }
+    .price-products, .parts-categories__filter ul{
+        display: grid;
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+        gap: 10px;
+    }
+    .category-products{
+        background: none;
+        padding: 15px 0;
+    }
+    .parts-categories__filter{
+        padding: 0;
+    }
+    .parts-categories__filter:not(:last-child){
+        margin-bottom: 12px;
     }
     .category-products__list{
         display: grid;
@@ -169,5 +303,11 @@
         display: grid;
         grid-template-columns: repeat(2, minmax(0, 1fr));
         gap: 12px;
+    }
+    .price-products, .parts-categories__filter ul{
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+    .category-filter__child ul{
+        grid-template-columns: repeat(2, minmax(0, 1fr));
     }
 }

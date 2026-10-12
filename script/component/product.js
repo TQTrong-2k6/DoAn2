@@ -3,7 +3,7 @@ import html from "../core.js"
 const fmt = n => Math.round(n).toLocaleString('vi-VN') + ' VNĐ';
 
 function product(product){
-    const price = product.price;              // không cần toNumber nữa
+    const price = product.price;
     const salePrice = price * (1 - product.sale);
 
     return html`

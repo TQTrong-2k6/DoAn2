@@ -3,6 +3,27 @@ function tooggleActive(el){
     element.classList.toggle('active');
 }
 
+function tooggleActiveSupport(header){
+    const navFilter = header.nextElementSibling;
+    const isCurrentlyActive = navFilter.classList.contains('active');
+
+    document.querySelectorAll('.nav-filter.active')
+        .forEach(el => el.classList.remove('active'));
+
+    if (!isCurrentlyActive) {
+        navFilter.classList.add('active');
+    }
+}
+
+document.addEventListener('click', (e) => {
+    // Bất kỳ khối nào có header-filter + nav-filter kế tiếp đều được coi là "vùng filter"
+    const isInsideFilter = e.target.closest('.header-filter, .nav-filter');
+    if (isInsideFilter) return;
+
+    document.querySelectorAll('.nav-filter.active')
+        .forEach(el => el.classList.remove('active'));
+});
+
 window.addEventListener('scroll', () => {
     const width = window.innerWidth;
 
