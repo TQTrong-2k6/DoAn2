@@ -19,52 +19,65 @@ html{
 *, *::before, *::after {
     box-sizing: border-box;
 }
-table{
-    text-indent: 0;
-    border-color: inherit;
-    border-collapse: collapse;
+select{
+    outline-color: var(--color-primary);
+}
+a{
+    transition: all .2s;
 }
 td, th{
     border: revert-layer;
     padding: revert-layer;
 }
-button, input, optgroup, select, textarea{
-    font-family: inherit;
-    font-feature-settings: inherit;
-    font-variation-settings: inherit;
-    font-size: 100%;
-    font-weight: inherit;
-    line-height: inherit;
-    letter-spacing: inherit;
-    color: inherit;
-    margin: 0;
-    padding: 0;
+button{
+    cursor: pointer;
 }
-button, select{
-    text-transform: none;
-}
-select{
-    outline-color: var(--color-primary);
-}
-p{
-    margin: 0;
-    padding: 0;
-}
-h1, h2, h3, h4{
-    margin: 0;
-}
-body{
-    background-color: #F5F5F5;
-}
-ul, ol {
-    list-style: none;
-    margin: 0;
-    padding: 0;
-}
-a{
-    text-decoration: none;
-    color: inherit;
-    transition: all .2s;
+@layer base{
+    table{
+        text-indent: 0;
+        border-color: inherit;
+        border-collapse: collapse;
+    }
+    table th, table td {
+        border-left: 1px solid #ddd;  
+        border-right: 1px solid #ddd;
+        border-bottom: 1px solid #ddd;
+        padding: 10px;
+    }
+    button, input, optgroup, select, textarea{
+        font-family: inherit;
+        font-feature-settings: inherit;
+        font-variation-settings: inherit;
+        font-size: 100%;
+        font-weight: inherit;
+        line-height: inherit;
+        letter-spacing: inherit;
+        color: inherit;
+        margin: 0;
+        padding: 0;
+    }
+    button, select{
+        text-transform: none;
+    }
+    p{
+        margin: 0;
+        padding: 0;
+    }
+    h1, h2, h3, h4{
+        margin: 0;
+    }
+    body{
+        background-color: #F5F5F5;
+    }
+    ul, ol {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+    }
+    a{
+        text-decoration: none;
+        color: inherit;
+    }
 }
 .container {
     max-width: 1200px !important;
