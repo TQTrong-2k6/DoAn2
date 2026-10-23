@@ -20,20 +20,34 @@
       "id": "1",
       "name": "a",
       "imageList": [
-        "../slide-show/img-support1.jpg"
+        "../slide-show/img-support1.jpg",
+        "../slide-show/img-support2.jpg",
+        "../slide-show/img-support3.jpg",
+        "../slide-show/img-support1.jpg",
+        "../slide-show/img-support2.jpg",
+        "../slide-show/img-support3.jpg"
       ],
       "price": 1,
       "sale": 0,
       "brand": "Khác",
+      "guarantee": "36",
       "attributes": {
         "Dòng CPU": "AMD Ryzen 7",
         "Dung lượng RAM": "16GB",
         "GPU": "AMD RX 9070 XT 16GB"
       },
-      "describe": {},
-      "offer": {},
-      "specifications": {},
-      "upgrade": ""
+      "describe": ["CPU Intel Core Ultra 7 265KF (Up to 5.5GHz , 20 nhân - 20 luồng ,30MB Cache, Arrow Lake -S) - TRAY", "Mainboard GIGABYTE B860M AORUS ELITE WIFI 6 DDR5", "RAM APACER NOX 32GB (2x16GB) BUSS 5200MHZ DDR5 BLACK", "Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)", "Nguồn máy tính FSP VIC BD 750 750W 80 Plus Bronze", "Card Màn Hình Colorful GeForce RTX 5060 Ti Gaming DUO 8GB-V", "Vỏ Case XIGMATEK AQUA ML BLACK - KÈM 3 FAN ARGB", "Tản nhiệt khí Thermalright Peerless Assassin 120 SE ARGB BLACK"],
+      "offer": [{"Card màn hình ASUS Dual GeForce RTX 5060 Ti 8GB GDDR7 OC Edition": 500000}],
+      "specifications": {
+        "CPU Intel Core Ultra 7 265KF (Up to 5.5GHz , 20 nhân - 20 luồng ,30MB Cache, Arrow Lake -S) - TRAY": [1, "36th"],
+        "Mainboard GIGABYTE B860M AORUS ELITE WIFI 6 DDR5": [1, "36th"],
+        "RAM GEIL SPEAR V 32GB (2x16GB) BUSS 5200MHZ DDR5 BLACK": [1, "36th"],
+        "Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)": [1, "36th"],
+        "Nguồn máy tính FSP VIC BD 750 750W 80 Plus Bronze": [1, "36th"],
+        "Card Màn Hình Colorful GeForce RTX 5060 Ti Gaming DUO 8GB-V": [1, "36th"],
+        "Vỏ Case XIGMATEK AQUA ML BLACK - KÈM 3 FAN ARGB": [1, "12th"],
+        "Tản nhiệt khí Thermalright Peerless Assassin 120 SE ARGB BLACK": [1, "12th"]
+      }
     },
     {
       "id": "2",
@@ -1213,10 +1227,30 @@
         "../slide-show/img-support1.jpg"
       ],
       "price": 75990000,
+      "guarantee": "36",
       "category": "CPU",
       "categoryChild": "CPU INTEL",
       "sale": 0,
-      "upgrade": ""
+      "describe": ["Phiên bản kỷ niệm 30 năm giới hạn của Asus", "Nhân đồ họa: GeForce RTX 5090", "Nhân CUDA: 21760", "Tốc độ bộ nhớ: 28Gbps", "Bộ nhớ: 32GB GDDR7", "Bus bộ nhớ: 512-bit", "Bảo hành: 36 Tháng"],
+      "offer": [{"Card màn hình ASUS Dual GeForce RTX 5060 Ti 8GB GDDR7 OC Edition": 500000}],
+      "specifications": {
+        "Hãng sản xuất": "ASUS",
+        "Engine đồ họa": "RTX 5090",
+        "Bộ nhớ trong": "32GB GDDR7",
+        "CUDA Cores": "21760",
+        "Memory Speed": "28 Gbps",
+        "Card bus": "PCI Express 5.0",
+        "Hỗ trợ OpenGL": "4.6",
+        "Bus": "512-bit",
+        "Độ phân giải": "7680 x 4320",
+        "Nguồn yêu cầu": "1000W",
+        "Nguồn phụ": "1 * 16pin",
+        "Cổng giao tiếp": ["- Yes x 2 (Native HDMI 2.1b)", "- Yes x 3 (Native DisplayPort 2.1a", "- HDCP Support Yes (2.3)"],
+        "Maximum display": "4",
+        "Số lượng fan": "4",
+        "Kích thước (DxRxC)": "357.6 x 149.3 x 76mm",
+        "Bảo hành": "36 tháng"
+      }
     },
     {
       "id": "2",
