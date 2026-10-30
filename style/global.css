@@ -114,10 +114,12 @@ button{
     margin-top: 20px;
 }
 .routing-link{
-    display: flex;
+    display: block;
     color: rgb(109, 109, 109);
     font-size: 15px;
-    
+}
+.routing-link li{
+    display: inline;
 }
 .routing-link li:last-child{
     color: black;

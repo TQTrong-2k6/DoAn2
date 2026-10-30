@@ -18,7 +18,7 @@
   "pcGaming": [
     {
       "id": "1",
-      "name": "a",
+      "name": "PC TTG DESIGNER -3D RENDER - EDIT VIDEO ULTRA 7 265KF - RTX 5060 Ti 8GB (All NEW - Bảo hành 36 tháng)",
       "imageList": [
         "../slide-show/img-support1.jpg",
         "../slide-show/img-support2.jpg",
@@ -31,6 +31,7 @@
       "sale": 0,
       "brand": "Khác",
       "guarantee": "36",
+      "category": "PC Core Ultra",
       "attributes": {
         "Dòng CPU": "AMD Ryzen 7",
         "Dung lượng RAM": "16GB",
@@ -1228,8 +1229,7 @@
       ],
       "price": 75990000,
       "guarantee": "36",
-      "category": "CPU",
-      "categoryChild": "CPU INTEL",
+      "category": "VGA - Card Màn Hình",
       "sale": 0,
       "describe": ["Phiên bản kỷ niệm 30 năm giới hạn của Asus", "Nhân đồ họa: GeForce RTX 5090", "Nhân CUDA: 21760", "Tốc độ bộ nhớ: 28Gbps", "Bộ nhớ: 32GB GDDR7", "Bus bộ nhớ: 512-bit", "Bảo hành: 36 Tháng"],
       "offer": [{"Card màn hình ASUS Dual GeForce RTX 5060 Ti 8GB GDDR7 OC Edition": 500000}],

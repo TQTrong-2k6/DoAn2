@@ -2,7 +2,6 @@ import BASE_URL from '../config.js'
 import getData from "../fetch.js";
 import { attach } from "../store.js";
 import mainProductDetails from "../component/mainProductDetails.js"
-import sectionBreadcrumb from "./sectionBreadcrumb.js";
 
 const listApi = [];
 const params = new URLSearchParams(window.location.search);
@@ -77,21 +76,66 @@ function loadData(data){
 
 getData(BASE_URL, ...listApi).then(data => loadData(data))//call api
 
+const fancybox = document.querySelector('.fancybox-container');
+
+function openSpecModal() {
+    const source = document.querySelector('.detail-spec .static-html.condensed');
+    const target = document.querySelector('.fancybox-content .static-html');
+    if (!source || !target) return;
+
+    target.innerHTML = source.innerHTML;
+    fancybox.classList.add('is-open');
+    document.body.classList.add('no-scroll');
+}
+
+function closeSpecModal() {
+    fancybox.classList.remove('is-open');
+    document.body.classList.remove('no-scroll');
+}
+
 document.addEventListener('click', (e) => {
-    // Mở modal khi bấm "Xem thêm"
-    if (e.target.closest('.spec-open-btn')) {
-        document.querySelector('.spec-modal-overlay')?.classList.add('active');
+    if (e.target.closest('.see-more')) {
+        e.preventDefault();
+        openSpecModal();
         return;
     }
 
-    // Đóng khi bấm nút X
-    if (e.target.closest('.spec-modal-close')) {
-        document.querySelector('.spec-modal-overlay')?.classList.remove('active');
-        return;
+    // Click ra ngoài .fancybox-content thì đóng
+    if ((fancybox.classList.contains('is-open') && !e.target.closest('.fancybox-content')) || e.target.closest('.fancybox-close__btn')) {
+        closeSpecModal();
     }
 
-    // Đóng khi click ra NGOÀI .spec-modal (nhưng vẫn trong overlay)
-    if (e.target.classList.contains('spec-modal-overlay')) {
-        e.target.classList.remove('active');
-    }
+    const plus = e.target.closest('.js-qty-plus');
+    const minus = e.target.closest('.js-qty-minus');
+    if (!plus && !minus) return;
+
+    const input = document.querySelector('.js-quantity-buy');
+    if (!input) return;
+
+    const current = clampQuantity(input.value, input);
+    input.value = clampQuantity(current + (plus ? 1 : -1), input);
 });
+
+document.addEventListener('input', (e) => {
+    const input = e.target.closest('.js-quantity-buy');
+    if (!input) return;
+    input.value = input.value.replace(/\D/g, '');   // bỏ ký tự không phải số
+});
+
+document.addEventListener('change', (e) => {
+    const input = e.target.closest('.js-quantity-buy');
+    if (!input) return;
+    input.value = clampQuantity(input.value, input); // rỗng/0/quá lớn thì đưa về hợp lệ
+});
+
+document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape') closeSpecModal();
+});
+
+function clampQuantity(value, input) {
+    const min = Number(input.min) || 1;
+    const max = Number(input.max) || 999;
+    let n = parseInt(value, 10);
+    if (isNaN(n)) n = min;
+    return Math.min(Math.max(n, min), max);
+}

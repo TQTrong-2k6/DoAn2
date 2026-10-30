@@ -1,6 +1,7 @@
 import html from "../core.js";
 import { connect } from "../store.js";
 import product from "./product.js";
+import sectionBreadcrumb from "../render/sectionBreadcrumb.js";
 
 const fmt = n => Math.round(n).toLocaleString('vi-VN') + ' đ';
 
@@ -15,6 +16,7 @@ const CATEGORY_LABELS = { // label danh mục
     gaminggear: 'Gaming Gear',
     laptop: 'LAPTOP'
 };
+
 function galleryThumbs(imageList){
     return imageList ? imageList.length > 1 ? imageList.map(value =>`
             <div class="swiper-slide">
@@ -112,6 +114,20 @@ function mainProductDetails(data){
     const salePrice = price * (1 - productTarget.sale);
     
     const monthlyPayment = price => Math.round(price * 0.7 * (1 + 0.015 * 12) / 12);
+    const baseURL = `./productCategories.html?table=${table}`
+    const breadcrumbSteps = productTarget.categoryChild ? [
+        {label: CATEGORY_LABELS[table] || table, href: baseURL},
+        {label: productTarget.category, href: `${baseURL}&category=${productTarget.category}`},
+        {label: productTarget.categoryChild, href: `${baseURL}&category=${productTarget.category}&categoryChild=${productTarget.categoryChild}`},
+        {label: productTarget.name}]
+        : (productTarget.category ? [
+        {label: CATEGORY_LABELS[table] || table, href: baseURL},
+        {label: productTarget.category, href: `${baseURL}&category=${productTarget.category}`},
+        {label: productTarget.name}] 
+        : [{label: CATEGORY_LABELS[table] || table, href: baseURL},
+        {label: productTarget.name}])
+
+    sectionBreadcrumb(breadcrumbSteps);
 
     const pc = ['pcGaming', 'pcMini', 'pcWorkstation', 'pcOffice', 'laptop'];
 
@@ -129,7 +145,7 @@ function mainProductDetails(data){
             <table dir="ltr" style="margin-left: auto; margin-right: auto; border: 1px solid #e5e7eb;" cellspacing="0" cellpadding="0">
                 <colgroup>
                     <col width = 100>
-                    <col width = 770>
+                    <col width = 676>
                     <col width = 100>
                     <col width = 100>
                 </colgroup>
@@ -152,9 +168,8 @@ function mainProductDetails(data){
             return renderSpecificationsOther(key, values);
         })
         .join('');
-        console.log(render)
         specifications = `
-            <table dir="ltr" style="margin-left: auto; margin-right: auto; border: 1px solid #e5e7eb;" cellspacing="0" cellpadding="0">
+            <table class="spec-table spec-table--basic" dir="ltr" style="margin-left: auto; margin-right: auto; border: 1px solid #e5e7eb;" cellspacing="0" cellpadding="0">
                 <colgroup>
                     <col width = 100>
                     <col width = 170>
@@ -165,8 +180,7 @@ function mainProductDetails(data){
             </table>
         `
     }
-    
-    
+      
     return html`
         <div class="detail-top">
             <div class="detail-top__left">
@@ -190,7 +204,7 @@ function mainProductDetails(data){
                 </div>
             </div>
             <div class="detail-top__right">
-                <h1 class="product-name">PC TTG DESIGNER -3D RENDER - EDIT VIDEO ULTRA 7 265KF - RTX 5060 Ti 8GB (All NEW - Bảo hành 36 tháng) (Cấu hình gốc)</h1>
+                <h1 class="product-name">${productTarget.name} ${pc.includes(table) ? '(Cấu hình gốc)': ''}</h1>
                 <div class="product-box">
                     <div class="product-price">
                         <p class="product-price-sale">
@@ -264,20 +278,20 @@ function mainProductDetails(data){
                     <div class="flex border border-[#E3E3E3] rounded-[4px] overflow-hidden">
                         <input class="w-[50px] h-[50px] border-r border-r-[#E3E3E3] text-[16px] text-center lengding-[22px] p-[13px_5px] js-quantity-buy js-quantity-change" type="text" aria-label="Số lượng" value="1" min="1" max="999">
                         <div class="top-[1px] right-0 bottom-[0] w-[45px]">
-                            <button class="flex items-center justify-center w-full h-[24px] hover:text-[var(--color-primary)]"><span class="text-[14px] w-[18px] h-[18px] !font-normal"><i class="fa-solid fa-plus"></i></span></button>
+                            <button class="js-qty-plus flex items-center justify-center w-full h-[24px] hover:text-[var(--color-primary)]"><span class="text-[14px] w-[18px] h-[18px] !font-normal"><i class="fa-solid fa-plus"></i></span></button>
                             <div class="border-b w-full border-b-[#E3E3E3]"></div>
-                            <button class="flex items-center justify-center w-full h-[24px] hover:text-[var(--color-primary)]"><span class="text-[14px] w-[18px] h-[18px] !font-normal"><i class="fa-solid fa-minus"></i></span></button>
+                            <button class="js-qty-minus flex items-center justify-center w-full h-[24px] hover:text-[var(--color-primary)]"><span class="text-[14px] w-[18px] h-[18px] !font-normal"><i class="fa-solid fa-minus"></i></span></button>
                         </div>
                     </div>
                 </div>
                 <div class="product-buy grid grid-cols-2 gap-[12px] my-[16px]">
-                    <button class="col-span-2 h-[56px] text-white text-[18px] leading-[56px] font-bold bg-[#ff0000] rounded-[4px] hover:bg-[#ea3511]" type="button">
+                    <button class="col-span-2 h-[56px] text-white text-[18px] leading-[56px] font-bold bg-[#ff0000] rounded-[4px] hover:bg-[#ea3511]" type="button" onclick="addProductToCart('${productTarget.id}')">
                         ĐẶT HÀNG
                     </button>
-                    <button class="h-[56px] text-[var(--color-primary)] text-[16px] leading-[56px] font-bold border border-[var(--color-primary)] rounded-[4px] hover:bg-[var(--color-primary)] hover:text-white">
+                    <button class="h-[56px] text-[var(--color-primary)] text-[16px] leading-[56px] font-bold border border-[var(--color-primary)] rounded-[4px] hover:bg-[var(--color-primary)] hover:text-white" onclick="addProductToCart('${productTarget.id}')">
                         THÊM VÀO GIỎ 
                     </button>
-                    <button class="h-[56px] text-white font-bold bg-[#1877f2] rounded-[4px] hover:bg-[#1169db]">
+                    <button class="h-[56px] text-white font-bold bg-[#1877f2] rounded-[4px] hover:bg-[#1169db]" onclick="addProductToCart('${productTarget.id}')">
                         <p class="header-btn">TRẢ GÓP QUA HỒ SƠ</p>
                         <p class="text-[13px] font-normal">
                             Chỉ từ ${fmt(monthlyPayment(salePrice)).replaceAll("đ", "")} VND/tháng
@@ -286,12 +300,12 @@ function mainProductDetails(data){
                 </div>
                 <div class="bk-btn">
                     <div class="bk-btn-box">
-                        <button class="bk-btn-installment inline-block w-[287px] bg-[#288ad6] text-[#fff] p-[4px_10px] rounded-[4px] mb-[10px]">
+                        <button class="bk-btn-installment inline-block w-[287px] bg-[#288ad6] text-[#fff] p-[4px_10px] rounded-[4px] mb-[10px]" onclick="addProductToCart('${productTarget.id}')">
                             <strong>TRẢ GÓP QUA THẺ</strong>
                             <br>
                             <span class="text-[13px]">Visa, Master, JCB</span>
                         </button>
-                        <button class="bk-btn-installment inline-block w-[287px] bg-[#f1eb1f] text-[#235d97] p-[4px_10px] rounded-[4px]  mb-[10px]">
+                        <button class="bk-btn-installment inline-block w-[287px] bg-[#f1eb1f] text-[#235d97] p-[4px_10px] rounded-[4px]  mb-[10px]" onclick="addProductToCart('${productTarget.id}')">
                             <strong>TRẢ GÓP QUA THẺ</strong>
                         </button>
                     </div>
@@ -305,7 +319,7 @@ function mainProductDetails(data){
                     <div class="static-html condensed [&_table]:w-full [&_td]:p-[10px] [&_td[rowspan]]:!bg-white [&_tr:nth-child(2n+1)]:bg-[#F7F7F7]">
                         ${specifications}
                     </div>
-                    <div class="mt-[4px] text-center">
+                    <div class="see-more mt-[4px] text-center">
                         <a href="" class="inline-flex items-center text-[var(--color-primary)] font-medium">
                             Xem thêm
                             <i class="fa-solid fa-angles-down" style="font-weight: 600; width: 16px; height: 16px; font-size: 12px; margin-top: 2px;"></i>

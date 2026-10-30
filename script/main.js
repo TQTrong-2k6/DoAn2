@@ -15,6 +15,10 @@ function tooggleActiveSupport(header){
     }
 }
 
+function addProductToCart(id){
+    
+}
+
 document.addEventListener('click', (e) => {
     // Bất kỳ khối nào có header-filter + nav-filter kế tiếp đều được coi là "vùng filter"
     const isInsideFilter = e.target.closest('.header-filter, .nav-filter');
