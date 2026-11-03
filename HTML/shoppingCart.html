@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Đăng ký</title>
+    <link rel="stylesheet" href="../style/header.css">
+    <link rel="stylesheet" href="../style/global.css">
+    <link rel="stylesheet" href="../style/footer.css">
+    <link rel="stylesheet" href="../style/mainShoppingCart.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+</head>
+<body>
+    <!--Header-->
+    <header class="global-header"></header>
+    <!-- Sticky header khi scroll -->
+    <div class="sticky-header" style="display: none; "></div>
+    
+    <header class="header-mobile active"></header>
+    <nav class="global-menu"></nav>
+    <section class="section-breadcrumb">
+        <div class="container">
+            <ol class="routing-link pb-[12px]">
+                <li><a href="./index.html">Trang chủ</a></li>
+                <li><a href="./shoppingCart.html">Thông tin giỏ hàng</a></li>
+            </ol>
+        </div>
+    </section>
+    <!-- Main content -->
+    <main class="content">
+       <div class="container cart-page">
+            <div class="flex justify-between pb-[10px]">
+                <h1 class="font-bold text-[#007782]">Giỏ hàng</h1>
+                <button type="button">
+                    <b class="text-[var(--color-primary)]">Xóa toàn bộ giỏ hàng</b>
+                </button>
+            </div>
+            <form action="" method="post" id="shoppingCart-form">
+                <table bordercolor="#CCCCCC" style="border-collapse:collapse; width:100%; margin-top:10px;" class="cart-items-group">
+                    <tbody>
+                        <tr>
+                            <td>
+                                <div class="flex items-start max-[1199px]:block max-[1199px]:text-center">
+                                    <img src="../Product Image/sp1-1.jpg" alt="" class="3xl:w-[120px] bk-product-image" width="75">
+                                    <a href="./shoppingCart.html" class="remove-product mt-[10px] hidden max-[1199px]:block"><i class="fa-regular fa-trash-can"></i></a>
+                                    <div class="max-[1199px]:hidden" style="float: left;margin-left: 16px;">
+                                        <a href="">
+                                            <b class="name bk-product-name">
+                                                PC TTG GAMING CORE ULTRA 5 250K PLUS - RTX 5060 Ti 8GB
+                                            </b>
+                                        </a>
+                                        <p>
+                                            <b>Bảo hành: </b>
+                                            <span style="color: red;margin-left: 4px;">36 Tháng</span>
+                                        </p>
+                                    </div>
+                                </div>
+                            </td>
+                            <td class="min-[1200px]:w-[180px] min-[1200px]:text-center">
+                                <div class="hidden max-[1199px]:flex flex-col ">
+                                    <div class="block text-[13px]" style="float: left;">
+                                        <a href="">
+                                            <b class="name bk-product-name">
+                                                PC TTG GAMING CORE ULTRA 5 250K PLUS - RTX 5060 Ti 8GB
+                                            </b>
+                                        </a>
+                                        <p>
+                                            <b>Bảo hành: </b>
+                                            <span style="color: red;margin-left: 4px;">36 Tháng</span>
+                                        </p>
+                                    </div>
+                                    <div><b class="bk-product-price text-[13px]">38.680.000 đ</b></div>
+                                </div>
+                                <span class="max-[1199px]:hidden">38.680.000 VNĐ</span>
+                            </td>
+                            <td class="max-[1199px]:w-[120px]" width="140">
+                                <p class="min-[1200px]:hidden" style="margin: 0 0 10px;text-align: center;"><b style="font-size: 14px;color: red;"><span class="js-total-item-price">38.680.000</span> đ</b></p>
+                                <div class="unit-detail-amount-control">
+                                    <a class=""><i class="fa-solid fa-minus"></i></a>
+                                    <input type="number" value="1" class="">
+                                    <a class=""><i class="fa-solid fa-plus"></i></a>
+                                </div>
+                            </td>
+                            <td class="max-[1199px]:hidden" style="width: 180px; text-align: center;">
+                                <b><span class="js-total-item-price">38.680.000</span> VND</b>
+                            </td>
+                            <td class="max-[1199px]:hidden" width="45">
+                                <a href="" title="Xóa sản phẩm">
+                                    <i class="fa-regular fa-trash-can"></i>
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <div class="flex items-start max-[1199px]:block max-[1199px]:text-center">
+                                    <img src="../Product Image/sp1-3.jpg" alt="" class="3xl:w-[120px] bk-product-image" width="75">
+                                    <a href="./shoppingCart.html" class="remove-product mt-[10px] hidden max-[1199px]:block"><i class="fa-regular fa-trash-can"></i></a>
+                                    <div class="max-[1199px]:hidden" style="float: left;margin-left: 16px;">
+                                        <a href="">
+                                            <b class="name bk-product-name">
+                                                PC AMD GAMING TTG PRO Ryzen 5 8400F - RTX 5060 Ti 8GB (ALL NEW - Bảo hành 36 tháng)
+                                            </b>
+                                        </a>
+                                        <p>
+                                            <b>Bảo hành: </b>
+                                            <span style="color: red;margin-left: 4px;">36 Tháng</span>
+                                        </p>
+                                    </div>
+                                </div>
+                            </td>
+                            <td class="min-[1200px]:w-[180px] min-[1200px]:text-center">
+                                <div class="hidden max-[1199px]:flex flex-col ">
+                                    <div class="block text-[13px]" style="float: left;">
+                                        <a href="">
+                                            <b class="name bk-product-name">
+                                                PC AMD GAMING TTG PRO Ryzen 5 8400F - RTX 5060 Ti 8GB (ALL NEW - Bảo hành 36 tháng)
+                                            </b>
+                                        </a>
+                                        <p>
+                                            <b>Bảo hành: </b>
+                                            <span style="color: red;margin-left: 4px;">36 Tháng</span>
+                                        </p>
+                                    </div>
+                                    <div><b class="bk-product-price text-[13px]">38.680.000 đ</b></div>
+                                </div>
+                                <span class="max-[1199px]:hidden">38.680.000 VNĐ</span>
+                            </td>
+                            <td class="max-[1199px]:w-[120px]" width="140">
+                                <p class="min-[1200px]:hidden" style="margin: 0 0 10px;text-align: center;"><b style="font-size: 14px;color: red;"><span class="js-total-item-price">38.680.000</span> đ</b></p>
+                                <div class="unit-detail-amount-control">
+                                    <a class=""><i class="fa-solid fa-minus"></i></a>
+                                    <input type="number" value="1" class="">
+                                    <a class=""><i class="fa-solid fa-plus"></i></a>
+                                </div>
+                            </td>
+                            <td class="max-[1199px]:hidden" style="width: 180px; text-align: center;">
+                                <b><span class="js-total-item-price">38.680.000</span> VND</b>
+                            </td>
+                            <td class="max-[1199px]:hidden" width="45">
+                                <a href="" title="Xóa sản phẩm">
+                                    <i class="fa-regular fa-trash-can"></i>
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="5">
+                                <div class="total">
+                                    <b>Tổng tiền:</b>                
+                                    <b style="color:#e20505; font-size:18px;"><span class="js-total-cart-price">68.360.000</span> VNĐ</b>
+                                </div>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </form>
+       </div>
+    </main>
+    <!-- Support -->
+    <div class="global-support">
+        <div class="support-client">
+            <div class="container">
+                <div class="support-featured">
+                    <ul>
+                        <li>
+                            <i class="fa-solid fa-truck-fast"></i>
+                            <h3>GIAO HÀNG TOÀN QUỐC</h3>
+                            <P>Giao hàng trước, trả tiền sau COD</P>
+                        </li>
+                        <li>
+                            <i class="fa-solid fa-box"></i>
+                            <h3>BẢO HÀNH TẬN NƠI</h3>
+                            <P>Trọn gói 36 tháng linh kiện</P>
+                        </li>
+                        <li>
+                            <i class="fa-solid fa-arrow-rotate-left"></i>
+                            <h3>LỖI 1 ĐỔI 1</h3>
+                            <P>Đổi mới trong vòng 30 ngày</P>
+                        </li>
+                        <li>
+                            <i class="fa-solid fa-credit-card"></i>
+                            <h3>THANH TOÁN TIỆN LỢI</h3>
+                            <P>Trả tiền mặt, chuyển khoản, trả góp 0%</P>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Icon Zalo button -->
+    <div id="floating-icon-10">
+        <a href="./index.html">
+            <img src="../Logo/zalo-icon.png" alt="Zalo" width="45px" height="45px">
+        </a>
+    </div>
+    <!-- Icon Messenger button -->
+    <div id="floating-icon-20">
+        <a href="./index.html">
+            <img src="../Logo/messenger-icon.png" alt="Zalo" width="45px" height="45px">
+        </a>
+    </div>
+    <!--footer-->
+    <footer class="footer"></footer>
+    <script src="../script/render/footerWeb.js"></script>
+    <script src="../script/main.js"></script>
+    <script type="module" src="../script/render/headerWeb.js"></script>
+</body>
+</html>

@@ -56,6 +56,19 @@ button{
         margin: 0;
         padding: 0;
     }
+    input::-webkit-outer-spin-button,
+    input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+    }
+
+    /* Firefox */
+    input[type=number] {
+    -moz-appearance: textfield;
+    }
+    input{
+        outline-color: var(--color-primary);
+    }
     button, select{
         text-transform: none;
     }
