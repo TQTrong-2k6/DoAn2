@@ -25,6 +25,9 @@ select{
 a{
     transition: all .2s;
 }
+a{
+    cursor: pointer;
+}
 td, th{
     border: revert-layer;
     padding: revert-layer;
@@ -66,8 +69,11 @@ button{
     input[type=number] {
     -moz-appearance: textfield;
     }
-    input{
+    input, textarea{
         outline-color: var(--color-primary);
+    }
+    textarea {
+        resize: none;
     }
     button, select{
         text-transform: none;
