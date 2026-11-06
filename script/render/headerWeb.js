@@ -203,7 +203,7 @@ const login = storage.get('login');
                                 <span class="menu-support"><i class="fa-solid fa-computer"></i></span>
                                 <span class="text-header__support">Xây dựng<br>Cấu hình PC</span>
                             </a>
-                            <a class="link-featured" href="./index.html">
+                            <a class="link-featured" href="./shoppingCart.html">
                                 <span class="menu-support">
                                     <i class="fa-solid fa-cart-shopping" style="position: relative; font-size: 17px;">
                                         <span class="js-header-cart-amount">2</span>
@@ -2080,7 +2080,7 @@ const login = storage.get('login');
                     <span class="menu-support"><i class="fa-solid fa-computer"></i></span>
                     <span class="text-header__support">Xây dựng<br>Cấu hình PC</span>
                 </a>
-                <a class="link-featured" href="./index.html">
+                <a class="link-featured" href="./shoppingCart.html">
                     <span class="menu-support">
                         <i class="fa-solid fa-cart-shopping" style="position: relative; font-size: 17px;">
                             <span class="js-header-cart-amount">2</span>
@@ -2105,7 +2105,7 @@ const login = storage.get('login');
                     <button class="mobile-seach" onclick="tooggleActive('.header-mobile')">
                         <i class="fa-solid fa-magnifying-glass"></i>
                     </button>
-                    <a class="link-featured" href="./index.html" title="Giỏ hàng">
+                    <a class="link-featured" href="./shoppingCart.html" title="Giỏ hàng">
                         <span class="menu-mobile-support">
                             <i class="fa-solid fa-cart-shopping" style="position: relative; font-size: 17px;">
                                 <span class="js-header-cart-amount">2</span>
