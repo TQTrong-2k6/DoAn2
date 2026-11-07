@@ -285,13 +285,13 @@ function mainProductDetails(data){
                     </div>
                 </div>
                 <div class="product-buy grid grid-cols-2 gap-[12px] my-[16px]">
-                    <button class="col-span-2 h-[56px] text-white text-[18px] leading-[56px] font-bold bg-[#ff0000] rounded-[4px] hover:bg-[#ea3511]" type="button" onclick="addProductToCart('${productTarget.id}')">
+                    <button class="col-span-2 h-[56px] text-white text-[18px] leading-[56px] font-bold bg-[#ff0000] rounded-[4px] hover:bg-[#ea3511]" type="button" onclick="addProductToCart('${productTarget}')">
                         ĐẶT HÀNG
                     </button>
-                    <button class="h-[56px] text-[var(--color-primary)] text-[16px] leading-[56px] font-bold border border-[var(--color-primary)] rounded-[4px] hover:bg-[var(--color-primary)] hover:text-white" onclick="addProductToCart('${productTarget.id}')">
+                    <button class="h-[56px] text-[var(--color-primary)] text-[16px] leading-[56px] font-bold border border-[var(--color-primary)] rounded-[4px] hover:bg-[var(--color-primary)] hover:text-white" data-add-to-cart data-table="${table}" data-id="${id}">
                         THÊM VÀO GIỎ 
                     </button>
-                    <button class="h-[56px] text-white font-bold bg-[#1877f2] rounded-[4px] hover:bg-[#1169db]" onclick="addProductToCart('${productTarget.id}')">
+                    <button class="h-[56px] text-white font-bold bg-[#1877f2] rounded-[4px] hover:bg-[#1169db]" onclick="addProductToCart('${productTarget}')">
                         <p class="header-btn">TRẢ GÓP QUA HỒ SƠ</p>
                         <p class="text-[13px] font-normal">
                             Chỉ từ ${fmt(monthlyPayment(salePrice)).replaceAll("đ", "")} VND/tháng
@@ -300,12 +300,12 @@ function mainProductDetails(data){
                 </div>
                 <div class="bk-btn">
                     <div class="bk-btn-box">
-                        <button class="bk-btn-installment inline-block w-[287px] bg-[#288ad6] text-[#fff] p-[4px_10px] rounded-[4px] mb-[10px]" onclick="addProductToCart('${productTarget.id}')">
+                        <button class="bk-btn-installment inline-block w-[287px] bg-[#288ad6] text-[#fff] p-[4px_10px] rounded-[4px] mb-[10px]" onclick="addProductToCart('${productTarget}')">
                             <strong>TRẢ GÓP QUA THẺ</strong>
                             <br>
                             <span class="text-[13px]">Visa, Master, JCB</span>
                         </button>
-                        <button class="bk-btn-installment inline-block w-[287px] bg-[#f1eb1f] text-[#235d97] p-[4px_10px] rounded-[4px]  mb-[10px]" onclick="addProductToCart('${productTarget.id}')">
+                        <button class="bk-btn-installment inline-block w-[287px] bg-[#f1eb1f] text-[#235d97] p-[4px_10px] rounded-[4px]  mb-[10px]" onclick="addProductToCart('${productTarget}')">
                             <strong>TRẢ GÓP QUA THẺ</strong>
                         </button>
                     </div>

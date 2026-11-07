@@ -296,6 +296,9 @@ button{
 .p-status.p-mobile{
     display: none;
 }
+.js-header-cart-amount.is-empty{
+    display: none;
+}
 @media screen and (max-width: 1199px){
     .p-status.p-mobile{
         display: flex;

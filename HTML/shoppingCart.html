@@ -294,6 +294,53 @@
                             </div>
                             <div class="font-500 text-14" id="js-cart-voucher-message" style="margin-top: 12px; line-height: 20px; display: none;"></div>
                         </div>
+                        <div class="total text-right">
+                            <div class="mb-[4px] flex items-center justify-between">
+                                <span>Tổng cộng</span>
+                                <span><span class="js-total-cart-price-temp">68.360.000</span> VND</span>
+                            </div>
+                            <div class="flex items-center justify-between">
+                                <span>Giảm giá Voucher</span>
+                                <span><span class="js-voucher-discount">0</span> VND</span>
+                            </div>
+                            <div class="flex justify-between text-[16px] mt-[8px]">
+                                <b>Thành tiền</b>
+                                <span>
+                                    <b class="text-[#e20505]"><span class="js-total-cart-price">68.360.000</span> VND</b>
+                                    <span class="block text-[14px]">(Giá đã bao gồm VAT)</span>
+                                </span>
+                            </div>
+                        </div>
+                        <div class="cart-btn-group">
+                            <label style="display: block;margin-bottom: 12px;">
+                                <input type="checkbox" style="transform: translateY(2px);">
+                                <b>Tôi đã đọc và đồng ý với các Điều kiện giao dịch chung của website</b>
+                            </label>
+                            <div class="w-full text-red-600 font-bold mb-[16px]" id="js-cart-note"></div>
+                            <a target="_blank" rel="nofollow" class="txt_b export">
+                                <i class="fa fa-print"></i> In báo giá
+                            </a>
+                            <a class="export">
+                                <i class="fa fa-file-excel-o"></i> Tải file excel
+                            </a>
+                            <button type="submit" style="font-size: 15px;"><i class="fa-solid fa-check"></i> ĐẶT HÀNG</button>
+                            <a class="bk-payinsall payinsall">
+                                <b style="font-weight: 600;">
+                                <i class="fa fa-credit-card border-0" style="margin-right: 4px;"></i> TRẢ GÓP QUA HỒ SƠ
+                                </b>
+                                <p style="font-size: 12px;margin: 0;">Chỉ từ 9.114.667 đ/tháng</p>
+                            </a>
+                        </div>
+                        <div class="bk-btn">
+                            <div class="bk-btn-box">
+                                <button class="bk-btn-installment" style="display: inline-block;background-color: #288ad6 !important;color: #ffffff !important" type="button" data-click-event-attached="true">
+                                    <strong>Trả góp qua thẻ</strong><span>Visa, Master, JCB </span>
+                                </button>
+                                <button class="bk-btn-installment-amigo" style="display: inline-block;background-color: #f1eb1f !important;color: #235d97 !important" type="button" data-click-event-attached="true">
+                                    <strong>Mua Ngay - Trả Sau</strong><span class="d-flex align-item-center" style="justify-content: center;"></span>
+                                </button>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </form>
@@ -346,6 +393,7 @@
     <footer class="footer"></footer>
     <script src="../script/render/footerWeb.js"></script>
     <script src="../script/main.js"></script>
+    <script type="module" src="../script/render/shoppingCart.js"></script>
     <script type="module" src="../script/render/headerWeb.js"></script>
 </body>
 </html>

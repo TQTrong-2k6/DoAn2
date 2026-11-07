@@ -28,7 +28,7 @@ function product(product, table){
                     <div class="p-price-off">-${product.sale * 100}%</div>
                 </div>
                 <div class="p-bottom">
-                    <button class="p-buy">
+                    <button class="p-buy" data-add-to-cart data-table="${table}" data-id="${product.id}">
                         <p class="p-buy-inner">
                             <span class="p-buy-icon"><i class="fa-solid fa-cart-shopping"></i></span>
                             THÊM VÀO GIỎ
