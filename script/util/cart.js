@@ -1,31 +1,35 @@
 import storage from "./storage.js";
 import BASE_URL from "../config.js";
 
+const observer = new MutationObserver(() => {
+    if (document.querySelector('.js-header-cart-amount')) {
+        isEmpty();
+        observer.disconnect();
+    }
+});
+observer.observe(document.body, { childList: true, subtree: true });
+
 export function getCartCount(){
-    const cart = storage.get('cart') || [];
-    return cart.reduce((sum, item) => sum + item.quantity, 0);
+    return (storage.get('cart') || []).length;
 }
 
-export function updateCartBadge(){
+export function isEmpty(){
     const total = getCartCount();
     document.querySelectorAll('.js-header-cart-amount').forEach(el => {
         el.textContent = total;
-        el.classList.toggle('is-empty', total === 0);
+        el.classList.toggle('is-empty', total > 0);
     });
 }
 
-window.addEventListener('cart:updated', updateCartBadge);
-
 export function addToCart(table, product, quantity = 1){
     const cart = storage.get('cart') || [];
-    const key = `${table}-${product.id}`;                 // khôi phục dòng này
-    const existing = cart.find(item => item.key === key);
+
+    const existing = cart.find(item => item.id === product.id && item.table === table);
 
     if (existing) {
         existing.quantity += quantity;
     } else {
         cart.push({
-            key,                                          // khôi phục field này
             table,
             id: product.id,
             name: product.name,
@@ -37,7 +41,8 @@ export function addToCart(table, product, quantity = 1){
     }
 
     storage.set('cart', cart);
-    window.dispatchEvent(new Event('cart:updated'));
+
+    isEmpty();
 }
 
 // Listener bắt click nút "THÊM VÀO GIỎ"

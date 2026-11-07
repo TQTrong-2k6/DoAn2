@@ -18,7 +18,7 @@
   "pcGaming": [
     {
       "id": "1",
-      "name": "PC TTG DESIGNER -3D RENDER - EDIT VIDEO ULTRA 7 265KF - RTX 5060 Ti 8GB (All NEW - Bảo hành 36 tháng)",
+      "name": "PC TTG GAMING CORE ULTRA 7 270K PLUS - RTX 5060 Ti 8GB (Cấu hình gốc)",
       "imageList": [
         "../Product Image/sp1-1.jpg",
         "../Product Image/sp1-2.jpg",
@@ -28,8 +28,8 @@
         "../Product Image/sp1-6.jpg",
         "../Product Image/sp1-7.jpg"
       ],
-      "price": 1,
-      "sale": 0,
+      "price": 65990000,
+      "sale": 0.1,
       "brand": "Khác",
       "guarantee": "36",
       "category": "PC Core Ultra",

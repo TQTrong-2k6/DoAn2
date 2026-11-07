@@ -297,7 +297,7 @@ button{
     display: none;
 }
 .js-header-cart-amount.is-empty{
-    display: none;
+    display: flex;
 }
 @media screen and (max-width: 1199px){
     .p-status.p-mobile{

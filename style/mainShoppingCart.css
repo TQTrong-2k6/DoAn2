@@ -213,11 +213,19 @@
     width: 100% !important;
     white-space: normal !important;
 }
+.form-group .form-message {
+    color: red
+}
+.form-message {
+    font-size: 10px;
+    line-height: 1.6rem;
+    text-align: left;
+}
 @media screen and (max-width: 1199px){
     .cart-page 
     .cart-items-group td{
         border: 0;
-        padding: 10px 5px;
+        padding: 0 5px;
         border-bottom: 1px solid #e1e1e1;
     }
     .cart-items-group tbody tr:not(:last-child) td:first-child {

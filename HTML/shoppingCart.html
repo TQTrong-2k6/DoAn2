@@ -158,37 +158,41 @@
                         <p class="col-titlte">THÔNG TIN NGƯỜI MUA</p>
                         <p class="mb-[10px]">Để tiếp tục đặt hàng, quý khách xin vui lòng nhập thông tin bên dưới</p>
                         <table width="100%">
-                            <tbody>
-                                <tr>
+                            <tbody id="register-form">
+                                <tr class="form-group">
                                     <td width="125">
                                         Họ tên <span class="text-red-600">*</span>
                                     </td>
                                     <td>
-                                        <input type="text" name="user_info[name]" id="buyer_name" class="input-text" value="">
+                                        <input type="text" name="user_info[name]" rules="required" id="buyer_name" class="input-text" value="">
+                                        <span class="form-message"></span>
                                     </td>
                                 </tr>
-                                <tr>
+                                <tr class="form-group">
                                     <td width="125">
                                         SDT <span class="text-red-600">*</span>
                                     </td>
                                     <td>
-                                        <input type="text" name="user_info[mobile]" id="buyer_tel" class="input-text" value="">
+                                        <input type="text" name="user_info[mobile]" rules="required" id="buyer_tel" class="input-text" value="">
+                                        <span class="form-message"></span>
                                     </td>
                                 </tr>
-                                <tr>
+                                <tr class="form-group">
                                     <td width="125">
                                         Email <span class="text-red-600">*</span>
                                     </td>
                                     <td>
-                                        <input type="text" name="user_info[email]" id="buyer_email" class="input-text" value="">
+                                        <input type="text" name="user_info[email]" rules="required|email" id="buyer_email" class="input-text" value="">
+                                        <span class="form-message"></span>
                                     </td>
                                 </tr>
-                                <tr>
+                                <tr class="form-group">
                                     <td width="125">
                                         Địa chỉ <span class="text-red-600">*</span>
                                     </td>
                                     <td>
-                                        <textarea name="user_info[address]" id="buyer_address" data-gtm-form-interact-field-id="0"></textarea>
+                                        <textarea name="user_info[address]" rules="required" id="buyer_address" data-gtm-form-interact-field-id="0"></textarea>
+                                        <span class="form-message"></span>
                                     </td>
                                 </tr>
                                 <tr>
@@ -393,6 +397,14 @@
     <footer class="footer"></footer>
     <script src="../script/render/footerWeb.js"></script>
     <script src="../script/main.js"></script>
+    <script src="../script/validator.js"></script>
+    <script>
+        var form = new Validator('#register-form');
+
+        form.onSubmit = async (formData) => {
+            console.log(formData)
+        }
+    </script>
     <script type="module" src="../script/render/shoppingCart.js"></script>
     <script type="module" src="../script/render/headerWeb.js"></script>
 </body>

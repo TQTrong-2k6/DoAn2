@@ -192,7 +192,7 @@
 }
 
 .js-header-cart-amount{
-    display: flex;
+    display: none;
     width: 12px;
     height: 12px;
     line-height: 12px;

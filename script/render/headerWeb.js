@@ -1,8 +1,7 @@
 import storage from "../util/storage.js";
-import { getCartCount } from "../util/cart.js";
+import "../util/cart.js";
 
 const login = storage.get('login');
-const quantity = getCartCount();
 
 (function(){
     document.querySelector('.global-header').innerHTML = `
@@ -208,7 +207,7 @@ const quantity = getCartCount();
                             <a class="link-featured" href="./shoppingCart.html">
                                 <span class="menu-support">
                                     <i class="fa-solid fa-cart-shopping" style="position: relative; font-size: 17px;">
-                                        <span class="js-header-cart-amount ${quantity ? '' : 'is-empty'}">${quantity}</span>
+                                        <span class="js-header-cart-amount"></span>
                                     </i>
                                 </span>
                                 <span class="text-header__support">Giỏ hàng</span>
@@ -2085,7 +2084,7 @@ const quantity = getCartCount();
                 <a class="link-featured" href="./shoppingCart.html">
                     <span class="menu-support">
                         <i class="fa-solid fa-cart-shopping" style="position: relative; font-size: 17px;">
-                            <span class="js-header-cart-amount ${quantity ? '' : 'is-empty'}">${quantity}</span>
+                            <span class="js-header-cart-amount"></span>
                         </i>
                     </span>
                     <span class="text-header__support">Giỏ hàng</span>
@@ -2110,7 +2109,7 @@ const quantity = getCartCount();
                     <a class="link-featured" href="./shoppingCart.html" title="Giỏ hàng">
                         <span class="menu-mobile-support">
                             <i class="fa-solid fa-cart-shopping" style="position: relative; font-size: 17px;">
-                                <span class="js-header-cart-amount ${quantity ? '' : 'is-empty'}">${quantity}</span>
+                                <span class="js-header-cart-amount"></span>
                             </i>
                         </span>
                     </a>
