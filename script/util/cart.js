@@ -45,14 +45,12 @@ export function addToCart(table, product, quantity = 1){
     isEmpty();
 }
 
-// Listener bắt click nút "THÊM VÀO GIỎ"
 document.addEventListener('click', async (e) => {
     const btn = e.target.closest('[data-add-to-cart]');
     if (!btn) return;
 
-    const { table, id } = btn.dataset;
+    const { table, id, redirect } = btn.dataset;
 
-    // Trang chi tiết: lấy số lượng từ ô input; card sản phẩm: mặc định 1
     const qtyInput = btn.closest('.detail-top__right')?.querySelector('.js-quantity-buy');
     const quantity = Math.max(1, Number(qtyInput?.value) || 1);
 
@@ -62,6 +60,8 @@ document.addEventListener('click', async (e) => {
 
         const product = await res.json();
         addToCart(table, product, quantity);
+
+        if (redirect) window.location.href = redirect;
     } catch (err) {
         console.error('Thêm giỏ hàng thất bại:', err);
     }
