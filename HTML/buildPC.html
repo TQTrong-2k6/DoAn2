@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Xây dựng máy tính - tạo máy tính</title>
+    <link rel="stylesheet" href="../style/header.css">
+    <link rel="stylesheet" href="../style/global.css">
+    <link rel="stylesheet" href="../style/footer.css">
+    <link rel="stylesheet" href="../style/buildPC.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+</head>
+<body>
+    <!--Header-->
+    <header class="global-header"></header>
+    <!-- Sticky header khi scroll -->
+    <div class="sticky-header" style="display: none; "></div>
+    
+    <header class="header-mobile active"></header>
+    <nav class="global-menu"></nav>
+    <section class="section-breadcrumb">
+        <div class="container">
+            <ol class="routing-link pb-[12px]">
+                <li><a href="./index.html">Trang chủ</a></li>
+                <li><a href="./buildPC.html">Xây dựng máy tính - tạo máy tính</a></li>
+            </ol>
+        </div>
+    </section>
+    <!-- Main content -->
+    <main class="buildpc-page">
+       <div class="container">
+            <div class="bg-white p-[20px]">
+                <h1 class="page-title font-bold">Chọn linh kiện xây dựng cấu hình</h1>
+                <div class="buildpc-detail-group">
+                    <a class="btn-reset">Làm mới <i class="fa-solid fa-arrow-rotate-left"></i></a>
+                    <div class="buildpc-info-group">
+                        <p class="text-right text-[#ec1b23] font-bold text-[20px]">
+                            <span class="text-[var(--color-secondary)]">Chi phí dự tính:</span>
+                            <span><span class="js-config-summary">0</span> đ</span>
+                        </p>
+                    </div>
+                </div>
+                <div class="buildpc-holder-container">
+                    <div class="item-drive">
+                        <p class="item-title">1. CPU</p>
+                        <div class="item-drive-info js-item-drive-info">
+                            <div id="js-selected-item-1003491769" class="js-item-row">
+                                <div class="contain-item-drive js-item-drive">
+                                    <a href="" class="item-img">
+                                        <img src="../Product Image/sp1-1.jpg" alt="" width="80">
+                                    </a>
+                                    <div class="item-text">
+                                        <div class="item-left">
+                                            <a href="" class="item-name">CPU AMD Ryzen 5 9600X - TRAY (3.9 GHz Boost 5.4 GHz | 6 nhân/ 12 luồng | 32 MB Cache)</a>
+                                            <p>- Kho hàng: <b style="color: #00a400;">Còn hàng</b></p>
+                                            <p>- Mã SP: <b style="color: #d91605">SP0001</b></p>
+                                            <p>- Bảo hành: <b style="color: #d91605">36 tháng</b></p>
+                                        </div>
+                                        <div class="item-right">
+                                            <div class="item-quantity-group"></div>
+                                            <div class="item-button-group"></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <button class="js-open-selection open-selection" id="js-open-selection-1003491769">
+                                <span class=""><i class="fa-solid fa-plus"></i> Chọn CPU</span>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+       </div>
+    </main>
+    <!-- Support -->
+    <div class="global-support">
+        <div class="support-client">
+            <div class="container">
+                <div class="support-featured">
+                    <ul>
+                        <li>
+                            <i class="fa-solid fa-truck-fast"></i>
+                            <h3>GIAO HÀNG TOÀN QUỐC</h3>
+                            <P>Giao hàng trước, trả tiền sau COD</P>
+                        </li>
+                        <li>
+                            <i class="fa-solid fa-box"></i>
+                            <h3>BẢO HÀNH TẬN NƠI</h3>
+                            <P>Trọn gói 36 tháng linh kiện</P>
+                        </li>
+                        <li>
+                            <i class="fa-solid fa-arrow-rotate-left"></i>
+                            <h3>LỖI 1 ĐỔI 1</h3>
+                            <P>Đổi mới trong vòng 30 ngày</P>
+                        </li>
+                        <li>
+                            <i class="fa-solid fa-credit-card"></i>
+                            <h3>THANH TOÁN TIỆN LỢI</h3>
+                            <P>Trả tiền mặt, chuyển khoản, trả góp 0%</P>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Icon Zalo button -->
+    <div id="floating-icon-10">
+        <a href="./index.html">
+            <img src="../Logo/zalo-icon.png" alt="Zalo" width="45px" height="45px">
+        </a>
+    </div>
+    <!-- Icon Messenger button -->
+    <div id="floating-icon-20">
+        <a href="./index.html">
+            <img src="../Logo/messenger-icon.png" alt="Zalo" width="45px" height="45px">
+        </a>
+    </div>
+    <!--footer-->
+    <footer class="footer"></footer>
+    <script src="../script/render/footerWeb.js"></script>
+    <script src="../script/main.js"></script>
+    <script type="module" src="../script/render/headerWeb.js"></script>
+</body>
+</html>

@@ -200,7 +200,7 @@ const login = storage.get('login');
                                 <span class="menu-support"><i class="fa-solid fa-phone"></i></span>
                                 <span class="text-header__support">Hotline mua hàng<br>035.251.8829</span>
                             </a>
-                            <a class="link-featured" href="./index.html">
+                            <a class="link-featured" href="./buildPC.html">
                                 <span class="menu-support"><i class="fa-solid fa-computer"></i></span>
                                 <span class="text-header__support">Xây dựng<br>Cấu hình PC</span>
                             </a>
@@ -2144,7 +2144,7 @@ const login = storage.get('login');
         </div>
         <div class="global-menu__content">
             <div class="global-menu__item">
-                <a href="./index.html" class="global-menu__title" style="color: #205b9e;border-top: 1px solid #e5eaf1;">
+                <a href="./buildPC.html" class="global-menu__title" style="color: #205b9e;border-top: 1px solid #e5eaf1;">
                     <i class="global-menu__icon fa-solid fa-wrench"></i>
                     <h2 class="global-menu__heading">Xây dựng cấu hình máy tính</h2>
                 </a>
