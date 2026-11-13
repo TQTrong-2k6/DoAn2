@@ -106,3 +106,44 @@
     font-weight: 500;
     display: table;
 }
+.buildpc-page 
+.contain-item-drive 
+.item-right .item-quantity{
+    outline: 0;
+    text-align: center;
+    max-width: 90px;
+    height: 30px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-weight: 700;
+    margin: 0;
+    padding: 0 25px;
+}
+.buildpc-page 
+.buildpc-btn-action .item{
+    flex: 1;
+    cursor: pointer;
+    background: var(--color-secondary);
+    color: #fff;
+    font-weight: 700;
+    text-transform: uppercase;
+    border: 0;
+    border-radius: 6px;
+    line-height: 20px;
+    font-size: 14px;
+    padding: 10px;
+    transition: .1s all
+}
+.fancybox__viewport{
+    background-color: black;
+    opacity: .95;
+    position: fixed;
+    top: 0;
+    z-index: 99999;
+}
+.fancybox__viewport
+.fancybox__content{
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
