@@ -106,6 +106,10 @@
     font-weight: 500;
     display: table;
 }
+.item-name:hover{
+    color: var(--color-primary);
+    transition: .3s all;
+}
 .buildpc-page 
 .contain-item-drive 
 .item-right .item-quantity{
@@ -189,6 +193,184 @@
     justify-content: space-between;
     padding: 10px 15px;
 }
+.buildpc-popup 
+.popup-main {
+    display: flex;
+    flex-wrap: wrap;
+    height: calc(100% - 54px)
+}
+.buildpc-popup .popup-filter-group{
+    width: 29%;
+    border-right: 1px solid #e1e1e1;
+    padding: 10px 15px;
+    height: 100%;
+}
+.buildpc-popup 
+.popup-filter-group 
+.group-titlle{
+    font-size: 16px;
+    font-weight: 700;
+    text-transform: uppercase;
+    display: block;
+    border: 1px solid #b7b7b7;
+    line-height: 38px;
+    text-align: center;
+    margin-bottom: 15px;
+}
+.buildpc-popup 
+.popup-filter-holder{
+    height: calc(100% - 53px);
+    overflow: auto;
+    margin: 0 -10px 0 0;
+    padding: 0 15px 0 0;
+}
+.buildpc-popup 
+.filter-item {
+    margin-bottom: 10px;
+}
+.buildpc-popup 
+.filter-item 
+.filter-name{
+    display: block;
+    font-weight: 700;
+    margin: 0 0 10px;
+    text-transform: uppercase;
+}
+.buildpc-popup 
+.filter-list-holder{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.buildpc-popup 
+.filter-list-holder label{
+    display: block;
+    width: 48%;
+    margin: 0 0 8px;
+    cursor: pointer;
+}
+.buildpc-popup 
+.popup-content-group{
+    width: 71%;
+    padding: 10px;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    min-height: 0;
+}
+.buildpc-popup .sort-paging-group {
+    flex-shrink: 0;
+}
+.buildpc-popup .popup-product-list {
+    flex: 1;
+    min-height: 0;
+    overflow-y: auto;
+}
+.buildpc-popup 
+.sort-paging-group{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+}
+.buildpc-popup 
+.sort-paging-group .sort-block{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin: 0 10px 10px 0;
+}
+.buildpc-popup 
+.sort-paging-group .sort-select{
+    outline: 0;
+    height: 30px;
+    padding: 0 10px 0 5px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    margin-left: 5px;
+}
+.buildpc-popup 
+.sort-paging-group .sort-other{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px
+}
+.buildpc-popup 
+.sort-paging-group .sort-btn{
+    height: 30px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    transition: .15s all;
+    font-weight: 500;
+    line-height: 27px;
+    padding: 0 10px;
+    margin: 0;
+    cursor: pointer;
+}
+.buildpc-popup 
+.sort-paging-group 
+.sort-btn.btn-clear{
+    color: #fff;
+    background: #ec1b23;
+}
+
+.buildpc-popup 
+.p-item:first-child{
+    border-top: 0;
+}
+.buildpc-popup .p-item{
+    height: auto;
+    border: 0;
+    border-top: 1px solid #e1e1e1;
+    padding: 10px 0;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    border-radius: 0;
+}
+.buildpc-popup 
+.p-item .item-img{
+    width: 110px;
+    margin-right: 10px;
+}
+.buildpc-popup 
+.p-item .item-text{
+    flex: 1;
+    margin: 0 10px 0 0;
+}
+.buildpc-popup 
+.p-item .item-name{
+    display: table;
+    font-weight: 500;
+    line-height: 20px;
+    margin: 0 0 4px;
+}
+.buildpc-popup 
+.p-item .item-info{
+    line-height: 18px;
+    margin: 3px 0;
+}
+.buildpc-popup 
+.p-item .p-price{
+    color: #d91605;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.5;
+}
+.buildpc-popup 
+.p-item .btn-buy{
+    color: #fff;
+    background: var(--color-primary);
+    border-radius: 3px;
+    transition: .15s all;
+    font-weight: 500;
+    line-height: 32px;
+    padding: 0 10px;
+    border: 0;
+    margin: 0;
+    cursor: pointer;
+    text-transform: uppercase;
+}
 
 
 .close-icon{
@@ -202,4 +384,38 @@
     justify-content: center;
     align-items: center;
     color: #fff;
+}
+@media (max-width: 1199px) {
+    .buildpc-popup 
+    .popup-select {
+        width: auto;
+        height: 92vh;
+        background: #fff;
+        overflow: hidden;
+    }
+    .buildpc-popup 
+    .popup-content-group{
+        width: 100%;
+        padding: 10px;
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        min-height: 0;
+    }
+    .buildpc-popup .p-item{
+        row-gap: 10px;
+    }
+    .buildpc-popup .p-item .item-img{
+        display: block;
+        width: 25%;
+        margin: 0 10px 0 0;
+    }
+    .buildpc-popup .p-item .item-text {
+        flex: 1;
+        width: calc(75% - 10px);
+        font-size: 13px;
+    }
+    .buildpc-popup .p-item .btn-buy{
+        flex-basis: 100%;
+    }
 }
