@@ -4786,7 +4786,1527 @@
     }
   ],
   "pcWorkstation": [
-
+    {
+      "id": "1",
+      "name": "PC TTG ULTRA GAMING i7 13700KF - 16GB DDR4 - RTX 5050 8GB",
+      "imageList": [
+        "../Product Image/PCWorkstation/PC TTG ULTRA GAMING i7 13700KF - 16GB DDR4 - RTX 5050 8GB/1.png",
+        "../Product Image/PCWorkstation/PC TTG ULTRA GAMING i7 13700KF - 16GB DDR4 - RTX 5050 8GB/2.png",
+        "../Product Image/PCWorkstation/PC TTG ULTRA GAMING i7 13700KF - 16GB DDR4 - RTX 5050 8GB/3.png",
+        "../Product Image/PCWorkstation/PC TTG ULTRA GAMING i7 13700KF - 16GB DDR4 - RTX 5050 8GB/4.png",
+        "../Product Image/PCWorkstation/PC TTG ULTRA GAMING i7 13700KF - 16GB DDR4 - RTX 5050 8GB/5.png",
+        "../Product Image/PCWorkstation/PC TTG ULTRA GAMING i7 13700KF - 16GB DDR4 - RTX 5050 8GB/6.png",
+        "../Product Image/PCWorkstation/PC TTG ULTRA GAMING i7 13700KF - 16GB DDR4 - RTX 5050 8GB/7.png",
+        "../Product Image/PCWorkstation/PC TTG ULTRA GAMING i7 13700KF - 16GB DDR4 - RTX 5050 8GB/8.png",
+        "../Product Image/PCWorkstation/PC TTG ULTRA GAMING i7 13700KF - 16GB DDR4 - RTX 5050 8GB/9.png"
+      ],
+      "price": 35990000,
+      "sale": 0.11,
+      "brand": "Khác",
+      "guarantee": "36",
+      "category": "PC VIDEO EDITING",
+      "attributes": {
+        "Dòng CPU": "Intel Core i7",
+        "Dung lượng RAM": "16GB",
+        "GPU": "RTX 5050 8GB"
+      },
+      "describe": ["CPU Intel Core i7 13700KF (3.4GHz turbo up to 5.4Ghz, 16 nhân 24 luồng, 24MB Cache, 125W) (TRAY)", "Mainboard MSI Z790-P PRO WIFI DDR4", "Ram SSTC 16GB Bus 3200Mhz DDR4 BLACK TẢN NHIỆT", "Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)", "Nguồn máy tính FSP VIC BD 750 750W 80 Plus Bronze", "Card màn hình ZOTAC GEFORCE RTX 5050 LOW PROFILE 8GB", "VỎ CASE JUNGLE LEOPARD AS-01 BLACK - (ATX/ Màu Đen)", "Tản nhiệt khí Thermalright Peerless Assassin 120 ARGB BLACK"],
+      "offer": [],
+      "specifications": {
+        "CPU Intel Core i7 13700KF (3.4GHz turbo up to 5.4Ghz, 16 nhân 24 luồng, 24MB Cache, 125W) (TRAY)": [1, "36th"],
+        "Mainboard MSI Z790-P PRO WIFI DDR4": [1, "36th"],
+        "Ram SSTC 16GB Bus 3200Mhz DDR4 BLACK TẢN NHIỆT": [1, "36th"],
+        "Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)": [1, "36th"],
+        "Nguồn máy tính FSP VIC BD 750 750W 80 Plus Bronze": [1, "36th"],
+        "Card màn hình ZOTAC GEFORCE RTX 5050 LOW PROFILE 8GB": [1, "36th"],
+        "VỎ CASE JUNGLE LEOPARD AS-01 BLACK - (ATX/ Màu Đen)": [1, "12th"],
+        "Tản nhiệt khí Thermalright Peerless Assassin 120 ARGB BLACK": [1, "12th"]
+      }
+    },
+    {
+      "id": "2",
+      "name": "PC TTG Fractal Design Gaming Ryzen 7 9800X3D - RTX 5070 12GB OC WHITE",
+      "imageList": [
+        "../Product Image/PCWorkstation/PC TTG Fractal Design Gaming Ryzen 7 9800X3D - RTX 5070 12GB OC WHITE/1.png",
+        "../Product Image/PCWorkstation/PC TTG Fractal Design Gaming Ryzen 7 9800X3D - RTX 5070 12GB OC WHITE/2.png",
+        "../Product Image/PCWorkstation/PC TTG Fractal Design Gaming Ryzen 7 9800X3D - RTX 5070 12GB OC WHITE/3.png",
+        "../Product Image/PCWorkstation/PC TTG Fractal Design Gaming Ryzen 7 9800X3D - RTX 5070 12GB OC WHITE/4.png",
+        "../Product Image/PCWorkstation/PC TTG Fractal Design Gaming Ryzen 7 9800X3D - RTX 5070 12GB OC WHITE/5.png",
+        "../Product Image/PCWorkstation/PC TTG Fractal Design Gaming Ryzen 7 9800X3D - RTX 5070 12GB OC WHITE/6.png",
+        "../Product Image/PCWorkstation/PC TTG Fractal Design Gaming Ryzen 7 9800X3D - RTX 5070 12GB OC WHITE/7.png",
+        "../Product Image/PCWorkstation/PC TTG Fractal Design Gaming Ryzen 7 9800X3D - RTX 5070 12GB OC WHITE/8.jpg"
+      ],
+      "price": 73990000,
+      "sale": 0.04,
+      "brand": "Khác",
+      "guarantee": "36",
+      "category": "PC 3D DESIGN - Animation",
+      "attributes": {
+        "Dòng CPU": "AMD Ryzen 7",
+        "Dung lượng RAM": "32GB",
+        "GPU": "RTX 5070 12GB"
+      },
+      "describe": ["CPU AMD Ryzen 7 9800X3D (AMD AM5 - 8 Core - 16 Thread - Base 4.7Ghz - Turbo 5.2Ghz - Cache 104MB) (TRAY)", "Mainboard MSI B650M GAMING PLUS WIFI DDR5", "Ram Adata Lancer Blade White 32GB | 2 x 16GB, DDR5, 5600MHz (AX5U5600C4616G-DTLABWH)", "Ổ cứng SSD HIKSEMI 512GB | PCIe Gen3 x4 NVMe, M.2 2280", "Nguồn Antec GSK850 850W (80 Plus Gold / Full-Modular / ATX 3.1 - PCIE 5.1)", "Card Màn Hình COLORFUL iGame GeForce RTX 5070 Ultra W OC 12GB-V", "VỎ CASE FRACTAL DESIGN NORTH CHALK WHITE", "Tản nhiệt khí TRYX TURRIS 620 WHITE", "Dây bọc lưới 24 PIN trắng"],
+      "offer": [],
+      "specifications": {
+        "CPU AMD Ryzen 7 9800X3D (AMD AM5 - 8 Core - 16 Thread - Base 4.7Ghz - Turbo 5.2Ghz - Cache 104MB) (TRAY)": [1, "36th"],
+        "Mainboard MSI B650M GAMING PLUS WIFI DDR5": [1, "36th"],
+        "Ram Adata Lancer Blade White 32GB | 2 x 16GB, DDR5, 5600MHz (AX5U5600C4616G-DTLABWH)": [1, "36th"],
+        "Ổ cứng SSD HIKSEMI 512GB | PCIe Gen3 x4 NVMe, M.2 2280": [1, "36th"],
+        "Nguồn Antec GSK850 850W (80 Plus Gold / Full-Modular / ATX 3.1 - PCIE 5.1)": [1, "36th"],
+        "Card Màn Hình COLORFUL iGame GeForce RTX 5070 Ultra W OC 12GB-V": [1, "36th"],
+        "VỎ CASE FRACTAL DESIGN NORTH CHALK WHITE": [1, "12th"],
+        "Tản nhiệt khí TRYX TURRIS 620 WHITE": [1, "12th"]
+      }
+    },
+    {
+      "id": "3",
+      "name": "PC TTG GAMING i7 13700KF - RTX 3050 6GB",
+      "imageList": [
+        "../Product Image/PCWorkstation/PC TTG GAMING i7 13700KF - RTX 3050 6GB/1.jpg"
+      ],
+      "price": 27990000,
+      "sale": 0.05,
+      "brand": "Khác",
+      "guarantee": "36",
+      "category": "PC 3D DESIGN - Animation",
+      "attributes": {
+        "Dòng CPU": "Intel Core i7",
+        "Dung lượng RAM": "16GB",
+        "GPU": "RTX 3050 6GB"
+      },
+      "describe": ["CPU Intel Core i7 13700KF (3.4GHz turbo up to 5.4Ghz, 16 nhân 24 luồng, 24MB Cache, 125W) (TRAY)", "Mainboard MSI Z790-P PRO WIFI DDR4", "Ram SSTC 16GB Bus 3200Mhz DDR4 BLACK TẢN NHIỆT", "Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)", "Nguồn máy tính FSP VIC BD 750 750W 80 Plus Bronze", "Card màn hình ZOTAC GAMING GeForce RTX 3050 6GB", "VỎ CASE JUNGLE LEOPARD AS-01 BLACK - (ATX/ Màu Đen)", "Tản nhiệt khí Thermalright Peerless Assassin 120 ARGB BLACK"],
+      "offer": [],
+      "specifications": {
+        "CPU Intel Core i7 13700KF (3.4GHz turbo up to 5.4Ghz, 16 nhân 24 luồng, 24MB Cache, 125W) (TRAY)": [1, "36th"],
+        "Mainboard MSI Z790-P PRO WIFI DDR4": [1, "36th"],
+        "Ram SSTC 16GB Bus 3200Mhz DDR4 BLACK TẢN NHIỆT": [1, "36th"],
+        "Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)": [1, "36th"],
+        "Nguồn máy tính FSP VIC BD 750 750W 80 Plus Bronze": [1, "36th"],
+        "Card màn hình ZOTAC GAMING GeForce RTX 3050 6GB": [1, "36th"],
+        "VỎ CASE JUNGLE LEOPARD AS-01 BLACK - (ATX/ Màu Đen)": [1, "12th"],
+        "Tản nhiệt khí Thermalright Peerless Assassin 120 ARGB BLACK": [1, "12th"]
+      }
+    },
+    {
+      "id": "4",
+      "name": "PC TTG DESIGNER -3D RENDER - EDIT VIDEO ULTRA 7 265KF - RTX 5060 8GB OC (All NEW - Bảo hành 36 tháng)",
+      "imageList": [
+        "../Product Image/PCWorkstation/PC TTG DESIGNER -3D RENDER - EDIT VIDEO ULTRA 7 265KF - RTX 5060 8GB OC (All NEW - Bảo hành 36 tháng)/1.jpeg",
+        "../Product Image/PCWorkstation/PC TTG DESIGNER -3D RENDER - EDIT VIDEO ULTRA 7 265KF - RTX 5060 8GB OC (All NEW - Bảo hành 36 tháng)/2.jpeg",
+        "../Product Image/PCWorkstation/PC TTG DESIGNER -3D RENDER - EDIT VIDEO ULTRA 7 265KF - RTX 5060 8GB OC (All NEW - Bảo hành 36 tháng)/3.jpg",
+        "../Product Image/PCWorkstation/PC TTG DESIGNER -3D RENDER - EDIT VIDEO ULTRA 7 265KF - RTX 5060 8GB OC (All NEW - Bảo hành 36 tháng)/4.jpeg",
+        "../Product Image/PCWorkstation/PC TTG DESIGNER -3D RENDER - EDIT VIDEO ULTRA 7 265KF - RTX 5060 8GB OC (All NEW - Bảo hành 36 tháng)/5.jpg",
+        "../Product Image/PCWorkstation/PC TTG DESIGNER -3D RENDER - EDIT VIDEO ULTRA 7 265KF - RTX 5060 8GB OC (All NEW - Bảo hành 36 tháng)/6.jpeg",
+        "../Product Image/PCWorkstation/PC TTG DESIGNER -3D RENDER - EDIT VIDEO ULTRA 7 265KF - RTX 5060 8GB OC (All NEW - Bảo hành 36 tháng)/7.jpg",
+        "../Product Image/PCWorkstation/PC TTG DESIGNER -3D RENDER - EDIT VIDEO ULTRA 7 265KF - RTX 5060 8GB OC (All NEW - Bảo hành 36 tháng)/8.jpg",
+        "../Product Image/PCWorkstation/PC TTG DESIGNER -3D RENDER - EDIT VIDEO ULTRA 7 265KF - RTX 5060 8GB OC (All NEW - Bảo hành 36 tháng)/9.jpeg",
+        "../Product Image/PCWorkstation/PC TTG DESIGNER -3D RENDER - EDIT VIDEO ULTRA 7 265KF - RTX 5060 8GB OC (All NEW - Bảo hành 36 tháng)/10.jpeg",
+        "../Product Image/PCWorkstation/PC TTG DESIGNER -3D RENDER - EDIT VIDEO ULTRA 7 265KF - RTX 5060 8GB OC (All NEW - Bảo hành 36 tháng)/11.jpeg",
+        "../Product Image/PCWorkstation/PC TTG DESIGNER -3D RENDER - EDIT VIDEO ULTRA 7 265KF - RTX 5060 8GB OC (All NEW - Bảo hành 36 tháng)/12.jpeg",
+        "../Product Image/PCWorkstation/PC TTG DESIGNER -3D RENDER - EDIT VIDEO ULTRA 7 265KF - RTX 5060 8GB OC (All NEW - Bảo hành 36 tháng)/13.jpeg",
+        "../Product Image/PCWorkstation/PC TTG DESIGNER -3D RENDER - EDIT VIDEO ULTRA 7 265KF - RTX 5060 8GB OC (All NEW - Bảo hành 36 tháng)/14.jpg",
+        "../Product Image/PCWorkstation/PC TTG DESIGNER -3D RENDER - EDIT VIDEO ULTRA 7 265KF - RTX 5060 8GB OC (All NEW - Bảo hành 36 tháng)/15.jpg"
+      ],
+      "price": 45990000,
+      "sale": 0.08,
+      "brand": "Khác",
+      "guarantee": "36",
+      "category": "PC VIDEO EDITING",
+      "attributes": {
+        "Dòng CPU": "Core Ultra 7",
+        "Dung lượng RAM": "32GB",
+        "GPU": "RTX 5060 8GB"
+      },
+      "describe": ["CPU Intel Core Ultra 7 265KF (Up to 5.5GHz , 20 nhân - 20 luồng ,30MB Cache, Arrow Lake -S) - TRAY", "Mainboard Gigabyte B860M AORUS ELITE WIFI 6E DDR5", "RAM APACER NOX 32GB (2x16GB) Bus 5200Mhz DDR5", "Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)", "Nguồn máy tính FSP VIC BD 750 750W 80 Plus Bronze", "Card màn hình COLORFUL GEFORCE RTX 5060 GAMING DUO 8GB-V", "Vỏ Case XIGMATEK AQUA ML BLACK - KÈM 3 FAN ARGB", "Tản nhiệt khí Thermalright Peerless Assassin 120 ARGB BLACK"],
+      "offer": [],
+      "specifications": {
+        "CPU Intel Core Ultra 7 265KF (Up to 5.5GHz , 20 nhân - 20 luồng ,30MB Cache, Arrow Lake -S) - TRAY": [1, "36th"],
+        "Mainboard Gigabyte B860M AORUS ELITE WIFI 6E DDR5": [1, "36th"],
+        "RAM APACER NOX 32GB (2x16GB) Bus 5200Mhz DDR5": [1, "36th"],
+        "Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)": [1, "36th"],
+        "Nguồn máy tính FSP VIC BD 750 750W 80 Plus Bronze": [1, "36th"],
+        "Card màn hình COLORFUL GEFORCE RTX 5060 GAMING DUO 8GB-V": [1, "36th"],
+        "Vỏ Case XIGMATEK AQUA ML BLACK - KÈM 3 FAN ARGB": [1, "12th"],
+        "Tản nhiệt khí Thermalright Peerless Assassin 120 ARGB BLACK": [1, "12th"]
+      }
+    },
+    {
+      "id": "5",
+      "name": "PC TTG DESIGNER - EDIT VIDEO i7 12700KF-RTX 3060 12GB (ALL NEW- Bảo hành 36 tháng)",
+      "imageList": [
+        "../Product Image/PCWorkstation/PC TTG DESIGNER - EDIT VIDEO i7 12700KF-RTX 3060 12GB (ALL NEW- Bảo hành 36 tháng)/1.jpg",
+        "../Product Image/PCWorkstation/PC TTG DESIGNER - EDIT VIDEO i7 12700KF-RTX 3060 12GB (ALL NEW- Bảo hành 36 tháng)/2.jpg",
+        "../Product Image/PCWorkstation/PC TTG DESIGNER - EDIT VIDEO i7 12700KF-RTX 3060 12GB (ALL NEW- Bảo hành 36 tháng)/3.jpg",
+        "../Product Image/PCWorkstation/PC TTG DESIGNER - EDIT VIDEO i7 12700KF-RTX 3060 12GB (ALL NEW- Bảo hành 36 tháng)/4.jpg", 
+        "../Product Image/PCWorkstation/PC TTG DESIGNER - EDIT VIDEO i7 12700KF-RTX 3060 12GB (ALL NEW- Bảo hành 36 tháng)/5.jpg",
+        "../Product Image/PCWorkstation/PC TTG DESIGNER - EDIT VIDEO i7 12700KF-RTX 3060 12GB (ALL NEW- Bảo hành 36 tháng)/6.jpg",
+        "../Product Image/PCWorkstation/PC TTG DESIGNER - EDIT VIDEO i7 12700KF-RTX 3060 12GB (ALL NEW- Bảo hành 36 tháng)/7.jpg",
+        "../Product Image/PCWorkstation/PC TTG DESIGNER - EDIT VIDEO i7 12700KF-RTX 3060 12GB (ALL NEW- Bảo hành 36 tháng)/8.jpg",
+        "../Product Image/PCWorkstation/PC TTG DESIGNER - EDIT VIDEO i7 12700KF-RTX 3060 12GB (ALL NEW- Bảo hành 36 tháng)/9.jpg", 
+        "../Product Image/PCWorkstation/PC TTG DESIGNER - EDIT VIDEO i7 12700KF-RTX 3060 12GB (ALL NEW- Bảo hành 36 tháng)/10.jpg",
+        "../Product Image/PCWorkstation/PC TTG DESIGNER - EDIT VIDEO i7 12700KF-RTX 3060 12GB (ALL NEW- Bảo hành 36 tháng)/11.jpg",
+        "../Product Image/PCWorkstation/PC TTG DESIGNER - EDIT VIDEO i7 12700KF-RTX 3060 12GB (ALL NEW- Bảo hành 36 tháng)/12.jpg",
+        "../Product Image/PCWorkstation/PC TTG DESIGNER - EDIT VIDEO i7 12700KF-RTX 3060 12GB (ALL NEW- Bảo hành 36 tháng)/13.jpg",
+        "../Product Image/PCWorkstation/PC TTG DESIGNER - EDIT VIDEO i7 12700KF-RTX 3060 12GB (ALL NEW- Bảo hành 36 tháng)/14.jpg"
+      ],
+      "price": 29990000,
+      "sale": 0.08,
+      "brand": "Khác",
+      "guarantee": "36",
+      "category": "PC 3D DESIGN - Animation",
+      "attributes": {
+        "Dòng CPU": "Intel Core i7",
+        "Dung lượng RAM": "16GB",
+        "GPU": "RTX 3060 12GB"
+      },
+      "describe": ["CPU Intel Core i7-12700KF (3.8GHz turbo up to 5.0Ghz, 12 nhân 20 luồng, 25MB Cache, 125W) TRAY", "Mainboard ASROCK B760M PRO RS WIFI DDR4", "Ram SSTC 16GB Bus 3200Mhz DDR4 BLACK TẢN NHIỆT", "Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)", "Nguồn máy tính Einarex AXIS MASTER L1 650W 80 Plus Bronze", "Card Màn Hình ZOTAC GAMING GeForce RTX 3060 Twin Edge 12GB", "Vỏ Case XIGMATEK AQUA ML BLACK - KÈM 3 FAN ARGB", "Tản nhiệt khí Thermalright Peerless Assassin 120 ARGB BLACK"],
+      "offer": [{"SSD 512GB NVME GEN4": 1000000}],
+      "specifications": {
+        "CPU Intel Core i7-12700KF (3.8GHz turbo up to 5.0Ghz, 12 nhân 20 luồng, 25MB Cache, 125W) TRAY": [1, "36th"],
+        "Mainboard ASROCK B760M PRO RS WIFI DDR4": [1, "36th"],
+        "Ram SSTC 16GB Bus 3200Mhz DDR4 BLACK TẢN NHIỆT": [1, "36th"],
+        "Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)": [1, "36th"],
+        "Nguồn máy tính Einarex AXIS MASTER L1 650W 80 Plus Bronze": [1, "36th"],
+        "Card Màn Hình ZOTAC GAMING GeForce RTX 3060 Twin Edge 12GB": [1, "36th"],
+        "Vỏ Case XIGMATEK AQUA ML BLACK - KÈM 3 FAN ARGB": [1, "12th"],
+        "Tản nhiệt khí Thermalright Peerless Assassin 120 ARGB BLACK": [1, "12th"]
+      }
+    },
+    {
+      "id": "6",
+      "name": "PC TTG GAMING ULTRA 7 265KF - RTX 5080 16GB (ALL NEW - Bảo hành 36 tháng)",
+      "imageList": [
+        "../Product Image/PCWorkstation/PC TTG GAMING ULTRA 7 265KF - RTX 5080 16GB (ALL NEW - Bảo hành 36 tháng)/1.jpeg",
+        "../Product Image/PCWorkstation/PC TTG GAMING ULTRA 7 265KF - RTX 5080 16GB (ALL NEW - Bảo hành 36 tháng)/2.jpeg",
+        "../Product Image/PCWorkstation/PC TTG GAMING ULTRA 7 265KF - RTX 5080 16GB (ALL NEW - Bảo hành 36 tháng)/3.jpeg",
+        "../Product Image/PCWorkstation/PC TTG GAMING ULTRA 7 265KF - RTX 5080 16GB (ALL NEW - Bảo hành 36 tháng)/4.jpeg",
+        "../Product Image/PCWorkstation/PC TTG GAMING ULTRA 7 265KF - RTX 5080 16GB (ALL NEW - Bảo hành 36 tháng)/5.jpeg",
+        "../Product Image/PCWorkstation/PC TTG GAMING ULTRA 7 265KF - RTX 5080 16GB (ALL NEW - Bảo hành 36 tháng)/6.jpeg",
+        "../Product Image/PCWorkstation/PC TTG GAMING ULTRA 7 265KF - RTX 5080 16GB (ALL NEW - Bảo hành 36 tháng)/7.jpeg",
+        "../Product Image/PCWorkstation/PC TTG GAMING ULTRA 7 265KF - RTX 5080 16GB (ALL NEW - Bảo hành 36 tháng)/8.jpeg",
+        "../Product Image/PCWorkstation/PC TTG GAMING ULTRA 7 265KF - RTX 5080 16GB (ALL NEW - Bảo hành 36 tháng)/9.jpeg",
+        "../Product Image/PCWorkstation/PC TTG GAMING ULTRA 7 265KF - RTX 5080 16GB (ALL NEW - Bảo hành 36 tháng)/10.jpeg"
+      ],
+      "price": 85990000,
+      "sale": 0.04,
+      "brand": "Khác",
+      "guarantee": "36",
+      "category": "PC 3D DESIGN - Animation",
+      "attributes": {
+        "Dòng CPU": "Core Ultra i7",
+        "Dung lượng RAM": "32GB",
+        "GPU": "RTX 5080 16GB"
+      },
+      "describe": ["CPU Intel Core Ultra 7 265KF (Up to 5.5GHz , 20 nhân - 20 luồng ,30MB Cache, Arrow Lake -S) - TRAY", "Mainboard MSI B860M GAMING PLUS WIFI DDR5", "RAM APACER NOX 32GB (2x16GB) DDR5 Bus 5200Mhz – Black", "Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)", "Nguồn Antec GSK850 850W (80 Plus Gold / Full-Modular / ATX 3.1 - PCIE 5.1)", "Card màn hình ZOTAC GAMING GeForce RTX 5080 16GB SOLID CORE", "Vỏ Case AIGO C218M BLACK - KÈM 4 FAN ARGB", "Tản nhiệt khí Thermalright Peerless Assassin 120 ARGB BLACK"],
+      "offer": [{"SSD 512GB NVME GEN4": 1000000}],
+      "specifications": {
+        "CPU Intel Core Ultra 7 265KF (Up to 5.5GHz , 20 nhân - 20 luồng ,30MB Cache, Arrow Lake -S) - TRAY": [1, "36th"],
+        "Mainboard MSI B860M GAMING PLUS WIFI DDR5": [1, "36th"],
+        "RAM APACER NOX 32GB (2x16GB) DDR5 Bus 5200Mhz – Black": [1, "36th"],
+        "Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)": [1, "36th"],
+        "Nguồn Antec GSK850 850W (80 Plus Gold / Full-Modular / ATX 3.1 - PCIE 5.1)": [1, "36th"],
+        "Card màn hình ZOTAC GAMING GeForce RTX 5080 16GB SOLID CORE": [1, "36th"],
+        "Vỏ Case AIGO C218M BLACK - KÈM 4 FAN ARGB": [1, "12th"],
+        "Tản nhiệt khí Thermalright Peerless Assassin 120 ARGB BLACK": [1, "12th"]
+      }
+    },
+    {
+      "id": "7",
+      "name": "PC TTG ULTRA GAMING i9 13700KF - 16GB DDR4 - RTX 5050 8GB",
+      "imageList": [
+        "../Product Image/PCWorkstation/PC TTG ULTRA GAMING i7 13700KF - 16GB DDR4 - RTX 5050 8GB/4.png",
+        "../Product Image/PCWorkstation/PC TTG ULTRA GAMING i7 13700KF - 16GB DDR4 - RTX 5050 8GB/2.png",
+        "../Product Image/PCWorkstation/PC TTG ULTRA GAMING i7 13700KF - 16GB DDR4 - RTX 5050 8GB/3.png",
+        "../Product Image/PCWorkstation/PC TTG ULTRA GAMING i7 13700KF - 16GB DDR4 - RTX 5050 8GB/1.png",
+        "../Product Image/PCWorkstation/PC TTG ULTRA GAMING i7 13700KF - 16GB DDR4 - RTX 5050 8GB/5.png",
+        "../Product Image/PCWorkstation/PC TTG ULTRA GAMING i7 13700KF - 16GB DDR4 - RTX 5050 8GB/6.png",
+        "../Product Image/PCWorkstation/PC TTG ULTRA GAMING i7 13700KF - 16GB DDR4 - RTX 5050 8GB/7.png",
+        "../Product Image/PCWorkstation/PC TTG ULTRA GAMING i7 13700KF - 16GB DDR4 - RTX 5050 8GB/8.png",
+        "../Product Image/PCWorkstation/PC TTG ULTRA GAMING i7 13700KF - 16GB DDR4 - RTX 5050 8GB/9.png"
+      ],
+      "price": 45990000,
+      "sale": 0.11,
+      "brand": "Khác",
+      "guarantee": "36",
+      "category": "PC PHOTO EDITING",
+      "attributes": {
+        "Dòng CPU": "Intel Core i9",
+        "Dung lượng RAM": "16GB",
+        "GPU": "RTX 5050 8GB"
+      },
+      "describe": ["CPU Intel Core i9 13700KF (3.4GHz turbo up to 5.4Ghz, 16 nhân 24 luồng, 24MB Cache, 125W) (TRAY)", "Mainboard MSI Z790-P PRO WIFI DDR4", "Ram SSTC 16GB Bus 3200Mhz DDR4 BLACK TẢN NHIỆT", "Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)", "Nguồn máy tính FSP VIC BD 750 750W 80 Plus Bronze", "Card màn hình ZOTAC GEFORCE RTX 5050 LOW PROFILE 8GB", "VỎ CASE JUNGLE LEOPARD AS-01 BLACK - (ATX/ Màu Đen)", "Tản nhiệt khí Thermalright Peerless Assassin 120 ARGB BLACK"],
+      "offer": [],
+      "specifications": {
+        "CPU Intel Core i9 13700KF (3.4GHz turbo up to 5.4Ghz, 16 nhân 24 luồng, 24MB Cache, 125W) (TRAY)": [1, "36th"],
+        "Mainboard MSI Z790-P PRO WIFI DDR4": [1, "36th"],
+        "Ram SSTC 16GB Bus 3200Mhz DDR4 BLACK TẢN NHIỆT": [1, "36th"],
+        "Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)": [1, "36th"],
+        "Nguồn máy tính FSP VIC BD 750 750W 80 Plus Bronze": [1, "36th"],
+        "Card màn hình ZOTAC GEFORCE RTX 5050 LOW PROFILE 8GB": [1, "36th"],
+        "VỎ CASE JUNGLE LEOPARD AS-01 BLACK - (ATX/ Màu Đen)": [1, "12th"],
+        "Tản nhiệt khí Thermalright Peerless Assassin 120 ARGB BLACK": [1, "12th"]
+      }
+    },
+    {
+      "id": "8",
+      "name": "PC TTG ULTRA GAMING i5 13700KF - 16GB DDR4 - RTX 5050 8GB",
+      "imageList": [
+        "../Product Image/PCWorkstation/PC TTG ULTRA GAMING i7 13700KF - 16GB DDR4 - RTX 5050 8GB/4.png",
+        "../Product Image/PCWorkstation/PC TTG ULTRA GAMING i7 13700KF - 16GB DDR4 - RTX 5050 8GB/2.png",
+        "../Product Image/PCWorkstation/PC TTG ULTRA GAMING i7 13700KF - 16GB DDR4 - RTX 5050 8GB/3.png",
+        "../Product Image/PCWorkstation/PC TTG ULTRA GAMING i7 13700KF - 16GB DDR4 - RTX 5050 8GB/1.png",
+        "../Product Image/PCWorkstation/PC TTG ULTRA GAMING i7 13700KF - 16GB DDR4 - RTX 5050 8GB/5.png",
+        "../Product Image/PCWorkstation/PC TTG ULTRA GAMING i7 13700KF - 16GB DDR4 - RTX 5050 8GB/6.png",
+        "../Product Image/PCWorkstation/PC TTG ULTRA GAMING i7 13700KF - 16GB DDR4 - RTX 5050 8GB/7.png",
+        "../Product Image/PCWorkstation/PC TTG ULTRA GAMING i7 13700KF - 16GB DDR4 - RTX 5050 8GB/8.png",
+        "../Product Image/PCWorkstation/PC TTG ULTRA GAMING i7 13700KF - 16GB DDR4 - RTX 5050 8GB/9.png"
+      ],
+      "price": 30990000,
+      "sale": 0.15,
+      "brand": "Khác",
+      "guarantee": "36",
+      "category": "PC PHOTO EDITING",
+      "attributes": {
+        "Dòng CPU": "Intel Core i5",
+        "Dung lượng RAM": "16GB",
+        "GPU": "RTX 5050 8GB"
+      },
+      "describe": ["CPU Intel Core i5 13700KF (3.4GHz turbo up to 5.4Ghz, 16 nhân 24 luồng, 24MB Cache, 125W) (TRAY)", "Mainboard MSI Z790-P PRO WIFI DDR4", "Ram SSTC 16GB Bus 3200Mhz DDR4 BLACK TẢN NHIỆT", "Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)", "Nguồn máy tính FSP VIC BD 750 750W 80 Plus Bronze", "Card màn hình ZOTAC GEFORCE RTX 5050 LOW PROFILE 8GB", "VỎ CASE JUNGLE LEOPARD AS-01 BLACK - (ATX/ Màu Đen)", "Tản nhiệt khí Thermalright Peerless Assassin 120 ARGB BLACK"],
+      "offer": [],
+      "specifications": {
+        "CPU Intel Core i5 13700KF (3.4GHz turbo up to 5.4Ghz, 16 nhân 24 luồng, 24MB Cache, 125W) (TRAY)": [1, "36th"],
+        "Mainboard MSI Z790-P PRO WIFI DDR4": [1, "36th"],
+        "Ram SSTC 16GB Bus 3200Mhz DDR4 BLACK TẢN NHIỆT": [1, "36th"],
+        "Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)": [1, "36th"],
+        "Nguồn máy tính FSP VIC BD 750 750W 80 Plus Bronze": [1, "36th"],
+        "Card màn hình ZOTAC GEFORCE RTX 5050 LOW PROFILE 8GB": [1, "36th"],
+        "VỎ CASE JUNGLE LEOPARD AS-01 BLACK - (ATX/ Màu Đen)": [1, "12th"],
+        "Tản nhiệt khí Thermalright Peerless Assassin 120 ARGB BLACK": [1, "12th"]
+      }
+    },
+    {
+      "id": "9",
+      "name": "PC TTG DESIGNER -3D RENDER - EDIT VIDEO RYZEN 9 9950X - RTX 5070 12GB (All NEW - Bảo hành 36 tháng)",
+      "imageList": [
+        "../Product Image/PCWorkstation/PC TTG DESIGNER -3D RENDER - EDIT VIDEO RYZEN 9 9950X - RTX 5070 12GB (All NEW - Bảo hành 36 tháng)/1.jpg",
+        "../Product Image/PCWorkstation/PC TTG DESIGNER -3D RENDER - EDIT VIDEO RYZEN 9 9950X - RTX 5070 12GB (All NEW - Bảo hành 36 tháng)/2.jpg",
+        "../Product Image/PCWorkstation/PC TTG DESIGNER -3D RENDER - EDIT VIDEO RYZEN 9 9950X - RTX 5070 12GB (All NEW - Bảo hành 36 tháng)/3.jpg",
+        "../Product Image/PCWorkstation/PC TTG DESIGNER -3D RENDER - EDIT VIDEO RYZEN 9 9950X - RTX 5070 12GB (All NEW - Bảo hành 36 tháng)/4.jpg"
+      ],
+      "price": 65990000,
+      "sale": 0.05,
+      "brand": "Khác",
+      "guarantee": "36",
+      "category": "PC RENDERING",
+      "attributes": {
+        "Dòng CPU": "AMD Ryzen 9",
+        "Dung lượng RAM": "32GB",
+        "GPU": "RTX 5070 12GB"
+      },
+      "describe": ["CPU AMD Ryzen 9 9950X (16 nhân 32 luồng, up to 5.7GHz, 80MB Cache)- TRAY", "Mainboard GIGABYTE X870 EAGLE WIFI DDR5", "RAM APACER NOX 32GB (2x16GB) DDR5 Bus 5200Mhz – Black", "Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)", "Nguồn máy tính FSP VIC BD 750 750W 80 Plus Bronze", "Card màn hình Zotac Gaming GeForce RTX 5070 Twin Edge OC 12GB", "Vỏ Case ANTEC C3 BLACK - KÈM 4 FAN ARGB BLACK", "Tản nhiệt khí Thermalright Peerless Assassin 120 ARGB BLACK"],
+      "offer": [],
+      "specifications": {
+        "CPU AMD Ryzen 9 9950X (16 nhân 32 luồng, up to 5.7GHz, 80MB Cache)- TRAY": [1, "36th"],
+        "Mainboard GIGABYTE X870 EAGLE WIFI DDR5": [1, "36th"],
+        "RAM APACER NOX 32GB (2x16GB) DDR5 Bus 5200Mhz – Black": [1, "36th"],
+        "Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)": [1, "36th"],
+        "Nguồn máy tính FSP VIC BD 750 750W 80 Plus Bronze": [1, "36th"],
+        "Card màn hình Zotac Gaming GeForce RTX 5070 Twin Edge OC 12GB": [1, "36th"],
+        "Vỏ Case ANTEC C3 BLACK - KÈM 4 FAN ARGB BLACK": [1, "12th"],
+        "Tản nhiệt khí Thermalright Peerless Assassin 120 ARGB BLACK": [1, "12th"]
+      }
+    },
+    {
+      "id": "10",
+      "name": "PC TTG DESIGNER -3D RENDER - EDIT VIDEO RYZEN 5 9950X - RTX 5070 12GB (All NEW - Bảo hành 36 tháng)",
+      "imageList": [
+        "../Product Image/PCWorkstation/PC TTG DESIGNER -3D RENDER - EDIT VIDEO RYZEN 9 9950X - RTX 5070 12GB (All NEW - Bảo hành 36 tháng)/4.jpg",
+        "../Product Image/PCWorkstation/PC TTG DESIGNER -3D RENDER - EDIT VIDEO RYZEN 9 9950X - RTX 5070 12GB (All NEW - Bảo hành 36 tháng)/3.jpg",
+        "../Product Image/PCWorkstation/PC TTG DESIGNER -3D RENDER - EDIT VIDEO RYZEN 9 9950X - RTX 5070 12GB (All NEW - Bảo hành 36 tháng)/1.jpg",
+        "../Product Image/PCWorkstation/PC TTG DESIGNER -3D RENDER - EDIT VIDEO RYZEN 9 9950X - RTX 5070 12GB (All NEW - Bảo hành 36 tháng)/2.jpg"
+      ],
+      "price": 65990000,
+      "sale": 0.05,
+      "brand": "Khác",
+      "guarantee": "36",
+      "category": "PC RENDERING",
+      "attributes": {
+        "Dòng CPU": "AMD Ryzen 5",
+        "Dung lượng RAM": "32GB",
+        "GPU": "RTX 5070 12GB"
+      },
+      "describe": ["CPU AMD Ryzen 5 9950X (16 nhân 32 luồng, up to 5.7GHz, 80MB Cache)- TRAY", "Mainboard GIGABYTE X870 EAGLE WIFI DDR5", "RAM APACER NOX 32GB (2x16GB) DDR5 Bus 5200Mhz – Black", "Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)", "Nguồn máy tính FSP VIC BD 750 750W 80 Plus Bronze", "Card màn hình Zotac Gaming GeForce RTX 5070 Twin Edge OC 12GB", "Vỏ Case ANTEC C3 BLACK - KÈM 4 FAN ARGB BLACK", "Tản nhiệt khí Thermalright Peerless Assassin 120 ARGB BLACK"],
+      "offer": [],
+      "specifications": {
+        "CPU AMD Ryzen 5 9950X (16 nhân 32 luồng, up to 5.7GHz, 80MB Cache)- TRAY": [1, "36th"],
+        "Mainboard GIGABYTE X870 EAGLE WIFI DDR5": [1, "36th"],
+        "RAM APACER NOX 32GB (2x16GB) DDR5 Bus 5200Mhz – Black": [1, "36th"],
+        "Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)": [1, "36th"],
+        "Nguồn máy tính FSP VIC BD 750 750W 80 Plus Bronze": [1, "36th"],
+        "Card màn hình Zotac Gaming GeForce RTX 5070 Twin Edge OC 12GB": [1, "36th"],
+        "Vỏ Case ANTEC C3 BLACK - KÈM 4 FAN ARGB BLACK": [1, "12th"],
+        "Tản nhiệt khí Thermalright Peerless Assassin 120 ARGB BLACK": [1, "12th"]
+      }
+    },
+    {
+      "id": "11",
+      "name": "PC TTG AMD GAMING LUXURY RYZEN 7 9800X3D - RTX 5070 12GB OC WHITE",
+      "imageList": [
+        "../Product Image/PCWorkstation/PC TTG AMD GAMING LUXURY RYZEN 7 9800X3D - RTX 5070 12GB OC WHITE/1.jpg",
+        "../Product Image/PCWorkstation/PC TTG AMD GAMING LUXURY RYZEN 7 9800X3D - RTX 5070 12GB OC WHITE/2.jpg",
+        "../Product Image/PCWorkstation/PC TTG AMD GAMING LUXURY RYZEN 7 9800X3D - RTX 5070 12GB OC WHITE/3.jpg",
+        "../Product Image/PCWorkstation/PC TTG AMD GAMING LUXURY RYZEN 7 9800X3D - RTX 5070 12GB OC WHITE/4.jpg",
+        "../Product Image/PCWorkstation/PC TTG AMD GAMING LUXURY RYZEN 7 9800X3D - RTX 5070 12GB OC WHITE/5.jpg",
+        "../Product Image/PCWorkstation/PC TTG AMD GAMING LUXURY RYZEN 7 9800X3D - RTX 5070 12GB OC WHITE/6.jpg",
+        "../Product Image/PCWorkstation/PC TTG AMD GAMING LUXURY RYZEN 7 9800X3D - RTX 5070 12GB OC WHITE/7.jpg",
+        "../Product Image/PCWorkstation/PC TTG AMD GAMING LUXURY RYZEN 7 9800X3D - RTX 5070 12GB OC WHITE/8.jpg"
+      ],
+      "price": 73990000,
+      "sale": 0.04,
+      "brand": "Khác",
+      "guarantee": "36",
+      "category": "PC Architecture - CAD",
+      "attributes": {
+        "Dòng CPU": "AMD Ryzen 7",
+        "Dung lượng RAM": "32GB",
+        "GPU": "RTX 5070 12GB"
+      },
+      "describe": ["CPU AMD Ryzen 7 9800X3D (8 nhân 16 luồng/ 4.7GHz up to 5.2GHz/ 120W)- TRAY", "Mainboard MSI B650M GAMING PLUS WIFI DDR5", "Ram G.Skill Ripjaws M5 RGB 32GB (2x16GB) 5200MHz DDR5 White", "Ổ cứng SSD Hiksemi Wave 512GB M2 NVMe GEN3", "Nguồn Antec GSK850 850W (80 Plus Gold / Full-Modular / ATX 3.1 - PCIE 5.1)", "Card Màn Hình COLORFUL iGame GeForce RTX 5070 Ultra W OC 12GB-V", "Vỏ Case XIGMATEK HEAVEN WHITE", "TẢN NHIỆT NƯỚC LEOPARD PRO FLOW 360 SE (TRẮNG)", "XA-360B (Trắng XUÔI) x1 + XA-360BR (Trắng NGƯỢC) x1 + XA-120B Trắng Xuôi x2 + Màn hình Leopard 9.16inch + 24PIN"],
+      "offer": [],
+      "specifications": {
+        "CPU AMD Ryzen 7 9800X3D (8 nhân 16 luồng/ 4.7GHz up to 5.2GHz/ 120W)- TRAY": [1, "36th"],
+        "Mainboard MSI B650M GAMING PLUS WIFI DDR5": [1, "36th"],
+        "Ram G.Skill Ripjaws M5 RGB 32GB (2x16GB) 5200MHz DDR5 White": [1, "36th"],
+        "Ổ cứng SSD Hiksemi Wave 512GB M2 NVMe GEN3": [1, "36th"],
+        "Nguồn Antec GSK850 850W (80 Plus Gold / Full-Modular / ATX 3.1 - PCIE 5.1)": [1, "36th"],
+        "Card Màn Hình COLORFUL iGame GeForce RTX 5070 Ultra W OC 12GB-V": [1, "36th"],
+        "Vỏ Case XIGMATEK HEAVEN WHITE": [1, "12th"],
+        "TẢN NHIỆT NƯỚC LEOPARD PRO FLOW 360 SE (TRẮNG)": [1, "12th"]
+      }
+    },
+    {
+      "id": "12",
+      "name": "PC TTG AMD GAMING LUXURY RYZEN 5 9800X3D - RTX 5070 12GB OC WHITE",
+      "imageList": [
+        "../Product Image/PCWorkstation/PC TTG AMD GAMING LUXURY RYZEN 7 9800X3D - RTX 5070 12GB OC WHITE/2.jpg",
+        "../Product Image/PCWorkstation/PC TTG AMD GAMING LUXURY RYZEN 7 9800X3D - RTX 5070 12GB OC WHITE/4.jpg",
+        "../Product Image/PCWorkstation/PC TTG AMD GAMING LUXURY RYZEN 7 9800X3D - RTX 5070 12GB OC WHITE/3.jpg",
+        "../Product Image/PCWorkstation/PC TTG AMD GAMING LUXURY RYZEN 7 9800X3D - RTX 5070 12GB OC WHITE/1.jpg"
+      ],
+      "price": 53990000,
+      "sale": 0.06,
+      "brand": "Khác",
+      "guarantee": "36",
+      "category": "PC Architecture - CAD",
+      "attributes": {
+        "Dòng CPU": "AMD Ryzen 5",
+        "Dung lượng RAM": "32GB",
+        "GPU": "RTX 5070 12GB"
+      },
+      "describe": ["CPU AMD Ryzen 5 9800X3D (8 nhân 16 luồng/ 4.7GHz up to 5.2GHz/ 120W)- TRAY", "Mainboard MSI B650M GAMING PLUS WIFI DDR5", "Ram G.Skill Ripjaws M5 RGB 32GB (2x16GB) 5200MHz DDR5 White", "Ổ cứng SSD Hiksemi Wave 512GB M2 NVMe GEN3", "Nguồn Antec GSK850 850W (80 Plus Gold / Full-Modular / ATX 3.1 - PCIE 5.1)", "Card Màn Hình COLORFUL iGame GeForce RTX 5070 Ultra W OC 12GB-V", "Vỏ Case XIGMATEK HEAVEN WHITE", "TẢN NHIỆT NƯỚC LEOPARD PRO FLOW 360 SE (TRẮNG)", "XA-360B (Trắng XUÔI) x1 + XA-360BR (Trắng NGƯỢC) x1 + XA-120B Trắng Xuôi x2 + Màn hình Leopard 9.16inch + 24PIN"],
+      "offer": [],
+      "specifications": {
+        "CPU AMD Ryzen 5 9800X3D (8 nhân 16 luồng/ 4.7GHz up to 5.2GHz/ 120W)- TRAY": [1, "36th"],
+        "Mainboard MSI B650M GAMING PLUS WIFI DDR5": [1, "36th"],
+        "Ram G.Skill Ripjaws M5 RGB 32GB (2x16GB) 5200MHz DDR5 White": [1, "36th"],
+        "Ổ cứng SSD Hiksemi Wave 512GB M2 NVMe GEN3": [1, "36th"],
+        "Nguồn Antec GSK850 850W (80 Plus Gold / Full-Modular / ATX 3.1 - PCIE 5.1)": [1, "36th"],
+        "Card Màn Hình COLORFUL iGame GeForce RTX 5070 Ultra W OC 12GB-V": [1, "36th"],
+        "Vỏ Case XIGMATEK HEAVEN WHITE": [1, "12th"],
+        "TẢN NHIỆT NƯỚC LEOPARD PRO FLOW 360 SE (TRẮNG)": [1, "12th"]
+      }
+    },
+    {
+      "id": "13",
+      "name": "PC TTG AMD GAMING LUXURY RYZEN 7 9800X3D - RTX 5070 Ti 16GB",
+      "imageList": [
+        "../Product Image/PCWorkstation/PC TTG AMD GAMING LUXURY RYZEN 7 9800X3D - RTX 5070 Ti 16GB/1.png",
+        "../Product Image/PCWorkstation/PC TTG AMD GAMING LUXURY RYZEN 7 9800X3D - RTX 5070 Ti 16GB/2.png",
+        "../Product Image/PCWorkstation/PC TTG AMD GAMING LUXURY RYZEN 7 9800X3D - RTX 5070 Ti 16GB/3.png",
+        "../Product Image/PCWorkstation/PC TTG AMD GAMING LUXURY RYZEN 7 9800X3D - RTX 5070 Ti 16GB/4.png",
+        "../Product Image/PCWorkstation/PC TTG AMD GAMING LUXURY RYZEN 7 9800X3D - RTX 5070 Ti 16GB/5.png",
+        "../Product Image/PCWorkstation/PC TTG AMD GAMING LUXURY RYZEN 7 9800X3D - RTX 5070 Ti 16GB/6.png",
+        "../Product Image/PCWorkstation/PC TTG AMD GAMING LUXURY RYZEN 7 9800X3D - RTX 5070 Ti 16GB/7.png",
+        "../Product Image/PCWorkstation/PC TTG AMD GAMING LUXURY RYZEN 7 9800X3D - RTX 5070 Ti 16GB/8.png",
+        "../Product Image/PCWorkstation/PC TTG AMD GAMING LUXURY RYZEN 7 9800X3D - RTX 5070 Ti 16GB/9.png",
+        "../Product Image/PCWorkstation/PC TTG AMD GAMING LUXURY RYZEN 7 9800X3D - RTX 5070 Ti 16GB/10.png"
+      ],
+      "price": 89990000,
+      "sale": 0.08,
+      "brand": "Khác",
+      "guarantee": "36",
+      "category": "PC Machine Learning / AI",
+      "attributes": {
+        "Dòng CPU": "AMD Ryzen 7",
+        "Dung lượng RAM": "32GB",
+        "GPU": "RTX 5070 Ti 16GB"
+      },
+      "describe": ["CPU AMD Ryzen 7 9800X3D (8 nhân 16 luồng/ 4.7GHz up to 5.2GHz/ 120W)- TRAY", "Mainboard Asus TUF GAMING B650EM-E WIFI DDR5 (Bluetooth)", "RAM GSKILL RIPJAWS S5 32GB/6000Mhz (2x16GB) DDR5 BLACK", "Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)", "Nguồn Antec GSK850 850W (80 Plus Gold / Full-Modular / ATX 3.1 - PCIE 5.1)", "Card màn hình Colorful GeForce RTX 5070 Ti NB EX 16GB-V", "Vỏ Case XIGMATEK HEAVEN", "Tản Nhiệt Nước TRYX PANORAMA SE 360 ARGB - Black", "Fan XA-360B (ĐEN XUÔI) x1 + XA-360BR (ĐEN NGƯỢC) x1 + XA-120B Đen Xuôi x2 + Màn hình Leopard 9.16inch"],
+      "offer": [],
+      "specifications": {
+        "CPU AMD Ryzen 7 9800X3D (8 nhân 16 luồng/ 4.7GHz up to 5.2GHz/ 120W)- TRAY": [1, "36th"],
+        "Mainboard Asus TUF GAMING B650EM-E WIFI DDR5 (Bluetooth)": [1, "36th"],
+        "RAM GSKILL RIPJAWS S5 32GB/6000Mhz (2x16GB) DDR5 BLACK": [1, "36th"],
+        "Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)": [1, "36th"],
+        "Nguồn Antec GSK850 850W (80 Plus Gold / Full-Modular / ATX 3.1 - PCIE 5.1)": [1, "36th"],
+        "Card màn hình Colorful GeForce RTX 5070 Ti NB EX 16GB-V": [1, "36th"],
+        "Vỏ Case XIGMATEK HEAVEN": [1, "12th"],
+        "Tản Nhiệt Nước TRYX PANORAMA SE 360 ARGB - Black": [1, "12th"]
+      }
+    },
+    {
+      "id": "14",
+      "name": "PC TTG AMD GAMING LUXURY RYZEN 5 9800X3D - RTX 5070 Ti 16GB",
+      "imageList": [
+        "../Product Image/PCWorkstation/PC TTG AMD GAMING LUXURY RYZEN 7 9800X3D - RTX 5070 Ti 16GB/10.png",
+        "../Product Image/PCWorkstation/PC TTG AMD GAMING LUXURY RYZEN 7 9800X3D - RTX 5070 Ti 16GB/2.png",
+        "../Product Image/PCWorkstation/PC TTG AMD GAMING LUXURY RYZEN 7 9800X3D - RTX 5070 Ti 16GB/3.png",
+        "../Product Image/PCWorkstation/PC TTG AMD GAMING LUXURY RYZEN 7 9800X3D - RTX 5070 Ti 16GB/4.png",
+        "../Product Image/PCWorkstation/PC TTG AMD GAMING LUXURY RYZEN 7 9800X3D - RTX 5070 Ti 16GB/5.png",
+        "../Product Image/PCWorkstation/PC TTG AMD GAMING LUXURY RYZEN 7 9800X3D - RTX 5070 Ti 16GB/6.png",
+        "../Product Image/PCWorkstation/PC TTG AMD GAMING LUXURY RYZEN 7 9800X3D - RTX 5070 Ti 16GB/7.png",
+        "../Product Image/PCWorkstation/PC TTG AMD GAMING LUXURY RYZEN 7 9800X3D - RTX 5070 Ti 16GB/8.png",
+        "../Product Image/PCWorkstation/PC TTG AMD GAMING LUXURY RYZEN 7 9800X3D - RTX 5070 Ti 16GB/9.png",
+        "../Product Image/PCWorkstation/PC TTG AMD GAMING LUXURY RYZEN 7 9800X3D - RTX 5070 Ti 16GB/1.png"
+      ],
+      "price": 59990000,
+      "sale": 0.08,
+      "brand": "Khác",
+      "guarantee": "36",
+      "category": "PC Machine Learning / AI",
+      "attributes": {
+        "Dòng CPU": "AMD Ryzen 5",
+        "Dung lượng RAM": "32GB",
+        "GPU": "RTX 5070 Ti 16GB"
+      },
+      "describe": ["CPU AMD Ryzen 5 9800X3D (8 nhân 16 luồng/ 4.7GHz up to 5.2GHz/ 120W)- TRAY", "Mainboard Asus TUF GAMING B650EM-E WIFI DDR5 (Bluetooth)", "RAM GSKILL RIPJAWS S5 32GB/6000Mhz (2x16GB) DDR5 BLACK", "Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)", "Nguồn Antec GSK850 850W (80 Plus Gold / Full-Modular / ATX 3.1 - PCIE 5.1)", "Card màn hình Colorful GeForce RTX 5070 Ti NB EX 16GB-V", "Vỏ Case XIGMATEK HEAVEN", "Tản Nhiệt Nước TRYX PANORAMA SE 360 ARGB - Black", "Fan XA-360B (ĐEN XUÔI) x1 + XA-360BR (ĐEN NGƯỢC) x1 + XA-120B Đen Xuôi x2 + Màn hình Leopard 9.16inch"],
+      "offer": [],
+      "specifications": {
+        "CPU AMD Ryzen 5 9800X3D (8 nhân 16 luồng/ 4.7GHz up to 5.2GHz/ 120W)- TRAY": [1, "36th"],
+        "Mainboard Asus TUF GAMING B650EM-E WIFI DDR5 (Bluetooth)": [1, "36th"],
+        "RAM GSKILL RIPJAWS S5 32GB/6000Mhz (2x16GB) DDR5 BLACK": [1, "36th"],
+        "Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)": [1, "36th"],
+        "Nguồn Antec GSK850 850W (80 Plus Gold / Full-Modular / ATX 3.1 - PCIE 5.1)": [1, "36th"],
+        "Card màn hình Colorful GeForce RTX 5070 Ti NB EX 16GB-V": [1, "36th"],
+        "Vỏ Case XIGMATEK HEAVEN": [1, "12th"],
+        "Tản Nhiệt Nước TRYX PANORAMA SE 360 ARGB - Black": [1, "12th"]
+      }
+    },
+    {
+      "id": "15",
+      "name": "PC TTG ULTRA GAMING i5 13700KF - 16GB DDR4 - RTX 5050 8GB",
+      "imageList": [
+        "../Product Image/PCWorkstation/PC TTG ULTRA GAMING i7 13700KF - 16GB DDR4 - RTX 5050 8GB/6.png",
+        "../Product Image/PCWorkstation/PC TTG ULTRA GAMING i7 13700KF - 16GB DDR4 - RTX 5050 8GB/2.png",
+        "../Product Image/PCWorkstation/PC TTG ULTRA GAMING i7 13700KF - 16GB DDR4 - RTX 5050 8GB/3.png",
+        "../Product Image/PCWorkstation/PC TTG ULTRA GAMING i7 13700KF - 16GB DDR4 - RTX 5050 8GB/4.png",
+        "../Product Image/PCWorkstation/PC TTG ULTRA GAMING i7 13700KF - 16GB DDR4 - RTX 5050 8GB/5.png",
+        "../Product Image/PCWorkstation/PC TTG ULTRA GAMING i7 13700KF - 16GB DDR4 - RTX 5050 8GB/1.png",
+        "../Product Image/PCWorkstation/PC TTG ULTRA GAMING i7 13700KF - 16GB DDR4 - RTX 5050 8GB/7.png",
+        "../Product Image/PCWorkstation/PC TTG ULTRA GAMING i7 13700KF - 16GB DDR4 - RTX 5050 8GB/8.png",
+        "../Product Image/PCWorkstation/PC TTG ULTRA GAMING i7 13700KF - 16GB DDR4 - RTX 5050 8GB/9.png"
+      ],
+      "price": 35990000,
+      "sale": 0.11,
+      "brand": "Khác",
+      "guarantee": "36",
+      "category": "PC VIDEO EDITING",
+      "attributes": {
+        "Dòng CPU": "Intel Core i5",
+        "Dung lượng RAM": "16GB",
+        "GPU": "RTX 5050 8GB"
+      },
+      "describe": ["CPU Intel Core i7 13700KF (3.4GHz turbo up to 5.4Ghz, 16 nhân 24 luồng, 24MB Cache, 125W) (TRAY)", "Mainboard MSI Z790-P PRO WIFI DDR4", "Ram SSTC 16GB Bus 3200Mhz DDR4 BLACK TẢN NHIỆT", "Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)", "Nguồn máy tính FSP VIC BD 750 750W 80 Plus Bronze", "Card màn hình ZOTAC GEFORCE RTX 5050 LOW PROFILE 8GB", "VỎ CASE JUNGLE LEOPARD AS-01 BLACK - (ATX/ Màu Đen)", "Tản nhiệt khí Thermalright Peerless Assassin 120 ARGB BLACK"],
+      "offer": [],
+      "specifications": {
+        "CPU Intel Core i7 13700KF (3.4GHz turbo up to 5.4Ghz, 16 nhân 24 luồng, 24MB Cache, 125W) (TRAY)": [1, "36th"],
+        "Mainboard MSI Z790-P PRO WIFI DDR4": [1, "36th"],
+        "Ram SSTC 16GB Bus 3200Mhz DDR4 BLACK TẢN NHIỆT": [1, "36th"],
+        "Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)": [1, "36th"],
+        "Nguồn máy tính FSP VIC BD 750 750W 80 Plus Bronze": [1, "36th"],
+        "Card màn hình ZOTAC GEFORCE RTX 5050 LOW PROFILE 8GB": [1, "36th"],
+        "VỎ CASE JUNGLE LEOPARD AS-01 BLACK - (ATX/ Màu Đen)": [1, "12th"],
+        "Tản nhiệt khí Thermalright Peerless Assassin 120 ARGB BLACK": [1, "12th"]
+      }
+    },
+    {
+      "id": "16",
+      "name": "PC TTG Fractal Design Gaming Ryzen 9 9800X3D - RTX 5070 12GB OC WHITE",
+      "imageList": [
+        "../Product Image/PCWorkstation/PC TTG Fractal Design Gaming Ryzen 7 9800X3D - RTX 5070 12GB OC WHITE/2.png",
+        "../Product Image/PCWorkstation/PC TTG Fractal Design Gaming Ryzen 7 9800X3D - RTX 5070 12GB OC WHITE/1.png",
+        "../Product Image/PCWorkstation/PC TTG Fractal Design Gaming Ryzen 7 9800X3D - RTX 5070 12GB OC WHITE/3.png",
+        "../Product Image/PCWorkstation/PC TTG Fractal Design Gaming Ryzen 7 9800X3D - RTX 5070 12GB OC WHITE/4.png",
+        "../Product Image/PCWorkstation/PC TTG Fractal Design Gaming Ryzen 7 9800X3D - RTX 5070 12GB OC WHITE/5.png",
+        "../Product Image/PCWorkstation/PC TTG Fractal Design Gaming Ryzen 7 9800X3D - RTX 5070 12GB OC WHITE/6.png",
+        "../Product Image/PCWorkstation/PC TTG Fractal Design Gaming Ryzen 7 9800X3D - RTX 5070 12GB OC WHITE/7.png",
+        "../Product Image/PCWorkstation/PC TTG Fractal Design Gaming Ryzen 7 9800X3D - RTX 5070 12GB OC WHITE/8.jpg"
+      ],
+      "price": 73990000,
+      "sale": 0.24,
+      "brand": "Khác",
+      "guarantee": "36",
+      "category": "PC 3D DESIGN - Animation",
+      "attributes": {
+        "Dòng CPU": "AMD Ryzen 9",
+        "Dung lượng RAM": "32GB",
+        "GPU": "RTX 5070 12GB"
+      },
+      "describe": ["CPU AMD Ryzen 9 9800X3D (AMD AM5 - 8 Core - 16 Thread - Base 4.7Ghz - Turbo 5.2Ghz - Cache 104MB) (TRAY)", "Mainboard MSI B650M GAMING PLUS WIFI DDR5", "Ram Adata Lancer Blade White 32GB | 2 x 16GB, DDR5, 5600MHz (AX5U5600C4616G-DTLABWH)", "Ổ cứng SSD HIKSEMI 512GB | PCIe Gen3 x4 NVMe, M.2 2280", "Nguồn Antec GSK850 850W (80 Plus Gold / Full-Modular / ATX 3.1 - PCIE 5.1)", "Card Màn Hình COLORFUL iGame GeForce RTX 5070 Ultra W OC 12GB-V", "VỎ CASE FRACTAL DESIGN NORTH CHALK WHITE", "Tản nhiệt khí TRYX TURRIS 620 WHITE", "Dây bọc lưới 24 PIN trắng"],
+      "offer": [],
+      "specifications": {
+        "CPU AMD Ryzen 9 9800X3D (AMD AM5 - 8 Core - 16 Thread - Base 4.7Ghz - Turbo 5.2Ghz - Cache 104MB) (TRAY)": [1, "36th"],
+        "Mainboard MSI B650M GAMING PLUS WIFI DDR5": [1, "36th"],
+        "Ram Adata Lancer Blade White 32GB | 2 x 16GB, DDR5, 5600MHz (AX5U5600C4616G-DTLABWH)": [1, "36th"],
+        "Ổ cứng SSD HIKSEMI 512GB | PCIe Gen3 x4 NVMe, M.2 2280": [1, "36th"],
+        "Nguồn Antec GSK850 850W (80 Plus Gold / Full-Modular / ATX 3.1 - PCIE 5.1)": [1, "36th"],
+        "Card Màn Hình COLORFUL iGame GeForce RTX 5070 Ultra W OC 12GB-V": [1, "36th"],
+        "VỎ CASE FRACTAL DESIGN NORTH CHALK WHITE": [1, "12th"],
+        "Tản nhiệt khí TRYX TURRIS 620 WHITE": [1, "12th"]
+      }
+    },
+    {
+      "id": "17",
+      "name": "PC TTG GAMING i9 13700KF - RTX 5050 8GB",
+      "imageList": [
+        "../Product Image/PCWorkstation/PC TTG GAMING i7 13700KF - RTX 3050 6GB/1.jpg"
+      ],
+      "price": 27990000,
+      "sale": 0.05,
+      "brand": "Khác",
+      "guarantee": "36",
+      "category": "PC 3D DESIGN - Animation",
+      "attributes": {
+        "Dòng CPU": "Intel Core i9",
+        "Dung lượng RAM": "16GB",
+        "GPU": "RTX 5050 8GB"
+      },
+      "describe": ["CPU Intel Core i9 13700KF (3.4GHz turbo up to 5.4Ghz, 16 nhân 24 luồng, 24MB Cache, 125W) (TRAY)", "Mainboard MSI Z790-P PRO WIFI DDR4", "Ram SSTC 16GB Bus 3200Mhz DDR4 BLACK TẢN NHIỆT", "Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)", "Nguồn máy tính FSP VIC BD 750 750W 80 Plus Bronze", "Card màn hình ZOTAC GAMING GeForce RTX 3050 6GB", "VỎ CASE JUNGLE LEOPARD AS-01 BLACK - (ATX/ Màu Đen)", "Tản nhiệt khí Thermalright Peerless Assassin 120 ARGB BLACK"],
+      "offer": [],
+      "specifications": {
+        "CPU Intel Core i9 13700KF (3.4GHz turbo up to 5.4Ghz, 16 nhân 24 luồng, 24MB Cache, 125W) (TRAY)": [1, "36th"],
+        "Mainboard MSI Z790-P PRO WIFI DDR4": [1, "36th"],
+        "Ram SSTC 16GB Bus 3200Mhz DDR4 BLACK TẢN NHIỆT": [1, "36th"],
+        "Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)": [1, "36th"],
+        "Nguồn máy tính FSP VIC BD 750 750W 80 Plus Bronze": [1, "36th"],
+        "Card màn hình ZOTAC GAMING GeForce RTX 3050 6GB": [1, "36th"],
+        "VỎ CASE JUNGLE LEOPARD AS-01 BLACK - (ATX/ Màu Đen)": [1, "12th"],
+        "Tản nhiệt khí Thermalright Peerless Assassin 120 ARGB BLACK": [1, "12th"]
+      }
+    },
+    {
+      "id": "18",
+      "name": "PC TTG DESIGNER -3D RENDER - EDIT VIDEO ULTRA 5 265KF - RTX 5060 8GB OC (All NEW - Bảo hành 36 tháng)",
+      "imageList": [
+        "../Product Image/PCWorkstation/PC TTG DESIGNER -3D RENDER - EDIT VIDEO ULTRA 7 265KF - RTX 5060 8GB OC (All NEW - Bảo hành 36 tháng)/4.jpeg",
+        "../Product Image/PCWorkstation/PC TTG DESIGNER -3D RENDER - EDIT VIDEO ULTRA 7 265KF - RTX 5060 8GB OC (All NEW - Bảo hành 36 tháng)/2.jpeg",
+        "../Product Image/PCWorkstation/PC TTG DESIGNER -3D RENDER - EDIT VIDEO ULTRA 7 265KF - RTX 5060 8GB OC (All NEW - Bảo hành 36 tháng)/3.jpg",
+        "../Product Image/PCWorkstation/PC TTG DESIGNER -3D RENDER - EDIT VIDEO ULTRA 7 265KF - RTX 5060 8GB OC (All NEW - Bảo hành 36 tháng)/1.jpeg",
+        "../Product Image/PCWorkstation/PC TTG DESIGNER -3D RENDER - EDIT VIDEO ULTRA 7 265KF - RTX 5060 8GB OC (All NEW - Bảo hành 36 tháng)/5.jpg",
+        "../Product Image/PCWorkstation/PC TTG DESIGNER -3D RENDER - EDIT VIDEO ULTRA 7 265KF - RTX 5060 8GB OC (All NEW - Bảo hành 36 tháng)/6.jpeg",
+        "../Product Image/PCWorkstation/PC TTG DESIGNER -3D RENDER - EDIT VIDEO ULTRA 7 265KF - RTX 5060 8GB OC (All NEW - Bảo hành 36 tháng)/7.jpg",
+        "../Product Image/PCWorkstation/PC TTG DESIGNER -3D RENDER - EDIT VIDEO ULTRA 7 265KF - RTX 5060 8GB OC (All NEW - Bảo hành 36 tháng)/8.jpg",
+        "../Product Image/PCWorkstation/PC TTG DESIGNER -3D RENDER - EDIT VIDEO ULTRA 7 265KF - RTX 5060 8GB OC (All NEW - Bảo hành 36 tháng)/9.jpeg",
+        "../Product Image/PCWorkstation/PC TTG DESIGNER -3D RENDER - EDIT VIDEO ULTRA 7 265KF - RTX 5060 8GB OC (All NEW - Bảo hành 36 tháng)/10.jpeg",
+        "../Product Image/PCWorkstation/PC TTG DESIGNER -3D RENDER - EDIT VIDEO ULTRA 7 265KF - RTX 5060 8GB OC (All NEW - Bảo hành 36 tháng)/11.jpeg",
+        "../Product Image/PCWorkstation/PC TTG DESIGNER -3D RENDER - EDIT VIDEO ULTRA 7 265KF - RTX 5060 8GB OC (All NEW - Bảo hành 36 tháng)/12.jpeg",
+        "../Product Image/PCWorkstation/PC TTG DESIGNER -3D RENDER - EDIT VIDEO ULTRA 7 265KF - RTX 5060 8GB OC (All NEW - Bảo hành 36 tháng)/13.jpeg",
+        "../Product Image/PCWorkstation/PC TTG DESIGNER -3D RENDER - EDIT VIDEO ULTRA 7 265KF - RTX 5060 8GB OC (All NEW - Bảo hành 36 tháng)/14.jpg",
+        "../Product Image/PCWorkstation/PC TTG DESIGNER -3D RENDER - EDIT VIDEO ULTRA 7 265KF - RTX 5060 8GB OC (All NEW - Bảo hành 36 tháng)/15.jpg"
+      ],
+      "price": 40990000,
+      "sale": 0.18,
+      "brand": "Khác",
+      "guarantee": "36",
+      "category": "PC VIDEO EDITING",
+      "attributes": {
+        "Dòng CPU": "Core Ultra 5",
+        "Dung lượng RAM": "32GB",
+        "GPU": "RTX 5060 8GB"
+      },
+      "describe": ["CPU Intel Core Ultra 5 265KF (Up to 5.5GHz , 20 nhân - 20 luồng ,30MB Cache, Arrow Lake -S) - TRAY", "Mainboard Gigabyte B860M AORUS ELITE WIFI 6E DDR5", "RAM APACER NOX 32GB (2x16GB) Bus 5200Mhz DDR5", "Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)", "Nguồn máy tính FSP VIC BD 750 750W 80 Plus Bronze", "Card màn hình COLORFUL GEFORCE RTX 5060 GAMING DUO 8GB-V", "Vỏ Case XIGMATEK AQUA ML BLACK - KÈM 3 FAN ARGB", "Tản nhiệt khí Thermalright Peerless Assassin 120 ARGB BLACK"],
+      "offer": [],
+      "specifications": {
+        "CPU Intel Core Ultra 5 265KF (Up to 5.5GHz , 20 nhân - 20 luồng ,30MB Cache, Arrow Lake -S) - TRAY": [1, "36th"],
+        "Mainboard Gigabyte B860M AORUS ELITE WIFI 6E DDR5": [1, "36th"],
+        "RAM APACER NOX 32GB (2x16GB) Bus 5200Mhz DDR5": [1, "36th"],
+        "Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)": [1, "36th"],
+        "Nguồn máy tính FSP VIC BD 750 750W 80 Plus Bronze": [1, "36th"],
+        "Card màn hình COLORFUL GEFORCE RTX 5060 GAMING DUO 8GB-V": [1, "36th"],
+        "Vỏ Case XIGMATEK AQUA ML BLACK - KÈM 3 FAN ARGB": [1, "12th"],
+        "Tản nhiệt khí Thermalright Peerless Assassin 120 ARGB BLACK": [1, "12th"]
+      }
+    },
+    {
+      "id": "19",
+      "name": "PC TTG DESIGNER - EDIT VIDEO i5 12700KF-RTX 3060 12GB (ALL NEW- Bảo hành 36 tháng)",
+      "imageList": [
+        "../Product Image/PCWorkstation/PC TTG DESIGNER - EDIT VIDEO i7 12700KF-RTX 3060 12GB (ALL NEW- Bảo hành 36 tháng)/5.jpg",
+        "../Product Image/PCWorkstation/PC TTG DESIGNER - EDIT VIDEO i7 12700KF-RTX 3060 12GB (ALL NEW- Bảo hành 36 tháng)/2.jpg",
+        "../Product Image/PCWorkstation/PC TTG DESIGNER - EDIT VIDEO i7 12700KF-RTX 3060 12GB (ALL NEW- Bảo hành 36 tháng)/3.jpg",
+        "../Product Image/PCWorkstation/PC TTG DESIGNER - EDIT VIDEO i7 12700KF-RTX 3060 12GB (ALL NEW- Bảo hành 36 tháng)/4.jpg", 
+        "../Product Image/PCWorkstation/PC TTG DESIGNER - EDIT VIDEO i7 12700KF-RTX 3060 12GB (ALL NEW- Bảo hành 36 tháng)/1.jpg",
+        "../Product Image/PCWorkstation/PC TTG DESIGNER - EDIT VIDEO i7 12700KF-RTX 3060 12GB (ALL NEW- Bảo hành 36 tháng)/6.jpg",
+        "../Product Image/PCWorkstation/PC TTG DESIGNER - EDIT VIDEO i7 12700KF-RTX 3060 12GB (ALL NEW- Bảo hành 36 tháng)/7.jpg",
+        "../Product Image/PCWorkstation/PC TTG DESIGNER - EDIT VIDEO i7 12700KF-RTX 3060 12GB (ALL NEW- Bảo hành 36 tháng)/8.jpg",
+        "../Product Image/PCWorkstation/PC TTG DESIGNER - EDIT VIDEO i7 12700KF-RTX 3060 12GB (ALL NEW- Bảo hành 36 tháng)/9.jpg", 
+        "../Product Image/PCWorkstation/PC TTG DESIGNER - EDIT VIDEO i7 12700KF-RTX 3060 12GB (ALL NEW- Bảo hành 36 tháng)/10.jpg",
+        "../Product Image/PCWorkstation/PC TTG DESIGNER - EDIT VIDEO i7 12700KF-RTX 3060 12GB (ALL NEW- Bảo hành 36 tháng)/11.jpg",
+        "../Product Image/PCWorkstation/PC TTG DESIGNER - EDIT VIDEO i7 12700KF-RTX 3060 12GB (ALL NEW- Bảo hành 36 tháng)/12.jpg",
+        "../Product Image/PCWorkstation/PC TTG DESIGNER - EDIT VIDEO i7 12700KF-RTX 3060 12GB (ALL NEW- Bảo hành 36 tháng)/13.jpg",
+        "../Product Image/PCWorkstation/PC TTG DESIGNER - EDIT VIDEO i7 12700KF-RTX 3060 12GB (ALL NEW- Bảo hành 36 tháng)/14.jpg"
+      ],
+      "price": 25990000,
+      "sale": 0.02,
+      "brand": "Khác",
+      "guarantee": "36",
+      "category": "PC 3D DESIGN - Animation",
+      "attributes": {
+        "Dòng CPU": "Intel Core i5",
+        "Dung lượng RAM": "16GB",
+        "GPU": "RTX 3060 12GB"
+      },
+      "describe": ["CPU Intel Core i5-12700KF (3.8GHz turbo up to 5.0Ghz, 12 nhân 20 luồng, 25MB Cache, 125W) TRAY", "Mainboard ASROCK B760M PRO RS WIFI DDR4", "Ram SSTC 16GB Bus 3200Mhz DDR4 BLACK TẢN NHIỆT", "Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)", "Nguồn máy tính Einarex AXIS MASTER L1 650W 80 Plus Bronze", "Card Màn Hình ZOTAC GAMING GeForce RTX 3060 Twin Edge 12GB", "Vỏ Case XIGMATEK AQUA ML BLACK - KÈM 3 FAN ARGB", "Tản nhiệt khí Thermalright Peerless Assassin 120 ARGB BLACK"],
+      "offer": [{"SSD 512GB NVME GEN4": 1000000}],
+      "specifications": {
+        "CPU Intel Core i5-12700KF (3.8GHz turbo up to 5.0Ghz, 12 nhân 20 luồng, 25MB Cache, 125W) TRAY": [1, "36th"],
+        "Mainboard ASROCK B760M PRO RS WIFI DDR4": [1, "36th"],
+        "Ram SSTC 16GB Bus 3200Mhz DDR4 BLACK TẢN NHIỆT": [1, "36th"],
+        "Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)": [1, "36th"],
+        "Nguồn máy tính Einarex AXIS MASTER L1 650W 80 Plus Bronze": [1, "36th"],
+        "Card Màn Hình ZOTAC GAMING GeForce RTX 3060 Twin Edge 12GB": [1, "36th"],
+        "Vỏ Case XIGMATEK AQUA ML BLACK - KÈM 3 FAN ARGB": [1, "12th"],
+        "Tản nhiệt khí Thermalright Peerless Assassin 120 ARGB BLACK": [1, "12th"]
+      }
+    },
+    {
+      "id": "20",
+      "name": "PC TTG GAMING ULTRA 9 265KF - RTX 5080 16GB (ALL NEW - Bảo hành 36 tháng)",
+      "imageList": [
+        "../Product Image/PCWorkstation/PC TTG GAMING ULTRA 7 265KF - RTX 5080 16GB (ALL NEW - Bảo hành 36 tháng)/1.jpeg",
+        "../Product Image/PCWorkstation/PC TTG GAMING ULTRA 7 265KF - RTX 5080 16GB (ALL NEW - Bảo hành 36 tháng)/2.jpeg",
+        "../Product Image/PCWorkstation/PC TTG GAMING ULTRA 7 265KF - RTX 5080 16GB (ALL NEW - Bảo hành 36 tháng)/3.jpeg",
+        "../Product Image/PCWorkstation/PC TTG GAMING ULTRA 7 265KF - RTX 5080 16GB (ALL NEW - Bảo hành 36 tháng)/4.jpeg",
+        "../Product Image/PCWorkstation/PC TTG GAMING ULTRA 7 265KF - RTX 5080 16GB (ALL NEW - Bảo hành 36 tháng)/5.jpeg",
+        "../Product Image/PCWorkstation/PC TTG GAMING ULTRA 7 265KF - RTX 5080 16GB (ALL NEW - Bảo hành 36 tháng)/6.jpeg",
+        "../Product Image/PCWorkstation/PC TTG GAMING ULTRA 7 265KF - RTX 5080 16GB (ALL NEW - Bảo hành 36 tháng)/7.jpeg",
+        "../Product Image/PCWorkstation/PC TTG GAMING ULTRA 7 265KF - RTX 5080 16GB (ALL NEW - Bảo hành 36 tháng)/8.jpeg",
+        "../Product Image/PCWorkstation/PC TTG GAMING ULTRA 7 265KF - RTX 5080 16GB (ALL NEW - Bảo hành 36 tháng)/9.jpeg",
+        "../Product Image/PCWorkstation/PC TTG GAMING ULTRA 7 265KF - RTX 5080 16GB (ALL NEW - Bảo hành 36 tháng)/10.jpeg"
+      ],
+      "price": 75990000,
+      "sale": 0.04,
+      "brand": "Khác",
+      "guarantee": "36",
+      "category": "PC 3D DESIGN - Animation",
+      "attributes": {
+        "Dòng CPU": "Core Ultra 9",
+        "Dung lượng RAM": "16GB",
+        "GPU": "RTX 5080 16GB"
+      },
+      "describe": ["CPU Intel Core Ultra 9 265KF (Up to 5.5GHz , 20 nhân - 20 luồng ,30MB Cache, Arrow Lake -S) - TRAY", "Mainboard MSI B860M GAMING PLUS WIFI DDR5", "RAM APACER NOX 32GB (2x16GB) DDR5 Bus 5200Mhz – Black", "Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)", "Nguồn Antec GSK850 850W (80 Plus Gold / Full-Modular / ATX 3.1 - PCIE 5.1)", "Card màn hình ZOTAC GAMING GeForce RTX 5080 16GB SOLID CORE", "Vỏ Case AIGO C218M BLACK - KÈM 4 FAN ARGB", "Tản nhiệt khí Thermalright Peerless Assassin 120 ARGB BLACK"],
+      "offer": [{"SSD 512GB NVME GEN4": 1000000}],
+      "specifications": {
+        "CPU Intel Core Ultra 9 265KF (Up to 5.5GHz , 20 nhân - 20 luồng ,30MB Cache, Arrow Lake -S) - TRAY": [1, "36th"],
+        "Mainboard MSI B860M GAMING PLUS WIFI DDR5": [1, "36th"],
+        "RAM APACER NOX 16GB (2x8GB) DDR5 Bus 5200Mhz – Black": [1, "36th"],
+        "Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)": [1, "36th"],
+        "Nguồn Antec GSK850 850W (80 Plus Gold / Full-Modular / ATX 3.1 - PCIE 5.1)": [1, "36th"],
+        "Card màn hình ZOTAC GAMING GeForce RTX 5080 16GB SOLID CORE": [1, "36th"],
+        "Vỏ Case AIGO C218M BLACK - KÈM 4 FAN ARGB": [1, "12th"],
+        "Tản nhiệt khí Thermalright Peerless Assassin 120 ARGB BLACK": [1, "12th"]
+      }
+    },
+    {
+      "id": "21",
+      "name": "PC TTG ULTRA GAMING i9 13700KF - 16GB DDR4 - RTX 5050 8GB",
+      "imageList": [
+        "../Product Image/PCWorkstation/PC TTG ULTRA GAMING i7 13700KF - 16GB DDR4 - RTX 5050 8GB/2.png",
+        "../Product Image/PCWorkstation/PC TTG ULTRA GAMING i7 13700KF - 16GB DDR4 - RTX 5050 8GB/4.png",
+        "../Product Image/PCWorkstation/PC TTG ULTRA GAMING i7 13700KF - 16GB DDR4 - RTX 5050 8GB/3.png",
+        "../Product Image/PCWorkstation/PC TTG ULTRA GAMING i7 13700KF - 16GB DDR4 - RTX 5050 8GB/1.png",
+        "../Product Image/PCWorkstation/PC TTG ULTRA GAMING i7 13700KF - 16GB DDR4 - RTX 5050 8GB/5.png",
+        "../Product Image/PCWorkstation/PC TTG ULTRA GAMING i7 13700KF - 16GB DDR4 - RTX 5050 8GB/6.png",
+        "../Product Image/PCWorkstation/PC TTG ULTRA GAMING i7 13700KF - 16GB DDR4 - RTX 5050 8GB/7.png",
+        "../Product Image/PCWorkstation/PC TTG ULTRA GAMING i7 13700KF - 16GB DDR4 - RTX 5050 8GB/8.png",
+        "../Product Image/PCWorkstation/PC TTG ULTRA GAMING i7 13700KF - 16GB DDR4 - RTX 5050 8GB/9.png"
+      ],
+      "price": 45990000,
+      "sale": 0.11,
+      "brand": "Khác",
+      "guarantee": "36",
+      "category": "PC PHOTO EDITING",
+      "attributes": {
+        "Dòng CPU": "Intel Core i9",
+        "Dung lượng RAM": "16GB",
+        "GPU": "RTX 5050 8GB"
+      },
+      "describe": ["CPU Intel Core i9 13700KF (3.4GHz turbo up to 5.4Ghz, 16 nhân 24 luồng, 24MB Cache, 125W) (TRAY)", "Mainboard MSI Z790-P PRO WIFI DDR4", "Ram SSTC 16GB Bus 3200Mhz DDR4 BLACK TẢN NHIỆT", "Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)", "Nguồn máy tính FSP VIC BD 750 750W 80 Plus Bronze", "Card màn hình ZOTAC GEFORCE RTX 5050 LOW PROFILE 8GB", "VỎ CASE JUNGLE LEOPARD AS-01 BLACK - (ATX/ Màu Đen)", "Tản nhiệt khí Thermalright Peerless Assassin 120 ARGB BLACK"],
+      "offer": [],
+      "specifications": {
+        "CPU Intel Core i9 13700KF (3.4GHz turbo up to 5.4Ghz, 16 nhân 24 luồng, 24MB Cache, 125W) (TRAY)": [1, "36th"],
+        "Mainboard MSI Z790-P PRO WIFI DDR4": [1, "36th"],
+        "Ram SSTC 16GB Bus 3200Mhz DDR4 BLACK TẢN NHIỆT": [1, "36th"],
+        "Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)": [1, "36th"],
+        "Nguồn máy tính FSP VIC BD 750 750W 80 Plus Bronze": [1, "36th"],
+        "Card màn hình ZOTAC GEFORCE RTX 5050 LOW PROFILE 8GB": [1, "36th"],
+        "VỎ CASE JUNGLE LEOPARD AS-01 BLACK - (ATX/ Màu Đen)": [1, "12th"],
+        "Tản nhiệt khí Thermalright Peerless Assassin 120 ARGB BLACK": [1, "12th"]
+      }
+    },
+    {
+      "id": "22",
+      "name": "PC TTG ULTRA GAMING i5 13700KF - 16GB DDR4 - RTX 5050 8GB",
+      "imageList": [
+        "../Product Image/PCWorkstation/PC TTG ULTRA GAMING i7 13700KF - 16GB DDR4 - RTX 5050 8GB/8.png",
+        "../Product Image/PCWorkstation/PC TTG ULTRA GAMING i7 13700KF - 16GB DDR4 - RTX 5050 8GB/2.png",
+        "../Product Image/PCWorkstation/PC TTG ULTRA GAMING i7 13700KF - 16GB DDR4 - RTX 5050 8GB/3.png",
+        "../Product Image/PCWorkstation/PC TTG ULTRA GAMING i7 13700KF - 16GB DDR4 - RTX 5050 8GB/1.png",
+        "../Product Image/PCWorkstation/PC TTG ULTRA GAMING i7 13700KF - 16GB DDR4 - RTX 5050 8GB/5.png",
+        "../Product Image/PCWorkstation/PC TTG ULTRA GAMING i7 13700KF - 16GB DDR4 - RTX 5050 8GB/6.png",
+        "../Product Image/PCWorkstation/PC TTG ULTRA GAMING i7 13700KF - 16GB DDR4 - RTX 5050 8GB/7.png",
+        "../Product Image/PCWorkstation/PC TTG ULTRA GAMING i7 13700KF - 16GB DDR4 - RTX 5050 8GB/4.png",
+        "../Product Image/PCWorkstation/PC TTG ULTRA GAMING i7 13700KF - 16GB DDR4 - RTX 5050 8GB/9.png"
+      ],
+      "price": 30990000,
+      "sale": 0.15,
+      "brand": "Khác",
+      "guarantee": "36",
+      "category": "PC PHOTO EDITING",
+      "attributes": {
+        "Dòng CPU": "Intel Core i5",
+        "Dung lượng RAM": "16GB",
+        "GPU": "RTX 5050 8GB"
+      },
+      "describe": ["CPU Intel Core i5 13700KF (3.4GHz turbo up to 5.4Ghz, 16 nhân 24 luồng, 24MB Cache, 125W) (TRAY)", "Mainboard MSI Z790-P PRO WIFI DDR4", "Ram SSTC 16GB Bus 3200Mhz DDR4 BLACK TẢN NHIỆT", "Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)", "Nguồn máy tính FSP VIC BD 750 750W 80 Plus Bronze", "Card màn hình ZOTAC GEFORCE RTX 5050 LOW PROFILE 8GB", "VỎ CASE JUNGLE LEOPARD AS-01 BLACK - (ATX/ Màu Đen)", "Tản nhiệt khí Thermalright Peerless Assassin 120 ARGB BLACK"],
+      "offer": [],
+      "specifications": {
+        "CPU Intel Core i5 13700KF (3.4GHz turbo up to 5.4Ghz, 16 nhân 24 luồng, 24MB Cache, 125W) (TRAY)": [1, "36th"],
+        "Mainboard MSI Z790-P PRO WIFI DDR4": [1, "36th"],
+        "Ram SSTC 16GB Bus 3200Mhz DDR4 BLACK TẢN NHIỆT": [1, "36th"],
+        "Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)": [1, "36th"],
+        "Nguồn máy tính FSP VIC BD 750 750W 80 Plus Bronze": [1, "36th"],
+        "Card màn hình ZOTAC GEFORCE RTX 5050 LOW PROFILE 8GB": [1, "36th"],
+        "VỎ CASE JUNGLE LEOPARD AS-01 BLACK - (ATX/ Màu Đen)": [1, "12th"],
+        "Tản nhiệt khí Thermalright Peerless Assassin 120 ARGB BLACK": [1, "12th"]
+      }
+    },
+    {
+      "id": "23",
+      "name": "PC TTG DESIGNER -3D RENDER - EDIT VIDEO RYZEN 7 9950X - RTX 5070 12GB (All NEW - Bảo hành 36 tháng)",
+      "imageList": [
+        "../Product Image/PCWorkstation/PC TTG DESIGNER -3D RENDER - EDIT VIDEO RYZEN 9 9950X - RTX 5070 12GB (All NEW - Bảo hành 36 tháng)/1.jpg",
+        "../Product Image/PCWorkstation/PC TTG DESIGNER -3D RENDER - EDIT VIDEO RYZEN 9 9950X - RTX 5070 12GB (All NEW - Bảo hành 36 tháng)/2.jpg",
+        "../Product Image/PCWorkstation/PC TTG DESIGNER -3D RENDER - EDIT VIDEO RYZEN 9 9950X - RTX 5070 12GB (All NEW - Bảo hành 36 tháng)/3.jpg",
+        "../Product Image/PCWorkstation/PC TTG DESIGNER -3D RENDER - EDIT VIDEO RYZEN 9 9950X - RTX 5070 12GB (All NEW - Bảo hành 36 tháng)/4.jpg"
+      ],
+      "price": 75990000,
+      "sale": 0.09,
+      "brand": "Khác",
+      "guarantee": "36",
+      "category": "PC RENDERING",
+      "attributes": {
+        "Dòng CPU": "AMD Ryzen 7",
+        "Dung lượng RAM": "64GB",
+        "GPU": "RTX 5070 12GB"
+      },
+      "describe": ["CPU AMD Ryzen 7 9950X (16 nhân 32 luồng, up to 5.7GHz, 80MB Cache)- TRAY", "Mainboard GIGABYTE X870 EAGLE WIFI DDR5", "RAM APACER NOX 32GB (2x16GB) DDR5 Bus 5200Mhz – Black", "Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)", "Nguồn máy tính FSP VIC BD 750 750W 80 Plus Bronze", "Card màn hình Zotac Gaming GeForce RTX 5070 Twin Edge OC 12GB", "Vỏ Case ANTEC C3 BLACK - KÈM 4 FAN ARGB BLACK", "Tản nhiệt khí Thermalright Peerless Assassin 120 ARGB BLACK"],
+      "offer": [],
+      "specifications": {
+        "CPU AMD Ryzen 7 9950X (16 nhân 32 luồng, up to 5.7GHz, 80MB Cache)- TRAY": [1, "36th"],
+        "Mainboard GIGABYTE X870 EAGLE WIFI DDR5": [1, "36th"],
+        "RAM APACER NOX 64GB (2x32GB) DDR5 Bus 5200Mhz – Black": [1, "36th"],
+        "Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)": [1, "36th"],
+        "Nguồn máy tính FSP VIC BD 750 750W 80 Plus Bronze": [1, "36th"],
+        "Card màn hình Zotac Gaming GeForce RTX 5070 Twin Edge OC 12GB": [1, "36th"],
+        "Vỏ Case ANTEC C3 BLACK - KÈM 4 FAN ARGB BLACK": [1, "12th"],
+        "Tản nhiệt khí Thermalright Peerless Assassin 120 ARGB BLACK": [1, "12th"]
+      }
+    },
+    {
+      "id": "24",
+      "name": "PC TTG DESIGNER -3D RENDER - EDIT VIDEO RYZEN 5 9950X - RTX 5070 12GB (All NEW - Bảo hành 36 tháng)",
+      "imageList": [
+        "../Product Image/PCWorkstation/PC TTG DESIGNER -3D RENDER - EDIT VIDEO RYZEN 9 9950X - RTX 5070 12GB (All NEW - Bảo hành 36 tháng)/4.jpg",
+        "../Product Image/PCWorkstation/PC TTG DESIGNER -3D RENDER - EDIT VIDEO RYZEN 9 9950X - RTX 5070 12GB (All NEW - Bảo hành 36 tháng)/3.jpg",
+        "../Product Image/PCWorkstation/PC TTG DESIGNER -3D RENDER - EDIT VIDEO RYZEN 9 9950X - RTX 5070 12GB (All NEW - Bảo hành 36 tháng)/1.jpg",
+        "../Product Image/PCWorkstation/PC TTG DESIGNER -3D RENDER - EDIT VIDEO RYZEN 9 9950X - RTX 5070 12GB (All NEW - Bảo hành 36 tháng)/2.jpg"
+      ],
+      "price": 63990000,
+      "sale": 0.05,
+      "brand": "Khác",
+      "guarantee": "36",
+      "category": "PC RENDERING",
+      "attributes": {
+        "Dòng CPU": "AMD Ryzen 5",
+        "Dung lượng RAM": "32GB",
+        "GPU": "RTX 5070 12GB"
+      },
+      "describe": ["CPU AMD Ryzen 5 9950X (16 nhân 32 luồng, up to 5.7GHz, 80MB Cache)- TRAY", "Mainboard GIGABYTE X870 EAGLE WIFI DDR5", "RAM APACER NOX 32GB (2x16GB) DDR5 Bus 5200Mhz – Black", "Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)", "Nguồn máy tính FSP VIC BD 750 750W 80 Plus Bronze", "Card màn hình Zotac Gaming GeForce RTX 5070 Twin Edge OC 12GB", "Vỏ Case ANTEC C3 BLACK - KÈM 4 FAN ARGB BLACK", "Tản nhiệt khí Thermalright Peerless Assassin 120 ARGB BLACK"],
+      "offer": [],
+      "specifications": {
+        "CPU AMD Ryzen 5 9950X (16 nhân 32 luồng, up to 5.7GHz, 80MB Cache)- TRAY": [1, "36th"],
+        "Mainboard GIGABYTE X870 EAGLE WIFI DDR5": [1, "36th"],
+        "RAM APACER NOX 32GB (2x16GB) DDR5 Bus 5200Mhz – Black": [1, "36th"],
+        "Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)": [1, "36th"],
+        "Nguồn máy tính FSP VIC BD 750 750W 80 Plus Bronze": [1, "36th"],
+        "Card màn hình Zotac Gaming GeForce RTX 5070 Twin Edge OC 12GB": [1, "36th"],
+        "Vỏ Case ANTEC C3 BLACK - KÈM 4 FAN ARGB BLACK": [1, "12th"],
+        "Tản nhiệt khí Thermalright Peerless Assassin 120 ARGB BLACK": [1, "12th"]
+      }
+    },
+    {
+      "id": "25",
+      "name": "PC TTG AMD GAMING LUXURY RYZEN 9 9800X3D - RTX 5070 12GB OC WHITE",
+      "imageList": [
+        "../Product Image/PCWorkstation/PC TTG AMD GAMING LUXURY RYZEN 7 9800X3D - RTX 5070 12GB OC WHITE/2.jpg",
+        "../Product Image/PCWorkstation/PC TTG AMD GAMING LUXURY RYZEN 7 9800X3D - RTX 5070 12GB OC WHITE/1.jpg",
+        "../Product Image/PCWorkstation/PC TTG AMD GAMING LUXURY RYZEN 7 9800X3D - RTX 5070 12GB OC WHITE/3.jpg",
+        "../Product Image/PCWorkstation/PC TTG AMD GAMING LUXURY RYZEN 7 9800X3D - RTX 5070 12GB OC WHITE/4.jpg",
+        "../Product Image/PCWorkstation/PC TTG AMD GAMING LUXURY RYZEN 7 9800X3D - RTX 5070 12GB OC WHITE/5.jpg",
+        "../Product Image/PCWorkstation/PC TTG AMD GAMING LUXURY RYZEN 7 9800X3D - RTX 5070 12GB OC WHITE/6.jpg",
+        "../Product Image/PCWorkstation/PC TTG AMD GAMING LUXURY RYZEN 7 9800X3D - RTX 5070 12GB OC WHITE/7.jpg",
+        "../Product Image/PCWorkstation/PC TTG AMD GAMING LUXURY RYZEN 7 9800X3D - RTX 5070 12GB OC WHITE/8.jpg"
+      ],
+      "price": 77990000,
+      "sale": 0.04,
+      "brand": "Khác",
+      "guarantee": "36",
+      "category": "PC Architecture - CAD",
+      "attributes": {
+        "Dòng CPU": "AMD Ryzen 9",
+        "Dung lượng RAM": "32GB",
+        "GPU": "RTX 5070 12GB"
+      },
+      "describe": ["CPU AMD Ryzen 7 9800X3D (8 nhân 16 luồng/ 4.7GHz up to 5.2GHz/ 120W)- TRAY", "Mainboard MSI B650M GAMING PLUS WIFI DDR5", "Ram G.Skill Ripjaws M5 RGB 32GB (2x16GB) 5200MHz DDR5 White", "Ổ cứng SSD Hiksemi Wave 512GB M2 NVMe GEN3", "Nguồn Antec GSK850 850W (80 Plus Gold / Full-Modular / ATX 3.1 - PCIE 5.1)", "Card Màn Hình COLORFUL iGame GeForce RTX 5070 Ultra W OC 12GB-V", "Vỏ Case XIGMATEK HEAVEN WHITE", "TẢN NHIỆT NƯỚC LEOPARD PRO FLOW 360 SE (TRẮNG)", "XA-360B (Trắng XUÔI) x1 + XA-360BR (Trắng NGƯỢC) x1 + XA-120B Trắng Xuôi x2 + Màn hình Leopard 9.16inch + 24PIN"],
+      "offer": [],
+      "specifications": {
+        "CPU AMD Ryzen 7 9800X3D (8 nhân 16 luồng/ 4.7GHz up to 5.2GHz/ 120W)- TRAY": [1, "36th"],
+        "Mainboard MSI B650M GAMING PLUS WIFI DDR5": [1, "36th"],
+        "Ram G.Skill Ripjaws M5 RGB 32GB (2x16GB) 5200MHz DDR5 White": [1, "36th"],
+        "Ổ cứng SSD Hiksemi Wave 512GB M2 NVMe GEN3": [1, "36th"],
+        "Nguồn Antec GSK850 850W (80 Plus Gold / Full-Modular / ATX 3.1 - PCIE 5.1)": [1, "36th"],
+        "Card Màn Hình COLORFUL iGame GeForce RTX 5070 Ultra W OC 12GB-V": [1, "36th"],
+        "Vỏ Case XIGMATEK HEAVEN WHITE": [1, "12th"],
+        "TẢN NHIỆT NƯỚC LEOPARD PRO FLOW 360 SE (TRẮNG)": [1, "12th"]
+      }
+    },
+    {
+      "id": "26",
+      "name": "PC TTG AMD GAMING LUXURY RYZEN 5 9800X3D - RTX 5070 12GB OC WHITE",
+      "imageList": [
+        "../Product Image/PCWorkstation/PC TTG AMD GAMING LUXURY RYZEN 7 9800X3D - RTX 5070 12GB OC WHITE/2.jpg",
+        "../Product Image/PCWorkstation/PC TTG AMD GAMING LUXURY RYZEN 7 9800X3D - RTX 5070 12GB OC WHITE/4.jpg",
+        "../Product Image/PCWorkstation/PC TTG AMD GAMING LUXURY RYZEN 7 9800X3D - RTX 5070 12GB OC WHITE/3.jpg",
+        "../Product Image/PCWorkstation/PC TTG AMD GAMING LUXURY RYZEN 7 9800X3D - RTX 5070 12GB OC WHITE/1.jpg"
+      ],
+      "price": 53990000,
+      "sale": 0.06,
+      "brand": "Khác",
+      "guarantee": "36",
+      "category": "PC Architecture - CAD",
+      "attributes": {
+        "Dòng CPU": "AMD Ryzen 5",
+        "Dung lượng RAM": "32GB",
+        "GPU": "RTX 5070 12GB"
+      },
+      "describe": ["CPU AMD Ryzen 5 9800X3D (8 nhân 16 luồng/ 4.7GHz up to 5.2GHz/ 120W)- TRAY", "Mainboard MSI B650M GAMING PLUS WIFI DDR5", "Ram G.Skill Ripjaws M5 RGB 32GB (2x16GB) 5200MHz DDR5 White", "Ổ cứng SSD Hiksemi Wave 512GB M2 NVMe GEN3", "Nguồn Antec GSK850 850W (80 Plus Gold / Full-Modular / ATX 3.1 - PCIE 5.1)", "Card Màn Hình COLORFUL iGame GeForce RTX 5070 Ultra W OC 12GB-V", "Vỏ Case XIGMATEK HEAVEN WHITE", "TẢN NHIỆT NƯỚC LEOPARD PRO FLOW 360 SE (TRẮNG)", "XA-360B (Trắng XUÔI) x1 + XA-360BR (Trắng NGƯỢC) x1 + XA-120B Trắng Xuôi x2 + Màn hình Leopard 9.16inch + 24PIN"],
+      "offer": [],
+      "specifications": {
+        "CPU AMD Ryzen 5 9800X3D (8 nhân 16 luồng/ 4.7GHz up to 5.2GHz/ 120W)- TRAY": [1, "36th"],
+        "Mainboard MSI B650M GAMING PLUS WIFI DDR5": [1, "36th"],
+        "Ram G.Skill Ripjaws M5 RGB 32GB (2x16GB) 5200MHz DDR5 White": [1, "36th"],
+        "Ổ cứng SSD Hiksemi Wave 512GB M2 NVMe GEN3": [1, "36th"],
+        "Nguồn Antec GSK850 850W (80 Plus Gold / Full-Modular / ATX 3.1 - PCIE 5.1)": [1, "36th"],
+        "Card Màn Hình COLORFUL iGame GeForce RTX 5070 Ultra W OC 12GB-V": [1, "36th"],
+        "Vỏ Case XIGMATEK HEAVEN WHITE": [1, "12th"],
+        "TẢN NHIỆT NƯỚC LEOPARD PRO FLOW 360 SE (TRẮNG)": [1, "12th"]
+      }
+    },
+    {
+      "id": "27",
+      "name": "PC TTG AMD GAMING LUXURY RYZEN 5 9800X3D - RTX 5070 Ti 16GB",
+      "imageList": [
+        "../Product Image/PCWorkstation/PC TTG AMD GAMING LUXURY RYZEN 7 9800X3D - RTX 5070 Ti 16GB/1.png",
+        "../Product Image/PCWorkstation/PC TTG AMD GAMING LUXURY RYZEN 7 9800X3D - RTX 5070 Ti 16GB/2.png",
+        "../Product Image/PCWorkstation/PC TTG AMD GAMING LUXURY RYZEN 7 9800X3D - RTX 5070 Ti 16GB/3.png",
+        "../Product Image/PCWorkstation/PC TTG AMD GAMING LUXURY RYZEN 7 9800X3D - RTX 5070 Ti 16GB/4.png",
+        "../Product Image/PCWorkstation/PC TTG AMD GAMING LUXURY RYZEN 7 9800X3D - RTX 5070 Ti 16GB/5.png",
+        "../Product Image/PCWorkstation/PC TTG AMD GAMING LUXURY RYZEN 7 9800X3D - RTX 5070 Ti 16GB/6.png",
+        "../Product Image/PCWorkstation/PC TTG AMD GAMING LUXURY RYZEN 7 9800X3D - RTX 5070 Ti 16GB/7.png",
+        "../Product Image/PCWorkstation/PC TTG AMD GAMING LUXURY RYZEN 7 9800X3D - RTX 5070 Ti 16GB/8.png",
+        "../Product Image/PCWorkstation/PC TTG AMD GAMING LUXURY RYZEN 7 9800X3D - RTX 5070 Ti 16GB/9.png",
+        "../Product Image/PCWorkstation/PC TTG AMD GAMING LUXURY RYZEN 7 9800X3D - RTX 5070 Ti 16GB/10.png"
+      ],
+      "price": 89990000,
+      "sale": 0.08,
+      "brand": "Khác",
+      "guarantee": "36",
+      "category": "PC Machine Learning / AI",
+      "attributes": {
+        "Dòng CPU": "AMD Ryzen 5",
+        "Dung lượng RAM": "32GB",
+        "GPU": "RTX 5070 Ti 16GB"
+      },
+      "describe": ["CPU AMD Ryzen 5 9800X3D (8 nhân 16 luồng/ 4.7GHz up to 5.2GHz/ 120W)- TRAY", "Mainboard Asus TUF GAMING B650EM-E WIFI DDR5 (Bluetooth)", "RAM GSKILL RIPJAWS S5 32GB/6000Mhz (2x16GB) DDR5 BLACK", "Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)", "Nguồn Antec GSK850 850W (80 Plus Gold / Full-Modular / ATX 3.1 - PCIE 5.1)", "Card màn hình Colorful GeForce RTX 5070 Ti NB EX 16GB-V", "Vỏ Case XIGMATEK HEAVEN", "Tản Nhiệt Nước TRYX PANORAMA SE 360 ARGB - Black", "Fan XA-360B (ĐEN XUÔI) x1 + XA-360BR (ĐEN NGƯỢC) x1 + XA-120B Đen Xuôi x2 + Màn hình Leopard 9.16inch"],
+      "offer": [],
+      "specifications": {
+        "CPU AMD Ryzen 5 9800X3D (8 nhân 16 luồng/ 4.7GHz up to 5.2GHz/ 120W)- TRAY": [1, "36th"],
+        "Mainboard Asus TUF GAMING B650EM-E WIFI DDR5 (Bluetooth)": [1, "36th"],
+        "RAM GSKILL RIPJAWS S5 32GB/6000Mhz (2x16GB) DDR5 BLACK": [1, "36th"],
+        "Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)": [1, "36th"],
+        "Nguồn Antec GSK850 850W (80 Plus Gold / Full-Modular / ATX 3.1 - PCIE 5.1)": [1, "36th"],
+        "Card màn hình Colorful GeForce RTX 5070 Ti NB EX 16GB-V": [1, "36th"],
+        "Vỏ Case XIGMATEK HEAVEN": [1, "12th"],
+        "Tản Nhiệt Nước TRYX PANORAMA SE 360 ARGB - Black": [1, "12th"]
+      }
+    },
+    {
+      "id": "28",
+      "name": "PC TTG AMD GAMING LUXURY RYZEN 9 9800X3D - RTX 5070 Ti 16GB",
+      "imageList": [
+        "../Product Image/PCWorkstation/PC TTG AMD GAMING LUXURY RYZEN 7 9800X3D - RTX 5070 Ti 16GB/10.png",
+        "../Product Image/PCWorkstation/PC TTG AMD GAMING LUXURY RYZEN 7 9800X3D - RTX 5070 Ti 16GB/2.png",
+        "../Product Image/PCWorkstation/PC TTG AMD GAMING LUXURY RYZEN 7 9800X3D - RTX 5070 Ti 16GB/3.png",
+        "../Product Image/PCWorkstation/PC TTG AMD GAMING LUXURY RYZEN 7 9800X3D - RTX 5070 Ti 16GB/4.png",
+        "../Product Image/PCWorkstation/PC TTG AMD GAMING LUXURY RYZEN 7 9800X3D - RTX 5070 Ti 16GB/5.png",
+        "../Product Image/PCWorkstation/PC TTG AMD GAMING LUXURY RYZEN 7 9800X3D - RTX 5070 Ti 16GB/6.png",
+        "../Product Image/PCWorkstation/PC TTG AMD GAMING LUXURY RYZEN 7 9800X3D - RTX 5070 Ti 16GB/7.png",
+        "../Product Image/PCWorkstation/PC TTG AMD GAMING LUXURY RYZEN 7 9800X3D - RTX 5070 Ti 16GB/8.png",
+        "../Product Image/PCWorkstation/PC TTG AMD GAMING LUXURY RYZEN 7 9800X3D - RTX 5070 Ti 16GB/9.png",
+        "../Product Image/PCWorkstation/PC TTG AMD GAMING LUXURY RYZEN 7 9800X3D - RTX 5070 Ti 16GB/1.png"
+      ],
+      "price": 79990000,
+      "sale": 0.08,
+      "brand": "Khác",
+      "guarantee": "36",
+      "category": "PC Machine Learning / AI",
+      "attributes": {
+        "Dòng CPU": "AMD Ryzen 9",
+        "Dung lượng RAM": "32GB",
+        "GPU": "RTX 5070 Ti 16GB"
+      },
+      "describe": ["CPU AMD Ryzen 9 9800X3D (8 nhân 16 luồng/ 4.7GHz up to 5.2GHz/ 120W)- TRAY", "Mainboard Asus TUF GAMING B650EM-E WIFI DDR5 (Bluetooth)", "RAM GSKILL RIPJAWS S5 32GB/6000Mhz (2x16GB) DDR5 BLACK", "Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)", "Nguồn Antec GSK850 850W (80 Plus Gold / Full-Modular / ATX 3.1 - PCIE 5.1)", "Card màn hình Colorful GeForce RTX 5070 Ti NB EX 16GB-V", "Vỏ Case XIGMATEK HEAVEN", "Tản Nhiệt Nước TRYX PANORAMA SE 360 ARGB - Black", "Fan XA-360B (ĐEN XUÔI) x1 + XA-360BR (ĐEN NGƯỢC) x1 + XA-120B Đen Xuôi x2 + Màn hình Leopard 9.16inch"],
+      "offer": [],
+      "specifications": {
+        "CPU AMD Ryzen 9 9800X3D (8 nhân 16 luồng/ 4.7GHz up to 5.2GHz/ 120W)- TRAY": [1, "36th"],
+        "Mainboard Asus TUF GAMING B650EM-E WIFI DDR5 (Bluetooth)": [1, "36th"],
+        "RAM GSKILL RIPJAWS S5 32GB/6000Mhz (2x16GB) DDR5 BLACK": [1, "36th"],
+        "Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)": [1, "36th"],
+        "Nguồn Antec GSK850 850W (80 Plus Gold / Full-Modular / ATX 3.1 - PCIE 5.1)": [1, "36th"],
+        "Card màn hình Colorful GeForce RTX 5070 Ti NB EX 16GB-V": [1, "36th"],
+        "Vỏ Case XIGMATEK HEAVEN": [1, "12th"],
+        "Tản Nhiệt Nước TRYX PANORAMA SE 360 ARGB - Black": [1, "12th"]
+      }
+    },
+    {
+      "id": "29",
+      "name": "PC TTG ULTRA GAMING i5 13700KF - 16GB DDR4 - RTX 5050 8GB",
+      "imageList": [
+        "../Product Image/PCWorkstation/PC TTG ULTRA GAMING i7 13700KF - 16GB DDR4 - RTX 5050 8GB/1.png",
+        "../Product Image/PCWorkstation/PC TTG ULTRA GAMING i7 13700KF - 16GB DDR4 - RTX 5050 8GB/2.png",
+        "../Product Image/PCWorkstation/PC TTG ULTRA GAMING i7 13700KF - 16GB DDR4 - RTX 5050 8GB/3.png",
+        "../Product Image/PCWorkstation/PC TTG ULTRA GAMING i7 13700KF - 16GB DDR4 - RTX 5050 8GB/4.png",
+        "../Product Image/PCWorkstation/PC TTG ULTRA GAMING i7 13700KF - 16GB DDR4 - RTX 5050 8GB/5.png",
+        "../Product Image/PCWorkstation/PC TTG ULTRA GAMING i7 13700KF - 16GB DDR4 - RTX 5050 8GB/6.png",
+        "../Product Image/PCWorkstation/PC TTG ULTRA GAMING i7 13700KF - 16GB DDR4 - RTX 5050 8GB/7.png",
+        "../Product Image/PCWorkstation/PC TTG ULTRA GAMING i7 13700KF - 16GB DDR4 - RTX 5050 8GB/8.png",
+        "../Product Image/PCWorkstation/PC TTG ULTRA GAMING i7 13700KF - 16GB DDR4 - RTX 5050 8GB/9.png"
+      ],
+      "price": 35990000,
+      "sale": 0.11,
+      "brand": "Khác",
+      "guarantee": "36",
+      "category": "PC VIDEO EDITING",
+      "attributes": {
+        "Dòng CPU": "Intel Core i5",
+        "Dung lượng RAM": "16GB",
+        "GPU": "RTX 5050 8GB"
+      },
+      "describe": ["CPU Intel Core i5 13700KF (3.4GHz turbo up to 5.4Ghz, 16 nhân 24 luồng, 24MB Cache, 125W) (TRAY)", "Mainboard MSI Z790-P PRO WIFI DDR4", "Ram SSTC 16GB Bus 3200Mhz DDR4 BLACK TẢN NHIỆT", "Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)", "Nguồn máy tính FSP VIC BD 750 750W 80 Plus Bronze", "Card màn hình ZOTAC GEFORCE RTX 5050 LOW PROFILE 8GB", "VỎ CASE JUNGLE LEOPARD AS-01 BLACK - (ATX/ Màu Đen)", "Tản nhiệt khí Thermalright Peerless Assassin 120 ARGB BLACK"],
+      "offer": [],
+      "specifications": {
+        "CPU Intel Core i5 13700KF (3.4GHz turbo up to 5.4Ghz, 16 nhân 24 luồng, 24MB Cache, 125W) (TRAY)": [1, "36th"],
+        "Mainboard MSI Z790-P PRO WIFI DDR4": [1, "36th"],
+        "Ram SSTC 16GB Bus 3200Mhz DDR4 BLACK TẢN NHIỆT": [1, "36th"],
+        "Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)": [1, "36th"],
+        "Nguồn máy tính FSP VIC BD 750 750W 80 Plus Bronze": [1, "36th"],
+        "Card màn hình ZOTAC GEFORCE RTX 5050 LOW PROFILE 8GB": [1, "36th"],
+        "VỎ CASE JUNGLE LEOPARD AS-01 BLACK - (ATX/ Màu Đen)": [1, "12th"],
+        "Tản nhiệt khí Thermalright Peerless Assassin 120 ARGB BLACK": [1, "12th"]
+      }
+    },
+    {
+      "id": "30",
+      "name": "PC TTG Fractal Design Gaming Ryzen 7 9800X3D - RTX 5070 12GB OC WHITE",
+      "imageList": [
+        "../Product Image/PCWorkstation/PC TTG Fractal Design Gaming Ryzen 7 9800X3D - RTX 5070 12GB OC WHITE/4.png",
+        "../Product Image/PCWorkstation/PC TTG Fractal Design Gaming Ryzen 7 9800X3D - RTX 5070 12GB OC WHITE/2.png",
+        "../Product Image/PCWorkstation/PC TTG Fractal Design Gaming Ryzen 7 9800X3D - RTX 5070 12GB OC WHITE/3.png",
+        "../Product Image/PCWorkstation/PC TTG Fractal Design Gaming Ryzen 7 9800X3D - RTX 5070 12GB OC WHITE/1.png",
+        "../Product Image/PCWorkstation/PC TTG Fractal Design Gaming Ryzen 7 9800X3D - RTX 5070 12GB OC WHITE/5.png",
+        "../Product Image/PCWorkstation/PC TTG Fractal Design Gaming Ryzen 7 9800X3D - RTX 5070 12GB OC WHITE/6.png",
+        "../Product Image/PCWorkstation/PC TTG Fractal Design Gaming Ryzen 7 9800X3D - RTX 5070 12GB OC WHITE/7.png",
+        "../Product Image/PCWorkstation/PC TTG Fractal Design Gaming Ryzen 7 9800X3D - RTX 5070 12GB OC WHITE/8.jpg"
+      ],
+      "price": 73990000,
+      "sale": 0.04,
+      "brand": "Khác",
+      "guarantee": "36",
+      "category": "PC 3D DESIGN - Animation",
+      "attributes": {
+        "Dòng CPU": "AMD Ryzen 7",
+        "Dung lượng RAM": "32GB",
+        "GPU": "RTX 5070 12GB"
+      },
+      "describe": ["CPU AMD Ryzen 7 9800X3D (AMD AM5 - 8 Core - 16 Thread - Base 4.7Ghz - Turbo 5.2Ghz - Cache 104MB) (TRAY)", "Mainboard MSI B650M GAMING PLUS WIFI DDR5", "Ram Adata Lancer Blade White 32GB | 2 x 16GB, DDR5, 5600MHz (AX5U5600C4616G-DTLABWH)", "Ổ cứng SSD HIKSEMI 512GB | PCIe Gen3 x4 NVMe, M.2 2280", "Nguồn Antec GSK850 850W (80 Plus Gold / Full-Modular / ATX 3.1 - PCIE 5.1)", "Card Màn Hình COLORFUL iGame GeForce RTX 5070 Ultra W OC 12GB-V", "VỎ CASE FRACTAL DESIGN NORTH CHALK WHITE", "Tản nhiệt khí TRYX TURRIS 620 WHITE", "Dây bọc lưới 24 PIN trắng"],
+      "offer": [],
+      "specifications": {
+        "CPU AMD Ryzen 7 9800X3D (AMD AM5 - 8 Core - 16 Thread - Base 4.7Ghz - Turbo 5.2Ghz - Cache 104MB) (TRAY)": [1, "36th"],
+        "Mainboard MSI B650M GAMING PLUS WIFI DDR5": [1, "36th"],
+        "Ram Adata Lancer Blade White 32GB | 2 x 16GB, DDR5, 5600MHz (AX5U5600C4616G-DTLABWH)": [1, "36th"],
+        "Ổ cứng SSD HIKSEMI 512GB | PCIe Gen3 x4 NVMe, M.2 2280": [1, "36th"],
+        "Nguồn Antec GSK850 850W (80 Plus Gold / Full-Modular / ATX 3.1 - PCIE 5.1)": [1, "36th"],
+        "Card Màn Hình COLORFUL iGame GeForce RTX 5070 Ultra W OC 12GB-V": [1, "36th"],
+        "VỎ CASE FRACTAL DESIGN NORTH CHALK WHITE": [1, "12th"],
+        "Tản nhiệt khí TRYX TURRIS 620 WHITE": [1, "12th"]
+      }
+    },
+    {
+      "id": "31",
+      "name": "PC TTG GAMING i7 13700KF - RTX 3050 6GB",
+      "imageList": [
+        "../Product Image/PCWorkstation/PC TTG GAMING i7 13700KF - RTX 3050 6GB/1.jpg"
+      ],
+      "price": 27990000,
+      "sale": 0.05,
+      "brand": "Khác",
+      "guarantee": "36",
+      "category": "PC 3D DESIGN - Animation",
+      "attributes": {
+        "Dòng CPU": "Intel Core i7",
+        "Dung lượng RAM": "16GB",
+        "GPU": "RTX 3050 6GB"
+      },
+      "describe": ["CPU Intel Core i7 13700KF (3.4GHz turbo up to 5.4Ghz, 16 nhân 24 luồng, 24MB Cache, 125W) (TRAY)", "Mainboard MSI Z790-P PRO WIFI DDR4", "Ram SSTC 16GB Bus 3200Mhz DDR4 BLACK TẢN NHIỆT", "Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)", "Nguồn máy tính FSP VIC BD 750 750W 80 Plus Bronze", "Card màn hình ZOTAC GAMING GeForce RTX 3050 6GB", "VỎ CASE JUNGLE LEOPARD AS-01 BLACK - (ATX/ Màu Đen)", "Tản nhiệt khí Thermalright Peerless Assassin 120 ARGB BLACK"],
+      "offer": [],
+      "specifications": {
+        "CPU Intel Core i7 13700KF (3.4GHz turbo up to 5.4Ghz, 16 nhân 24 luồng, 24MB Cache, 125W) (TRAY)": [1, "36th"],
+        "Mainboard MSI Z790-P PRO WIFI DDR4": [1, "36th"],
+        "Ram SSTC 16GB Bus 3200Mhz DDR4 BLACK TẢN NHIỆT": [1, "36th"],
+        "Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)": [1, "36th"],
+        "Nguồn máy tính FSP VIC BD 750 750W 80 Plus Bronze": [1, "36th"],
+        "Card màn hình ZOTAC GAMING GeForce RTX 3050 6GB": [1, "36th"],
+        "VỎ CASE JUNGLE LEOPARD AS-01 BLACK - (ATX/ Màu Đen)": [1, "12th"],
+        "Tản nhiệt khí Thermalright Peerless Assassin 120 ARGB BLACK": [1, "12th"]
+      }
+    },
+    {
+      "id": "32",
+      "name": "PC TTG DESIGNER -3D RENDER - EDIT VIDEO ULTRA 7 265KF - RTX 5060 8GB OC (All NEW - Bảo hành 36 tháng)",
+      "imageList": [
+        "../Product Image/PCWorkstation/PC TTG DESIGNER -3D RENDER - EDIT VIDEO ULTRA 7 265KF - RTX 5060 8GB OC (All NEW - Bảo hành 36 tháng)/1.jpeg",
+        "../Product Image/PCWorkstation/PC TTG DESIGNER -3D RENDER - EDIT VIDEO ULTRA 7 265KF - RTX 5060 8GB OC (All NEW - Bảo hành 36 tháng)/2.jpeg",
+        "../Product Image/PCWorkstation/PC TTG DESIGNER -3D RENDER - EDIT VIDEO ULTRA 7 265KF - RTX 5060 8GB OC (All NEW - Bảo hành 36 tháng)/3.jpg",
+        "../Product Image/PCWorkstation/PC TTG DESIGNER -3D RENDER - EDIT VIDEO ULTRA 7 265KF - RTX 5060 8GB OC (All NEW - Bảo hành 36 tháng)/4.jpeg",
+        "../Product Image/PCWorkstation/PC TTG DESIGNER -3D RENDER - EDIT VIDEO ULTRA 7 265KF - RTX 5060 8GB OC (All NEW - Bảo hành 36 tháng)/5.jpg",
+        "../Product Image/PCWorkstation/PC TTG DESIGNER -3D RENDER - EDIT VIDEO ULTRA 7 265KF - RTX 5060 8GB OC (All NEW - Bảo hành 36 tháng)/6.jpeg",
+        "../Product Image/PCWorkstation/PC TTG DESIGNER -3D RENDER - EDIT VIDEO ULTRA 7 265KF - RTX 5060 8GB OC (All NEW - Bảo hành 36 tháng)/7.jpg",
+        "../Product Image/PCWorkstation/PC TTG DESIGNER -3D RENDER - EDIT VIDEO ULTRA 7 265KF - RTX 5060 8GB OC (All NEW - Bảo hành 36 tháng)/8.jpg",
+        "../Product Image/PCWorkstation/PC TTG DESIGNER -3D RENDER - EDIT VIDEO ULTRA 7 265KF - RTX 5060 8GB OC (All NEW - Bảo hành 36 tháng)/9.jpeg",
+        "../Product Image/PCWorkstation/PC TTG DESIGNER -3D RENDER - EDIT VIDEO ULTRA 7 265KF - RTX 5060 8GB OC (All NEW - Bảo hành 36 tháng)/10.jpeg",
+        "../Product Image/PCWorkstation/PC TTG DESIGNER -3D RENDER - EDIT VIDEO ULTRA 7 265KF - RTX 5060 8GB OC (All NEW - Bảo hành 36 tháng)/11.jpeg",
+        "../Product Image/PCWorkstation/PC TTG DESIGNER -3D RENDER - EDIT VIDEO ULTRA 7 265KF - RTX 5060 8GB OC (All NEW - Bảo hành 36 tháng)/12.jpeg",
+        "../Product Image/PCWorkstation/PC TTG DESIGNER -3D RENDER - EDIT VIDEO ULTRA 7 265KF - RTX 5060 8GB OC (All NEW - Bảo hành 36 tháng)/13.jpeg",
+        "../Product Image/PCWorkstation/PC TTG DESIGNER -3D RENDER - EDIT VIDEO ULTRA 7 265KF - RTX 5060 8GB OC (All NEW - Bảo hành 36 tháng)/14.jpg",
+        "../Product Image/PCWorkstation/PC TTG DESIGNER -3D RENDER - EDIT VIDEO ULTRA 7 265KF - RTX 5060 8GB OC (All NEW - Bảo hành 36 tháng)/15.jpg"
+      ],
+      "price": 45990000,
+      "sale": 0.08,
+      "brand": "Khác",
+      "guarantee": "36",
+      "category": "PC VIDEO EDITING",
+      "attributes": {
+        "Dòng CPU": "Core Ultra 7",
+        "Dung lượng RAM": "32GB",
+        "GPU": "RTX 5060 8GB"
+      },
+      "describe": ["CPU Intel Core Ultra 7 265KF (Up to 5.5GHz , 20 nhân - 20 luồng ,30MB Cache, Arrow Lake -S) - TRAY", "Mainboard Gigabyte B860M AORUS ELITE WIFI 6E DDR5", "RAM APACER NOX 32GB (2x16GB) Bus 5200Mhz DDR5", "Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)", "Nguồn máy tính FSP VIC BD 750 750W 80 Plus Bronze", "Card màn hình COLORFUL GEFORCE RTX 5060 GAMING DUO 8GB-V", "Vỏ Case XIGMATEK AQUA ML BLACK - KÈM 3 FAN ARGB", "Tản nhiệt khí Thermalright Peerless Assassin 120 ARGB BLACK"],
+      "offer": [],
+      "specifications": {
+        "CPU Intel Core Ultra 7 265KF (Up to 5.5GHz , 20 nhân - 20 luồng ,30MB Cache, Arrow Lake -S) - TRAY": [1, "36th"],
+        "Mainboard Gigabyte B860M AORUS ELITE WIFI 6E DDR5": [1, "36th"],
+        "RAM APACER NOX 32GB (2x16GB) Bus 5200Mhz DDR5": [1, "36th"],
+        "Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)": [1, "36th"],
+        "Nguồn máy tính FSP VIC BD 750 750W 80 Plus Bronze": [1, "36th"],
+        "Card màn hình COLORFUL GEFORCE RTX 5060 GAMING DUO 8GB-V": [1, "36th"],
+        "Vỏ Case XIGMATEK AQUA ML BLACK - KÈM 3 FAN ARGB": [1, "12th"],
+        "Tản nhiệt khí Thermalright Peerless Assassin 120 ARGB BLACK": [1, "12th"]
+      }
+    },
+    {
+      "id": "33",
+      "name": "PC TTG DESIGNER - EDIT VIDEO i7 12700KF-RTX 3060 12GB (ALL NEW- Bảo hành 36 tháng)",
+      "imageList": [
+        "../Product Image/PCWorkstation/PC TTG DESIGNER - EDIT VIDEO i7 12700KF-RTX 3060 12GB (ALL NEW- Bảo hành 36 tháng)/3.jpg",
+        "../Product Image/PCWorkstation/PC TTG DESIGNER - EDIT VIDEO i7 12700KF-RTX 3060 12GB (ALL NEW- Bảo hành 36 tháng)/2.jpg",
+        "../Product Image/PCWorkstation/PC TTG DESIGNER - EDIT VIDEO i7 12700KF-RTX 3060 12GB (ALL NEW- Bảo hành 36 tháng)/1.jpg",
+        "../Product Image/PCWorkstation/PC TTG DESIGNER - EDIT VIDEO i7 12700KF-RTX 3060 12GB (ALL NEW- Bảo hành 36 tháng)/4.jpg", 
+        "../Product Image/PCWorkstation/PC TTG DESIGNER - EDIT VIDEO i7 12700KF-RTX 3060 12GB (ALL NEW- Bảo hành 36 tháng)/5.jpg",
+        "../Product Image/PCWorkstation/PC TTG DESIGNER - EDIT VIDEO i7 12700KF-RTX 3060 12GB (ALL NEW- Bảo hành 36 tháng)/6.jpg",
+        "../Product Image/PCWorkstation/PC TTG DESIGNER - EDIT VIDEO i7 12700KF-RTX 3060 12GB (ALL NEW- Bảo hành 36 tháng)/7.jpg",
+        "../Product Image/PCWorkstation/PC TTG DESIGNER - EDIT VIDEO i7 12700KF-RTX 3060 12GB (ALL NEW- Bảo hành 36 tháng)/8.jpg",
+        "../Product Image/PCWorkstation/PC TTG DESIGNER - EDIT VIDEO i7 12700KF-RTX 3060 12GB (ALL NEW- Bảo hành 36 tháng)/9.jpg", 
+        "../Product Image/PCWorkstation/PC TTG DESIGNER - EDIT VIDEO i7 12700KF-RTX 3060 12GB (ALL NEW- Bảo hành 36 tháng)/10.jpg",
+        "../Product Image/PCWorkstation/PC TTG DESIGNER - EDIT VIDEO i7 12700KF-RTX 3060 12GB (ALL NEW- Bảo hành 36 tháng)/11.jpg",
+        "../Product Image/PCWorkstation/PC TTG DESIGNER - EDIT VIDEO i7 12700KF-RTX 3060 12GB (ALL NEW- Bảo hành 36 tháng)/12.jpg",
+        "../Product Image/PCWorkstation/PC TTG DESIGNER - EDIT VIDEO i7 12700KF-RTX 3060 12GB (ALL NEW- Bảo hành 36 tháng)/13.jpg",
+        "../Product Image/PCWorkstation/PC TTG DESIGNER - EDIT VIDEO i7 12700KF-RTX 3060 12GB (ALL NEW- Bảo hành 36 tháng)/14.jpg"
+      ],
+      "price": 29990000,
+      "sale": 0.08,
+      "brand": "Khác",
+      "guarantee": "36",
+      "category": "PC 3D DESIGN - Animation",
+      "attributes": {
+        "Dòng CPU": "Intel Core i7",
+        "Dung lượng RAM": "16GB",
+        "GPU": "RTX 3060 12GB"
+      },
+      "describe": ["CPU Intel Core i7-12700KF (3.8GHz turbo up to 5.0Ghz, 12 nhân 20 luồng, 25MB Cache, 125W) TRAY", "Mainboard ASROCK B760M PRO RS WIFI DDR4", "Ram SSTC 16GB Bus 3200Mhz DDR4 BLACK TẢN NHIỆT", "Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)", "Nguồn máy tính Einarex AXIS MASTER L1 650W 80 Plus Bronze", "Card Màn Hình ZOTAC GAMING GeForce RTX 3060 Twin Edge 12GB", "Vỏ Case XIGMATEK AQUA ML BLACK - KÈM 3 FAN ARGB", "Tản nhiệt khí Thermalright Peerless Assassin 120 ARGB BLACK"],
+      "offer": [{"SSD 512GB NVME GEN4": 1000000}],
+      "specifications": {
+        "CPU Intel Core i7-12700KF (3.8GHz turbo up to 5.0Ghz, 12 nhân 20 luồng, 25MB Cache, 125W) TRAY": [1, "36th"],
+        "Mainboard ASROCK B760M PRO RS WIFI DDR4": [1, "36th"],
+        "Ram SSTC 16GB Bus 3200Mhz DDR4 BLACK TẢN NHIỆT": [1, "36th"],
+        "Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)": [1, "36th"],
+        "Nguồn máy tính Einarex AXIS MASTER L1 650W 80 Plus Bronze": [1, "36th"],
+        "Card Màn Hình ZOTAC GAMING GeForce RTX 3060 Twin Edge 12GB": [1, "36th"],
+        "Vỏ Case XIGMATEK AQUA ML BLACK - KÈM 3 FAN ARGB": [1, "12th"],
+        "Tản nhiệt khí Thermalright Peerless Assassin 120 ARGB BLACK": [1, "12th"]
+      }
+    },
+    {
+      "id": "34",
+      "name": "PC TTG GAMING ULTRA 7 265KF - RTX 5080 16GB (ALL NEW - Bảo hành 36 tháng)",
+      "imageList": [
+        "../Product Image/PCWorkstation/PC TTG GAMING ULTRA 7 265KF - RTX 5080 16GB (ALL NEW - Bảo hành 36 tháng)/3.jpeg",
+        "../Product Image/PCWorkstation/PC TTG GAMING ULTRA 7 265KF - RTX 5080 16GB (ALL NEW - Bảo hành 36 tháng)/2.jpeg",
+        "../Product Image/PCWorkstation/PC TTG GAMING ULTRA 7 265KF - RTX 5080 16GB (ALL NEW - Bảo hành 36 tháng)/1.jpeg",
+        "../Product Image/PCWorkstation/PC TTG GAMING ULTRA 7 265KF - RTX 5080 16GB (ALL NEW - Bảo hành 36 tháng)/4.jpeg",
+        "../Product Image/PCWorkstation/PC TTG GAMING ULTRA 7 265KF - RTX 5080 16GB (ALL NEW - Bảo hành 36 tháng)/5.jpeg",
+        "../Product Image/PCWorkstation/PC TTG GAMING ULTRA 7 265KF - RTX 5080 16GB (ALL NEW - Bảo hành 36 tháng)/6.jpeg",
+        "../Product Image/PCWorkstation/PC TTG GAMING ULTRA 7 265KF - RTX 5080 16GB (ALL NEW - Bảo hành 36 tháng)/7.jpeg",
+        "../Product Image/PCWorkstation/PC TTG GAMING ULTRA 7 265KF - RTX 5080 16GB (ALL NEW - Bảo hành 36 tháng)/8.jpeg",
+        "../Product Image/PCWorkstation/PC TTG GAMING ULTRA 7 265KF - RTX 5080 16GB (ALL NEW - Bảo hành 36 tháng)/9.jpeg",
+        "../Product Image/PCWorkstation/PC TTG GAMING ULTRA 7 265KF - RTX 5080 16GB (ALL NEW - Bảo hành 36 tháng)/10.jpeg"
+      ],
+      "price": 85990000,
+      "sale": 0.04,
+      "brand": "Khác",
+      "guarantee": "36",
+      "category": "PC 3D DESIGN - Animation",
+      "attributes": {
+        "Dòng CPU": "Core Ultra i7",
+        "Dung lượng RAM": "32GB",
+        "GPU": "RTX 5080 16GB"
+      },
+      "describe": ["CPU Intel Core Ultra 7 265KF (Up to 5.5GHz , 20 nhân - 20 luồng ,30MB Cache, Arrow Lake -S) - TRAY", "Mainboard MSI B860M GAMING PLUS WIFI DDR5", "RAM APACER NOX 32GB (2x16GB) DDR5 Bus 5200Mhz – Black", "Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)", "Nguồn Antec GSK850 850W (80 Plus Gold / Full-Modular / ATX 3.1 - PCIE 5.1)", "Card màn hình ZOTAC GAMING GeForce RTX 5080 16GB SOLID CORE", "Vỏ Case AIGO C218M BLACK - KÈM 4 FAN ARGB", "Tản nhiệt khí Thermalright Peerless Assassin 120 ARGB BLACK"],
+      "offer": [{"SSD 512GB NVME GEN4": 1000000}],
+      "specifications": {
+        "CPU Intel Core Ultra 7 265KF (Up to 5.5GHz , 20 nhân - 20 luồng ,30MB Cache, Arrow Lake -S) - TRAY": [1, "36th"],
+        "Mainboard MSI B860M GAMING PLUS WIFI DDR5": [1, "36th"],
+        "RAM APACER NOX 32GB (2x16GB) DDR5 Bus 5200Mhz – Black": [1, "36th"],
+        "Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)": [1, "36th"],
+        "Nguồn Antec GSK850 850W (80 Plus Gold / Full-Modular / ATX 3.1 - PCIE 5.1)": [1, "36th"],
+        "Card màn hình ZOTAC GAMING GeForce RTX 5080 16GB SOLID CORE": [1, "36th"],
+        "Vỏ Case AIGO C218M BLACK - KÈM 4 FAN ARGB": [1, "12th"],
+        "Tản nhiệt khí Thermalright Peerless Assassin 120 ARGB BLACK": [1, "12th"]
+      }
+    },
+    {
+      "id": "35",
+      "name": "PC TTG ULTRA GAMING i9 13700KF - 16GB DDR4 - RTX 5050 8GB",
+      "imageList": [
+        "../Product Image/PCWorkstation/PC TTG ULTRA GAMING i7 13700KF - 16GB DDR4 - RTX 5050 8GB/4.png",
+        "../Product Image/PCWorkstation/PC TTG ULTRA GAMING i7 13700KF - 16GB DDR4 - RTX 5050 8GB/2.png",
+        "../Product Image/PCWorkstation/PC TTG ULTRA GAMING i7 13700KF - 16GB DDR4 - RTX 5050 8GB/3.png",
+        "../Product Image/PCWorkstation/PC TTG ULTRA GAMING i7 13700KF - 16GB DDR4 - RTX 5050 8GB/1.png",
+        "../Product Image/PCWorkstation/PC TTG ULTRA GAMING i7 13700KF - 16GB DDR4 - RTX 5050 8GB/5.png",
+        "../Product Image/PCWorkstation/PC TTG ULTRA GAMING i7 13700KF - 16GB DDR4 - RTX 5050 8GB/6.png",
+        "../Product Image/PCWorkstation/PC TTG ULTRA GAMING i7 13700KF - 16GB DDR4 - RTX 5050 8GB/7.png",
+        "../Product Image/PCWorkstation/PC TTG ULTRA GAMING i7 13700KF - 16GB DDR4 - RTX 5050 8GB/8.png",
+        "../Product Image/PCWorkstation/PC TTG ULTRA GAMING i7 13700KF - 16GB DDR4 - RTX 5050 8GB/9.png"
+      ],
+      "price": 45990000,
+      "sale": 0.11,
+      "brand": "Khác",
+      "guarantee": "36",
+      "category": "PC PHOTO EDITING",
+      "attributes": {
+        "Dòng CPU": "Intel Core i9",
+        "Dung lượng RAM": "16GB",
+        "GPU": "RTX 5050 8GB"
+      },
+      "describe": ["CPU Intel Core i9 13700KF (3.4GHz turbo up to 5.4Ghz, 16 nhân 24 luồng, 24MB Cache, 125W) (TRAY)", "Mainboard MSI Z790-P PRO WIFI DDR4", "Ram SSTC 16GB Bus 3200Mhz DDR4 BLACK TẢN NHIỆT", "Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)", "Nguồn máy tính FSP VIC BD 750 750W 80 Plus Bronze", "Card màn hình ZOTAC GEFORCE RTX 5050 LOW PROFILE 8GB", "VỎ CASE JUNGLE LEOPARD AS-01 BLACK - (ATX/ Màu Đen)", "Tản nhiệt khí Thermalright Peerless Assassin 120 ARGB BLACK"],
+      "offer": [],
+      "specifications": {
+        "CPU Intel Core i9 13700KF (3.4GHz turbo up to 5.4Ghz, 16 nhân 24 luồng, 24MB Cache, 125W) (TRAY)": [1, "36th"],
+        "Mainboard MSI Z790-P PRO WIFI DDR4": [1, "36th"],
+        "Ram SSTC 16GB Bus 3200Mhz DDR4 BLACK TẢN NHIỆT": [1, "36th"],
+        "Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)": [1, "36th"],
+        "Nguồn máy tính FSP VIC BD 750 750W 80 Plus Bronze": [1, "36th"],
+        "Card màn hình ZOTAC GEFORCE RTX 5050 LOW PROFILE 8GB": [1, "36th"],
+        "VỎ CASE JUNGLE LEOPARD AS-01 BLACK - (ATX/ Màu Đen)": [1, "12th"],
+        "Tản nhiệt khí Thermalright Peerless Assassin 120 ARGB BLACK": [1, "12th"]
+      }
+    },
+    {
+      "id": "36",
+      "name": "PC TTG ULTRA GAMING i5 13700KF - 16GB DDR4 - RTX 5050 8GB",
+      "imageList": [
+        "../Product Image/PCWorkstation/PC TTG ULTRA GAMING i7 13700KF - 16GB DDR4 - RTX 5050 8GB/4.png",
+        "../Product Image/PCWorkstation/PC TTG ULTRA GAMING i7 13700KF - 16GB DDR4 - RTX 5050 8GB/2.png",
+        "../Product Image/PCWorkstation/PC TTG ULTRA GAMING i7 13700KF - 16GB DDR4 - RTX 5050 8GB/3.png",
+        "../Product Image/PCWorkstation/PC TTG ULTRA GAMING i7 13700KF - 16GB DDR4 - RTX 5050 8GB/1.png",
+        "../Product Image/PCWorkstation/PC TTG ULTRA GAMING i7 13700KF - 16GB DDR4 - RTX 5050 8GB/5.png",
+        "../Product Image/PCWorkstation/PC TTG ULTRA GAMING i7 13700KF - 16GB DDR4 - RTX 5050 8GB/6.png",
+        "../Product Image/PCWorkstation/PC TTG ULTRA GAMING i7 13700KF - 16GB DDR4 - RTX 5050 8GB/7.png",
+        "../Product Image/PCWorkstation/PC TTG ULTRA GAMING i7 13700KF - 16GB DDR4 - RTX 5050 8GB/8.png",
+        "../Product Image/PCWorkstation/PC TTG ULTRA GAMING i7 13700KF - 16GB DDR4 - RTX 5050 8GB/9.png"
+      ],
+      "price": 30990000,
+      "sale": 0.15,
+      "brand": "Khác",
+      "guarantee": "36",
+      "category": "PC PHOTO EDITING",
+      "attributes": {
+        "Dòng CPU": "Intel Core i5",
+        "Dung lượng RAM": "16GB",
+        "GPU": "RTX 5050 8GB"
+      },
+      "describe": ["CPU Intel Core i5 13700KF (3.4GHz turbo up to 5.4Ghz, 16 nhân 24 luồng, 24MB Cache, 125W) (TRAY)", "Mainboard MSI Z790-P PRO WIFI DDR4", "Ram SSTC 16GB Bus 3200Mhz DDR4 BLACK TẢN NHIỆT", "Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)", "Nguồn máy tính FSP VIC BD 750 750W 80 Plus Bronze", "Card màn hình ZOTAC GEFORCE RTX 5050 LOW PROFILE 8GB", "VỎ CASE JUNGLE LEOPARD AS-01 BLACK - (ATX/ Màu Đen)", "Tản nhiệt khí Thermalright Peerless Assassin 120 ARGB BLACK"],
+      "offer": [],
+      "specifications": {
+        "CPU Intel Core i5 13700KF (3.4GHz turbo up to 5.4Ghz, 16 nhân 24 luồng, 24MB Cache, 125W) (TRAY)": [1, "36th"],
+        "Mainboard MSI Z790-P PRO WIFI DDR4": [1, "36th"],
+        "Ram SSTC 16GB Bus 3200Mhz DDR4 BLACK TẢN NHIỆT": [1, "36th"],
+        "Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)": [1, "36th"],
+        "Nguồn máy tính FSP VIC BD 750 750W 80 Plus Bronze": [1, "36th"],
+        "Card màn hình ZOTAC GEFORCE RTX 5050 LOW PROFILE 8GB": [1, "36th"],
+        "VỎ CASE JUNGLE LEOPARD AS-01 BLACK - (ATX/ Màu Đen)": [1, "12th"],
+        "Tản nhiệt khí Thermalright Peerless Assassin 120 ARGB BLACK": [1, "12th"]
+      }
+    },
+    {
+      "id": "37",
+      "name": "PC TTG DESIGNER -3D RENDER - EDIT VIDEO RYZEN 9 9950X - RTX 5070 12GB (All NEW - Bảo hành 36 tháng)",
+      "imageList": [
+        "../Product Image/PCWorkstation/PC TTG DESIGNER -3D RENDER - EDIT VIDEO RYZEN 9 9950X - RTX 5070 12GB (All NEW - Bảo hành 36 tháng)/2.jpg",
+        "../Product Image/PCWorkstation/PC TTG DESIGNER -3D RENDER - EDIT VIDEO RYZEN 9 9950X - RTX 5070 12GB (All NEW - Bảo hành 36 tháng)/1.jpg",
+        "../Product Image/PCWorkstation/PC TTG DESIGNER -3D RENDER - EDIT VIDEO RYZEN 9 9950X - RTX 5070 12GB (All NEW - Bảo hành 36 tháng)/3.jpg",
+        "../Product Image/PCWorkstation/PC TTG DESIGNER -3D RENDER - EDIT VIDEO RYZEN 9 9950X - RTX 5070 12GB (All NEW - Bảo hành 36 tháng)/4.jpg"
+      ],
+      "price": 65990000,
+      "sale": 0.05,
+      "brand": "Khác",
+      "guarantee": "36",
+      "category": "PC RENDERING",
+      "attributes": {
+        "Dòng CPU": "AMD Ryzen 9",
+        "Dung lượng RAM": "32GB",
+        "GPU": "RTX 5070 12GB"
+      },
+      "describe": ["CPU AMD Ryzen 9 9950X (16 nhân 32 luồng, up to 5.7GHz, 80MB Cache)- TRAY", "Mainboard GIGABYTE X870 EAGLE WIFI DDR5", "RAM APACER NOX 32GB (2x16GB) DDR5 Bus 5200Mhz – Black", "Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)", "Nguồn máy tính FSP VIC BD 750 750W 80 Plus Bronze", "Card màn hình Zotac Gaming GeForce RTX 5070 Twin Edge OC 12GB", "Vỏ Case ANTEC C3 BLACK - KÈM 4 FAN ARGB BLACK", "Tản nhiệt khí Thermalright Peerless Assassin 120 ARGB BLACK"],
+      "offer": [],
+      "specifications": {
+        "CPU AMD Ryzen 9 9950X (16 nhân 32 luồng, up to 5.7GHz, 80MB Cache)- TRAY": [1, "36th"],
+        "Mainboard GIGABYTE X870 EAGLE WIFI DDR5": [1, "36th"],
+        "RAM APACER NOX 32GB (2x16GB) DDR5 Bus 5200Mhz – Black": [1, "36th"],
+        "Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)": [1, "36th"],
+        "Nguồn máy tính FSP VIC BD 750 750W 80 Plus Bronze": [1, "36th"],
+        "Card màn hình Zotac Gaming GeForce RTX 5070 Twin Edge OC 12GB": [1, "36th"],
+        "Vỏ Case ANTEC C3 BLACK - KÈM 4 FAN ARGB BLACK": [1, "12th"],
+        "Tản nhiệt khí Thermalright Peerless Assassin 120 ARGB BLACK": [1, "12th"]
+      }
+    },
+    {
+      "id": "38",
+      "name": "PC TTG DESIGNER -3D RENDER - EDIT VIDEO RYZEN 5 9950X - RTX 5070 12GB (All NEW - Bảo hành 36 tháng)",
+      "imageList": [
+        "../Product Image/PCWorkstation/PC TTG DESIGNER -3D RENDER - EDIT VIDEO RYZEN 9 9950X - RTX 5070 12GB (All NEW - Bảo hành 36 tháng)/4.jpg",
+        "../Product Image/PCWorkstation/PC TTG DESIGNER -3D RENDER - EDIT VIDEO RYZEN 9 9950X - RTX 5070 12GB (All NEW - Bảo hành 36 tháng)/3.jpg",
+        "../Product Image/PCWorkstation/PC TTG DESIGNER -3D RENDER - EDIT VIDEO RYZEN 9 9950X - RTX 5070 12GB (All NEW - Bảo hành 36 tháng)/1.jpg",
+        "../Product Image/PCWorkstation/PC TTG DESIGNER -3D RENDER - EDIT VIDEO RYZEN 9 9950X - RTX 5070 12GB (All NEW - Bảo hành 36 tháng)/2.jpg"
+      ],
+      "price": 65990000,
+      "sale": 0.05,
+      "brand": "Khác",
+      "guarantee": "36",
+      "category": "PC RENDERING",
+      "attributes": {
+        "Dòng CPU": "AMD Ryzen 5",
+        "Dung lượng RAM": "32GB",
+        "GPU": "RTX 5070 12GB"
+      },
+      "describe": ["CPU AMD Ryzen 5 9950X (16 nhân 32 luồng, up to 5.7GHz, 80MB Cache)- TRAY", "Mainboard GIGABYTE X870 EAGLE WIFI DDR5", "RAM APACER NOX 32GB (2x16GB) DDR5 Bus 5200Mhz – Black", "Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)", "Nguồn máy tính FSP VIC BD 750 750W 80 Plus Bronze", "Card màn hình Zotac Gaming GeForce RTX 5070 Twin Edge OC 12GB", "Vỏ Case ANTEC C3 BLACK - KÈM 4 FAN ARGB BLACK", "Tản nhiệt khí Thermalright Peerless Assassin 120 ARGB BLACK"],
+      "offer": [],
+      "specifications": {
+        "CPU AMD Ryzen 5 9950X (16 nhân 32 luồng, up to 5.7GHz, 80MB Cache)- TRAY": [1, "36th"],
+        "Mainboard GIGABYTE X870 EAGLE WIFI DDR5": [1, "36th"],
+        "RAM APACER NOX 32GB (2x16GB) DDR5 Bus 5200Mhz – Black": [1, "36th"],
+        "Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)": [1, "36th"],
+        "Nguồn máy tính FSP VIC BD 750 750W 80 Plus Bronze": [1, "36th"],
+        "Card màn hình Zotac Gaming GeForce RTX 5070 Twin Edge OC 12GB": [1, "36th"],
+        "Vỏ Case ANTEC C3 BLACK - KÈM 4 FAN ARGB BLACK": [1, "12th"],
+        "Tản nhiệt khí Thermalright Peerless Assassin 120 ARGB BLACK": [1, "12th"]
+      }
+    },
+    {
+      "id": "38",
+      "name": "PC TTG AMD GAMING LUXURY RYZEN 7 9800X3D - RTX 5070 12GB OC WHITE",
+      "imageList": [
+        "../Product Image/PCWorkstation/PC TTG AMD GAMING LUXURY RYZEN 7 9800X3D - RTX 5070 12GB OC WHITE/3.jpg",
+        "../Product Image/PCWorkstation/PC TTG AMD GAMING LUXURY RYZEN 7 9800X3D - RTX 5070 12GB OC WHITE/2.jpg",
+        "../Product Image/PCWorkstation/PC TTG AMD GAMING LUXURY RYZEN 7 9800X3D - RTX 5070 12GB OC WHITE/1.jpg",
+        "../Product Image/PCWorkstation/PC TTG AMD GAMING LUXURY RYZEN 7 9800X3D - RTX 5070 12GB OC WHITE/4.jpg",
+        "../Product Image/PCWorkstation/PC TTG AMD GAMING LUXURY RYZEN 7 9800X3D - RTX 5070 12GB OC WHITE/5.jpg",
+        "../Product Image/PCWorkstation/PC TTG AMD GAMING LUXURY RYZEN 7 9800X3D - RTX 5070 12GB OC WHITE/6.jpg",
+        "../Product Image/PCWorkstation/PC TTG AMD GAMING LUXURY RYZEN 7 9800X3D - RTX 5070 12GB OC WHITE/7.jpg",
+        "../Product Image/PCWorkstation/PC TTG AMD GAMING LUXURY RYZEN 7 9800X3D - RTX 5070 12GB OC WHITE/8.jpg"
+      ],
+      "price": 73990000,
+      "sale": 0.04,
+      "brand": "Khác",
+      "guarantee": "36",
+      "category": "PC Architecture - CAD",
+      "attributes": {
+        "Dòng CPU": "AMD Ryzen 7",
+        "Dung lượng RAM": "32GB",
+        "GPU": "RTX 5070 12GB"
+      },
+      "describe": ["CPU AMD Ryzen 7 9800X3D (8 nhân 16 luồng/ 4.7GHz up to 5.2GHz/ 120W)- TRAY", "Mainboard MSI B650M GAMING PLUS WIFI DDR5", "Ram G.Skill Ripjaws M5 RGB 32GB (2x16GB) 5200MHz DDR5 White", "Ổ cứng SSD Hiksemi Wave 512GB M2 NVMe GEN3", "Nguồn Antec GSK850 850W (80 Plus Gold / Full-Modular / ATX 3.1 - PCIE 5.1)", "Card Màn Hình COLORFUL iGame GeForce RTX 5070 Ultra W OC 12GB-V", "Vỏ Case XIGMATEK HEAVEN WHITE", "TẢN NHIỆT NƯỚC LEOPARD PRO FLOW 360 SE (TRẮNG)", "XA-360B (Trắng XUÔI) x1 + XA-360BR (Trắng NGƯỢC) x1 + XA-120B Trắng Xuôi x2 + Màn hình Leopard 9.16inch + 24PIN"],
+      "offer": [],
+      "specifications": {
+        "CPU AMD Ryzen 7 9800X3D (8 nhân 16 luồng/ 4.7GHz up to 5.2GHz/ 120W)- TRAY": [1, "36th"],
+        "Mainboard MSI B650M GAMING PLUS WIFI DDR5": [1, "36th"],
+        "Ram G.Skill Ripjaws M5 RGB 32GB (2x16GB) 5200MHz DDR5 White": [1, "36th"],
+        "Ổ cứng SSD Hiksemi Wave 512GB M2 NVMe GEN3": [1, "36th"],
+        "Nguồn Antec GSK850 850W (80 Plus Gold / Full-Modular / ATX 3.1 - PCIE 5.1)": [1, "36th"],
+        "Card Màn Hình COLORFUL iGame GeForce RTX 5070 Ultra W OC 12GB-V": [1, "36th"],
+        "Vỏ Case XIGMATEK HEAVEN WHITE": [1, "12th"],
+        "TẢN NHIỆT NƯỚC LEOPARD PRO FLOW 360 SE (TRẮNG)": [1, "12th"]
+      }
+    },
+    {
+      "id": "39",
+      "name": "PC TTG AMD GAMING LUXURY RYZEN 5 9800X3D - RTX 5070 12GB OC WHITE",
+      "imageList": [
+        "../Product Image/PCWorkstation/PC TTG AMD GAMING LUXURY RYZEN 7 9800X3D - RTX 5070 12GB OC WHITE/3.jpg",
+        "../Product Image/PCWorkstation/PC TTG AMD GAMING LUXURY RYZEN 7 9800X3D - RTX 5070 12GB OC WHITE/4.jpg",
+        "../Product Image/PCWorkstation/PC TTG AMD GAMING LUXURY RYZEN 7 9800X3D - RTX 5070 12GB OC WHITE/2.jpg",
+        "../Product Image/PCWorkstation/PC TTG AMD GAMING LUXURY RYZEN 7 9800X3D - RTX 5070 12GB OC WHITE/1.jpg"
+      ],
+      "price": 53990000,
+      "sale": 0.06,
+      "brand": "Khác",
+      "guarantee": "36",
+      "category": "PC Architecture - CAD",
+      "attributes": {
+        "Dòng CPU": "AMD Ryzen 5",
+        "Dung lượng RAM": "32GB",
+        "GPU": "RTX 5070 12GB"
+      },
+      "describe": ["CPU AMD Ryzen 5 9800X3D (8 nhân 16 luồng/ 4.7GHz up to 5.2GHz/ 120W)- TRAY", "Mainboard MSI B650M GAMING PLUS WIFI DDR5", "Ram G.Skill Ripjaws M5 RGB 32GB (2x16GB) 5200MHz DDR5 White", "Ổ cứng SSD Hiksemi Wave 512GB M2 NVMe GEN3", "Nguồn Antec GSK850 850W (80 Plus Gold / Full-Modular / ATX 3.1 - PCIE 5.1)", "Card Màn Hình COLORFUL iGame GeForce RTX 5070 Ultra W OC 12GB-V", "Vỏ Case XIGMATEK HEAVEN WHITE", "TẢN NHIỆT NƯỚC LEOPARD PRO FLOW 360 SE (TRẮNG)", "XA-360B (Trắng XUÔI) x1 + XA-360BR (Trắng NGƯỢC) x1 + XA-120B Trắng Xuôi x2 + Màn hình Leopard 9.16inch + 24PIN"],
+      "offer": [],
+      "specifications": {
+        "CPU AMD Ryzen 5 9800X3D (8 nhân 16 luồng/ 4.7GHz up to 5.2GHz/ 120W)- TRAY": [1, "36th"],
+        "Mainboard MSI B650M GAMING PLUS WIFI DDR5": [1, "36th"],
+        "Ram G.Skill Ripjaws M5 RGB 32GB (2x16GB) 5200MHz DDR5 White": [1, "36th"],
+        "Ổ cứng SSD Hiksemi Wave 512GB M2 NVMe GEN3": [1, "36th"],
+        "Nguồn Antec GSK850 850W (80 Plus Gold / Full-Modular / ATX 3.1 - PCIE 5.1)": [1, "36th"],
+        "Card Màn Hình COLORFUL iGame GeForce RTX 5070 Ultra W OC 12GB-V": [1, "36th"],
+        "Vỏ Case XIGMATEK HEAVEN WHITE": [1, "12th"],
+        "TẢN NHIỆT NƯỚC LEOPARD PRO FLOW 360 SE (TRẮNG)": [1, "12th"]
+      }
+    },
+    {
+      "id": "40",
+      "name": "PC TTG AMD GAMING LUXURY RYZEN 5 9800X3D - RTX 5070 Ti 16GB",
+      "imageList": [
+        "../Product Image/PCWorkstation/PC TTG AMD GAMING LUXURY RYZEN 7 9800X3D - RTX 5070 Ti 16GB/3.png",
+        "../Product Image/PCWorkstation/PC TTG AMD GAMING LUXURY RYZEN 7 9800X3D - RTX 5070 Ti 16GB/2.png",
+        "../Product Image/PCWorkstation/PC TTG AMD GAMING LUXURY RYZEN 7 9800X3D - RTX 5070 Ti 16GB/1.png",
+        "../Product Image/PCWorkstation/PC TTG AMD GAMING LUXURY RYZEN 7 9800X3D - RTX 5070 Ti 16GB/4.png",
+        "../Product Image/PCWorkstation/PC TTG AMD GAMING LUXURY RYZEN 7 9800X3D - RTX 5070 Ti 16GB/5.png",
+        "../Product Image/PCWorkstation/PC TTG AMD GAMING LUXURY RYZEN 7 9800X3D - RTX 5070 Ti 16GB/6.png",
+        "../Product Image/PCWorkstation/PC TTG AMD GAMING LUXURY RYZEN 7 9800X3D - RTX 5070 Ti 16GB/7.png",
+        "../Product Image/PCWorkstation/PC TTG AMD GAMING LUXURY RYZEN 7 9800X3D - RTX 5070 Ti 16GB/8.png",
+        "../Product Image/PCWorkstation/PC TTG AMD GAMING LUXURY RYZEN 7 9800X3D - RTX 5070 Ti 16GB/9.png",
+        "../Product Image/PCWorkstation/PC TTG AMD GAMING LUXURY RYZEN 7 9800X3D - RTX 5070 Ti 16GB/10.png"
+      ],
+      "price": 69990000,
+      "sale": 0.09,
+      "brand": "Khác",
+      "guarantee": "36",
+      "category": "PC Machine Learning / AI",
+      "attributes": {
+        "Dòng CPU": "AMD Ryzen 5",
+        "Dung lượng RAM": "32GB",
+        "GPU": "RTX 5070 Ti 16GB"
+      },
+      "describe": ["CPU AMD Ryzen 7 9800X3D (8 nhân 16 luồng/ 4.7GHz up to 5.2GHz/ 120W)- TRAY", "Mainboard Asus TUF GAMING B650EM-E WIFI DDR5 (Bluetooth)", "RAM GSKILL RIPJAWS S5 32GB/6000Mhz (2x16GB) DDR5 BLACK", "Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)", "Nguồn Antec GSK850 850W (80 Plus Gold / Full-Modular / ATX 3.1 - PCIE 5.1)", "Card màn hình Colorful GeForce RTX 5070 Ti NB EX 16GB-V", "Vỏ Case XIGMATEK HEAVEN", "Tản Nhiệt Nước TRYX PANORAMA SE 360 ARGB - Black", "Fan XA-360B (ĐEN XUÔI) x1 + XA-360BR (ĐEN NGƯỢC) x1 + XA-120B Đen Xuôi x2 + Màn hình Leopard 9.16inch"],
+      "offer": [],
+      "specifications": {
+        "CPU AMD Ryzen 7 9800X3D (8 nhân 16 luồng/ 4.7GHz up to 5.2GHz/ 120W)- TRAY": [1, "36th"],
+        "Mainboard Asus TUF GAMING B650EM-E WIFI DDR5 (Bluetooth)": [1, "36th"],
+        "RAM GSKILL RIPJAWS S5 32GB/6000Mhz (2x16GB) DDR5 BLACK": [1, "36th"],
+        "Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)": [1, "36th"],
+        "Nguồn Antec GSK850 850W (80 Plus Gold / Full-Modular / ATX 3.1 - PCIE 5.1)": [1, "36th"],
+        "Card màn hình Colorful GeForce RTX 5070 Ti NB EX 16GB-V": [1, "36th"],
+        "Vỏ Case XIGMATEK HEAVEN": [1, "12th"],
+        "Tản Nhiệt Nước TRYX PANORAMA SE 360 ARGB - Black": [1, "12th"]
+      }
+    },
+    {
+      "id": "41",
+      "name": "PC TTG AMD GAMING LUXURY RYZEN 5 9800X3D - RTX 5070 Ti 16GB",
+      "imageList": [
+        "../Product Image/PCWorkstation/PC TTG AMD GAMING LUXURY RYZEN 7 9800X3D - RTX 5070 Ti 16GB/9.png",
+        "../Product Image/PCWorkstation/PC TTG AMD GAMING LUXURY RYZEN 7 9800X3D - RTX 5070 Ti 16GB/2.png",
+        "../Product Image/PCWorkstation/PC TTG AMD GAMING LUXURY RYZEN 7 9800X3D - RTX 5070 Ti 16GB/3.png",
+        "../Product Image/PCWorkstation/PC TTG AMD GAMING LUXURY RYZEN 7 9800X3D - RTX 5070 Ti 16GB/4.png",
+        "../Product Image/PCWorkstation/PC TTG AMD GAMING LUXURY RYZEN 7 9800X3D - RTX 5070 Ti 16GB/5.png",
+        "../Product Image/PCWorkstation/PC TTG AMD GAMING LUXURY RYZEN 7 9800X3D - RTX 5070 Ti 16GB/6.png",
+        "../Product Image/PCWorkstation/PC TTG AMD GAMING LUXURY RYZEN 7 9800X3D - RTX 5070 Ti 16GB/7.png",
+        "../Product Image/PCWorkstation/PC TTG AMD GAMING LUXURY RYZEN 7 9800X3D - RTX 5070 Ti 16GB/8.png",
+        "../Product Image/PCWorkstation/PC TTG AMD GAMING LUXURY RYZEN 7 9800X3D - RTX 5070 Ti 16GB/10.png",
+        "../Product Image/PCWorkstation/PC TTG AMD GAMING LUXURY RYZEN 7 9800X3D - RTX 5070 Ti 16GB/1.png"
+      ],
+      "price": 59990000,
+      "sale": 0.08,
+      "brand": "Khác",
+      "guarantee": "36",
+      "category": "PC Machine Learning / AI",
+      "attributes": {
+        "Dòng CPU": "AMD Ryzen 5",
+        "Dung lượng RAM": "32GB",
+        "GPU": "RTX 5070 Ti 16GB"
+      },
+      "describe": ["CPU AMD Ryzen 5 9800X3D (8 nhân 16 luồng/ 4.7GHz up to 5.2GHz/ 120W)- TRAY", "Mainboard Asus TUF GAMING B650EM-E WIFI DDR5 (Bluetooth)", "RAM GSKILL RIPJAWS S5 32GB/6000Mhz (2x16GB) DDR5 BLACK", "Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)", "Nguồn Antec GSK850 850W (80 Plus Gold / Full-Modular / ATX 3.1 - PCIE 5.1)", "Card màn hình Colorful GeForce RTX 5070 Ti NB EX 16GB-V", "Vỏ Case XIGMATEK HEAVEN", "Tản Nhiệt Nước TRYX PANORAMA SE 360 ARGB - Black", "Fan XA-360B (ĐEN XUÔI) x1 + XA-360BR (ĐEN NGƯỢC) x1 + XA-120B Đen Xuôi x2 + Màn hình Leopard 9.16inch"],
+      "offer": [],
+      "specifications": {
+        "CPU AMD Ryzen 5 9800X3D (8 nhân 16 luồng/ 4.7GHz up to 5.2GHz/ 120W)- TRAY": [1, "36th"],
+        "Mainboard Asus TUF GAMING B650EM-E WIFI DDR5 (Bluetooth)": [1, "36th"],
+        "RAM GSKILL RIPJAWS S5 32GB/6000Mhz (2x16GB) DDR5 BLACK": [1, "36th"],
+        "Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)": [1, "36th"],
+        "Nguồn Antec GSK850 850W (80 Plus Gold / Full-Modular / ATX 3.1 - PCIE 5.1)": [1, "36th"],
+        "Card màn hình Colorful GeForce RTX 5070 Ti NB EX 16GB-V": [1, "36th"],
+        "Vỏ Case XIGMATEK HEAVEN": [1, "12th"],
+        "Tản Nhiệt Nước TRYX PANORAMA SE 360 ARGB - Black": [1, "12th"]
+      }
+    }
   ],
   "pcAI": [
     {
