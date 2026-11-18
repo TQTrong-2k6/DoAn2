@@ -4379,208 +4379,414 @@
   ],
   "pcMini": [
     {
-      "id": "11",
-      "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE",
+      "id": "1",
+      "name": "PC MINI AMD GAMING PRO Ryzen 5 7500F- RTX 5060 8GB OC WHITE",
       "imageList": [
-        "../slide-show/img-support1.jpg"
+        "../Product Image/PCMini/PC MINI AMD GAMING PRO Ryzen 5 7500F- RTX 5060 8GB OC WHITE/1.jpg",
+        "../Product Image/PCMini/PC MINI AMD GAMING PRO Ryzen 5 7500F- RTX 5060 8GB OC WHITE/2.jpg",
+        "../Product Image/PCMini/PC MINI AMD GAMING PRO Ryzen 5 7500F- RTX 5060 8GB OC WHITE/3.jpg"
       ],
-      "price": 75990000,
+      "price": 35990000,
+      "sale": 0.04,
+      "brand": "Khác",
+      "guarantee": "36",
+      "attributes": {
+        "Dòng CPU": "AMD Ryzen 5",
+        "Dung lượng RAM": "16GB",
+        "GPU": "RTX 5060 8GB"
+      },
+      "describe": ["CPU AMD Ryzen 5 7500F (3.7 GHz Upto 5.0 GHz , 6 Core- 12 Threads ,AM5) (Tray)", "Mainboard ASUS B650M AYW WIFI DDR5", "RAM APACER NOX 16GB BUSS 5200Mhz DDR5", "Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)", "Nguồn máy tính Einarex AXIS MASTER L1 650W 80 Plus Bronze", "Card màn hình Colorful iGame GeForce RTX 5060 Ultra W DUO OC 8GB-V", "Vỏ Case JONSBO TK-1 WHITE", "Tản nhiệt nước IDCOOLING FX240 INF ARGB WHITE"],
+      "offer": [{"SSD 512GB NVME GEN4": 1000000}, {"Ram 16GB bus 6000Mhz DDR5": 700000}],
+      "specifications": {
+        "CPU AMD Ryzen 5 7500F (3.7 GHz Upto 5.0 GHz , 6 Core- 12 Threads ,AM5) (Tray)": [1, "36th"],
+        "Mainboard ASUS B650M AYW WIFI DDR5": [1, "36th"],
+        "RAM APACER NOX 16GB BUSS 5200Mhz DDR5": [1, "36th"],
+        "Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)": [1, "36th"],
+        "Nguồn máy tính Einarex AXIS MASTER L1 650W 80 Plus Bronze": [1, "36th"],
+        "Card màn hình Colorful iGame GeForce RTX 5060 Ultra W DUO OC 8GB-V": [1, "36th"],
+        "Vỏ Case JONSBO TK-1 WHITE": [1, "12th"],
+        "Tản nhiệt nước IDCOOLING FX240 INF ARGB WHITE": [1, "12th"]
+      }
+    },
+    {
+      "id": "2",
+      "name": "PC MINI AMD GAMING PRO RYZEN 7 7800X3D - RTX 5070 12GB OC WHITE",
+      "imageList": [
+        "../Product Image/PCMini/PC MINI AMD GAMING PRO RYZEN 7 7800X3D - RTX 5070 12GB OC WHITE/1.jpg",
+        "../Product Image/PCMini/PC MINI AMD GAMING PRO RYZEN 7 7800X3D - RTX 5070 12GB OC WHITE/2.jpg",
+        "../Product Image/PCMini/PC MINI AMD GAMING PRO RYZEN 7 7800X3D - RTX 5070 12GB OC WHITE/3.jpg",
+        "../Product Image/PCMini/PC MINI AMD GAMING PRO RYZEN 7 7800X3D - RTX 5070 12GB OC WHITE/4.jpg",
+        "../Product Image/PCMini/PC MINI AMD GAMING PRO RYZEN 7 7800X3D - RTX 5070 12GB OC WHITE/5.jpg",
+        "../Product Image/PCMini/PC MINI AMD GAMING PRO RYZEN 7 7800X3D - RTX 5070 12GB OC WHITE/6.jpg",
+        "../Product Image/PCMini/PC MINI AMD GAMING PRO RYZEN 7 7800X3D - RTX 5070 12GB OC WHITE/7.jpg",
+        "../Product Image/PCMini/PC MINI AMD GAMING PRO RYZEN 7 7800X3D - RTX 5070 12GB OC WHITE/8.jpg",
+        "../Product Image/PCMini/PC MINI AMD GAMING PRO RYZEN 7 7800X3D - RTX 5070 12GB OC WHITE/9.jpg",
+        "../Product Image/PCMini/PC MINI AMD GAMING PRO RYZEN 7 7800X3D - RTX 5070 12GB OC WHITE/10.jpg",
+        "../Product Image/PCMini/PC MINI AMD GAMING PRO RYZEN 7 7800X3D - RTX 5070 12GB OC WHITE/11.jpg",
+        "../Product Image/PCMini/PC MINI AMD GAMING PRO RYZEN 7 7800X3D - RTX 5070 12GB OC WHITE/12.jpg",
+        "../Product Image/PCMini/PC MINI AMD GAMING PRO RYZEN 7 7800X3D - RTX 5070 12GB OC WHITE/13.jpg"
+      ],
+      "price": 55990000,
+      "sale": 0.06,
+      "brand": "Khác",
+      "guarantee": "36",
+      "attributes": {
+        "Dòng CPU": "AMD Ryzen 7",
+        "Dung lượng RAM": "16GB",
+        "GPU": "RTX 5070 12GB"
+      },
+      "describe": ["CPU AMD RYZEN 7 7800X3D (4.2GHZ UP TO 5.0GHZ/105MB/8 CORES 16 THREADS) (TRAY)", "Mainboard ASUS B650M-AYW WIFI DDR5", "RAM APACER NOX 16GB BUSS 5200Mhz DDR5", "Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)", "Nguồn máy tính FSP VIC BD 750 750W 80 Plus Bronze", "Card màn hình GIGABYTE GeForce RTX 5070 EAGLE OC ICE SFF 12GB", "Vỏ Case JONSBO D32 PRO WHITE - KÈM 3 FAN ARGB WHITE", "Tản nhiệt nước IDCOOLING FX240 INF ARGB WHITE"],
+      "offer": [{"SSD 512GB NVME GEN4": 1000000}, {"Ram 16GB bus 6000Mhz DDR5": 700000}],
+      "specifications": {
+        "CPU AMD RYZEN 7 7800X3D (4.2GHZ UP TO 5.0GHZ/105MB/8 CORES 16 THREADS) (TRAY)": [1, "36th"],
+        "Mainboard ASUS B650M-AYW WIFI DDR5": [1, "36th"],
+        "RAM APACER NOX 16GB BUSS 5200Mhz DDR5": [1, "36th"],
+        "Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)": [1, "36th"],
+        "Nguồn máy tính FSP VIC BD 750 750W 80 Plus Bronze": [1, "36th"],
+        "Card màn hình GIGABYTE GeForce RTX 5070 EAGLE OC ICE SFF 12GB": [1, "36th"],
+        "Vỏ Case JONSBO D32 PRO WHITE - KÈM 3 FAN ARGB WHITE": [1, "12th"],
+        "Tản nhiệt nước IDCOOLING FX240 INF ARGB WHITE": [1, "12th"]
+      }
+    },
+    {
+      "id": "3",
+      "name": "PC MINI GAMING PRO ULTRA 7 265KF - RTX 5070 Ti 16GB OC (All NEW - Bảo hành 36 tháng)",
+      "imageList": [
+        "../Product Image/PCMini/PC MINI GAMING PRO ULTRA 7 265KF - RTX 5070 Ti 16GB OC (All NEW - Bảo hành 36 tháng)/1.jpg"
+      ],
+      "price": 75980000,
+      "sale": 0.09,
+      "brand": "Khác",
+      "guarantee": "36",
+      "attributes": {
+        "Dòng CPU": "Core Ultra 7",
+        "Dung lượng RAM": "16GB",
+        "GPU": "RTX 5070 12GB"
+      },
+      "describe": ["CPU AMD RYZEN 7 7800X3D (4.2GHZ UP TO 5.0GHZ/105MB/8 CORES 16 THREADS) (TRAY)", "Mainboard ASUS B650M-AYW WIFI DDR5", "RAM APACER NOX 16GB BUSS 5200Mhz DDR5", "Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)", "Nguồn máy tính FSP VIC BD 750 750W 80 Plus Bronze", "Card màn hình GIGABYTE GeForce RTX 5070 EAGLE OC ICE SFF 12GB", "Vỏ Case JONSBO D32 PRO WHITE - KÈM 3 FAN ARGB WHITE", "Tản nhiệt nước IDCOOLING FX240 INF ARGB WHITE"],
+      "offer": [{"SSD 512GB NVME GEN4": 1000000}, {"Ram 16GB bus 6000Mhz DDR5": 700000}],
+      "specifications": {
+        "CPU AMD RYZEN 7 7800X3D (4.2GHZ UP TO 5.0GHZ/105MB/8 CORES 16 THREADS) (TRAY)": [1, "36th"],
+        "Mainboard ASUS B650M-AYW WIFI DDR5": [1, "36th"],
+        "RAM APACER NOX 16GB BUSS 5200Mhz DDR5": [1, "36th"],
+        "Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)": [1, "36th"],
+        "Nguồn máy tính FSP VIC BD 750 750W 80 Plus Bronze": [1, "36th"],
+        "Card màn hình GIGABYTE GeForce RTX 5070 EAGLE OC ICE SFF 12GB": [1, "36th"],
+        "Vỏ Case JONSBO D32 PRO WHITE - KÈM 3 FAN ARGB WHITE": [1, "12th"],
+        "Tản nhiệt nước IDCOOLING FX240 INF ARGB WHITE": [1, "12th"]
+      }
+    },
+    {
+      "id": "4",
+      "name": "PC MINI AMD GAMING PRO RYZEN 7 7800X3D - RTX 5080 16GB OC (ALL NEW - Bảo hành 36 tháng)",
+      "imageList": [
+        "../Product Image/PCMini/PC MINI AMD GAMING PRO RYZEN 7 7800X3D - RTX 5080 16GB OC (ALL NEW - Bảo hành 36 tháng)/1.jpg"
+      ],
+      "price": 83990000,
+      "sale": 0.02,
+      "brand": "Khác",
+      "guarantee": "36",
+      "attributes": {
+        "Dòng CPU": "AMD Ryzen 7",
+        "Dung lượng RAM": "32GB",
+        "GPU": "RTX 5080 16GB"
+      },
+      "describe": ["CPU AMD RYZEN 7 7800X3D (4.2GHZ UP TO 5.0GHZ/105MB/8 CORES 16 THREADS) (TRAY)", "Mainboard Colorful BATTLE-AX B650M-PLUS WIFI V15", "RAM APACER NOX 32GB (2x16GB) DDR5 Bus 5200Mhz – Black", "Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)", "Nguồn Antec GSK850 850W (80 Plus Gold / Full-Modular / ATX 3.1 - PCIE 5.1)", "Card màn hình ZOTAC GAMING GeForce RTX 5080 16GB SOLID CORE", "Vỏ Case JONSBO D32 PRO MINI BLACK", "Tản nhiệt nước IDCOOLING FX240 INF ARGB"],
+      "offer": [{"SSD 512GB NVME GEN4": 1000000}, {"Ram 16GB bus 6000Mhz DDR5": 700000}],
+      "specifications": {
+        "CPU AMD RYZEN 7 7800X3D (4.2GHZ UP TO 5.0GHZ/105MB/8 CORES 16 THREADS) (TRAY)": [1, "36th"],
+        "Mainboard Colorful BATTLE-AX B650M-PLUS WIFI V15": [1, "36th"],
+        "RAM APACER NOX 32GB (2x16GB) DDR5 Bus 5200Mhz – Black": [1, "36th"],
+        "Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)": [1, "36th"],
+        "Nguồn Antec GSK850 850W (80 Plus Gold / Full-Modular / ATX 3.1 - PCIE 5.1)": [1, "36th"],
+        "Card màn hình ZOTAC GAMING GeForce RTX 5080 16GB SOLID CORE": [1, "36th"],
+        "Vỏ Case JONSBO D32 PRO MINI BLACK": [1, "12th"],
+        "Tản nhiệt nước IDCOOLING FX240 INF ARGB": [1, "12th"]
+      }
+    },
+    {
+      "id": "5",
+      "name": "PC MINI TTG GAMING PRO i7 14700KF - RTX 5080 16GB OC (ALL NEW - Bảo hành 36 tháng)",
+      "imageList": [
+        "../Product Image/PCMini/PC MINI AMD GAMING PRO RYZEN 7 7800X3D - RTX 5080 16GB OC (ALL NEW - Bảo hành 36 tháng)/1.jpg"
+      ],
+      "price": 86680000,
       "sale": 0,
-      "upgrade": ""
+      "brand": "Khác",
+      "guarantee": "36",
+      "attributes": {
+        "Dòng CPU": "Intel Core i7",
+        "Dung lượng RAM": "32GB",
+        "GPU": "RTX 5080 16GB"
+      },
+      "describe": ["CPU Intel Core i7 14700KF (Intel LGA1700 - 20 Core - 28 Thread - Base 3.4Ghz - Turbo 5.6Mhz (TRAY)", "Mainboard GIGBAYTE Z790M AORUS ELITE AX DDR5", "RAM APACER NOX 32GB (2x16GB) DDR5 Bus 5200Mhz – Black", "Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)", "Nguồn Antec GSK850 850W (80 Plus Gold / Full-Modular / ATX 3.1 - PCIE 5.1)", "Card màn hình ZOTAC GAMING GeForce RTX 5080 16GB SOLID CORE", "Vỏ Case JONSBO D32 PRO MINI BLACK", "Tản nhiệt nước IDCOOLING FX240 INF ARGB"],
+      "offer": [{"SSD 512GB NVME GEN4": 1000000}],
+      "specifications": {
+        "CPU Intel Core i7 14700KF (Intel LGA1700 - 20 Core - 28 Thread - Base 3.4Ghz - Turbo 5.6Mhz (TRAY)": [1, "36th"],
+        "Mainboard GIGBAYTE Z790M AORUS ELITE AX DDR5": [1, "36th"],
+        "RAM APACER NOX 32GB (2x16GB) DDR5 Bus 5200Mhz – Black": [1, "36th"],
+        "Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)": [1, "36th"],
+        "Nguồn Antec GSK850 850W (80 Plus Gold / Full-Modular / ATX 3.1 - PCIE 5.1)": [1, "36th"],
+        "Card màn hình ZOTAC GAMING GeForce RTX 5080 16GB SOLID CORE": [1, "36th"],
+        "Vỏ Case JONSBO D32 PRO MINI BLACK": [1, "12th"],
+        "Tản nhiệt nước IDCOOLING FX240 INF ARGB": [1, "12th"]
+      }
+    },
+    {
+      "id": "6",
+      "name": "PC MINI TTG GAMING PRO i5 14600KF - RTX 5080 16GB OC (ALL NEW - Bảo hành 36 tháng)",
+      "imageList": [
+        "../Product Image/PCMini/PC MINI AMD GAMING PRO RYZEN 7 7800X3D - RTX 5080 16GB OC (ALL NEW - Bảo hành 36 tháng)/1.jpg"
+      ],
+      "price": 80980000,
+      "sale": 0.02,
+      "brand": "Khác",
+      "guarantee": "36",
+      "attributes": {
+        "Dòng CPU": "Intel Core i5",
+        "Dung lượng RAM": "32GB",
+        "GPU": "RTX 5080 16GB"
+      },
+      "describe": ["CPU Intel Core i5-14600KF (Up to 5.3Ghz, 14 NHÂN 20 LUỒNG, 24MB CACHE) TRAY", "Mainboard MSI B760M GAMING WIFI PLUS DDR5", "RAM APACER NOX 32GB (2x16GB) DDR5 Bus 5200Mhz – Black", "Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)", "Nguồn Antec GSK850 850W (80 Plus Gold / Full-Modular / ATX 3.1 - PCIE 5.1)", "Card màn hình ZOTAC GAMING GeForce RTX 5080 16GB SOLID CORE", "Vỏ Case JONSBO D32 PRO MINI BLACK", "Tản nhiệt nước IDCOOLING FX240 INF ARGB"],
+      "offer": [{"SSD 512GB NVME GEN4": 1000000}, {"Ram 16GB bus 6000Mhz DDR5": 700000}],
+      "specifications": {
+        "CPU Intel Core i5-14600KF (Up to 5.3Ghz, 14 NHÂN 20 LUỒNG, 24MB CACHE) TRAY": [1, "36th"],
+        "Mainboard MSI B760M GAMING WIFI PLUS DDR5": [1, "36th"],
+        "RAM APACER NOX 32GB (2x16GB) DDR5 Bus 5200Mhz – Black": [1, "36th"],
+        "Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)": [1, "36th"],
+        "Nguồn Antec GSK850 850W (80 Plus Gold / Full-Modular / ATX 3.1 - PCIE 5.1)": [1, "36th"],
+        "Card màn hình ZOTAC GAMING GeForce RTX 5080 16GB SOLID CORE": [1, "36th"],
+        "Vỏ Case JONSBO D32 PRO MINI BLACK": [1, "12th"],
+        "Tản nhiệt nước IDCOOLING FX240 INF ARGB": [1, "12th"]
+      }
+    },
+    {
+      "id": "7",
+      "name": "PC MINI TTG GAMING PRO i7 14700F - RTX 5070 12GB",
+      "imageList": [
+        "../Product Image/PCMini/PC MINI TTG GAMING PRO i7 14700F - RTX 5070 12GB/1.jpg"
+      ],
+      "price": 56990000,
+      "sale": 0.11,
+      "brand": "Khác",
+      "guarantee": "36",
+      "attributes": {
+        "Dòng CPU": "Intel Core i7",
+        "Dung lượng RAM": "32GB",
+        "GPU": "RTX 5070 12GB"
+      },
+      "describe": ["CPU INTEL CORE I7-14700F (UP TO 5.4GHZ, 20 NHÂN 28 LUỒNG, 33MB CACHE, 65W) TRAY", "Mainboard MSI B760M GAMING WIFI PLUS DDR5", "RAM APACER NOX 16GB DDR5 Bus 5200Mhz – Black", "Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)", "Nguồn máy tính FSP VIC BD 750 750W 80 Plus Bronze", "Card màn hình Zotac Gaming GeForce RTX 5070 Twin Edge OC 12GB", "Vỏ Case JONSBO D32 PRO MINI BLACK", "Tản nhiệt nước IDCOOLING FX240 INF ARGB"],
+      "offer": [{"SSD 512GB NVME GEN4": 1000000}, {"Ram 16GB bus 6000Mhz DDR5": 700000}],
+      "specifications": {
+        "CPU INTEL CORE I7-14700F (UP TO 5.4GHZ, 20 NHÂN 28 LUỒNG, 33MB CACHE, 65W) TRAY": [1, "36th"],
+        "Mainboard MSI B760M GAMING WIFI PLUS DDR5": [1, "36th"],
+        "RAM APACER NOX 16GB DDR5 Bus 5200Mhz – Black": [1, "36th"],
+        "Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)": [1, "36th"],
+        "Nguồn máy tính FSP VIC BD 750 750W 80 Plus Bronze": [1, "36th"],
+        "Card màn hình Zotac Gaming GeForce RTX 5070 Twin Edge OC 12GB": [1, "36th"],
+        "Vỏ Case JONSBO D32 PRO MINI BLACK": [1, "12th"],
+        "Tản nhiệt nước IDCOOLING FX240 INF ARGB": [1, "12th"]
+      }
+    },
+    {
+      "id": "8",
+      "name": "PC MINI TTG i7 14700KF - RTX 5060 Ti 16GB BLACK",
+      "imageList": [
+        "../Product Image/PCMini/PC MINI TTG GAMING PRO i7 14700F - RTX 5070 12GB/1.jpg"
+      ],
+      "price": 53990000,
+      "sale": 0.8,
+      "brand": "Khác",
+      "guarantee": "36",
+      "attributes": {
+        "Dòng CPU": "Intel Core i7",
+        "Dung lượng RAM": "16GB",
+        "GPU": "RTX 5060 16GB"
+      },
+      "describe": ["CPU Intel Core i7 14700KF (Intel LGA1700 - 20 Core - 28 Thread - Base 3.4Ghz - Turbo 5.6Mhz (TRAY)", "MAINBOARD GIGABYTE Z790M AORUS ELITE AX DDR5", "RAM APACER NOX 16GB BUS 5200MHZ BLACK", "Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)", "Nguồn Antec GSK850 850W (80 Plus Gold / Full-Modular / ATX 3.1 - PCIE 5.1)", "CARD MÀN HÌNH PNY GEFORCE RTX 5060 Ti 16GB OC DUAL FAN", "Vỏ Case JONSBO D32 PRO MINI BLACK", "Tản nhiệt nước IDCOOLING FX240 INF ARGB"],
+      "offer": [{"SSD 512GB NVME GEN4": 1000000}, {"Ram 16GB bus 6000Mhz DDR5": 700000}],
+      "specifications": {
+        "CPU Intel Core i7 14700KF (Intel LGA1700 - 20 Core - 28 Thread - Base 3.4Ghz - Turbo 5.6Mhz (TRAY)": [1, "36th"],
+        "MAINBOARD GIGABYTE Z790M AORUS ELITE AX DDR5": [1, "36th"],
+        "RAM APACER NOX 16GB BUS 5200MHZ BLACK": [1, "36th"],
+        "Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)": [1, "36th"],
+        "Nguồn Antec GSK850 850W (80 Plus Gold / Full-Modular / ATX 3.1 - PCIE 5.1)": [1, "36th"],
+        "CARD MÀN HÌNH PNY GEFORCE RTX 5060 Ti 16GB OC DUAL FAN": [1, "36th"],
+        "Vỏ Case JONSBO D32 PRO MINI BLACK": [1, "12th"],
+        "Tản nhiệt nước IDCOOLING FX240 INF ARGB": [1, "12th"]
+      }
+    },
+    {
+      "id": "9",
+      "name": "PC MINI TTG i5 14600KF - RTX 5060 Ti 16GB BLACK",
+      "imageList": [
+        "../Product Image/PCMini/PC MINI TTG GAMING PRO i7 14700F - RTX 5070 12GB/1.jpg"
+      ],
+      "price": 53990000,
+      "sale": 0.8,
+      "brand": "Khác",
+      "guarantee": "36",
+      "attributes": {
+        "Dòng CPU": "Intel Core i5",
+        "Dung lượng RAM": "16GB",
+        "GPU": "RTX 5060 16GB"
+      },
+      "describe": ["CPU Intel Core i5-14600KF (Up to 5.3Ghz, 14 NHÂN 20 LUỒNG, 24MB CACHE) TRAY", "Mainboard MSI B760M GAMING WIFI PLUS DDR5", "RAM APACER NOX 16GB BUS 5200MHZ BLACK", "Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)", "Nguồn FSP VITA 850BD PPA8504502 BRONZE/DÂY LIỀN/EU/ĐEN", "CARD MÀN HÌNH PNY GEFORCE RTX 5060 Ti 16GB OC DUAL FAN", "Vỏ Case JONSBO D32 PRO MINI BLACK", "Tản nhiệt nước IDCOOLING FX240 INF ARGB"],
+      "offer": [{"SSD 512GB NVME GEN4": 1000000}, {"Ram 16GB bus 6000Mhz DDR5": 700000}],
+      "specifications": {
+        "CPU Intel Core i5-14600KF (Up to 5.3Ghz, 14 NHÂN 20 LUỒNG, 24MB CACHE) TRAY": [1, "36th"],
+        "Mainboard MSI B760M GAMING WIFI PLUS DDR5": [1, "36th"],
+        "RAM APACER NOX 16GB BUS 5200MHZ BLACK": [1, "36th"],
+        "Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)": [1, "36th"],
+        "Nguồn FSP VITA 850BD PPA8504502 BRONZE/DÂY LIỀN/EU/ĐEN": [1, "36th"],
+        "CARD MÀN HÌNH PNY GEFORCE RTX 5060 Ti 16GB OC DUAL FAN": [1, "36th"],
+        "Vỏ Case JONSBO D32 PRO MINI BLACK": [1, "12th"],
+        "Tản nhiệt nước IDCOOLING FX240 INF ARGB": [1, "12th"]
+      }
+    },
+    {
+      "id": "10",
+      "name": "PC MINI AMD GAMING PRO RYZEN 7 7700 - RX 9060 XT 16GB OC",
+      "imageList": [
+        "../Product Image/PCMini/PC MINI TTG GAMING PRO i7 14700F - RTX 5070 12GB/1.jpg"
+      ],
+      "price": 39990000,
+      "sale": 0.16,
+      "brand": "Khác",
+      "guarantee": "36",
+      "attributes": {
+        "Dòng CPU": "AMD Ryzen 7",
+        "Dung lượng RAM": "16GB",
+        "GPU": "RX 9060 XT 16GB"
+      },
+      "describe": ["CPU AMD Ryzen 7 7700 (3.8 GHz Upto 5.3GHz / 40MB / 8 Cores, 16 Threads, AM5) TRAY", "Mainboard MSI A620M-E PRO DDR5", "RAM APACER NOX 16GB BUS 5200MHZ BLACK", "Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)", "Nguồn máy tính Einarex AXIS MASTER L1 650W 80 Plus Bronze", "Card Màn Hình ASUS Dual Radeon RX 9060 XT GDDR6 16GB", "Vỏ Case JONSBO D32 PRO MINI BLACK", "Tản nhiệt khí Thermalright Peerless Assassin 120 ARGB BLACK"],
+      "offer": [{"SSD 512GB NVME GEN4": 1000000}, {"Ram 16GB bus 6000Mhz DDR5": 700000}],
+      "specifications": {
+        "CPU AMD Ryzen 7 7700 (3.8 GHz Upto 5.3GHz / 40MB / 8 Cores, 16 Threads, AM5) TRAY": [1, "36th"],
+        "Mainboard MSI A620M-E PRO DDR5": [1, "36th"],
+        "RAM APACER NOX 16GB BUS 5200MHZ BLACK": [1, "36th"],
+        "Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)": [1, "36th"],
+        "Nguồn máy tính Einarex AXIS MASTER L1 650W 80 Plus Bronze": [1, "36th"],
+        "Card Màn Hình ASUS Dual Radeon RX 9060 XT GDDR6 16GB": [1, "36th"],
+        "Vỏ Case JONSBO D32 PRO MINI BLACK": [1, "12th"],
+        "Tản nhiệt khí Thermalright Peerless Assassin 120 ARGB BLACK": [1, "12th"]
+      }
+    },
+    {
+      "id": "11",
+      "name": "PC MINI GAMING I5 13400F - 16GB DDR4 - RX 9060 XT 16GB OC",
+      "imageList": [
+        "../Product Image/PCMini/PC MINI TTG GAMING PRO i7 14700F - RTX 5070 12GB/1.jpg"
+      ],
+      "price": 33990000,
+      "sale": 0.16,
+      "brand": "Khác",
+      "guarantee": "36",
+      "attributes": {
+        "Dòng CPU": "Intel Core i5",
+        "Dung lượng RAM": "16GB",
+        "GPU": "RX 9060 XT 16GB"
+      },
+      "describe": ["CPU Intel Core i5-13400F (Up To 4.60GHz, 10 Nhân 16 Luồng, 20 MB Cache, LGA 1700) ( TRAY )", "Mainboard ASUS B760M-F PRIME DDR4", "Ram SSTC 16GB Bus 3200Mhz DDR4 BLACK TẢN NHIỆT", "Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)", "Nguồn máy tính Einarex AXIS MASTER L1 650W 80 Plus Bronze", "Card Màn Hình ASUS Dual Radeon RX 9060 XT GDDR6 16GB", "Vỏ Case JONSBO D32 PRO MINI BLACK", "Tản nhiệt khí JONSBO CR-1000 EVO BLACK"],
+      "offer": [{"SSD 512GB NVME GEN4": 1000000}, {"Ram 16GB bus 6000Mhz DDR5": 700000}],
+      "specifications": {
+        "CPU Intel Core i5-13400F (Up To 4.60GHz, 10 Nhân 16 Luồng, 20 MB Cache, LGA 1700) ( TRAY )": [1, "36th"],
+        "Mainboard ASUS B760M-F PRIME DDR4": [1, "36th"],
+        "Ram SSTC 16GB Bus 3200Mhz DDR4 BLACK TẢN NHIỆT": [1, "36th"],
+        "Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)": [1, "36th"],
+        "Nguồn máy tính Einarex AXIS MASTER L1 650W 80 Plus Bronze": [1, "36th"],
+        "Card Màn Hình ASUS Dual Radeon RX 9060 XT GDDR6 16GB": [1, "36th"],
+        "Vỏ Case JONSBO D32 PRO MINI BLACK": [1, "12th"],
+        "Tản nhiệt khí JONSBO CR-1000 EVO BLACK": [1, "12th"]
+      }
     },
     {
       "id": "12",
-      "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE",
+      "name": "PC MINI ULTRA GAMING i5 14600KF - 16GB DDR4 - RX 9060 XT 16GB OC",
       "imageList": [
-        "../slide-show/img-support1.jpg"
+        "../Product Image/PCMini/PC MINI TTG GAMING PRO i7 14700F - RTX 5070 12GB/1.jpg"
       ],
-      "price": 75990000,
-      "sale": 0.06,
-      "upgrade": "",
-      "brand": "Khác"
+      "price": 33990000,
+      "sale": 0.04,
+      "brand": "Khác",
+      "guarantee": "36",
+      "attributes": {
+        "Dòng CPU": "Intel Core i5",
+        "Dung lượng RAM": "16GB",
+        "GPU": "RX 9060 XT 16GB"
+      },
+      "describe": ["CPU Intel Core i5-14600KF (Up to 5.3Ghz, 14 NHÂN 20 LUỒNG, 24MB CACHE) TRAY", "Mainboard Colorful BATTLE-AX B760M-PLUS WIFI V21 DDR4", "Ram SSTC 16GB Bus 3200Mhz DDR4 BLACK TẢN NHIỆT", "Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)", "Nguồn máy tính Einarex AXIS MASTER L1 650W 80 Plus Bronze", "Card Màn Hình ASUS Dual Radeon RX 9060 XT GDDR6 16GB", "Vỏ Case JONSBO D32 PRO MINI BLACK", "Tản nhiệt nước AIO IDCOOLING FX-240 INF ARGB BLACK"],
+      "offer": [{"SSD 512GB NVME GEN4": 1000000}, {"Ram 16GB bus 6000Mhz DDR5": 700000}],
+      "specifications": {
+        "CPU Intel Core i5-14600KF (Up to 5.3Ghz, 14 NHÂN 20 LUỒNG, 24MB CACHE) TRAY": [1, "36th"],
+        "Mainboard Colorful BATTLE-AX B760M-PLUS WIFI V21 DDR4": [1, "36th"],
+        "Ram SSTC 16GB Bus 3200Mhz DDR4 BLACK TẢN NHIỆT": [1, "36th"],
+        "Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)": [1, "36th"],
+        "Nguồn máy tính Einarex AXIS MASTER L1 650W 80 Plus Bronze": [1, "36th"],
+        "Card Màn Hình ASUS Dual Radeon RX 9060 XT GDDR6 16GB": [1, "36th"],
+        "Vỏ Case JONSBO D32 PRO MINI BLACK": [1, "12th"],
+        "Tản nhiệt nước AIO IDCOOLING FX-240 INF ARGB BLACK": [1, "12th"]
+      }
     },
     {
       "id": "13",
-      "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE",
+      "name": "PC MINI TTG GAMING PRO I5 14600KF - RTX 5070 Ti 16GB ( ALL NEW - Bảo hành 36 tháng)",
       "imageList": [
-        "../slide-show/img-support1.jpg"
+        "../Product Image/PCMini/PC MINI TTG GAMING PRO I5 14600KF - RTX 5070 Ti 16GB ( ALL NEW - Bảo hành 36 tháng)/1.jpg"
       ],
-      "price": 75990000,
-      "sale": 0.06,
-      "upgrade": ""
+      "price": 69990000,
+      "sale": 0.08,
+      "brand": "Khác",
+      "guarantee": "36",
+      "attributes": {
+        "Dòng CPU": "Intel Core i5",
+        "Dung lượng RAM": "32GB",
+        "GPU": "RTX 5070 Ti 16GB"
+      },
+      "describe": ["CPU Intel Core i5-14600KF (Up to 5.3Ghz, 14 NHÂN 20 LUỒNG, 24MB CACHE) TRAY", "Mainboard MSI B760M GAMING PLUS WIFI DDR5", "RAM APACER NOX 32GB (2x16GB) BUSS 5200MHZ DDR5 BLACK", "Ổ cứng SSD HIKSEMI WAVE 512GB M.2 2280 PCIe 3.0x4", "Nguồn Antec GSK850 850W (80 Plus Gold / Full-Modular / ATX 3.1 - PCIE 5.1)", "Card màn hình ZOTAC GAMING GeForce RTX 5070 Ti 16GB SOLID CORE OC", "Vỏ Case JONSBO D32 PRO MINI BLACK", "Tản nhiệt nước AIO IDCOOLING FX-240 INF ARGB BLACK"],
+      "offer": [{"SSD 512GB NVME GEN4": 1000000}, {"Ram 16GB bus 6000Mhz DDR5": 700000}],
+      "specifications": {
+        "CPU Intel Core i5-14600KF (Up to 5.3Ghz, 14 NHÂN 20 LUỒNG, 24MB CACHE) TRAY": [1, "36th"],
+        "Mainboard MSI B760M GAMING PLUS WIFI DDR5": [1, "36th"],
+        "RAM APACER NOX 32GB (2x16GB) BUSS 5200MHZ DDR5 BLACK": [1, "36th"],
+        "Ổ cứng SSD HIKSEMI WAVE 512GB M.2 2280 PCIe 3.0x4": [1, "36th"],
+        "Nguồn Antec GSK850 850W (80 Plus Gold / Full-Modular / ATX 3.1 - PCIE 5.1)": [1, "36th"],
+        "Card màn hình ZOTAC GAMING GeForce RTX 5070 Ti 16GB SOLID CORE OC": [1, "36th"],
+        "Vỏ Case JONSBO D32 PRO MINI BLACK": [1, "12th"],
+        "Tản nhiệt nước AIO IDCOOLING FX-240 INF ARGB BLACK": [1, "12th"]
+      }
     },
     {
       "id": "14",
-      "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE",
+      "name": "PC MINI GAMING PRO ULTRA 9 265KF - RTX 5070 Ti 16GB OC (All NEW - Bảo hành 36 tháng)",
       "imageList": [
-        "../slide-show/img-support1.jpg"
+        "../Product Image/PCMini/PC MINI GAMING PRO ULTRA 7 265KF - RTX 5070 Ti 16GB OC (All NEW - Bảo hành 36 tháng)/1.jpg"
       ],
-      "price": 75990000,
-      "sale": 0.06,
-      "upgrade": ""
-    },
-    {
-      "id": "15",
-      "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE",
-      "imageList": [
-        "../slide-show/img-support1.jpg"
-      ],
-      "price": 75990000,
-      "sale": 0.06,
-      "upgrade": ""
-    },
-    {
-      "id": "16",
-      "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE",
-      "imageList": [
-        "../slide-show/img-support1.jpg"
-      ],
-      "price": 75990000,
-      "sale": 0.06,
-      "upgrade": ""
-    },
-    {
-      "id": "17",
-      "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE",
-      "imageList": [
-        "../slide-show/img-support1.jpg"
-      ],
-      "price": 75990000,
-      "sale": 0.06,
-      "upgrade": ""
-    },
-    {
-      "id": "18",
-      "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE",
-      "imageList": [
-        "../slide-show/img-support1.jpg"
-      ],
-      "price": 75990000,
-      "sale": 0.06,
-      "upgrade": ""
-    },
-    {
-      "id": "19",
-      "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE",
-      "imageList": [
-        "../slide-show/img-support1.jpg"
-      ],
-      "price": 75990000,
-      "sale": 0.06,
-      "upgrade": ""
-    },
-    {
-      "id": "20",
-      "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE",
-      "imageList": [
-        "../slide-show/img-support1.jpg"
-      ],
-      "price": 75990000,
-      "sale": 0.06,
-      "upgrade": ""
+      "price": 85980000,
+      "sale": 0.11,
+      "brand": "Khác",
+      "guarantee": "36",
+      "attributes": {
+        "Dòng CPU": "Core Ultra 9",
+        "Dung lượng RAM": "32GB",
+        "GPU": "RTX 5070 Ti 16GB"
+      },
+      "describe": ["CPU Intel Core Ultra 9 265KF (Up to 5.5GHz , 20 nhân - 20 luồng ,30MB Cache, Arrow Lake -S) - TRAY", "Mainboard MSI B860M GAMING PLUS WIFI DDR5", "RAM APACER NOX 32GB (2x16GB) BUSS 5200MHZ DDR5 BLACK", "Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)", "Nguồn Antec GSK850 850W (80 Plus Gold / Full-Modular / ATX 3.1 - PCIE 5.1)", "Card màn hình ZOTAC GAMING GeForce RTX 5070 Ti 16GB SOLID CORE OC", "Vỏ Case JONSBO D32 PRO MINI BLACK", "Tản nhiệt khí Thermalright Peerless Assassin 120 SE BLACK ARGB"],
+      "offer": [{"SSD 512GB NVME GEN4": 1000000}, {"Ram 16GB bus 6000Mhz DDR5": 700000}],
+      "specifications": {
+        "CPU Intel Core Ultra 9 265KF (Up to 5.5GHz , 20 nhân - 20 luồng ,30MB Cache, Arrow Lake -S) - TRAY": [1, "36th"],
+        "Mainboard MSI B860M GAMING PLUS WIFI DDR5": [1, "36th"],
+        "RAM APACER NOX 32GB (2x16GB) BUSS 5200MHZ DDR5 BLACK": [1, "36th"],
+        "Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)": [1, "36th"],
+        "Nguồn Antec GSK850 850W (80 Plus Gold / Full-Modular / ATX 3.1 - PCIE 5.1)": [1, "36th"],
+        "Card màn hình ZOTAC GAMING GeForce RTX 5070 Ti 16GB SOLID CORE OC": [1, "36th"],
+        "Vỏ Case JONSBO D32 PRO MINI BLACK": [1, "12th"],
+        "Tản nhiệt khí Thermalright Peerless Assassin 120 SE BLACK ARGB": [1, "12th"]
+      }
     }
   ],
   "pcWorkstation": [
-    {
-      "id": "21",
-      "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE",
-      "imageList": [
-        "../slide-show/img-support1.jpg"
-      ],
-      "price": 75990000,
-      "sale": 0,
-      "upgrade": ""
-    },
-    {
-      "id": "22",
-      "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE",
-      "imageList": [
-        "../slide-show/img-support1.jpg"
-      ],
-      "price": 75990000,
-      "sale": 0.06,
-      "upgrade": ""
-    },
-    {
-      "id": "23",
-      "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE",
-      "imageList": [
-        "../slide-show/img-support1.jpg"
-      ],
-      "price": 75990000,
-      "sale": 0.06,
-      "upgrade": ""
-    },
-    {
-      "id": "24",
-      "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE",
-      "imageList": [
-        "../slide-show/img-support1.jpg"
-      ],
-      "price": 75990000,
-      "sale": 0.06,
-      "upgrade": ""
-    },
-    {
-      "id": "25",
-      "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE",
-      "imageList": [
-        "../slide-show/img-support1.jpg"
-      ],
-      "price": 75990000,
-      "sale": 0.06,
-      "upgrade": ""
-    },
-    {
-      "id": "26",
-      "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE",
-      "imageList": [
-        "../slide-show/img-support1.jpg"
-      ],
-      "price": 75990000,
-      "sale": 0.06,
-      "upgrade": ""
-    },
-    {
-      "id": "27",
-      "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE",
-      "imageList": [
-        "../slide-show/img-support1.jpg"
-      ],
-      "price": 75990000,
-      "sale": 0.06,
-      "upgrade": ""
-    },
-    {
-      "id": "28",
-      "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE",
-      "imageList": [
-        "../slide-show/img-support1.jpg"
-      ],
-      "price": 75990000,
-      "sale": 0.06,
-      "upgrade": ""
-    },
-    {
-      "id": "29",
-      "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE",
-      "imageList": [
-        "../slide-show/img-support1.jpg"
-      ],
-      "price": 75990000,
-      "sale": 0.06,
-      "upgrade": ""
-    },
-    {
-      "id": "30",
-      "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE",
-      "imageList": [
-        "../slide-show/img-support1.jpg"
-      ],
-      "price": 75990000,
-      "sale": 0.06,
-      "upgrade": ""
-    }
+
   ],
   "pcAI": [
     {
