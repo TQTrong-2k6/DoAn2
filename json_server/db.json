@@ -6311,205 +6311,409 @@
   "pcAI": [
     {
       "id": "1",
-      "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE",
+      "name": "PC TTG AI Local Pro 16 - Ultra 7 270K Plus - RTX 5070 Ti 16GB",
       "imageList": [
-        "../slide-show/img-support1.jpg"
+        "../Product Image/PCAI/PC TTG AI Local Pro 16 - Ultra 7 270K Plus - RTX 5070 Ti 16GB/1.jpg",
+        "../Product Image/PCAI/PC TTG AI Local Pro 16 - Ultra 7 270K Plus - RTX 5070 Ti 16GB/2.jpg",
+        "../Product Image/PCAI/PC TTG AI Local Pro 16 - Ultra 7 270K Plus - RTX 5070 Ti 16GB/3.jpg",
+        "../Product Image/PCAI/PC TTG AI Local Pro 16 - Ultra 7 270K Plus - RTX 5070 Ti 16GB/4.jpg",
+        "../Product Image/PCAI/PC TTG AI Local Pro 16 - Ultra 7 270K Plus - RTX 5070 Ti 16GB/5.jpg",
+        "../Product Image/PCAI/PC TTG AI Local Pro 16 - Ultra 7 270K Plus - RTX 5070 Ti 16GB/6.jpg"
       ],
       "price": 75990000,
-      "sale": 0,
-      "upgrade": ""
+      "sale": 0.04,
+      "brand": "Khác",
+      "guarantee": "36",
+      "attributes": {
+        "Dòng CPU": "Core Ultra i7",
+        "Dung lượng RAM": "32GB",
+        "GPU": "RTX 5070 Ti 16GB"
+      },
+      "describe": ["CPU Intel Core Ultra 7 270K Plus (24 Nhân 24 Luồng , Up 5.5GHz) -TRAY", "Mainboard ASUS PRIME Z890M-PLUS WIFI DDR5", "RAM APACER NOX 32GB BUS 5200Mhz (2x16GB) DDR5 BLACK", "Ổ cứng SSD TeamGroup NV5000 M.2 PCIe NVMe 1TB Gen4x4", "Nguồn Antec GSK850 850W (80 Plus Gold / Full-Modular / ATX 3.1 - PCIE 5.1)", "Card màn hình ZOTAC GAMING GeForce RTX 5070 Ti SOLID SFF OC 16GB GDDR7", "Vỏ Case XIGMATEK ANUBIS PRO 4FX", "Tản nhiệt nước AIO ASUS PRIME LC 360 ARGB"],
+      "offer": [],
+      "specifications": {
+        "CPU Intel Core Ultra 7 270K Plus (24 Nhân 24 Luồng , Up 5.5GHz) -TRAY": [1, "36th"],
+        "Mainboard ASUS PRIME Z890M-PLUS WIFI DDR5": [1, "36th"],
+        "RAM APACER NOX 32GB BUS 5200Mhz (2x16GB) DDR5 BLACK": [1, "36th"],
+        "Ổ cứng SSD TeamGroup NV5000 M.2 PCIe NVMe 1TB Gen4x4": [1, "36th"],
+        "Nguồn Antec GSK850 850W (80 Plus Gold / Full-Modular / ATX 3.1 - PCIE 5.1)": [1, "36th"],
+        "Card màn hình ZOTAC GAMING GeForce RTX 5070 Ti SOLID SFF OC 16GB GDDR7": [1, "36th"],
+        "Vỏ Case XIGMATEK ANUBIS PRO 4FX": [1, "12th"],
+        "Tản nhiệt nước AIO ASUS PRIME LC 360 ARGB": [1, "12th"]
+      }
     },
     {
       "id": "2",
-      "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE",
+      "name": "PC TTG AI Local Pro 16 - I5 14600KF - RTX 5060 Ti 16GB",
       "imageList": [
-        "../slide-show/img-support1.jpg"
+        "../Product Image/PCAI/PC TTG AI Local Pro 16 - I5 14600KF - RTX 5060 Ti 16GB/1.jpg"
       ],
-      "price": 75990000,
+      "price": 49900000,
       "sale": 0.06,
-      "upgrade": ""
+      "brand": "Khác",
+      "guarantee": "36",
+      "attributes": {
+        "Dòng CPU": "Intel Core i5",
+        "Dung lượng RAM": "32GB",
+        "GPU": "RTX 5060 Ti 16GB"
+      },
+      "describe": ["CPU Intel Core i5-14600KF (Up to 5.3Ghz, 14 NHÂN 20 LUỒNG, 24MB CACHE) TRAY", "Mainboard ASUS TUF GAMING B760M-PLUS WIFI D4", "Ram TeamGroup Elite Plus 32GB (2x16GB) DDR4 Bus 3200Mhz", "Ổ cứng SSD TeamGroup NV5000 M.2 PCIe NVMe 1TB Gen4x4", "Nguồn Antec GSK850 850W (80 Plus Gold / Full-Modular / ATX 3.1 - PCIE 5.1)", "Card màn hình ZOTAC GAMING GeForce RTX 5060 Ti 16GB Twin Edge", "Vỏ Case XIGMATEK ANUBIS PRO 4FX", "Tản nhiệt khí Thermalright Peerless Assassin 120 SE ARGB"],
+      "offer": [],
+      "specifications": {
+        "CPU Intel Core i5-14600KF (Up to 5.3Ghz, 14 NHÂN 20 LUỒNG, 24MB CACHE) TRAY": [1, "36th"],
+        "Mainboard ASUS TUF GAMING B760M-PLUS WIFI D4": [1, "36th"],
+        "Ram TeamGroup Elite Plus 32GB (2x16GB) DDR4 Bus 3200Mhz": [1, "36th"],
+        "Ổ cứng SSD TeamGroup NV5000 M.2 PCIe NVMe 1TB Gen4x4": [1, "36th"],
+        "Nguồn Antec GSK850 850W (80 Plus Gold / Full-Modular / ATX 3.1 - PCIE 5.1)": [1, "36th"],
+        "Card màn hình ZOTAC GAMING GeForce RTX 5060 Ti 16GB Twin Edge": [1, "36th"],
+        "Vỏ Case XIGMATEK ANUBIS PRO 4FX": [1, "12th"],
+        "Tản nhiệt khí Thermalright Peerless Assassin 120 SE ARGB": [1, "12th"]
+      }
     },
     {
       "id": "3",
-      "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE",
+      "name": "PC TTG AI Local Creator 16 - Ultra 5 250K Plus RTX 5060 Ti 16GB",
       "imageList": [
-        "../slide-show/img-support1.jpg"
+        "../Product Image/PCAI/PC TTG AI Local Creator 16 - Ultra 5 250K Plus RTX 5060 Ti 16GB/1.jpg",
+        "../Product Image/PCAI/PC TTG AI Local Creator 16 - Ultra 5 250K Plus RTX 5060 Ti 16GB/2.jpg",
+        "../Product Image/PCAI/PC TTG AI Local Creator 16 - Ultra 5 250K Plus RTX 5060 Ti 16GB/3.jpg",
+        "../Product Image/PCAI/PC TTG AI Local Creator 16 - Ultra 5 250K Plus RTX 5060 Ti 16GB/4.jpg",
+        "../Product Image/PCAI/PC TTG AI Local Creator 16 - Ultra 5 250K Plus RTX 5060 Ti 16GB/5.jpg"
       ],
-      "price": 75990000,
-      "sale": 0.06,
-      "upgrade": ""
+      "price": 60990000,
+      "sale": 0.1,
+      "brand": "Khác",
+      "guarantee": "36",
+      "attributes": {
+        "Dòng CPU": "Core Ultra 5",
+        "Dung lượng RAM": "32GB",
+        "GPU": "RTX 5060 Ti 16GB"
+      },
+      "describe": ["CPU Intel Core Ultra 5 250K PLUS - TRAY (Upto 5.3 GHz, 18 Nhân 18 Luồng, 30MB Cache, LGA 1851/ARROW LAKE)", "Mainboard ASUS PRIME Z890M-PLUS WIFI DDR5", "RAM APACER NOX 32GB BUS 5200Mhz (2x16GB) DDR5 BLACK", "Ổ cứng SSD TeamGroup NV5000 M.2 PCIe NVMe 1TB Gen4x4", "Nguồn máy tính FSP VIC BD 750 750W 80 Plus Bronze", "Card màn hình ZOTAC GAMING GeForce RTX 5060 Ti 16GB Twin Edge", "Vỏ Case XIGMATEK ANUBIS PRO 4FX", "Tản nhiệt khí Thermalright Peerless Assassin 120 SE ARGB"],
+      "offer": [],
+      "specifications": {
+        "CPU Intel Core Ultra 5 250K PLUS - TRAY (Upto 5.3 GHz, 18 Nhân 18 Luồng, 30MB Cache, LGA 1851/ARROW LAKE)": [1, "36th"],
+        "Mainboard ASUS PRIME Z890M-PLUS WIFI DDR5": [1, "36th"],
+        "RAM APACER NOX 32GB BUS 5200Mhz (2x16GB) DDR5 BLACK": [1, "36th"],
+        "Ổ cứng SSD TeamGroup NV5000 M.2 PCIe NVMe 1TB Gen4x4": [1, "36th"],
+        "Nguồn máy tính FSP VIC BD 750 750W 80 Plus Bronze": [1, "36th"],
+        "Card màn hình ZOTAC GAMING GeForce RTX 5060 Ti 16GB Twin Edge": [1, "36th"],
+        "Vỏ Case XIGMATEK ANUBIS PRO 4FX": [1, "12th"],
+        "Tản nhiệt khí Thermalright Peerless Assassin 120 SE ARGB": [1, "12th"]
+      }
     },
     {
       "id": "4",
-      "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE",
+      "name": "PC GIGABYTE AI TOP 500 TRX50 (AMD Ryzen Threadripper PRO 7965WX |96GB RAM| 2TB SSD+1TB SSD| 5090 32GB )",
       "imageList": [
-        "../slide-show/img-support1.jpg"
+        "../Product Image/PCAI/PC GIGABYTE AI TOP 500 TRX50 (AMD Ryzen Threadripper PRO 7965WX 96GB RAM 2TB SSD+1TB SSD 5090 32GB )/1.png",
+        "../Product Image/PCAI/PC GIGABYTE AI TOP 500 TRX50 (AMD Ryzen Threadripper PRO 7965WX 96GB RAM 2TB SSD+1TB SSD 5090 32GB )/2.png",
+        "../Product Image/PCAI/PC GIGABYTE AI TOP 500 TRX50 (AMD Ryzen Threadripper PRO 7965WX 96GB RAM 2TB SSD+1TB SSD 5090 32GB )/3.png",
+        "../Product Image/PCAI/PC GIGABYTE AI TOP 500 TRX50 (AMD Ryzen Threadripper PRO 7965WX 96GB RAM 2TB SSD+1TB SSD 5090 32GB )/4.png",
+        "../Product Image/PCAI/PC GIGABYTE AI TOP 500 TRX50 (AMD Ryzen Threadripper PRO 7965WX 96GB RAM 2TB SSD+1TB SSD 5090 32GB )/5.png",
+        "../Product Image/PCAI/PC GIGABYTE AI TOP 500 TRX50 (AMD Ryzen Threadripper PRO 7965WX 96GB RAM 2TB SSD+1TB SSD 5090 32GB )/6.png"
       ],
-      "price": 75990000,
-      "sale": 0.06,
-      "upgrade": ""
+      "price": 389990000,
+      "sale": 0.15,
+      "brand": "Khác",
+      "guarantee": "36",
+      "attributes": {
+        "Dòng CPU": "AMD Ryzen Threadripper PRO",
+        "Dung lượng RAM": "96GB",
+        "GPU": "RTX 5090 32GB"
+      },
+      "describe": ["Processor: AMD Ryzen Threadripper PRO 7965WX", "Chipset: TRX50 (TRX50 AI TOP)", "Graphics: NVIDIA GeForce RTX 5090 32GB", "Memory: x1 96GB V-Color Server 5600MHz DDR5 U-DIMM", "SATA: 8 x SATA 6.0Gb/s ports", "Storage: 1 x SSD Gen4 2TB + AI TOP 100E 1TB", "AORUS 360 AIO Liquid Cooler", "1600W 80 Plus Platinum PSU (ATX 3.1)", "Dual 10GbE Ethernet, Wi-Fi 7, Bluetooth 5.3"],
+      "offer": [],
+      "specifications": {
+        "Processor: AMD Ryzen Threadripper PRO 7965WX": [1, "36th"],
+        "Chipset: TRX50 (TRX50 AI TOP)": [1, "36th"],
+        "Graphics: NVIDIA GeForce RTX 5090 32GB": [1, "36th"],
+        "Memory: x1 96GB V-Color Server 5600MHz DDR5 U-DIMM": [1, "36th"],
+        "SATA: 8 x SATA 6.0Gb/s ports": [1, "36th"],
+        "Storage: 1 x SSD Gen4 2TB + AI TOP 100E 1TB": [1, "36th"],
+        "AORUS 360 AIO Liquid Cooler": [1, "12th"],
+        "1600W 80 Plus Platinum PSU (ATX 3.1)": [1, "12th"]
+      }
     },
     {
       "id": "5",
-      "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE",
+      "name": "PC TTG AI Local Creator 16 - Ultra 9 250K Plus RTX 5060 Ti 16GB",
       "imageList": [
-        "../slide-show/img-support1.jpg"
+        "../Product Image/PCAI/PC TTG AI Local Creator 16 - Ultra 5 250K Plus RTX 5060 Ti 16GB/1.jpg",
+        "../Product Image/PCAI/PC TTG AI Local Creator 16 - Ultra 5 250K Plus RTX 5060 Ti 16GB/2.jpg",
+        "../Product Image/PCAI/PC TTG AI Local Creator 16 - Ultra 5 250K Plus RTX 5060 Ti 16GB/3.jpg",
+        "../Product Image/PCAI/PC TTG AI Local Creator 16 - Ultra 5 250K Plus RTX 5060 Ti 16GB/4.jpg",
+        "../Product Image/PCAI/PC TTG AI Local Creator 16 - Ultra 5 250K Plus RTX 5060 Ti 16GB/5.jpg"
       ],
-      "price": 75990000,
-      "sale": 0.06,
-      "upgrade": ""
+      "price": 70990000,
+      "sale": 0.1,
+      "brand": "Khác",
+      "guarantee": "36",
+      "attributes": {
+        "Dòng CPU": "Core Ultra 9",
+        "Dung lượng RAM": "32GB",
+        "GPU": "RTX 5060 Ti 16GB"
+      },
+      "describe": ["CPU Intel Core Ultra 9 250K PLUS - TRAY (Upto 5.3 GHz, 18 Nhân 18 Luồng, 30MB Cache, LGA 1851/ARROW LAKE)", "Mainboard ASUS PRIME Z890M-PLUS WIFI DDR5", "RAM APACER NOX 32GB BUS 5200Mhz (2x16GB) DDR5 BLACK", "Ổ cứng SSD TeamGroup NV5000 M.2 PCIe NVMe 1TB Gen4x4", "Nguồn máy tính FSP VIC BD 750 750W 80 Plus Bronze", "Card màn hình ZOTAC GAMING GeForce RTX 5060 Ti 16GB Twin Edge", "Vỏ Case XIGMATEK ANUBIS PRO 4FX", "Tản nhiệt khí Thermalright Peerless Assassin 120 SE ARGB"],
+      "offer": [],
+      "specifications": {
+        "CPU Intel Core Ultra 9 250K PLUS - TRAY (Upto 5.3 GHz, 18 Nhân 18 Luồng, 30MB Cache, LGA 1851/ARROW LAKE)": [1, "36th"],
+        "Mainboard ASUS PRIME Z890M-PLUS WIFI DDR5": [1, "36th"],
+        "RAM APACER NOX 32GB BUS 5200Mhz (2x16GB) DDR5 BLACK": [1, "36th"],
+        "Ổ cứng SSD TeamGroup NV5000 M.2 PCIe NVMe 1TB Gen4x4": [1, "36th"],
+        "Nguồn máy tính FSP VIC BD 750 750W 80 Plus Bronze": [1, "36th"],
+        "Card màn hình ZOTAC GAMING GeForce RTX 5060 Ti 16GB Twin Edge": [1, "36th"],
+        "Vỏ Case XIGMATEK ANUBIS PRO 4FX": [1, "12th"],
+        "Tản nhiệt khí Thermalright Peerless Assassin 120 SE ARGB": [1, "12th"]
+      }
     },
     {
       "id": "6",
-      "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE",
+      "name": "PC GIGABYTE AI TOP 500 TRX50 (AMD Ryzen Threadripper PRO 7965WX |96GB RAM| 2TB SSD+1TB SSD| 5090 32GB )",
       "imageList": [
-        "../slide-show/img-support1.jpg"
+        "../Product Image/PCAI/PC GIGABYTE AI TOP 500 TRX50 (AMD Ryzen Threadripper PRO 7965WX 96GB RAM 2TB SSD+1TB SSD 5090 32GB )/3.png",
+        "../Product Image/PCAI/PC GIGABYTE AI TOP 500 TRX50 (AMD Ryzen Threadripper PRO 7965WX 96GB RAM 2TB SSD+1TB SSD 5090 32GB )/2.png",
+        "../Product Image/PCAI/PC GIGABYTE AI TOP 500 TRX50 (AMD Ryzen Threadripper PRO 7965WX 96GB RAM 2TB SSD+1TB SSD 5090 32GB )/1.png",
+        "../Product Image/PCAI/PC GIGABYTE AI TOP 500 TRX50 (AMD Ryzen Threadripper PRO 7965WX 96GB RAM 2TB SSD+1TB SSD 5090 32GB )/4.png",
+        "../Product Image/PCAI/PC GIGABYTE AI TOP 500 TRX50 (AMD Ryzen Threadripper PRO 7965WX 96GB RAM 2TB SSD+1TB SSD 5090 32GB )/5.png",
+        "../Product Image/PCAI/PC GIGABYTE AI TOP 500 TRX50 (AMD Ryzen Threadripper PRO 7965WX 96GB RAM 2TB SSD+1TB SSD 5090 32GB )/6.png"
       ],
-      "price": 75990000,
-      "sale": 0.06,
-      "upgrade": ""
+      "price": 399990000,
+      "sale": 0.09,
+      "brand": "Khác",
+      "guarantee": "36",
+      "attributes": {
+        "Dòng CPU": "AMD Ryzen Threadripper PRO",
+        "Dung lượng RAM": "96GB",
+        "GPU": "RTX 5090 32GB"
+      },
+      "describe": ["Processor: AMD Ryzen Threadripper PRO 7965WX", "Chipset: TRX50 (TRX50 AI TOP)", "Graphics: NVIDIA GeForce RTX 5090 32GB", "Memory: x1 96GB V-Color Server 5600MHz DDR5 U-DIMM", "SATA: 8 x SATA 6.0Gb/s ports", "Storage: 1 x SSD Gen4 2TB + AI TOP 100E 1TB", "AORUS 360 AIO Liquid Cooler", "1600W 80 Plus Platinum PSU (ATX 3.1)", "Dual 10GbE Ethernet, Wi-Fi 7, Bluetooth 5.3"],
+      "offer": [],
+      "specifications": {
+        "Processor: AMD Ryzen Threadripper PRO 7965WX": [1, "36th"],
+        "Chipset: TRX50 (TRX50 AI TOP)": [1, "36th"],
+        "Graphics: NVIDIA GeForce RTX 5090 32GB": [1, "36th"],
+        "Memory: x1 96GB V-Color Server 5600MHz DDR5 U-DIMM": [1, "36th"],
+        "SATA: 8 x SATA 6.0Gb/s ports": [1, "36th"],
+        "Storage: 1 x SSD Gen4 2TB + AI TOP 100E 1TB": [1, "36th"],
+        "AORUS 360 AIO Liquid Cooler": [1, "12th"],
+        "1600W 80 Plus Platinum PSU (ATX 3.1)": [1, "12th"]
+      }
     },
     {
       "id": "7",
-      "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE",
+      "name": "PC GIGABYTE AI TOP 500 TRX50 (AMD Ryzen Threadripper PRO 7965WX |96GB RAM| 2TB SSD+1TB SSD| 5090 32GB )",
       "imageList": [
-        "../slide-show/img-support1.jpg"
+        "../Product Image/PCAI/PC GIGABYTE AI TOP 500 TRX50 (AMD Ryzen Threadripper PRO 7965WX 96GB RAM 2TB SSD+1TB SSD 5090 32GB )/5.png",
+        "../Product Image/PCAI/PC GIGABYTE AI TOP 500 TRX50 (AMD Ryzen Threadripper PRO 7965WX 96GB RAM 2TB SSD+1TB SSD 5090 32GB )/2.png",
+        "../Product Image/PCAI/PC GIGABYTE AI TOP 500 TRX50 (AMD Ryzen Threadripper PRO 7965WX 96GB RAM 2TB SSD+1TB SSD 5090 32GB )/3.png",
+        "../Product Image/PCAI/PC GIGABYTE AI TOP 500 TRX50 (AMD Ryzen Threadripper PRO 7965WX 96GB RAM 2TB SSD+1TB SSD 5090 32GB )/4.png",
+        "../Product Image/PCAI/PC GIGABYTE AI TOP 500 TRX50 (AMD Ryzen Threadripper PRO 7965WX 96GB RAM 2TB SSD+1TB SSD 5090 32GB )/1.png",
+        "../Product Image/PCAI/PC GIGABYTE AI TOP 500 TRX50 (AMD Ryzen Threadripper PRO 7965WX 96GB RAM 2TB SSD+1TB SSD 5090 32GB )/6.png"
       ],
-      "price": 75990000,
-      "sale": 0.06,
-      "upgrade": ""
-    },
-    {
-      "id": "8",
-      "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE",
-      "imageList": [
-        "../slide-show/img-support1.jpg"
-      ],
-      "price": 75990000,
-      "sale": 0.06,
-      "upgrade": ""
-    },
-    {
-      "id": "9",
-      "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE",
-      "imageList": [
-        "../slide-show/img-support1.jpg"
-      ],
-      "price": 75990000,
-      "sale": 0.06,
-      "upgrade": ""
-    },
-    {
-      "id": "10",
-      "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE",
-      "imageList": [
-        "../slide-show/img-support1.jpg"
-      ],
-      "price": 75990000,
-      "sale": 0.06,
-      "upgrade": ""
+      "price": 389990000,
+      "sale": 0.11,
+      "brand": "Khác",
+      "guarantee": "36",
+      "attributes": {
+        "Dòng CPU": "AMD Ryzen Threadripper PRO",
+        "Dung lượng RAM": "96GB",
+        "GPU": "RTX 5090 32GB"
+      },
+      "describe": ["Processor: AMD Ryzen Threadripper PRO 7965WX", "Chipset: TRX50 (TRX50 AI TOP)", "Graphics: NVIDIA GeForce RTX 5090 32GB", "Memory: x1 96GB V-Color Server 5600MHz DDR5 U-DIMM", "SATA: 8 x SATA 6.0Gb/s ports", "Storage: 1 x SSD Gen4 2TB + AI TOP 100E 1TB", "AORUS 360 AIO Liquid Cooler", "1600W 80 Plus Platinum PSU (ATX 3.1)", "Dual 10GbE Ethernet, Wi-Fi 7, Bluetooth 5.3"],
+      "offer": [],
+      "specifications": {
+        "Processor: AMD Ryzen Threadripper PRO 7965WX": [1, "36th"],
+        "Chipset: TRX50 (TRX50 AI TOP)": [1, "36th"],
+        "Graphics: NVIDIA GeForce RTX 5090 32GB": [1, "36th"],
+        "Memory: x1 96GB V-Color Server 5600MHz DDR5 U-DIMM": [1, "36th"],
+        "SATA: 8 x SATA 6.0Gb/s ports": [1, "36th"],
+        "Storage: 1 x SSD Gen4 2TB + AI TOP 100E 1TB": [1, "36th"],
+        "AORUS 360 AIO Liquid Cooler": [1, "12th"],
+        "1600W 80 Plus Platinum PSU (ATX 3.1)": [1, "12th"]
+      }
     }
   ],
   "pcOffice": [
     {
-      "id": "31",
-      "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE",
+      "id": "1",
+      "name": "PC OFFICE i5 10400F - RAM 16GB - RTX 3050 6GB - Kèm Màn hình - Windows 11 Pro",
       "imageList": [
-        "../slide-show/img-support1.jpg"
+        "../Product Image/PCOffice/PC OFFICE i5 10400F - RAM 16GB - RTX 3050 6GB - Kèm Màn hình - Windows 11 Pro/1.jpg"
       ],
-      "price": 75990000,
-      "sale": 0,
-      "upgrade": ""
+      "price": 20990000,
+      "sale": 0.06,
+      "brand": "Khác",
+      "guarantee": "36",
+      "category": "PC DOANH NGHIỆP WINDOWS BẢN QUYỀN",
+      "attributes": {
+        "Dòng CPU": "Intel Core i5",
+        "Dung lượng RAM": "16GB",
+        "GPU": "RTX 5050 8GB"
+      },
+      "describe": ["CPU Intel Core i5-10400F - TRAY NEW (3.4GHz turbo up to 4.4Ghz, 6 nhân 12 luồng, 12MB Cache, 65W)", "MAINBOARD SSTC H510M-HD-W11PK (KÈM WIN 11 PRO)", "Ram SSTC 16GB Bus 3200Mhz DDR4 BLACK TẢN NHIỆT", "SSD VSP 256GB (ĐỌC 560MB/S GHI 470MB/S) SATA III 2.5 INCH (VSP-256GB-860G)", "Nguồn máy tính SSTC 550F - 550W", "Card màn hình ZOTAC GAMING GeForce RTX 3050 6GB", "VỎ CASE AIGO Q1721 (M-ATX/ITX)", "Tản nhiệt khí Jonsbo CR-1200 RGB", "Màn hình văn phòng SSTC S2410 | 25 inch, FHD, 100Hz, IPS", "Phần mềm Microsoft Windows Pro 11 64Bit"],
+      "offer": [],
+      "specifications": {
+        "CPU Intel Core i5-10400F - TRAY NEW (3.4GHz turbo up to 4.4Ghz, 6 nhân 12 luồng, 12MB Cache, 65W)": [1, "36th"],
+        "MAINBOARD SSTC H510M-HD-W11PK (KÈM WIN 11 PRO)": [1, "36th"],
+        "Ram SSTC 16GB Bus 3200Mhz DDR4 BLACK TẢN NHIỆT": [1, "36th"],
+        "SSD VSP 256GB (ĐỌC 560MB/S GHI 470MB/S) SATA III 2.5 INCH (VSP-256GB-860G)": [1, "36th"],
+        "Nguồn máy tính SSTC 550F - 550W": [1, "36th"],
+        "Card màn hình ZOTAC GAMING GeForce RTX 3050 6GB": [1, "36th"],
+        "VỎ CASE AIGO Q1721 (M-ATX/ITX)": [1, "12th"],
+        "Tản nhiệt khí Jonsbo CR-1200 RGB": [1, "12th"],
+        "Phần mềm Microsoft Windows Pro 11 64Bit chính hãng, hợp chuẩn hợp quy và đi theo Mainboard.</br>Lưu ý : Trường hợp mainboard của bạn bị lỗi phần cứng phải bảo hành Mainoard thì Windows sẽ không bị ảnh hưởng.": ["", ""]
+      }
     },
     {
-      "id": "32",
-      "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE",
+      "id": "2",
+      "name": "PC OFFICE i5 12400F - RAM 16GB - RTX 3050 6GB - Kèm Màn hình - Windows 11 Pro",
       "imageList": [
-        "../slide-show/img-support1.jpg"
+        "../Product Image/PCOffice/PC OFFICE i5 10400F - RAM 16GB - RTX 3050 6GB - Kèm Màn hình - Windows 11 Pro/1.jpg"
       ],
-      "price": 75990000,
-      "sale": 0.06,
-      "upgrade": ""
+      "price": 23990000,
+      "sale": 0.16,
+      "brand": "Khác",
+      "guarantee": "36",
+      "category": "PC DOANH NGHIỆP WINDOWS BẢN QUYỀN",
+      "attributes": {
+        "Dòng CPU": "Intel Core i5",
+        "Dung lượng RAM": "16GB",
+        "GPU": "RTX 5050 8GB"
+      },
+      "describe": ["CPU Intel Core i5-10400F - TRAY NEW (3.4GHz turbo up to 4.4Ghz, 6 nhân 12 luồng, 12MB Cache, 65W)", "MAINBOARD SSTC H510M-HD-W11PK (KÈM WIN 11 PRO)", "Ram SSTC 16GB Bus 3200Mhz DDR4 BLACK TẢN NHIỆT", "SSD VSP 256GB (ĐỌC 560MB/S GHI 470MB/S) SATA III 2.5 INCH (VSP-256GB-860G)", "Nguồn máy tính SSTC 550F - 550W", "Card màn hình ZOTAC GAMING GeForce RTX 3050 6GB", "VỎ CASE AIGO Q1721 (M-ATX/ITX)", "Tản nhiệt khí Jonsbo CR-1200 RGB", "Màn hình văn phòng SSTC S2410 | 25 inch, FHD, 100Hz, IPS", "Phần mềm Microsoft Windows Pro 11 64Bit"],
+      "offer": [],
+      "specifications": {
+        "CPU Intel Core i5-10400F - TRAY NEW (3.4GHz turbo up to 4.4Ghz, 6 nhân 12 luồng, 12MB Cache, 65W)": [1, "36th"],
+        "MAINBOARD SSTC H510M-HD-W11PK (KÈM WIN 11 PRO)": [1, "36th"],
+        "Ram SSTC 16GB Bus 3200Mhz DDR4 BLACK TẢN NHIỆT": [1, "36th"],
+        "SSD VSP 256GB (ĐỌC 560MB/S GHI 470MB/S) SATA III 2.5 INCH (VSP-256GB-860G)": [1, "36th"],
+        "Nguồn máy tính SSTC 550F - 550W": [1, "36th"],
+        "Card màn hình ZOTAC GAMING GeForce RTX 3050 6GB": [1, "36th"],
+        "VỎ CASE AIGO Q1721 (M-ATX/ITX)": [1, "12th"],
+        "Tản nhiệt khí Jonsbo CR-1200 RGB": [1, "12th"],
+        "Phần mềm Microsoft Windows Pro 11 64Bit chính hãng, hợp chuẩn hợp quy và đi theo Mainboard.</br>Lưu ý : Trường hợp mainboard của bạn bị lỗi phần cứng phải bảo hành Mainoard thì Windows sẽ không bị ảnh hưởng.": ["", ""]
+      }
     },
     {
-      "id": "33",
-      "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE",
+      "id": "3",
+      "name": "PC OFFICE i3 13400F - RAM 16GB - RTX 3050 6GB - Kèm Màn hình - Windows 11 Pro",
       "imageList": [
-        "../slide-show/img-support1.jpg"
+        "../Product Image/PCOffice/PC OFFICE i5 10400F - RAM 16GB - RTX 3050 6GB - Kèm Màn hình - Windows 11 Pro/1.jpg"
       ],
-      "price": 75990000,
+      "price": 22990000,
       "sale": 0.06,
-      "upgrade": ""
+      "brand": "Khác",
+      "guarantee": "36",
+      "category": "PC DOANH NGHIỆP WINDOWS BẢN QUYỀN",
+      "attributes": {
+        "Dòng CPU": "Intel Core i3",
+        "Dung lượng RAM": "16GB",
+        "GPU": "RTX 5050 8GB"
+      },
+      "describe": ["CPU Intel Core i5-10400F - TRAY NEW (3.4GHz turbo up to 4.4Ghz, 6 nhân 12 luồng, 12MB Cache, 65W)", "MAINBOARD SSTC H510M-HD-W11PK (KÈM WIN 11 PRO)", "Ram SSTC 16GB Bus 3200Mhz DDR4 BLACK TẢN NHIỆT", "SSD VSP 256GB (ĐỌC 560MB/S GHI 470MB/S) SATA III 2.5 INCH (VSP-256GB-860G)", "Nguồn máy tính SSTC 550F - 550W", "Card màn hình ZOTAC GAMING GeForce RTX 3050 6GB", "VỎ CASE AIGO Q1721 (M-ATX/ITX)", "Tản nhiệt khí Jonsbo CR-1200 RGB", "Màn hình văn phòng SSTC S2410 | 25 inch, FHD, 100Hz, IPS", "Phần mềm Microsoft Windows Pro 11 64Bit"],
+      "offer": [],
+      "specifications": {
+        "CPU Intel Core i5-10400F - TRAY NEW (3.4GHz turbo up to 4.4Ghz, 6 nhân 12 luồng, 12MB Cache, 65W)": [1, "36th"],
+        "MAINBOARD SSTC H510M-HD-W11PK (KÈM WIN 11 PRO)": [1, "36th"],
+        "Ram SSTC 16GB Bus 3200Mhz DDR4 BLACK TẢN NHIỆT": [1, "36th"],
+        "SSD VSP 256GB (ĐỌC 560MB/S GHI 470MB/S) SATA III 2.5 INCH (VSP-256GB-860G)": [1, "36th"],
+        "Nguồn máy tính SSTC 550F - 550W": [1, "36th"],
+        "Card màn hình ZOTAC GAMING GeForce RTX 3050 6GB": [1, "36th"],
+        "VỎ CASE AIGO Q1721 (M-ATX/ITX)": [1, "12th"],
+        "Tản nhiệt khí Jonsbo CR-1200 RGB": [1, "12th"],
+        "Phần mềm Microsoft Windows Pro 11 64Bit chính hãng, hợp chuẩn hợp quy và đi theo Mainboard.</br>Lưu ý : Trường hợp mainboard của bạn bị lỗi phần cứng phải bảo hành Mainoard thì Windows sẽ không bị ảnh hưởng.": ["", ""]
+      }
     },
     {
-      "id": "34",
-      "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE",
+      "id": "4",
+      "name": "CPU Intel Core i5 12400F (Upto 4.4Ghz, 6 nhân 12 luồng, 18MB Cache, 65W) TRAY",
       "imageList": [
-        "../slide-show/img-support1.jpg"
+        "../Product Image/PCOffice/PC OFFICE i5 10400F - RAM 16GB - RTX 3050 6GB - Kèm Màn hình - Windows 11 Pro/2.jpg"
       ],
-      "price": 75990000,
-      "sale": 0.06,
-      "upgrade": ""
+      "price": 18990000,
+      "sale": 0.05,
+      "brand": "Khác",
+      "guarantee": "36",
+      "category": "PC DOANH NGHIỆP WINDOWS BẢN QUYỀN",
+      "attributes": {
+        "Dòng CPU": "Intel Core i5",
+        "Dung lượng RAM": "16GB",
+        "GPU": "RTX 5050 8GB"
+      },
+      "describe": ["CPU Intel Core i5-10400F - TRAY NEW (3.4GHz turbo up to 4.4Ghz, 6 nhân 12 luồng, 12MB Cache, 65W)", "MAINBOARD SSTC H510M-HD-W11PK (KÈM WIN 11 PRO)", "Ram SSTC 16GB Bus 3200Mhz DDR4 BLACK TẢN NHIỆT", "SSD VSP 256GB (ĐỌC 560MB/S GHI 470MB/S) SATA III 2.5 INCH (VSP-256GB-860G)", "Nguồn máy tính SSTC 550F - 550W", "Card màn hình ZOTAC GAMING GeForce RTX 3050 6GB", "VỎ CASE AIGO Q1721 (M-ATX/ITX)", "Tản nhiệt khí Jonsbo CR-1200 RGB", "Màn hình văn phòng SSTC S2410 | 25 inch, FHD, 100Hz, IPS", "Phần mềm Microsoft Windows Pro 11 64Bit"],
+      "offer": [],
+      "specifications": {
+        "CPU Intel Core i5-10400F - TRAY NEW (3.4GHz turbo up to 4.4Ghz, 6 nhân 12 luồng, 12MB Cache, 65W)": [1, "36th"],
+        "MAINBOARD SSTC H510M-HD-W11PK (KÈM WIN 11 PRO)": [1, "36th"],
+        "Ram SSTC 16GB Bus 3200Mhz DDR4 BLACK TẢN NHIỆT": [1, "36th"],
+        "SSD VSP 256GB (ĐỌC 560MB/S GHI 470MB/S) SATA III 2.5 INCH (VSP-256GB-860G)": [1, "36th"],
+        "Nguồn máy tính SSTC 550F - 550W": [1, "36th"],
+        "Card màn hình ZOTAC GAMING GeForce RTX 3050 6GB": [1, "36th"],
+        "VỎ CASE AIGO Q1721 (M-ATX/ITX)": [1, "12th"],
+        "Tản nhiệt khí Jonsbo CR-1200 RGB": [1, "12th"],
+        "Phần mềm Microsoft Windows Pro 11 64Bit chính hãng, hợp chuẩn hợp quy và đi theo Mainboard.</br>Lưu ý : Trường hợp mainboard của bạn bị lỗi phần cứng phải bảo hành Mainoard thì Windows sẽ không bị ảnh hưởng.": ["", ""]
+      }
     },
     {
-      "id": "35",
-      "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE",
+      "id": "5",
+      "name": "PC OFFICE i5 10400F - RAM 16GB - RTX 3050 6GB - Kèm Windows 11 Pro",
       "imageList": [
-        "../slide-show/img-support1.jpg"
+        "../Product Image/PCOffice/PC OFFICE i5 10400F - RAM 16GB - RTX 3050 6GB - Kèm Màn hình - Windows 11 Pro/2.jpg"
       ],
-      "price": 75990000,
-      "sale": 0.06,
-      "upgrade": ""
+      "price": 18990000,
+      "sale": 0.05,
+      "brand": "Khác",
+      "guarantee": "36",
+      "category": "PC DOANH NGHIỆP WINDOWS BẢN QUYỀN",
+      "attributes": {
+        "Dòng CPU": "Intel Core i5",
+        "Dung lượng RAM": "16GB",
+        "GPU": "RTX 5050 8GB"
+      },
+      "describe": ["CPU Intel Core i5-10400F - TRAY NEW (3.4GHz turbo up to 4.4Ghz, 6 nhân 12 luồng, 12MB Cache, 65W)", "MAINBOARD SSTC H510M-HD-W11PK (KÈM WIN 11 PRO)", "Ram SSTC 16GB Bus 3200Mhz DDR4 BLACK TẢN NHIỆT", "SSD VSP 256GB (ĐỌC 560MB/S GHI 470MB/S) SATA III 2.5 INCH (VSP-256GB-860G)", "Nguồn máy tính SSTC 550F - 550W", "Card màn hình ZOTAC GAMING GeForce RTX 3050 6GB", "VỎ CASE AIGO Q1721 (M-ATX/ITX)", "Tản nhiệt khí Jonsbo CR-1200 RGB", "Màn hình văn phòng SSTC S2410 | 25 inch, FHD, 100Hz, IPS", "Phần mềm Microsoft Windows Pro 11 64Bit"],
+      "offer": [],
+      "specifications": {
+        "CPU Intel Core i5-10400F - TRAY NEW (3.4GHz turbo up to 4.4Ghz, 6 nhân 12 luồng, 12MB Cache, 65W)": [1, "36th"],
+        "MAINBOARD SSTC H510M-HD-W11PK (KÈM WIN 11 PRO)": [1, "36th"],
+        "Ram SSTC 16GB Bus 3200Mhz DDR4 BLACK TẢN NHIỆT": [1, "36th"],
+        "SSD VSP 256GB (ĐỌC 560MB/S GHI 470MB/S) SATA III 2.5 INCH (VSP-256GB-860G)": [1, "36th"],
+        "Nguồn máy tính SSTC 550F - 550W": [1, "36th"],
+        "Card màn hình ZOTAC GAMING GeForce RTX 3050 6GB": [1, "36th"],
+        "VỎ CASE AIGO Q1721 (M-ATX/ITX)": [1, "12th"],
+        "Tản nhiệt khí Jonsbo CR-1200 RGB": [1, "12th"],
+        "Phần mềm Microsoft Windows Pro 11 64Bit chính hãng, hợp chuẩn hợp quy và đi theo Mainboard.</br>Lưu ý : Trường hợp mainboard của bạn bị lỗi phần cứng phải bảo hành Mainoard thì Windows sẽ không bị ảnh hưởng.": ["", ""]
+      }
     },
     {
-      "id": "36",
-      "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE",
+      "id": "6",
+      "name": "PC Office SSTC Ryzen 5 3400G - RAM 8GB- SSD 256GB - Kèm Windows 11 Pro",
       "imageList": [
-        "../slide-show/img-support1.jpg"
+        "../Product Image/PCOffice/PC OFFICE i5 10400F - RAM 16GB - RTX 3050 6GB - Kèm Màn hình - Windows 11 Pro/3.jpg"
       ],
-      "price": 75990000,
+      "price": 9990000,
       "sale": 0.06,
-      "upgrade": ""
-    },
-    {
-      "id": "37",
-      "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE",
-      "imageList": [
-        "../slide-show/img-support1.jpg"
-      ],
-      "price": 75990000,
-      "sale": 0.06,
-      "upgrade": ""
-    },
-    {
-      "id": "38",
-      "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE",
-      "imageList": [
-        "../slide-show/img-support1.jpg"
-      ],
-      "price": 75990000,
-      "sale": 0.06,
-      "upgrade": ""
-    },
-    {
-      "id": "39",
-      "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE",
-      "imageList": [
-        "../slide-show/img-support1.jpg"
-      ],
-      "price": 75990000,
-      "sale": 0.06,
-      "upgrade": ""
-    },
-    {
-      "id": "40",
-      "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE",
-      "imageList": [
-        "../slide-show/img-support1.jpg"
-      ],
-      "price": 75990000,
-      "sale": 0.06,
-      "upgrade": ""
+      "brand": "Khác",
+      "guarantee": "36",
+      "category": "PC DOANH NGHIỆP WINDOWS BẢN QUYỀN",
+      "attributes": {
+        "Dòng CPU": "Intel Core i3",
+        "Dung lượng RAM": "16GB",
+        "GPU": "RTX 5050 8GB"
+      },
+      "describe": ["CPU Intel Core i5-10400F - TRAY NEW (3.4GHz turbo up to 4.4Ghz, 6 nhân 12 luồng, 12MB Cache, 65W)", "MAINBOARD SSTC H510M-HD-W11PK (KÈM WIN 11 PRO)", "Ram SSTC 16GB Bus 3200Mhz DDR4 BLACK TẢN NHIỆT", "SSD VSP 256GB (ĐỌC 560MB/S GHI 470MB/S) SATA III 2.5 INCH (VSP-256GB-860G)", "Nguồn máy tính SSTC 550F - 550W", "Card màn hình ZOTAC GAMING GeForce RTX 3050 6GB", "VỎ CASE AIGO Q1721 (M-ATX/ITX)", "Tản nhiệt khí Jonsbo CR-1200 RGB", "Màn hình văn phòng SSTC S2410 | 25 inch, FHD, 100Hz, IPS", "Phần mềm Microsoft Windows Pro 11 64Bit"],
+      "offer": [],
+      "specifications": {
+        "CPU Intel Core i5-10400F - TRAY NEW (3.4GHz turbo up to 4.4Ghz, 6 nhân 12 luồng, 12MB Cache, 65W)": [1, "36th"],
+        "MAINBOARD SSTC H510M-HD-W11PK (KÈM WIN 11 PRO)": [1, "36th"],
+        "Ram SSTC 16GB Bus 3200Mhz DDR4 BLACK TẢN NHIỆT": [1, "36th"],
+        "SSD VSP 256GB (ĐỌC 560MB/S GHI 470MB/S) SATA III 2.5 INCH (VSP-256GB-860G)": [1, "36th"],
+        "Nguồn máy tính SSTC 550F - 550W": [1, "36th"],
+        "Card màn hình ZOTAC GAMING GeForce RTX 3050 6GB": [1, "36th"],
+        "VỎ CASE AIGO Q1721 (M-ATX/ITX)": [1, "12th"],
+        "Tản nhiệt khí Jonsbo CR-1200 RGB": [1, "12th"],
+        "Phần mềm Microsoft Windows Pro 11 64Bit chính hãng, hợp chuẩn hợp quy và đi theo Mainboard.</br>Lưu ý : Trường hợp mainboard của bạn bị lỗi phần cứng phải bảo hành Mainoard thì Windows sẽ không bị ảnh hưởng.": ["", ""]
+      }
     }
   ],
   "computerComponents": [
@@ -6543,247 +6747,8 @@
         "Kích thước (DxRxC)": "357.6 x 149.3 x 76mm",
         "Bảo hành": "36 tháng"
       }
-    },
-    {
-      "id": "2",
-      "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE",
-      "imageList": [
-        "../slide-show/img-support1.jpg"
-      ],
-      "price": 75990000,
-      "category": "Mainboard - Bo Mạch Chủ",
-      "categoryChild": "Mainboard cho CPU INTEL",
-      "sale": 0.06,
-      "upgrade": ""
-    },
-    {
-      "id": "3",
-      "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE",
-      "imageList": [
-        "../slide-show/img-support1.jpg"
-      ],
-      "price": 75990000,
-      "category": "RAM",
-      "sale": 0.06,
-      "upgrade": ""
-    },
-    {
-      "id": "4",
-      "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE",
-      "imageList": [
-        "../slide-show/img-support1.jpg"
-      ],
-      "price": 75990000,
-      "category": "VGA - Card Màn Hình",
-      "categoryChild": "VGA NVIDIA",
-      "sale": 0.06,
-      "upgrade": ""
-    },
-    {
-      "id": "5",
-      "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE",
-      "imageList": [
-        "../slide-show/img-support1.jpg"
-      ],
-      "price": 75990000,
-      "category": "GIÁ TREO MÀN HÌNH",
-      "sale": 0.06,
-      "upgrade": ""
-    },
-    {
-      "id": "6",
-      "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE",
-      "imageList": [
-        "../slide-show/img-support1.jpg"
-      ],
-      "price": 75990000,
-      "category": "Ổ Cứng (SSD, HDD)",
-      "categoryChild": "Ổ cứng SSD",
-      "sale": 0.06,
-      "upgrade": ""
-    },
-    {
-      "id": "7",
-      "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE",
-      "imageList": [
-        "../slide-show/img-support1.jpg"
-      ],
-      "price": 75990000,
-      "category": "Tản nhiệt",
-      "categoryChild": "Tản nhiệt khí",
-      "sale": 0.06,
-      "upgrade": ""
-    },
-    {
-      "id": "8",
-      "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE",
-      "imageList": [
-        "../slide-show/img-support1.jpg"
-      ],
-      "price": 75990000,
-      "category": "Vỏ Case",
-      "sale": 0.06,
-      "upgrade": ""
-    },
-    {
-      "id": "9",
-      "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE",
-      "imageList": [
-        "../slide-show/img-support1.jpg"
-      ],
-      "price": 75990000,
-      "category": "Nguồn (PSU)",
-      "sale": 0.06,
-      "upgrade": ""
-    },
-    {
-      "id": "10",
-      "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE",
-      "imageList": [
-        "../slide-show/img-support1.jpg"
-      ],
-      "price": 75990000,
-      "sale": 0.06,
-      "upgrade": ""
-    },
-    {
-      "id": "11",
-      "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE",
-      "imageList": [
-        "../slide-show/img-support1.jpg"
-      ],
-      "price": 75990000,
-      "categoryChild": "CPU AMD",
-      "category": "CPU",
-      "sale": 0,
-      "upgrade": ""
-    },
-    {
-      "id": "12",
-      "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE",
-      "imageList": [
-        "../slide-show/img-support1.jpg"
-      ],
-      "price": 75990000,
-      "category": "Mainboard - Bo Mạch Chủ",
-      "categoryChild": "Mainboard cho CPU AMD",
-      "sale": 0.06,
-      "upgrade": ""
-    },
-    {
-      "id": "13",
-      "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE",
-      "imageList": [
-        "../slide-show/img-support1.jpg"
-      ],
-      "price": 75990000,
-      "category": "RAM",
-      "sale": 0.06,
-      "upgrade": ""
-    },
-    {
-      "id": "14",
-      "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE",
-      "imageList": [
-        "../slide-show/img-support1.jpg"
-      ],
-      "price": 75990000,
-      "category": "VGA - Card Màn Hình",
-      "categoryChild": "VGA AMD",
-      "sale": 0.06,
-      "upgrade": ""
-    },
-    {
-      "id": "15",
-      "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE",
-      "imageList": [
-        "../slide-show/img-support1.jpg"
-      ],
-      "price": 75990000,
-      "category": "GIÁ TREO MÀN HÌNH",
-      "sale": 0.06,
-      "upgrade": ""
-    },
-    {
-      "id": "16",
-      "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE",
-      "imageList": [
-        "../slide-show/img-support1.jpg"
-      ],
-      "price": 75990000,
-      "category": "Ổ Cứng (SSD, HDD)",
-      "categoryChild": "Ổ cứng HDD",
-      "sale": 0.06,
-      "upgrade": ""
-    },
-    {
-      "id": "17",
-      "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE",
-      "imageList": [
-        "../slide-show/img-support1.jpg"
-      ],
-      "price": 75990000,
-      "category": "Tản nhiệt",
-      "categoryChild": "Tản nhiệt nước AIO",
-      "sale": 0.06,
-      "upgrade": ""
-    },
-    {
-      "id": "18",
-      "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE",
-      "imageList": [
-        "../slide-show/img-support1.jpg"
-      ],
-      "price": 75990000,
-      "category": "Vỏ Case",
-      "sale": 0.06,
-      "upgrade": ""
-    },
-    {
-      "id": "19",
-      "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE",
-      "imageList": [
-        "../slide-show/img-support1.jpg"
-      ],
-      "price": 75990000,
-      "category": "Nguồn (PSU)",
-      "sale": 0.06,
-      "upgrade": ""
-    },
-    {
-      "id": "20",
-      "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE",
-      "imageList": [
-        "../slide-show/img-support1.jpg"
-      ],
-      "price": 75990000,
-      "sale": 0.06,
-      "upgrade": ""
-    },
-    {
-      "id": "21",
-      "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE",
-      "imageList": [
-        "../slide-show/img-support1.jpg"
-      ],
-      "price": 75990000,
-      "category": "VGA - Card Màn Hình",
-      "categoryChild": "VGA Nvidia RTX 5000 Series",
-      "sale": 0.06,
-      "upgrade": ""
-    },
-    {
-      "id": "22",
-      "name": "PC TTG GAMING LUXURY ULTRA 5 250K PLUS - RTX 5070 12GB OC WHITE",
-      "imageList": [
-        "../slide-show/img-support1.jpg"
-      ],
-      "price": 75990000,
-      "category": "Tản nhiệt",
-      "categoryChild": "Quạt tản nhiệt",
-      "sale": 0.06,
-      "upgrade": ""
     }
+    
   ],
   "screen": [
     {
