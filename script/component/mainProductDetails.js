@@ -129,7 +129,7 @@ function mainProductDetails(data){
 
     sectionBreadcrumb(breadcrumbSteps);
 
-    const pc = ['pcGaming', 'pcMini', 'pcWorkstation', 'pcOffice', 'laptop'];
+    const pc = ['pcGaming', 'pcMini', 'pcWorkstation', 'pcOffice', 'laptop', 'pcAI'];
 
     let specifications;
     if(pc.includes(table)){
