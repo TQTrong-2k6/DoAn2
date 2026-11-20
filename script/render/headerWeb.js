@@ -411,7 +411,7 @@ const login = storage.get('login');
                                 </div>
                             </div>
                             <div class="navbar-item">
-                                <a class="navbar-link">
+                                <a href="./productCategories.html?table=pcAI" class="navbar-link">
                                     <p class="navbar-title">PC AI - TRÍ TUỆ NHÂN TẠO</p>
                                 </a>
                             </div>
@@ -1351,7 +1351,7 @@ const login = storage.get('login');
                         </div>
                     </div>
                     <div class="navbar-item">
-                        <a class="navbar-link">
+                        <a href="./productCategories.html?table=pcAI" class="navbar-link">
                             <p class="navbar-title">PC AI - TRÍ TUỆ NHÂN TẠO</p>
                         </a>
                     </div>
@@ -2288,7 +2288,7 @@ const login = storage.get('login');
                     </div>
                     <div class="global-menu__sub-item">
                         <div class="global-menu__title">
-                            <a href="./index.html" class="global-menu__sub-title">PC AI - TRÍ TUỆ NHÂN TẠO</a>
+                            <a href="./productCategories.html?table=pcAI" class="global-menu__sub-title">PC AI - TRÍ TUỆ NHÂN TẠO</a>
                         </div>
                     </div>
                     <div class="global-menu__sub-item">
