@@ -25,7 +25,7 @@ const CATEGORY_LABELS = { // label danh mục
     pcGaming: 'PC GAMING',
     pcMini: 'PC MINI',
     pcWorkstation: 'PC WORKSTATION 2D 3D',
-    pcAi: 'PC AI - TRÍ TUỆ NHÂN TẠO',
+    pcAI: 'PC AI - TRÍ TUỆ NHÂN TẠO',
     pcOffice: 'PC VĂN PHÒNG',
     computerComponents: 'Linh kiện máy tính',
     screen: 'Màn hình máy tính',
