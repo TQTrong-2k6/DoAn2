@@ -1006,7 +1006,7 @@ const login = storage.get('login');
                                 </a>
                             </div>
                             <div class="navbar-item">
-                                <a class="navbar-link">
+                                <a href="./productCategories.html?table=laptop" class="navbar-link">
                                     <p class="navbar-title">Laptop</p>
                                     <i class="fa-solid fa-angle-right"></i>
                                 </a>
@@ -1946,7 +1946,7 @@ const login = storage.get('login');
                         </a>
                     </div>
                     <div class="navbar-item">
-                        <a class="navbar-link">
+                        <a href="./productCategories.html?table=laptop" class="navbar-link">
                             <p class="navbar-title">Laptop</p>
                             <i class="fa-solid fa-angle-right"></i>
                         </a>
@@ -2706,7 +2706,7 @@ const login = storage.get('login');
                     </div>
                     <div class="global-menu__sub-item">
                         <div class="global-menu__title">
-                            <a href="./index.html" class="global-menu__sub-title">LAPTOP</a>
+                            <a href="./productCategories.html?table=laptop" class="global-menu__sub-title">LAPTOP</a>
                             <span class="global-menu__sub-icon js-global-menu-child-click">
                                 <i class="fa fa-chevron-right"></i>
                             </span>
