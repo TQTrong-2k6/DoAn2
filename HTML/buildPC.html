@@ -77,7 +77,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <button class="js-open-selection open-selection" id="js-open-selection-1003491769">
+                            <button class="js-open-selection open-selection" category="CPU">
                                 <span class=""><i class="fa-solid fa-plus"></i> Chọn CPU</span>
                             </button>
                         </div>
@@ -86,7 +86,7 @@
                         <p class="item-title">2. RAM</p>
                         <div class="item-drive-info js-item-drive-info">
                             <div id="js-selected-item-1003491769" class="js-item-row"></div>
-                            <button class="js-open-selection open-selection" id="js-open-selection-1003491769">
+                            <button class="js-open-selection open-selection" category="RAM">
                                 <span class=""><i class="fa-solid fa-plus"></i> Chọn RAM</span>
                             </button>
                         </div>
@@ -95,7 +95,7 @@
                         <p class="item-title">3. Card Đồ Họa</p>
                         <div class="item-drive-info js-item-drive-info">
                             <div id="js-selected-item-1003491769" class="js-item-row"></div>
-                            <button class="js-open-selection open-selection" id="js-open-selection-1003491769">
+                            <button class="js-open-selection open-selection" category="VGA - Card Màn Hình">
                                 <span class=""><i class="fa-solid fa-plus"></i> Chọn Card Đồ Họa</span>
                             </button>
                         </div>
@@ -104,7 +104,7 @@
                         <p class="item-title">5. ổ cứng</p>
                         <div class="item-drive-info js-item-drive-info item-loaded item-multi-seletect">
                             <div id="js-selected-item-1003491769" class="js-item-row"></div>
-                            <button class="js-open-selection open-selection" id="js-open-selection-1003491769">
+                            <button class="js-open-selection open-selection" category="Ổ Cứng (SSD, HDD)">
                                 <span class=""><i class="fa-solid fa-plus"></i> Chọn Ổ Cứng</span>
                             </button>
                         </div>
@@ -113,7 +113,7 @@
                         <p class="item-title">6. nguồn (psu)</p>
                         <div class="item-drive-info js-item-drive-info">
                             <div id="js-selected-item-1003491769" class="js-item-row"></div>
-                            <button class="js-open-selection open-selection" id="js-open-selection-1003491769">
+                            <button class="js-open-selection open-selection" category="Nguồn (PSU)">
                                 <span class=""><i class="fa-solid fa-plus"></i> Chọn Nguồn (PSU)</span>
                             </button>
                         </div>
@@ -122,7 +122,7 @@
                         <p class="item-title">7. tản nhiệt</p>
                         <div class="item-drive-info js-item-drive-info item-loaded item-multi-seletectitem-drive-info item-multi-seletect">
                             <div id="js-selected-item-1003491769" class="js-item-row"></div>
-                            <button class="js-open-selection open-selection" id="js-open-selection-1003491769">
+                            <button class="js-open-selection open-selection" category="Tản nhiệt">
                                 <span class=""><i class="fa-solid fa-plus"></i> Chọn Tản Nhiệt</span>
                             </button>
                         </div>
@@ -131,7 +131,7 @@
                         <p class="item-title">8. vỏ case</p>
                         <div class="item-drive-info js-item-drive-info">
                             <div id="js-selected-item-1003491769" class="js-item-row"></div>
-                            <button class="js-open-selection open-selection" id="js-open-selection-1003491769">
+                            <button class="js-open-selection open-selection" category="Vỏ Case">
                                 <span class=""><i class="fa-solid fa-plus"></i> Chọn Vỏ Case</span>
                             </button>
                         </div>
@@ -140,7 +140,7 @@
                         <p class="item-title">9. màn hình</p>
                         <div class="item-drive-info js-item-drive-info item-loaded item-multi-seletect">
                             <div id="js-selected-item-1003491769" class="js-item-row"></div>
-                            <button class="js-open-selection open-selection" id="js-open-selection-1003491769">
+                            <button class="js-open-selection open-selection" category="screen">
                                 <span class=""><i class="fa-solid fa-plus"></i> Chọn Màn Hình</span>
                             </button>
                         </div>
@@ -189,173 +189,10 @@
             </div>
         </div>
     </div>
-    <div class="fancybox__viewport inset-0">
+    <div class="fancybox__viewport inset-0 hidden">
         <div class="fancybox__slide has-inline has-close-btn is-selected is-done">
             <div class="buildpc-modal-popup-container fancybox__content">
-                <div class="buildpc-popup">
-                    <div class="popup-select">
-                        <div class="popup-header">
-                            <p class="font-bold uppercase text-[20px]">Chọn linh kiện</p>
-                            <form action="" class="popup-search-holder w-[600px] flex item-center bg-[#fff] justify-space-between rounded-[3px] overflow-hidden text-[#000]">
-                                <input type="text" name="" id="js-buildpc-search-keyword" placeholder="Bạn cần tìm linh kiện gì?" class="input-search w-[calc(100%-40px)] h-[34px] p-[0_12px] outline-none">
-                                <button class="btn-search fa-solid fa-magnifying-glass w-[40px] h-[34px] text-[16px]"></button>
-                            </form>
-                        </div>
-                        <div class="popup-main">
-                            <div class="popup-filter-group max-[1199px]:hidden">
-                                <p class="group-titlle">Lọc sản phẩm theo </p>
-                                <div class="popup-filter-holder">
-                                    <div class="filter-item brand-filter">
-                                        <p class="filter-name">Hãng sản xuất</p>
-                                        <div class="filter-list-holder">
-                                            <label for=""><input type="checkbox"> <span class="value-filter">ADM (39)</span></label>
-                                            <label for=""><input type="checkbox"> <span class="value-filter">Intel (100)</span></label>
-                                            <label for=""><input type="checkbox"> <span class="value-filter">Khác (1)</span></label>
-                                        </div>
-                                    </div>
-                                    <div id="js-attr-list">
-                                        <div class="filter-item brand-filter">
-                                            <p class="filter-name">Dòng CPU</p>
-                                            <div class="filter-list-holder">
-                                                <label for=""><input type="checkbox"> <span class="value-filter">ADM (39)</span></label>
-                                                <label for=""><input type="checkbox"> <span class="value-filter">Intel (100)</span></label>
-                                                <label for=""><input type="checkbox"> <span class="value-filter">Khác (1)</span></label>
-                                            </div>
-                                        </div>
-                                        <div class="filter-item brand-filter">
-                                            <p class="filter-name">Socket</p>
-                                            <div class="filter-list-holder">
-                                                <label for=""><input type="checkbox"> <span class="value-filter">ADM (39)</span></label>
-                                                <label for=""><input type="checkbox"> <span class="value-filter">Intel (100)</span></label>
-                                                <label for=""><input type="checkbox"> <span class="value-filter">Khác (1)</span></label>
-                                            </div>
-                                        </div>
-                                        <div class="filter-item brand-filter">
-                                            <p class="filter-name">Thế hệ cpu</p>
-                                            <div class="filter-list-holder">
-                                                <label for=""><input type="checkbox"> <span class="value-filter">AMD Ryzen 7000 Series (9)</span></label>
-                                                <label for=""><input type="checkbox"> <span class="value-filter">AMD Ryzen 3000 Series (3)</span></label>
-                                                <label for=""><input type="checkbox"> <span class="value-filter">AMD Ryzen 5000 Series (6)</span></label>
-                                                <label for=""><input type="checkbox"> <span class="value-filter">AMD Ryzen 7000 Series (9)</span></label>
-                                                <label for=""><input type="checkbox"> <span class="value-filter">AMD Ryzen 3000 Series (3)</span></label>
-                                                <label for=""><input type="checkbox"> <span class="value-filter">AMD Ryzen 5000 Series (6)</span></label>
-                                                <label for=""><input type="checkbox"> <span class="value-filter">AMD Ryzen 7000 Series (9)</span></label>
-                                                <label for=""><input type="checkbox"> <span class="value-filter">AMD Ryzen 3000 Series (3)</span></label>
-                                                <label for=""><input type="checkbox"> <span class="value-filter">AMD Ryzen 5000 Series (6)</span></label>
-                                                <label for=""><input type="checkbox"> <span class="value-filter">AMD Ryzen 7000 Series (9)</span></label>
-                                                <label for=""><input type="checkbox"> <span class="value-filter">AMD Ryzen 3000 Series (3)</span></label>
-                                                <label for=""><input type="checkbox"> <span class="value-filter">AMD Ryzen 5000 Series (6)</span></label>
-                                                <label for=""><input type="checkbox"> <span class="value-filter">AMD Ryzen 7000 Series (9)</span></label>
-                                                <label for=""><input type="checkbox"> <span class="value-filter">AMD Ryzen 3000 Series (3)</span></label>
-                                                <label for=""><input type="checkbox"> <span class="value-filter">AMD Ryzen 5000 Series (6)</span></label>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="popup-content-group">
-                                <div class="sort-paging-group">
-                                    <div class="sort-block">
-                                        <div class="sort-wrapper">
-                                            <span>Sắp xếp: </span>
-                                            <select id="js-sort-holder" class="sort-select">
-                                                <option value="">Tùy chọn</option>
-                                                <option value="">Mới nhất</option>
-                                                <option value="">Giá tăng dần</option>
-                                                <option value="">Giá giảm dần</option>
-                                                <option value="">Tên A->Z</option>
-                                            </select>
-                                        </div>
-                                        <div class="sort-other">
-                                            <button class="sort-btn btn-stock">Còn hàng</button>
-                                            <button class="sort-btn btn-clear btn-clear-pc">Xóa bộ lọc</button>
-                                        </div>
-                                    </div>
-                                    <div class="popup-paging js-paging"></div>
-                                </div>
-                                <div class="popup-product-list" id="js-holder-p_item">
-                                    <div class="p-item">
-                                        <a href="" class="item-img"><img src="../Product Image/sp1-1.jpg" alt=""></a>
-                                        <div class="item-text">
-                                            <a href="" class="item-name">CPU AMD Ryzen 5 9600X - TRAY (3.9 GHz Boost 5.4 GHz | 6 nhân/ 12 luồng | 32 MB Cache)</a>
-                                            <p class="item-info"><span>Mã SP:</span><b> SP022810</b></p>
-                                            <p class="item-info"><span>Bảo hành:</span><b> 36 Tháng</b></p>
-                                            <p class="item-info"><span>Kho hàng:</span><b style="color: green;"> Còn hàng</b></p>
-                                            <p class="p-price">5.990.000 VNĐ</p>
-                                        </div>
-                                        <button class="btn-buy js-select-product">Thêm vào cấu hình <i class="fa-solid fa-angle-right"></i></button>
-                                    </div>
-                                    <div class="p-item">
-                                        <a href="" class="item-img"><img src="../Product Image/sp1-2.jpg" alt=""></a>
-                                        <div class="item-text">
-                                            <a href="" class="item-name">CPU AMD Ryzen 5 9600X - TRAY (3.9 GHz Boost 5.4 GHz | 6 nhân/ 12 luồng | 32 MB Cache)</a>
-                                            <p class="item-info"><span>Mã SP:</span><b> SP022810</b></p>
-                                            <p class="item-info"><span>Bảo hành:</span><b> 36 Tháng</b></p>
-                                            <p class="item-info"><span>Kho hàng:</span><b style="color: green;"> Còn hàng</b></p>
-                                            <p class="p-price">5.990.000 VNĐ</p>
-                                        </div>
-                                        <button class="btn-buy js-select-product">Thêm vào cấu hình <i class="fa-solid fa-angle-right"></i></button>
-                                    </div>
-                                    <div class="p-item">
-                                        <a href="" class="item-img"><img src="../Product Image/sp1-3.jpg" alt=""></a>
-                                        <div class="item-text">
-                                            <a href="" class="item-name">CPU AMD Ryzen 5 9600X - TRAY (3.9 GHz Boost 5.4 GHz | 6 nhân/ 12 luồng | 32 MB Cache)</a>
-                                            <p class="item-info"><span>Mã SP:</span><b> SP022810</b></p>
-                                            <p class="item-info"><span>Bảo hành:</span><b> 36 Tháng</b></p>
-                                            <p class="item-info"><span>Kho hàng:</span><b style="color: green;"> Còn hàng</b></p>
-                                            <p class="p-price">5.990.000 VNĐ</p>
-                                        </div>
-                                        <button class="btn-buy js-select-product">Thêm vào cấu hình <i class="fa-solid fa-angle-right"></i></button>
-                                    </div>
-                                    <div class="p-item">
-                                        <a href="" class="item-img"><img src="../Product Image/sp1-4.jpg" alt=""></a>
-                                        <div class="item-text">
-                                            <a href="" class="item-name">CPU AMD Ryzen 5 9600X - TRAY (3.9 GHz Boost 5.4 GHz | 6 nhân/ 12 luồng | 32 MB Cache)</a>
-                                            <p class="item-info"><span>Mã SP:</span><b> SP022810</b></p>
-                                            <p class="item-info"><span>Bảo hành:</span><b> 36 Tháng</b></p>
-                                            <p class="item-info"><span>Kho hàng:</span><b style="color: green;"> Còn hàng</b></p>
-                                            <p class="p-price">5.990.000 VNĐ</p>
-                                        </div>
-                                        <button class="btn-buy js-select-product">Thêm vào cấu hình <i class="fa-solid fa-angle-right"></i></button>
-                                    </div>
-                                    <div class="p-item">
-                                        <a href="" class="item-img"><img src="../Product Image/sp1-5.jpg" alt=""></a>
-                                        <div class="item-text">
-                                            <a href="" class="item-name">CPU AMD Ryzen 5 9600X - TRAY (3.9 GHz Boost 5.4 GHz | 6 nhân/ 12 luồng | 32 MB Cache)</a>
-                                            <p class="item-info"><span>Mã SP:</span><b> SP022810</b></p>
-                                            <p class="item-info"><span>Bảo hành:</span><b> 36 Tháng</b></p>
-                                            <p class="item-info"><span>Kho hàng:</span><b style="color: green;"> Còn hàng</b></p>
-                                            <p class="p-price">5.990.000 VNĐ</p>
-                                        </div>
-                                        <button class="btn-buy js-select-product">Thêm vào cấu hình <i class="fa-solid fa-angle-right"></i></button>
-                                    </div>
-                                    <div class="p-item">
-                                        <a href="" class="item-img"><img src="../Product Image/sp1-6.jpg" alt=""></a>
-                                        <div class="item-text">
-                                            <a href="" class="item-name">CPU AMD Ryzen 5 9600X - TRAY (3.9 GHz Boost 5.4 GHz | 6 nhân/ 12 luồng | 32 MB Cache)</a>
-                                            <p class="item-info"><span>Mã SP:</span><b> SP022810</b></p>
-                                            <p class="item-info"><span>Bảo hành:</span><b> 36 Tháng</b></p>
-                                            <p class="item-info"><span>Kho hàng:</span><b style="color: green;"> Còn hàng</b></p>
-                                            <p class="p-price">5.990.000 VNĐ</p>
-                                        </div>
-                                        <button class="btn-buy js-select-product">Thêm vào cấu hình <i class="fa-solid fa-angle-right"></i></button>
-                                    </div>
-                                    <div class="p-item">
-                                        <a href="" class="item-img"><img src="../Product Image/sp1-7.jpg" alt=""></a>
-                                        <div class="item-text">
-                                            <a href="" class="item-name">CPU AMD Ryzen 5 9600X - TRAY (3.9 GHz Boost 5.4 GHz | 6 nhân/ 12 luồng | 32 MB Cache)</a>
-                                            <p class="item-info"><span>Mã SP:</span><b> SP022810</b></p>
-                                            <p class="item-info"><span>Bảo hành:</span><b> 36 Tháng</b></p>
-                                            <p class="item-info"><span>Kho hàng:</span><b style="color: green;"> Còn hàng</b></p>
-                                            <p class="p-price">5.990.000 VNĐ</p>
-                                        </div>
-                                        <button class="btn-buy js-select-product">Thêm vào cấu hình <i class="fa-solid fa-angle-right"></i></button>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                <div class="buildpc-popup"></div>
                 <div class="close-icon text-[25px]"><i class="fa-solid fa-xmark"></i></div>
             </div>
         </div>
