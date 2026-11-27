@@ -1,11 +1,11 @@
-.buildPC-page
+.buildpc-page
 .page-title{
     font-size: 25px;
     text-align: center;
     text-transform: uppercase;
     margin: 0 0 20px;
 }
-.buildPC-page
+.buildpc-page
 .buildpc-detail-group{
     margin: 10px 0 20px;
     display: flex;
@@ -13,7 +13,7 @@
     flex-wrap: wrap;
     justify-content: space-between
 }
-.buildPC-page
+.buildpc-page
 .buildpc-detail-group
 .btn-reset{
     border-radius: 4px;
@@ -65,6 +65,7 @@
     text-transform: capitalize;
     padding: 9px 10px;
     margin: 12px 16px;
+    display: block;
 }
 .buildpc-page 
 .contain-item-drive{
@@ -74,6 +75,7 @@
     padding: 12px 16px;
     background: #fff;
     scroll-margin-top: 112px;
+    border-bottom: 1px solid #e1e1e1;
 }
 .buildpc-page 
 .contain-item-drive .item-img{
