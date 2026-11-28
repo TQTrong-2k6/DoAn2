@@ -165,9 +165,9 @@ export default connect(state => state.products)(productBuildPC)
 
 
 export function addProductToConfig(product){
-    console.log(product)
+    const unitPrice = product.price + product.price * product.sale;
     return html`
-        <div class="contain-item-drive js-item-drive">
+        <div class="contain-item-drive js-item-drive" data-unit-price="${unitPrice}">
             <a href="" class="item-img">
                 <img src="${product.imageList[0]}" alt="" width="80">
             </a>
@@ -183,15 +183,15 @@ export function addProductToConfig(product){
                         <b class="js-item-price">${fmt(product.price + product.price*product.sale)} VNĐ</b>
                         <span class="p-[0_5px] text-center">x</span>
                         <span class="item-quantity-change relative inline-block m-[0_5px] text-center">
-                            <a class="fa-solid fa-minus rounded-[4px_0_0_4px] absolute bg-[#ddd] p-[9px_0] w-[25px] text-[12px] top-0"></a>
+                            <a class="js-qty-minus fa-solid fa-minus rounded-[4px_0_0_4px] absolute bg-[#ddd] p-[9px_0] w-[25px] text-[12px] top-0"></a>
                             <input type="number" value="1" class="item-quantity js-item-quantity">
-                            <a class="fa-solid fa-plus rounded-[0_4px_4px_0] absolute bg-[#ddd] p-[9px_0] w-[25px] text-[12px] top-0 right-0"></a>
+                            <a class="js-qty-plus fa-solid fa-plus rounded-[0_4px_4px_0] absolute bg-[#ddd] p-[9px_0] w-[25px] text-[12px] top-0 right-0"></a>
                         </span>
                         <span class="p-[0_5px] text-center">=</span>
                         <b class="item-price js-item-total-price inline-block text-right text-[#f71400] min-w-[97px]">${fmt(product.price + product.price*product.sale)} đ</b>
                     </div>
                     <div class="item-button-group">
-                        <button class="btn-action_seclect show-popup_select fa fa-edit js-edit-item text-[#1d7be5] text-[14px] ml-[9px]" category="CPU"></button>
+                        <button class="btn-action_seclect show-popup_select fa fa-edit js-edit-item text-[#1d7be5] text-[14px] ml-[9px]" category="${product.category}"></button>
                         <button class="btn-action_seclect show-popup_select fa fa-trash remove-item text-[#d91605] text-[14px] ml-[9px]"></button>
                     </div>
                 </div>

@@ -1,6 +1,7 @@
 import { attach } from '../store.js';
 import shoppingCart from "../component/mainShoppingCart.js"
 import storage from '../util/storage.js';
+import clampQuantity from "../util/clampQuantity.js"
 
 const fmt = n => Math.round(n).toLocaleString('vi-VN');
 
@@ -77,14 +78,6 @@ document.addEventListener('change', (e) => {
     input.value = clampQuantity(input.value, input);
     changeQuantity(input);
 });
-
-function clampQuantity(value, input) {
-    const min = Number(input.min) || 1;
-    const max = Number(input.max) || 999;
-    let n = parseInt(value, 10);
-    if (isNaN(n)) n = min;
-    return Math.min(Math.max(n, min), max);
-}
 
 function changeQuantity(input){
     const control = input.closest('.unit-detail-amount-control');
